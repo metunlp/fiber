@@ -11,9 +11,9 @@ It contains both *single-entity* and *multi-entity* question–answer sets deriv
 
 ### Step 1: Download Dependencies
 The following Python libraries are required for evaluation:
-- torch
-- transformers
-- huggingface-hub
+- `torch`
+- `transformers`
+- `huggingface-hub`
 
 To install them automatically, run the following command in your terminal: `make requirements`
 
