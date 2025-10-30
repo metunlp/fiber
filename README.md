@@ -11,31 +11,31 @@ It contains both *single-entity* and *multi-entity* question–answer sets deriv
 
 ### Step 1: Download Dependencies
 The following Python libraries are required for evaluation:
-- "torch"
-- "transformers"
-- "huggingface-hub"
+- torch
+- transformers
+- huggingface-hub
 
-To install them automatically, run the following command in your terminal: make requirements
+To install them automatically, run the following command in your terminal: `make requirements`
 
 ### Step 2: Fill the Config Information
 Provide the following before model tests in the config.json
 1. Hugging Face token (hugging_face_token)
 2. ID of the model you want to test (model_id)
-3. Input directory (dataset_dir) (leave it as "dataset" if you have not changed the file structure)
-4. Output directory (results_dir) ("results/MODEL_NAME" is suggested)
+3. Input directory (dataset_dir) (leave it as `dataset` if you have not changed the file structure)
+4. Output directory (results_dir) (`results/<MODEL_NAME>` is suggested)
 
 Example entries are provided below:
-1. hugging_face_token : "YOUR_HUGGING_FACE_TOKEN"
-2. model_id : "google/gemma-3-27b-it"
-3. dataset_dir : "dataset"
-4. output_dir : "results/gemma-3-27b"
+1. hugging_face_token : `YOUR_HUGGING_FACE_TOKEN`
+2. model_id : `google/gemma-3-27b-it`
+3. dataset_dir : `dataset`
+4. output_dir : `results/gemma-3-27b`
 
 In paths, don't leave any forward slashes at the end.
 
 ### Step 3: Run
 Before running the script, make sure that you have downloaded dependencies and filled out the config information.
 
-To start evaluation, run the following command in your terminal: make run
+To start evaluation, run the following command in your terminal: `make run`
 
 ## Dataset Structure
 
