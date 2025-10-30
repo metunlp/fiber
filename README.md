@@ -1,6 +1,6 @@
 # FIBER
 
-## Dataset
+## Overview
 **Dataset Name:** `FIBER - Factual Inference Bias Evaluation Resource`
 
 **FIBER** is a high-quality dataset designed to evaluate **language-model factual inference bias** across three languages — **English (en)**, **Italian (it)**, and **Turkish (tr)**.
@@ -30,12 +30,22 @@ Example entries are provided below:
 3. dataset_dir : `dataset`
 4. output_dir : `results/gemma-3-27b`
 
-In paths, don't leave any forward slashes at the end.
+In paths, don't leave any forward slashes at the end (e.g. `dataset/` or `results/gemma-3-27b/`).
 
 ### Step 3: Run
-Before running the script, make sure that you have downloaded dependencies and filled out the config information.
+Before running the script, make sure that you have downloaded dependencies and filled out the config information. To start evaluation, run the following command in your terminal: `make run`
 
-To start evaluation, run the following command in your terminal: `make run`
+## File Naming Convention
+
+Each file follows the structure:
+
+| Component | Example | Meaning |
+|------------|----------|---------|
+| `<topic>` | `countries_official_languages` | Knowledge domain |
+| `<language>` | `en`, `tr`, `it` | Dataset language |
+| `<index>` | `0`, `1`, `2`, `3`, or `0_0`, `0_1` | Split or subset index |
+
+Turkish (`_tr_`) topics include subsets (`_0_0`, `_0_1`) for grammar purposes.
 
 ## Dataset Structure
 
@@ -221,15 +231,3 @@ The dataset is divided into two major parts:
         ├── product_maker_tr_0_1.json
         └── product_maker_tr_1.json
 ```
-
-### File Naming Convention
-
-Each file follows the structure:
-
-| Component | Example | Meaning |
-|------------|----------|---------|
-| `<topic>` | `countries_official_languages` | Knowledge domain |
-| `<language>` | `en`, `tr`, `it` | Dataset language |
-| `<index>` | `0`, `1`, `2`, `3`, or `0_0`, `0_1` | Split or subset index |
-
-Turkish (`_tr_`) topics include subsets (`_0_0`, `_0_1`) for grammar purposes.
