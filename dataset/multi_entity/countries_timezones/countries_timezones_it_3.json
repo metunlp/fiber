@@ -1,0 +1,1282 @@
+[
+    {
+        "query": "Quanti fusi orari ha l'Albania?",
+        "answer": " 1",
+        "sub": "Albania",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Albania"
+    },
+    {
+        "query": "Quanti fusi orari ha Antartide?",
+        "answer": " 8",
+        "sub": "Antartide",
+        "count": "8",
+        "list": [
+            " UTC+02:00",
+            " UTC+03:00",
+            " UTC-03:00",
+            " UTC+05:00",
+            " UTC+07:00",
+            " UTC+08:00",
+            " UTC+10:00",
+            " UTC+12:00"
+        ],
+        "en_sub": "Antarctica"
+    },
+    {
+        "query": "Quanti fusi orari ha Antigua e Barbuda?",
+        "answer": " 1",
+        "sub": "Antigua e Barbuda",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Antigua & Barbuda"
+    },
+    {
+        "query": "Quanti fusi orari ha l'Argentina?",
+        "answer": " 1",
+        "sub": "Argentina",
+        "count": "1",
+        "list": [
+            " UTC-03:00"
+        ],
+        "en_sub": "Argentina"
+    },
+    {
+        "query": "Quanti fusi orari ha l'Australia?",
+        "answer": " 7",
+        "sub": "Australia",
+        "count": "7",
+        "list": [
+            " UTC+08:00",
+            " UTC+09:30",
+            " UTC+09:30",
+            " UTC+10:00",
+            " UTC+10:00",
+            " UTC+10:30",
+            " UTC+11:00"
+        ],
+        "en_sub": "Australia"
+    },
+    {
+        "query": "Quanti fusi orari ha Bahamas?",
+        "answer": " 1",
+        "sub": "Bahamas",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ],
+        "en_sub": "Bahamas"
+    },
+    {
+        "query": "Quanti fusi orari ha il Bangladesh?",
+        "answer": " 1",
+        "sub": "Bangladesh",
+        "count": "1",
+        "list": [
+            " UTC+06:00"
+        ],
+        "en_sub": "Bangladesh"
+    },
+    {
+        "query": "Quanti fusi orari ha il Barbados?",
+        "answer": " 1",
+        "sub": "Barbados",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Barbados"
+    },
+    {
+        "query": "Quanti fusi orari ha la Bielorussia?",
+        "answer": " 1",
+        "sub": "Bielorussia",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ],
+        "en_sub": "Belarus"
+    },
+    {
+        "query": "Quanti fusi orari ha il Belize?",
+        "answer": " 1",
+        "sub": "Belize",
+        "count": "1",
+        "list": [
+            " UTC-06:00"
+        ],
+        "en_sub": "Belize"
+    },
+    {
+        "query": "Quanti fusi orari hanno le Bermuda?",
+        "answer": " 1",
+        "sub": "Bermuda",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Bermuda"
+    },
+    {
+        "query": "Quanti fusi orari ha il Bhutan?",
+        "answer": " 1",
+        "sub": "Bhutan",
+        "count": "1",
+        "list": [
+            " UTC+06:00"
+        ],
+        "en_sub": "Bhutan"
+    },
+    {
+        "query": "Quanti fusi orari ha la Bolivia?",
+        "answer": " 1",
+        "sub": "Bolivia",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Bolivia"
+    },
+    {
+        "query": "Quanti fusi orari hanno Bosnia ed Erzegovina?",
+        "answer": " 1",
+        "sub": "Bosnia ed Erzegovina",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Bosnia & Herzegovina"
+    },
+    {
+        "query": "Quanti fusi orari ha il Botswana?",
+        "answer": " 1",
+        "sub": "Botswana",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Botswana"
+    },
+    {
+        "query": "Quanti fusi orari ha il Brasile?",
+        "answer": " 6",
+        "sub": "Brasile",
+        "count": "6",
+        "list": [
+            " UTC-02:00",
+            " UTC-03:00",
+            " UTC:-03:00",
+            " UTC-04:00",
+            " UTC-04:00",
+            " UTC-05:00"
+        ],
+        "en_sub": "Brazil"
+    },
+    {
+        "query": "Quanti fusi orari ha Brunei?",
+        "answer": " 1",
+        "sub": "Brunei",
+        "count": "1",
+        "list": [
+            " UTC+08:00"
+        ],
+        "en_sub": "Brunei"
+    },
+    {
+        "query": "Quanti fusi orari ha la Cambogia?",
+        "answer": " 1",
+        "sub": "Cambogia",
+        "count": "1",
+        "list": [
+            " UTC+07:00"
+        ],
+        "en_sub": "Cambodia"
+    },
+    {
+        "query": "Quanti fusi orari ha il Camerun?",
+        "answer": " 1",
+        "sub": "Camerun",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Cameroon"
+    },
+    {
+        "query": "Quanti fusi orari hanno i Caraibi?",
+        "answer": " 1",
+        "sub": "Caraibi NL",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Caribbean NL"
+    },
+    {
+        "query": "Quanti fusi orari hanno le Isole Cayman?",
+        "answer": " 1",
+        "sub": "Isole Cayman",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ],
+        "en_sub": "Cayman Islands"
+    },
+    {
+        "query": "Quanti fusi orari ha la Repubblica Centrafricana?",
+        "answer": " 1",
+        "sub": "Repubblica Centrafricana",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Central African Rep."
+    },
+    {
+        "query": "Quanti fusi orari ha il Cile?",
+        "answer": " 3",
+        "sub": "Cile",
+        "count": "3",
+        "list": [
+            " UTC-03:00",
+            " UTC-04:00",
+            " UTC-06:00"
+        ],
+        "en_sub": "Chile"
+    },
+    {
+        "query": "Quanti fusi orari ha il Congo (Rep. Dem.)?",
+        "answer": " 2",
+        "sub": "Congo (Rep. Dem.)",
+        "count": "2",
+        "list": [
+            " UTC+01:00",
+            " UTC+02:00"
+        ],
+        "en_sub": "Congo (Dem. Rep.)"
+    },
+    {
+        "query": "Quanti fusi orari ha il Congo (Rep.)?",
+        "answer": " 1",
+        "sub": "Congo (Rep.)",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Congo (Rep.)"
+    },
+    {
+        "query": "Quanti fusi orari hanno le Isole Cook?",
+        "answer": " 1",
+        "sub": "Isole Cook",
+        "count": "1",
+        "list": [
+            " UTC-10:00"
+        ],
+        "en_sub": "Cook Islands"
+    },
+    {
+        "query": "Quanti fusi orari ha la Croazia?",
+        "answer": " 1",
+        "sub": "Croazia",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Croatia"
+    },
+    {
+        "query": "Quanti fusi orari ha Cuba?",
+        "answer": " 1",
+        "sub": "Cuba",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ],
+        "en_sub": "Cuba"
+    },
+    {
+        "query": "Quanti fusi orari ha il Curaçao?",
+        "answer": " 1",
+        "sub": "Curaçao",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Curaçao"
+    },
+    {
+        "query": "Quanti fusi orari ha Cipro?",
+        "answer": " 1",
+        "sub": "Cipro",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Cyprus"
+    },
+    {
+        "query": "Quanti fusi orari ha la Repubblica Ceca?",
+        "answer": " 1",
+        "sub": "Repubblica Ceca",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Czech Republic"
+    },
+    {
+        "query": "Quanti fusi orari ha la Costa d'Avorio?",
+        "answer": " 1",
+        "sub": "Costa d'Avorio",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ],
+        "en_sub": "Côte d'Ivoire"
+    },
+    {
+        "query": "Quanti fusi orari ha la Danimarca?",
+        "answer": " 1",
+        "sub": "Danimarca",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Denmark"
+    },
+    {
+        "query": "Quanti fusi orari ha la Repubblica Dominicana?",
+        "answer": " 1",
+        "sub": "Repubblica Dominicana",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Dominican Republic"
+    },
+    {
+        "query": "Quanti fusi orari ha Timor Est?",
+        "answer": " 1",
+        "sub": "Timor Est",
+        "count": "1",
+        "list": [
+            " UTC+09:00"
+        ],
+        "en_sub": "East Timor"
+    },
+    {
+        "query": "Quanti fusi orari ha Guinea Equatoriale?",
+        "answer": " 1",
+        "sub": "Guinea Equatoriale",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Equatorial Guinea"
+    },
+    {
+        "query": "Quanti fusi orari ha l'Eritrea?",
+        "answer": " 1",
+        "sub": "Eritrea",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ],
+        "en_sub": "Eritrea"
+    },
+    {
+        "query": "Quanti fusi orari ha l'Estonia?",
+        "answer": " 1",
+        "sub": "Estonia",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Estonia"
+    },
+    {
+        "query": "Quanti fusi orari ha Eswatini (Swaziland)?",
+        "answer": " 1",
+        "sub": "Eswatini (Swaziland)",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Eswatini (Swaziland)"
+    },
+    {
+        "query": "Quanti fusi orari ha l'Etiopia?",
+        "answer": " 1",
+        "sub": "Etiopia",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ],
+        "en_sub": "Ethiopia"
+    },
+    {
+        "query": "Quanti fusi orari hanno le Figi?",
+        "answer": " 1",
+        "sub": "Figi",
+        "count": "1",
+        "list": [
+            " UTC+12:00"
+        ],
+        "en_sub": "Fiji"
+    },
+    {
+        "query": "Quanti fusi orari ha la Finlandia?",
+        "answer": " 1",
+        "sub": "Finlandia",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Finland"
+    },
+    {
+        "query": "Quanti fusi orari ha il Gabon?",
+        "answer": " 1",
+        "sub": "Gabon",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Gabon"
+    },
+    {
+        "query": "Quanti fusi orari ha la Germania?",
+        "answer": " 1",
+        "sub": "Germania",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Germany"
+    },
+    {
+        "query": "Quanti fusi orari ha la Grecia?",
+        "answer": " 1",
+        "sub": "Grecia",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Greece"
+    },
+    {
+        "query": "Quanti fusi orari ha la Groenlandia?",
+        "answer": " 4",
+        "sub": "Groenlandia",
+        "count": "4",
+        "list": [
+            " UTC+00:00",
+            " UTC-01:00",
+            " UTC-04:00",
+            " UTC-03:00"
+        ],
+        "en_sub": "Greenland"
+    },
+    {
+        "query": "Quanti fusi orari ha la Grenada?",
+        "answer": " 1",
+        "sub": "Grenada",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Grenada"
+    },
+    {
+        "query": "Quanti fusi orari ha il Guam?",
+        "answer": " 1",
+        "sub": "Guam",
+        "count": "1",
+        "list": [
+            " UTC+10:00"
+        ],
+        "en_sub": "Guam"
+    },
+    {
+        "query": "Quanti fusi orari ha la Guatemala?",
+        "answer": " 1",
+        "sub": "Guatemala",
+        "count": "1",
+        "list": [
+            " UTC-06:00"
+        ],
+        "en_sub": "Guatemala"
+    },
+    {
+        "query": "Quanti fusi orari ha Guernsey?",
+        "answer": " 1",
+        "sub": "Guernsey",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ],
+        "en_sub": "Guernsey"
+    },
+    {
+        "query": "Quanti fusi orari ha la Guinea?",
+        "answer": " 1",
+        "sub": "Guinea",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ],
+        "en_sub": "Guinea"
+    },
+    {
+        "query": "Quanti fusi orari ha il Guinea-Bissau?",
+        "answer": " 1",
+        "sub": "Guinea-Bissau",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ],
+        "en_sub": "Guinea-Bissau"
+    },
+    {
+        "query": "Quanti fusi orari ha Haiti?",
+        "answer": " 1",
+        "sub": "Haiti",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Haiti"
+    },
+    {
+        "query": "Quanti fusi orari hanno le Isole Heard e McDonald?",
+        "answer": " 1",
+        "sub": "Isole Heard e McDonald",
+        "count": "1",
+        "list": [
+            " UTC+04:00"
+        ],
+        "en_sub": "Heard Island & McDonald Islands"
+    },
+    {
+        "query": "Quanti fusi orari ha l'Islanda?",
+        "answer": " 1",
+        "sub": "Islanda",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ],
+        "en_sub": "Iceland"
+    },
+    {
+        "query": "Quanti fusi orari ha l' India?",
+        "answer": " 1",
+        "sub": "India",
+        "count": "1",
+        "list": [
+            " UTC+05:30"
+        ],
+        "en_sub": "India"
+    },
+    {
+        "query": "Quanti fusi orari ha l'Isola di Man?",
+        "answer": " 1",
+        "sub": "Isola di Man",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ],
+        "en_sub": "Isle of Man"
+    },
+    {
+        "query": "Quanti fusi orari ha Israele?",
+        "answer": " 1",
+        "sub": "Israele",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Israel"
+    },
+    {
+        "query": "Quanti fusi orari ha l'Italia?",
+        "answer": " 1",
+        "sub": "Italia",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Italy"
+    },
+    {
+        "query": "Quanti fusi orari ha la Giamaica?",
+        "answer": " 1",
+        "sub": "Giamaica",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ],
+        "en_sub": "Jamaica"
+    },
+    {
+        "query": "Quanti fusi orari ha la Kenya?",
+        "answer": " 1",
+        "sub": "Kenya",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ],
+        "en_sub": "Kenya"
+    },
+    {
+        "query": "Quanti fusi orari ha la Corea del Nord?",
+        "answer": " 1",
+        "sub": "Corea del Nord",
+        "count": "1",
+        "list": [
+            " UTC+09:00"
+        ],
+        "en_sub": "Korea (North)"
+    },
+    {
+        "query": "Quanti fusi orari ha la Corea del Sud?",
+        "answer": " 1",
+        "sub": "Corea del Sud",
+        "count": "1",
+        "list": [
+            " UTC+09:00"
+        ],
+        "en_sub": "Korea (South)"
+    },
+    {
+        "query": "Quanti fusi orari ha il Kuwait?",
+        "answer": " 1",
+        "sub": "Kuwait",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ],
+        "en_sub": "Kuwait"
+    },
+    {
+        "query": "Quanti fusi orari ha la Lituania?",
+        "answer": " 1",
+        "sub": "Lituania",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Lithuania"
+    },
+    {
+        "query": "Quanti fusi orari ha il Macao?",
+        "answer": " 1",
+        "sub": "Macao",
+        "count": "1",
+        "list": [
+            " UTC+08:00"
+        ],
+        "en_sub": "Macau"
+    },
+    {
+        "query": "Quanti fusi orari ha il Malawi?",
+        "answer": " 1",
+        "sub": "Malawi",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Malawi"
+    },
+    {
+        "query": "Quanti fusi orari hanno le Isole Marshall?",
+        "answer": " 1",
+        "sub": "Isole Marshall",
+        "count": "1",
+        "list": [
+            " UTC+12:00"
+        ],
+        "en_sub": "Marshall Islands"
+    },
+    {
+        "query": "Quanti fusi orari ha la Martinica?",
+        "answer": " 1",
+        "sub": "Martinica",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Martinique"
+    },
+    {
+        "query": "Quanti fusi orari ha la Mauritania?",
+        "answer": " 1",
+        "sub": "Mauritania",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ],
+        "en_sub": "Mauritania"
+    },
+    {
+        "query": "Quanti fusi orari ha il Mauritius?",
+        "answer": " 1",
+        "sub": "Mauritius",
+        "count": "1",
+        "list": [
+            " UTC+04:00"
+        ],
+        "en_sub": "Mauritius"
+    },
+    {
+        "query": "Quanti fusi orari ha il Messico?",
+        "answer": " 5",
+        "sub": "Messico",
+        "count": "5",
+        "list": [
+            " UTC-05:00",
+            " UTC-05:00",
+            " UTC-07:00",
+            " UTC-07:00",
+            " UTC-08:00"
+        ],
+        "en_sub": "Mexico"
+    },
+    {
+        "query": "Quanti fusi orari ha la Micronesia?",
+        "answer": " 2",
+        "sub": "Micronesia",
+        "count": "2",
+        "list": [
+            " UTC+10:00",
+            " UTC+11:00"
+        ],
+        "en_sub": "Micronesia"
+    },
+    {
+        "query": "Quanti fusi orari ha la Moldova?",
+        "answer": " 1",
+        "sub": "Moldova",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Moldova"
+    },
+    {
+        "query": "Quanti fusi orari ha Montserrat?",
+        "answer": " 1",
+        "sub": "Montserrat",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Montserrat"
+    },
+    {
+        "query": "Quanti fusi orari ha il Marocco?",
+        "answer": " 1",
+        "sub": "Marocco",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Morocco"
+    },
+    {
+        "query": "Quanti fusi orari ha Myanmar (Birmania)?",
+        "answer": " 1",
+        "sub": "Myanmar (Birmania)",
+        "count": "1",
+        "list": [
+            " UTC+06:30"
+        ],
+        "en_sub": "Myanmar (Burma)"
+    },
+    {
+        "query": "Quanti fusi orari ha la Namibia?",
+        "answer": " 1",
+        "sub": "Namibia",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Namibia"
+    },
+    {
+        "query": "Quanti fusi orari hanno i Paesi Bassi?",
+        "answer": " 1",
+        "sub": "Paesi Bassi",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Netherlands"
+    },
+    {
+        "query": "Quanti fusi orari ha la Nuova Caledonia?",
+        "answer": " 1",
+        "sub": "Nuova Caledonia",
+        "count": "1",
+        "list": [
+            " UTC+11:00"
+        ],
+        "en_sub": "New Caledonia"
+    },
+    {
+        "query": "Quanti fusi orari ha il Niger?",
+        "answer": " 1",
+        "sub": "Niger",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Niger"
+    },
+    {
+        "query": "Quanti fusi orari ha Niue?",
+        "answer": " 1",
+        "sub": "Niue",
+        "count": "1",
+        "list": [
+            " UTC-11:00"
+        ],
+        "en_sub": "Niue"
+    },
+    {
+        "query": "Quanti fusi orari ha la Macedonia del Nord?",
+        "answer": " 1",
+        "sub": "Macedonia del Nord",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "North Macedonia"
+    },
+    {
+        "query": "Quanti fusi orari hanno le Isole Marianne Settentrionali?",
+        "answer": " 1",
+        "sub": "Isole Marianne Settentrionali",
+        "count": "1",
+        "list": [
+            " UTC+10:00"
+        ],
+        "en_sub": "Northern Mariana Islands"
+    },
+    {
+        "query": "Quanti fusi orari ha la Norvegia?",
+        "answer": " 1",
+        "sub": "Norvegia",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Norway"
+    },
+    {
+        "query": "Quanti fusi orari ha il Pakistan?",
+        "answer": " 1",
+        "sub": "Pakistan",
+        "count": "1",
+        "list": [
+            " UTC+05:00"
+        ],
+        "en_sub": "Pakistan"
+    },
+    {
+        "query": "Quanti fusi orari ha Palau?",
+        "answer": " 1",
+        "sub": "Palau",
+        "count": "1",
+        "list": [
+            " UTC+09:00"
+        ],
+        "en_sub": "Palau"
+    },
+    {
+        "query": "Quanti fusi orari ha Panama?",
+        "answer": " 1",
+        "sub": "Panama",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ],
+        "en_sub": "Panama"
+    },
+    {
+        "query": "Quanti fusi orari ha il Paraguay?",
+        "answer": " 1",
+        "sub": "Paraguay",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Paraguay"
+    },
+    {
+        "query": "Quanti fusi orari ha il Perù?",
+        "answer": " 1",
+        "sub": "Perù",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ],
+        "en_sub": "Peru"
+    },
+    {
+        "query": "Quanti fusi orari hanno le Filippine?",
+        "answer": " 1",
+        "sub": "Filippine",
+        "count": "1",
+        "list": [
+            " UTC+08:00"
+        ],
+        "en_sub": "Philippines"
+    },
+    {
+        "query": "Quanti fusi orari ha il Qatar?",
+        "answer": " 1",
+        "sub": "Qatar",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ],
+        "en_sub": "Qatar"
+    },
+    {
+        "query": "Quanti fusi orari ha la Romania?",
+        "answer": " 1",
+        "sub": "Romania",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Romania"
+    },
+    {
+        "query": "Quanti fusi orari ha Samoa Americane?",
+        "answer": " 1",
+        "sub": "Samoa Americane",
+        "count": "1",
+        "list": [
+            " UTC-11:00"
+        ],
+        "en_sub": "Samoa (American)"
+    },
+    {
+        "query": "Quanti fusi orari ha São Tomé e Príncipe?",
+        "answer": " 1",
+        "sub": "São Tomé e Príncipe",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ],
+        "en_sub": "Sao Tome & Principe"
+    },
+    {
+        "query": "Quanti fusi orari ha l'Arabia Saudita?",
+        "answer": " 1",
+        "sub": "Arabia Saudita",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ],
+        "en_sub": "Saudi Arabia"
+    },
+    {
+        "query": "Quanti fusi orari ha il Senegal?",
+        "answer": " 1",
+        "sub": "Senegal",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ],
+        "en_sub": "Senegal"
+    },
+    {
+        "query": "Quanti fusi orari ha la Serbia?",
+        "answer": " 1",
+        "sub": "Serbia",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Serbia"
+    },
+    {
+        "query": "Quanti fusi orari hanno le Seychelles?",
+        "answer": " 1",
+        "sub": "Seychelles",
+        "count": "1",
+        "list": [
+            " UTC+04:00"
+        ],
+        "en_sub": "Seychelles"
+    },
+    {
+        "query": "Quanti fusi orari ha la Slovenia?",
+        "answer": " 1",
+        "sub": "Slovenia",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Slovenia"
+    },
+    {
+        "query": "Quanti fusi orari hanno le Isole Salomone?",
+        "answer": " 1",
+        "sub": "Isole Salomone",
+        "count": "1",
+        "list": [
+            " UTC+11:00"
+        ],
+        "en_sub": "Solomon Islands"
+    },
+    {
+        "query": "Quanti fusi orari ha il Sud Sudan?",
+        "answer": " 1",
+        "sub": "Sud Sudan",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "South Sudan"
+    },
+    {
+        "query": "Quanti fusi orari ha Saint Barthélemy?",
+        "answer": " 1",
+        "sub": "Saint Barthélemy",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "St Barthelemy"
+    },
+    {
+        "query": "Quanti fusi orari ha Sint Maarten (parte olandese)?",
+        "answer": " 1",
+        "sub": "Sint Maarten (parte olandese)",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "St Maarten (Dutch)"
+    },
+    {
+        "query": "Quanti fusi orari ha Saint-Martin (Francia)?",
+        "answer": " 1",
+        "sub": "Saint-Martin (Francia)",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "St Martin (French)"
+    },
+    {
+        "query": "Quanti fusi orari ha il Suriname?",
+        "answer": " 1",
+        "sub": "Suriname",
+        "count": "1",
+        "list": [
+            " UTC-03:00"
+        ],
+        "en_sub": "Suriname"
+    },
+    {
+        "query": "Quanti fusi orari ha la Svezia?",
+        "answer": " 1",
+        "sub": "Svezia",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Sweden"
+    },
+    {
+        "query": "Quanti fusi orari ha la Svizzera?",
+        "answer": " 1",
+        "sub": "Svizzera",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Switzerland"
+    },
+    {
+        "query": "Quanti fusi orari ha il Tagikistan?",
+        "answer": " 1",
+        "sub": "Tagikistan",
+        "count": "1",
+        "list": [
+            " UTC+05:00"
+        ],
+        "en_sub": "Tajikistan"
+    },
+    {
+        "query": "Quanti fusi orari ha la Thailandia?",
+        "answer": " 1",
+        "sub": "Thailandia",
+        "count": "1",
+        "list": [
+            " UTC+07:00"
+        ],
+        "en_sub": "Thailand"
+    },
+    {
+        "query": "Quanti fusi orari ha Trinidad e Tobago?",
+        "answer": " 1",
+        "sub": "Trinidad e Tobago",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Trinidad & Tobago"
+    },
+    {
+        "query": "Quanti fusi orari ha la Turchia?",
+        "answer": " 1",
+        "sub": "Turchia",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ],
+        "en_sub": "Turkey"
+    },
+    {
+        "query": "Quanti fusi orari ha il Turkmenistan?",
+        "answer": " 1",
+        "sub": "Turkmenistan",
+        "count": "1",
+        "list": [
+            " UTC+05:00"
+        ],
+        "en_sub": "Turkmenistan"
+    },
+    {
+        "query": "Quanti fusi orari hanno le Isole Turks e Caicos?",
+        "answer": " 1",
+        "sub": "Isole Turks e Caicos",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Turks & Caicos Is"
+    },
+    {
+        "query": "Quanti fusi orari ha Tuvalu?",
+        "answer": " 1",
+        "sub": "Tuvalu",
+        "count": "1",
+        "list": [
+            " UTC+12:00"
+        ],
+        "en_sub": "Tuvalu"
+    },
+    {
+        "query": "Quanti fusi orari hanno le Isole minori periferiche degli Stati Uniti?",
+        "answer": " 2",
+        "sub": "Isole minori periferiche degli Stati Uniti",
+        "count": "2",
+        "list": [
+            " UTC-11:00",
+            " UTC+12:00"
+        ],
+        "en_sub": "US minor outlying islands"
+    },
+    {
+        "query": "Quanti fusi orari ha l'Uganda?",
+        "answer": " 1",
+        "sub": "Uganda",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ],
+        "en_sub": "Uganda"
+    },
+    {
+        "query": "Quanti fusi orari ha l'Ucraina?",
+        "answer": " 1",
+        "sub": "Ucraina",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Ukraine"
+    },
+    {
+        "query": "Quanti fusi orari ha l'Uruguay?",
+        "answer": " 1",
+        "sub": "Uruguay",
+        "count": "1",
+        "list": [
+            " UTC-03:00"
+        ],
+        "en_sub": "Uruguay"
+    },
+    {
+        "query": "Quanti fusi orari ha il Vanuatu?",
+        "answer": " 1",
+        "sub": "Vanuatu",
+        "count": "1",
+        "list": [
+            " UTC+11:00"
+        ],
+        "en_sub": "Vanuatu"
+    },
+    {
+        "query": "Quanti fusi orari ha la Venezuela?",
+        "answer": " 1",
+        "sub": "Venezuela",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Venezuela"
+    },
+    {
+        "query": "Quanti fusi orari hanno le Isole Vergini Britanniche?",
+        "answer": " 1",
+        "sub": "Isole Vergini Britanniche",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Virgin Islands (UK)"
+    },
+    {
+        "query": "Quanti fusi orari hanno Wallis e Futuna?",
+        "answer": " 1",
+        "sub": "Wallis e Futuna",
+        "count": "1",
+        "list": [
+            " UTC+12:00"
+        ],
+        "en_sub": "Wallis & Futuna"
+    },
+    {
+        "query": "Quanti fusi orari ha lo Yemen?",
+        "answer": " 1",
+        "sub": "Yemen",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ],
+        "en_sub": "Yemen"
+    },
+    {
+        "query": "Quanti fusi orari ha lo Zambia?",
+        "answer": " 1",
+        "sub": "Zambia",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Zambia"
+    }
+]

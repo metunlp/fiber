@@ -1,0 +1,954 @@
+[
+    {
+        "query": "The number of official languages of Albania is",
+        "answer": " 1",
+        "sub": "Albania",
+        "count": "1",
+        "list": [
+            " Albanian"
+        ]
+    },
+    {
+        "query": "The number of official languages of Argentina is",
+        "answer": " 1",
+        "sub": "Argentina",
+        "count": "1",
+        "list": [
+            " Spanish"
+        ]
+    },
+    {
+        "query": "The number of official languages of Armenia is",
+        "answer": " 1",
+        "sub": "Armenia",
+        "count": "1",
+        "list": [
+            " Armenian"
+        ]
+    },
+    {
+        "query": "The number of official languages of Australia is",
+        "answer": " 1",
+        "sub": "Australia",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of Austria is",
+        "answer": " 1",
+        "sub": "Austria",
+        "count": "1",
+        "list": [
+            " German"
+        ]
+    },
+    {
+        "query": "The number of official languages of Bahamas is",
+        "answer": " 1",
+        "sub": "Bahamas",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of Belize is",
+        "answer": " 1",
+        "sub": "Belize",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of Bolivia is",
+        "answer": " 37",
+        "sub": "Bolivia",
+        "count": "37",
+        "list": [
+            " Spanish",
+            " Aymara",
+            " Araona",
+            " Baure",
+            " Bésiro",
+            " Canichana",
+            " Cavineño",
+            " Cayubaba",
+            " Chácobo",
+            " Chimán",
+            " Ese Ejja",
+            " Guaraní",
+            "\nGuarasu'we",
+            " Guarayu",
+            " Itonama",
+            " Leco",
+            " Machajuyai-kallawaya",
+            " Machineri",
+            "\nMaropa",
+            " Mojeñotrinitario",
+            " Mojeño-ignaciano",
+            " Moré",
+            " Mosetén",
+            " Movima",
+            "\nPacawara",
+            " Puquina",
+            " Quechua",
+            " Sirionó",
+            " Tacana",
+            " Tapiete",
+            " Toromona",
+            " Uruchipaya",
+            "\nWeenhayek",
+            " Yaminawa",
+            " Yuki",
+            " Yuracaré",
+            " Zamuco"
+        ]
+    },
+    {
+        "query": "The number of official languages of Bosnia and Herzegovina is",
+        "answer": " 3",
+        "sub": "Bosnia and Herzegovina",
+        "count": "3",
+        "list": [
+            " Bosnian",
+            " Croatian",
+            " Serbian"
+        ]
+    },
+    {
+        "query": "The number of official languages of Botswana is",
+        "answer": " 1",
+        "sub": "Botswana",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of Brazil is",
+        "answer": " 1",
+        "sub": "Brazil",
+        "count": "1",
+        "list": [
+            " Portuguese"
+        ]
+    },
+    {
+        "query": "The number of official languages of Brunei is",
+        "answer": " 1",
+        "sub": "Brunei",
+        "count": "1",
+        "list": [
+            " Malay"
+        ]
+    },
+    {
+        "query": "The number of official languages of Bulgaria is",
+        "answer": " 1",
+        "sub": "Bulgaria",
+        "count": "1",
+        "list": [
+            " Bulgarian"
+        ]
+    },
+    {
+        "query": "The number of official languages of Burkina Faso is",
+        "answer": " 4",
+        "sub": "Burkina Faso",
+        "count": "4",
+        "list": [
+            " Mooré",
+            " Bissa",
+            " Dyula",
+            " Fula"
+        ]
+    },
+    {
+        "query": "The number of official languages of Cabo Verde is",
+        "answer": " 1",
+        "sub": "Cabo Verde",
+        "count": "1",
+        "list": [
+            " Portuguese"
+        ]
+    },
+    {
+        "query": "The number of official languages of Cambodia is",
+        "answer": " 1",
+        "sub": "Cambodia",
+        "count": "1",
+        "list": [
+            " Khmer"
+        ]
+    },
+    {
+        "query": "The number of official languages of Canada is",
+        "answer": " 2",
+        "sub": "Canada",
+        "count": "2",
+        "list": [
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The number of official languages of Chile is",
+        "answer": " 1",
+        "sub": "Chile",
+        "count": "1",
+        "list": [
+            " Spanish"
+        ]
+    },
+    {
+        "query": "The number of official languages of China is",
+        "answer": " 1",
+        "sub": "China",
+        "count": "1",
+        "list": [
+            " Mandarin Chinese"
+        ]
+    },
+    {
+        "query": "The number of official languages of Ivory Coast is",
+        "answer": " 1",
+        "sub": "Ivory Coast",
+        "count": "1",
+        "list": [
+            " French"
+        ]
+    },
+    {
+        "query": "The number of official languages of Costa Rica is",
+        "answer": " 1",
+        "sub": "Costa Rica",
+        "count": "1",
+        "list": [
+            " Spanish"
+        ]
+    },
+    {
+        "query": "The number of official languages of Croatia is",
+        "answer": " 1",
+        "sub": "Croatia",
+        "count": "1",
+        "list": [
+            " Croatian"
+        ]
+    },
+    {
+        "query": "The number of official languages of North Korea is",
+        "answer": " 1",
+        "sub": "North Korea",
+        "count": "1",
+        "list": [
+            " Korean"
+        ]
+    },
+    {
+        "query": "The number of official languages of Democratic Republic of the Congo is",
+        "answer": " 1",
+        "sub": "Democratic Republic of the Congo",
+        "count": "1",
+        "list": [
+            " French"
+        ]
+    },
+    {
+        "query": "The number of official languages of Denmark is",
+        "answer": " 1",
+        "sub": "Denmark",
+        "count": "1",
+        "list": [
+            " Danish"
+        ]
+    },
+    {
+        "query": "The number of official languages of Djibouti is",
+        "answer": " 2",
+        "sub": "Djibouti",
+        "count": "2",
+        "list": [
+            " French",
+            " Arabic"
+        ]
+    },
+    {
+        "query": "The number of official languages of Dominica is",
+        "answer": " 1",
+        "sub": "Dominica",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of Dominican Republic is",
+        "answer": " 1",
+        "sub": "Dominican Republic",
+        "count": "1",
+        "list": [
+            " Spanish"
+        ]
+    },
+    {
+        "query": "The number of official languages of Eritrea is",
+        "answer": " 3",
+        "sub": "Eritrea",
+        "count": "3",
+        "list": [
+            " Tigrinya",
+            " Arabic",
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of Estonia is",
+        "answer": " 1",
+        "sub": "Estonia",
+        "count": "1",
+        "list": [
+            " Estonian"
+        ]
+    },
+    {
+        "query": "The number of official languages of Eswatini is",
+        "answer": " 2",
+        "sub": "Eswatini",
+        "count": "2",
+        "list": [
+            " Swazi",
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of Ethiopia is",
+        "answer": " 1",
+        "sub": "Ethiopia",
+        "count": "1",
+        "list": [
+            " Amharic"
+        ]
+    },
+    {
+        "query": "The number of official languages of Fiji is",
+        "answer": " 3",
+        "sub": "Fiji",
+        "count": "3",
+        "list": [
+            " English",
+            " Fijian",
+            " Fiji Hindi"
+        ]
+    },
+    {
+        "query": "The number of official languages of Gabon is",
+        "answer": " 1",
+        "sub": "Gabon",
+        "count": "1",
+        "list": [
+            " French"
+        ]
+    },
+    {
+        "query": "The number of official languages of Greece is",
+        "answer": " 1",
+        "sub": "Greece",
+        "count": "1",
+        "list": [
+            " Greek"
+        ]
+    },
+    {
+        "query": "The number of official languages of Grenada is",
+        "answer": " 1",
+        "sub": "Grenada",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of Guinea is",
+        "answer": " 1",
+        "sub": "Guinea",
+        "count": "1",
+        "list": [
+            " French"
+        ]
+    },
+    {
+        "query": "The number of official languages of Guinea Bissau is",
+        "answer": " 1",
+        "sub": "Guinea Bissau",
+        "count": "1",
+        "list": [
+            " Portuguese"
+        ]
+    },
+    {
+        "query": "The number of official languages of Honduras is",
+        "answer": " 1",
+        "sub": "Honduras",
+        "count": "1",
+        "list": [
+            " Spanish"
+        ]
+    },
+    {
+        "query": "The number of official languages of Hungary is",
+        "answer": " 1",
+        "sub": "Hungary",
+        "count": "1",
+        "list": [
+            " Hungarian"
+        ]
+    },
+    {
+        "query": "The number of official languages of India is",
+        "answer": " 2",
+        "sub": "India",
+        "count": "2",
+        "list": [
+            " Hindi",
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of Ireland is",
+        "answer": " 2",
+        "sub": "Ireland",
+        "count": "2",
+        "list": [
+            " Irish",
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of Israel is",
+        "answer": " 2",
+        "sub": "Israel",
+        "count": "2",
+        "list": [
+            " Hebrew",
+            " Arabic"
+        ]
+    },
+    {
+        "query": "The number of official languages of Italy is",
+        "answer": " 1",
+        "sub": "Italy",
+        "count": "1",
+        "list": [
+            " Italian"
+        ]
+    },
+    {
+        "query": "The number of official languages of Jordan is",
+        "answer": " 1",
+        "sub": "Jordan",
+        "count": "1",
+        "list": [
+            " Arabic"
+        ]
+    },
+    {
+        "query": "The number of official languages of Kazakhstan is",
+        "answer": " 2",
+        "sub": "Kazakhstan",
+        "count": "2",
+        "list": [
+            " Kazakh",
+            " Russian"
+        ]
+    },
+    {
+        "query": "The number of official languages of Kenya is",
+        "answer": " 2",
+        "sub": "Kenya",
+        "count": "2",
+        "list": [
+            " Swahili",
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of Kiribati is",
+        "answer": " 2",
+        "sub": "Kiribati",
+        "count": "2",
+        "list": [
+            " English",
+            " Gilbertese"
+        ]
+    },
+    {
+        "query": "The number of official languages of Kuwait is",
+        "answer": " 1",
+        "sub": "Kuwait",
+        "count": "1",
+        "list": [
+            " Arabic"
+        ]
+    },
+    {
+        "query": "The number of official languages of Laos is",
+        "answer": " 1",
+        "sub": "Laos",
+        "count": "1",
+        "list": [
+            " Lao"
+        ]
+    },
+    {
+        "query": "The number of official languages of Latvia is",
+        "answer": " 1",
+        "sub": "Latvia",
+        "count": "1",
+        "list": [
+            " Latvian"
+        ]
+    },
+    {
+        "query": "The number of official languages of Lebanon is",
+        "answer": " 1",
+        "sub": "Lebanon",
+        "count": "1",
+        "list": [
+            " Arabic"
+        ]
+    },
+    {
+        "query": "The number of official languages of Libya is",
+        "answer": " 1",
+        "sub": "Libya",
+        "count": "1",
+        "list": [
+            " Arabic"
+        ]
+    },
+    {
+        "query": "The number of official languages of Liechtenstein is",
+        "answer": " 1",
+        "sub": "Liechtenstein",
+        "count": "1",
+        "list": [
+            " German"
+        ]
+    },
+    {
+        "query": "The number of official languages of Marshall Islands is",
+        "answer": " 2",
+        "sub": "Marshall Islands",
+        "count": "2",
+        "list": [
+            " Marshallese",
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of Mauritania is",
+        "answer": " 1",
+        "sub": "Mauritania",
+        "count": "1",
+        "list": [
+            " Arabic"
+        ]
+    },
+    {
+        "query": "The number of official languages of Mauritius is",
+        "answer": " 2",
+        "sub": "Mauritius",
+        "count": "2",
+        "list": [
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The number of official languages of Mongolia is",
+        "answer": " 1",
+        "sub": "Mongolia",
+        "count": "1",
+        "list": [
+            " Mongolian"
+        ]
+    },
+    {
+        "query": "The number of official languages of Morocco is",
+        "answer": " 2",
+        "sub": "Morocco",
+        "count": "2",
+        "list": [
+            " Arabic",
+            " Tamazight"
+        ]
+    },
+    {
+        "query": "The number of official languages of Myanmar is",
+        "answer": " 1",
+        "sub": "Myanmar",
+        "count": "1",
+        "list": [
+            " Burmese"
+        ]
+    },
+    {
+        "query": "The number of official languages of Namibia is",
+        "answer": " 1",
+        "sub": "Namibia",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of Nauru is",
+        "answer": " 2",
+        "sub": "Nauru",
+        "count": "2",
+        "list": [
+            " Nauruan",
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of Niger is",
+        "answer": " 1",
+        "sub": "Niger",
+        "count": "1",
+        "list": [
+            " French"
+        ]
+    },
+    {
+        "query": "The number of official languages of Norway is",
+        "answer": " 1",
+        "sub": "Norway",
+        "count": "1",
+        "list": [
+            " Norwegian"
+        ]
+    },
+    {
+        "query": "The number of official languages of Oman is",
+        "answer": " 1",
+        "sub": "Oman",
+        "count": "1",
+        "list": [
+            " Arabic"
+        ]
+    },
+    {
+        "query": "The number of official languages of Pakistan is",
+        "answer": " 2",
+        "sub": "Pakistan",
+        "count": "2",
+        "list": [
+            " Urdu",
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of Palau is",
+        "answer": " 2",
+        "sub": "Palau",
+        "count": "2",
+        "list": [
+            " Palauan",
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of Papua New Guinea is",
+        "answer": " 4",
+        "sub": "Papua New Guinea",
+        "count": "4",
+        "list": [
+            " English",
+            " Tok Pisin",
+            " Hiri Motu",
+            " PNG Sign Language"
+        ]
+    },
+    {
+        "query": "The number of official languages of Paraguay is",
+        "answer": " 2",
+        "sub": "Paraguay",
+        "count": "2",
+        "list": [
+            " Spanish",
+            " Guarani"
+        ]
+    },
+    {
+        "query": "The number of official languages of Qatar is",
+        "answer": " 1",
+        "sub": "Qatar",
+        "count": "1",
+        "list": [
+            " Arabic"
+        ]
+    },
+    {
+        "query": "The number of official languages of Moldova is",
+        "answer": " 1",
+        "sub": "Moldova",
+        "count": "1",
+        "list": [
+            " Romanian"
+        ]
+    },
+    {
+        "query": "The number of official languages of Romania is",
+        "answer": " 1",
+        "sub": "Romania",
+        "count": "1",
+        "list": [
+            " Romanian"
+        ]
+    },
+    {
+        "query": "The number of official languages of Rwanda is",
+        "answer": " 4",
+        "sub": "Rwanda",
+        "count": "4",
+        "list": [
+            " Kinyarwanda",
+            " French",
+            " English",
+            " Swahili"
+        ]
+    },
+    {
+        "query": "The number of official languages of Saint Kitts and Nevis is",
+        "answer": " 1",
+        "sub": "Saint Kitts and Nevis",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of Saint Vincent and the Grenadines is",
+        "answer": " 1",
+        "sub": "Saint Vincent and the Grenadines",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of San Marino is",
+        "answer": " 1",
+        "sub": "San Marino",
+        "count": "1",
+        "list": [
+            " Italian"
+        ]
+    },
+    {
+        "query": "The number of official languages of Senegal is",
+        "answer": " 1",
+        "sub": "Senegal",
+        "count": "1",
+        "list": [
+            " French"
+        ]
+    },
+    {
+        "query": "The number of official languages of Serbia is",
+        "answer": " 1",
+        "sub": "Serbia",
+        "count": "1",
+        "list": [
+            " Serbian"
+        ]
+    },
+    {
+        "query": "The number of official languages of Seychelles is",
+        "answer": " 3",
+        "sub": "Seychelles",
+        "count": "3",
+        "list": [
+            " Seychellois Creole",
+            " French",
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of Singapore is",
+        "answer": " 4",
+        "sub": "Singapore",
+        "count": "4",
+        "list": [
+            " English",
+            " Malay",
+            " Mandarin",
+            " Tamil"
+        ]
+    },
+    {
+        "query": "The number of official languages of Slovenia is",
+        "answer": " 1",
+        "sub": "Slovenia",
+        "count": "1",
+        "list": [
+            " Slovene"
+        ]
+    },
+    {
+        "query": "The number of official languages of Solomon Islands is",
+        "answer": " 1",
+        "sub": "Solomon Islands",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of Spain is",
+        "answer": " 1",
+        "sub": "Spain",
+        "count": "1",
+        "list": [
+            " Spanish"
+        ]
+    },
+    {
+        "query": "The number of official languages of Sri Lanka is",
+        "answer": " 2",
+        "sub": "Sri Lanka",
+        "count": "2",
+        "list": [
+            " Sinhala",
+            " Tamil"
+        ]
+    },
+    {
+        "query": "The number of official languages of Sudan is",
+        "answer": " 2",
+        "sub": "Sudan",
+        "count": "2",
+        "list": [
+            " Arabic",
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of Switzerland is",
+        "answer": " 4",
+        "sub": "Switzerland",
+        "count": "4",
+        "list": [
+            " German",
+            " French",
+            " Italian",
+            " Romansh"
+        ]
+    },
+    {
+        "query": "The number of official languages of Trinidad and Tobago is",
+        "answer": " 1",
+        "sub": "Trinidad and Tobago",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of Tunisia is",
+        "answer": " 1",
+        "sub": "Tunisia",
+        "count": "1",
+        "list": [
+            " Arabic"
+        ]
+    },
+    {
+        "query": "The number of official languages of Turkey is",
+        "answer": " 1",
+        "sub": "Turkey",
+        "count": "1",
+        "list": [
+            " Turkish"
+        ]
+    },
+    {
+        "query": "The number of official languages of Turkmenistan is",
+        "answer": " 1",
+        "sub": "Turkmenistan",
+        "count": "1",
+        "list": [
+            " Turkmen"
+        ]
+    },
+    {
+        "query": "The number of official languages of Tuvalu is",
+        "answer": " 2",
+        "sub": "Tuvalu",
+        "count": "2",
+        "list": [
+            " Tuvaluan",
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of Ukraine is",
+        "answer": " 1",
+        "sub": "Ukraine",
+        "count": "1",
+        "list": [
+            " Ukrainian"
+        ]
+    },
+    {
+        "query": "The number of official languages of Tanzania is",
+        "answer": " 2",
+        "sub": "Tanzania",
+        "count": "2",
+        "list": [
+            " Swahili",
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of United States is",
+        "answer": " 1",
+        "sub": "United States",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    },
+    {
+        "query": "The number of official languages of Uruguay is",
+        "answer": " 1",
+        "sub": "Uruguay",
+        "count": "1",
+        "list": [
+            " Spanish"
+        ]
+    },
+    {
+        "query": "The number of official languages of Yemen is",
+        "answer": " 1",
+        "sub": "Yemen",
+        "count": "1",
+        "list": [
+            " Arabic"
+        ]
+    },
+    {
+        "query": "The number of official languages of Zambia is",
+        "answer": " 1",
+        "sub": "Zambia",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    }
+]

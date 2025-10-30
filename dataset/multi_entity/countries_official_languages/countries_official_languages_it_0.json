@@ -1,0 +1,1051 @@
+[
+    {
+        "query": "La/Le lingua/e ufficiale/i dell'Albania è/sono",
+        "answer": " Albanese",
+        "sub": "Albania",
+        "count": "1",
+        "list": [
+            " Albanese"
+        ],
+        "en_sub": "Albania"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i dell'Argentina è/sono",
+        "answer": " Spagnolo",
+        "sub": "Argentina",
+        "count": "1",
+        "list": [
+            " Spagnolo"
+        ],
+        "en_sub": "Argentina"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i dell'Armenia è/sono",
+        "answer": " Armeno",
+        "sub": "Armenia",
+        "count": "1",
+        "list": [
+            " Armeno"
+        ],
+        "en_sub": "Armenia"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i dell'Australia è/sono",
+        "answer": " Inglese",
+        "sub": "Australia",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Australia"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i dell'Austria è/sono",
+        "answer": " Tedesco",
+        "sub": "Austria",
+        "count": "1",
+        "list": [
+            " Tedesco"
+        ],
+        "en_sub": "Austria"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Bahamas è/sono",
+        "answer": " Inglese",
+        "sub": "Bahamas",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Bahamas"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Belize è/sono",
+        "answer": " Inglese",
+        "sub": "Belize",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Belize"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Bolivia è/sono",
+        "answer": " Spagnolo, Aymara, Araona, Baure, Bésiro, Canichana, Cavineño, Cayubaba, Chácobo, Chimán, Ese Ejja, Guaraní, Guarasu'we, Guarayu, Itonama, Leco, Machajuyai-kallawaya, Machineri, Maropa, Mojeñotrinitario, Mojeño-ignaciano, Moré, Mosetén, Movima, Pacawara, Puquina, Quechua, Sirionó, Tacana, Tapiete, Toromona, Uruchipaya, Weenhayek, Yaminawa, Yuki, Yuracaré, Zamuco",
+        "sub": "Bolivia",
+        "count": "37",
+        "list": [
+            " Spagnolo",
+            " Aymara",
+            " Araona",
+            " Baure",
+            " Bésiro",
+            " Canichana",
+            " Cavineño",
+            " Cayubaba",
+            " Chácobo",
+            " Chimán",
+            " Ese Ejja",
+            " Guaraní",
+            " Guarasu'we",
+            " Guarayu",
+            " Itonama",
+            " Leco",
+            " Machajuyai-kallawaya",
+            " Machineri",
+            " Maropa",
+            " Mojeñotrinitario",
+            " Mojeño-ignaciano",
+            " Moré",
+            " Mosetén",
+            " Movima",
+            " Pacawara",
+            " Puquina",
+            " Quechua",
+            " Sirionó",
+            " Tacana",
+            " Tapiete",
+            " Toromona",
+            " Uruchipaya",
+            " Weenhayek",
+            " Yaminawa",
+            " Yuki",
+            " Yuracaré",
+            " Zamuco"
+        ],
+        "en_sub": "Bolivia"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Bosnia ed Erzegovina è/sono",
+        "answer": " Bosniaco, Croato, Serbo",
+        "sub": "Bosnia ed Erzegovina",
+        "count": "3",
+        "list": [
+            " Bosniaco",
+            " Croato",
+            " Serbo"
+        ],
+        "en_sub": "Bosnia and Herzegovina"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Botswana è/sono",
+        "answer": " Inglese",
+        "sub": "Botswana",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Botswana"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Brasile è/sono",
+        "answer": " Portoghese",
+        "sub": "Brasile",
+        "count": "1",
+        "list": [
+            " Portoghese"
+        ],
+        "en_sub": "Brazil"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Brunei è/sono",
+        "answer": " Malese",
+        "sub": "Brunei",
+        "count": "1",
+        "list": [
+            " Malese"
+        ],
+        "en_sub": "Brunei"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Bulgaria è/sono",
+        "answer": " Bulgaro",
+        "sub": "Bulgaria",
+        "count": "1",
+        "list": [
+            " Bulgaro"
+        ],
+        "en_sub": "Bulgaria"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Burkina Faso è/sono",
+        "answer": " Mooré, Bissa, Dyula, Fula",
+        "sub": "Burkina Faso",
+        "count": "4",
+        "list": [
+            " Mooré",
+            " Bissa",
+            " Dyula",
+            " Fula"
+        ],
+        "en_sub": "Burkina Faso"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Capo Verde è/sono",
+        "answer": " Portoghese",
+        "sub": "Capo Verde",
+        "count": "1",
+        "list": [
+            " Portoghese"
+        ],
+        "en_sub": "Cabo Verde"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Cambogia è/sono",
+        "answer": " Khmer",
+        "sub": "Cambogia",
+        "count": "1",
+        "list": [
+            " Khmer"
+        ],
+        "en_sub": "Cambodia"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Canada è/sono",
+        "answer": " Inglese, Francese",
+        "sub": "Canada",
+        "count": "2",
+        "list": [
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Canada"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Cile è/sono",
+        "answer": " Spagnolo",
+        "sub": "Cile",
+        "count": "1",
+        "list": [
+            " Spagnolo"
+        ],
+        "en_sub": "Chile"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Cina è/sono",
+        "answer": " Cinese Mandarino",
+        "sub": "Cina",
+        "count": "1",
+        "list": [
+            " Cinese Mandarino"
+        ],
+        "en_sub": "China"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Costa d'Avorio è/sono",
+        "answer": " Francese",
+        "sub": "Costa d'Avorio",
+        "count": "1",
+        "list": [
+            " Francese"
+        ],
+        "en_sub": "Ivory Coast"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Costa Rica è/sono",
+        "answer": " Spagnolo",
+        "sub": "Costa Rica",
+        "count": "1",
+        "list": [
+            " Spagnolo"
+        ],
+        "en_sub": "Costa Rica"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Croazia è/sono",
+        "answer": " Croato",
+        "sub": "Croazia",
+        "count": "1",
+        "list": [
+            " Croato"
+        ],
+        "en_sub": "Croatia"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Corea del Nord è/sono",
+        "answer": " Coreano",
+        "sub": "Corea del Nord",
+        "count": "1",
+        "list": [
+            " Coreano"
+        ],
+        "en_sub": "North Korea"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Repubblica Democratica del Congo è/sono",
+        "answer": " Francese",
+        "sub": "Repubblica Democratica del Congo",
+        "count": "1",
+        "list": [
+            " Francese"
+        ],
+        "en_sub": "Democratic Republic of the Congo"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Danimarca è/sono",
+        "answer": " Danese",
+        "sub": "Danimarca",
+        "count": "1",
+        "list": [
+            " Danese"
+        ],
+        "en_sub": "Denmark"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Gibuti è/sono",
+        "answer": " Francese, Arabo",
+        "sub": "Gibuti",
+        "count": "2",
+        "list": [
+            " Francese",
+            " Arabo"
+        ],
+        "en_sub": "Djibouti"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Dominica è/sono",
+        "answer": " Inglese",
+        "sub": "Dominica",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Dominica"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Repubblica Dominicana è/sono",
+        "answer": " Spagnolo",
+        "sub": "Repubblica Dominicana",
+        "count": "1",
+        "list": [
+            " Spagnolo"
+        ],
+        "en_sub": "Dominican Republic"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i dell'Eritrea è/sono",
+        "answer": " Tigrinya, Arabo, Inglese",
+        "sub": "Eritrea",
+        "count": "3",
+        "list": [
+            " Tigrinya",
+            " Arabo",
+            " Inglese"
+        ],
+        "en_sub": "Eritrea"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i dell'Estonia è/sono",
+        "answer": " Estone",
+        "sub": "Estonia",
+        "count": "1",
+        "list": [
+            " Estone"
+        ],
+        "en_sub": "Estonia"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i dell'Eswatini è/sono",
+        "answer": " Swazi, Inglese",
+        "sub": "Eswatini",
+        "count": "2",
+        "list": [
+            " Swazi",
+            " Inglese"
+        ],
+        "en_sub": "Eswatini"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i dell'Etiopia è/sono",
+        "answer": " Amarico",
+        "sub": "Etiopia",
+        "count": "1",
+        "list": [
+            " Amarico"
+        ],
+        "en_sub": "Ethiopia"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Figi è/sono",
+        "answer": " Inglese, Figiano, Hindi figiano",
+        "sub": "Figi",
+        "count": "3",
+        "list": [
+            " Inglese",
+            " Figiano",
+            " Hindi figiano"
+        ],
+        "en_sub": "Fiji"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Gabon è/sono",
+        "answer": " Francese",
+        "sub": "Gabon",
+        "count": "1",
+        "list": [
+            " Francese"
+        ],
+        "en_sub": "Gabon"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Grecia è/sono",
+        "answer": " Greco",
+        "sub": "Grecia",
+        "count": "1",
+        "list": [
+            " Greco"
+        ],
+        "en_sub": "Greece"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Grenada è/sono",
+        "answer": " Inglese",
+        "sub": "Grenada",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Grenada"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Guinea è/sono",
+        "answer": " Francese",
+        "sub": "Guinea",
+        "count": "1",
+        "list": [
+            " Francese"
+        ],
+        "en_sub": "Guinea"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Guinea-Bissau è/sono",
+        "answer": " Portoghese",
+        "sub": "Guinea-Bissau",
+        "count": "1",
+        "list": [
+            " Portoghese"
+        ],
+        "en_sub": "Guinea Bissau"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Honduras è/sono",
+        "answer": " Spagnolo",
+        "sub": "Honduras",
+        "count": "1",
+        "list": [
+            " Spagnolo"
+        ],
+        "en_sub": "Honduras"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i dell'Ungheria è/sono",
+        "answer": " Ungherese",
+        "sub": "Ungheria",
+        "count": "1",
+        "list": [
+            " Ungherese"
+        ],
+        "en_sub": "Hungary"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i dell'India è/sono",
+        "answer": " Hindi, Inglese",
+        "sub": "India",
+        "count": "2",
+        "list": [
+            " Hindi",
+            " Inglese"
+        ],
+        "en_sub": "India"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i dell'Irlanda è/sono",
+        "answer": " Irlandese, Inglese",
+        "sub": "Irlanda",
+        "count": "2",
+        "list": [
+            " Irlandese",
+            " Inglese"
+        ],
+        "en_sub": "Ireland"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i di Israele è/sono",
+        "answer": " Ebraico, Arabo",
+        "sub": "Israele",
+        "count": "2",
+        "list": [
+            " Ebraico",
+            " Arabo"
+        ],
+        "en_sub": "Israel"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i dell'Italia è/sono",
+        "answer": " Italiano",
+        "sub": "Italia",
+        "count": "1",
+        "list": [
+            " Italiano"
+        ],
+        "en_sub": "Italy"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Giordania è/sono",
+        "answer": " Arabo",
+        "sub": "Giordania",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Jordan"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Kazakistan è/sono",
+        "answer": " Kazako, Russo",
+        "sub": "Kazakistan",
+        "count": "2",
+        "list": [
+            " Kazako",
+            " Russo"
+        ],
+        "en_sub": "Kazakhstan"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Kenya è/sono",
+        "answer": " Swahili, Inglese",
+        "sub": "Kenya",
+        "count": "2",
+        "list": [
+            " Swahili",
+            " Inglese"
+        ],
+        "en_sub": "Kenya"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Kiribati è/sono",
+        "answer": " Inglese, Gilbertese",
+        "sub": "Kiribati",
+        "count": "2",
+        "list": [
+            " Inglese",
+            " Gilbertese"
+        ],
+        "en_sub": "Kiribati"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Kuwait è/sono",
+        "answer": " Arabo",
+        "sub": "Kuwait",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Kuwait"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Laos è/sono",
+        "answer": " Laos",
+        "sub": "Laos",
+        "count": "1",
+        "list": [
+            " Laos"
+        ],
+        "en_sub": "Laos"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Lettonia è/sono",
+        "answer": " Lettone",
+        "sub": "Lettonia",
+        "count": "1",
+        "list": [
+            " Lettone"
+        ],
+        "en_sub": "Latvia"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Libano è/sono",
+        "answer": " Arabo",
+        "sub": "Libano",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Lebanon"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Libia è/sono",
+        "answer": " Arabo",
+        "sub": "Libia",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Libya"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Liechtenstein è/sono",
+        "answer": " Tedesco",
+        "sub": "Liechtenstein",
+        "count": "1",
+        "list": [
+            " Tedesco"
+        ],
+        "en_sub": "Liechtenstein"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i delle Isole Marshall è/sono",
+        "answer": " Marshallese, Inglese",
+        "sub": "Isole Marshall",
+        "count": "2",
+        "list": [
+            " Marshallese",
+            " Inglese"
+        ],
+        "en_sub": "Marshall Islands"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Mauritania è/sono",
+        "answer": " Arabo",
+        "sub": "Mauritania",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Mauritania"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Mauritius è/sono",
+        "answer": " Inglese, Francese",
+        "sub": "Mauritius",
+        "count": "2",
+        "list": [
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Mauritius"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Mongolia è/sono",
+        "answer": " Mongolo",
+        "sub": "Mongolia",
+        "count": "1",
+        "list": [
+            " Mongolo"
+        ],
+        "en_sub": "Mongolia"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Marocco è/sono",
+        "answer": " Arabo, Tamazight",
+        "sub": "Marocco",
+        "count": "2",
+        "list": [
+            " Arabo",
+            " Tamazight"
+        ],
+        "en_sub": "Morocco"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Myanmar è/sono",
+        "answer": " Birmano",
+        "sub": "Myanmar",
+        "count": "1",
+        "list": [
+            " Birmano"
+        ],
+        "en_sub": "Myanmar"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Namibia è/sono",
+        "answer": " Inglese",
+        "sub": "Namibia",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Namibia"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Nauru è/sono",
+        "answer": " Nauruano, Inglese",
+        "sub": "Nauru",
+        "count": "2",
+        "list": [
+            " Nauruano",
+            " Inglese"
+        ],
+        "en_sub": "Nauru"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Niger è/sono",
+        "answer": " Francese",
+        "sub": "Niger",
+        "count": "1",
+        "list": [
+            " Francese"
+        ],
+        "en_sub": "Niger"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Norvegia è/sono",
+        "answer": " Norvegese",
+        "sub": "Norvegia",
+        "count": "1",
+        "list": [
+            " Norvegese"
+        ],
+        "en_sub": "Norway"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i dell'Oman è/sono",
+        "answer": " Arabo",
+        "sub": "Oman",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Oman"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Pakistan è/sono",
+        "answer": " Urdu, Inglese",
+        "sub": "Pakistan",
+        "count": "2",
+        "list": [
+            " Urdu",
+            " Inglese"
+        ],
+        "en_sub": "Pakistan"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Palau è/sono",
+        "answer": " Palauano, Inglese",
+        "sub": "Palau",
+        "count": "2",
+        "list": [
+            " Palauano",
+            " Inglese"
+        ],
+        "en_sub": "Palau"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Papua Nuova Guinea è/sono",
+        "answer": " Inglese, Tok Pisin, Hiri Motu, Lingua dei segni di PNG",
+        "sub": "Papua Nuova Guinea",
+        "count": "4",
+        "list": [
+            " Inglese",
+            " Tok Pisin",
+            " Hiri Motu",
+            " Lingua dei segni di PNG"
+        ],
+        "en_sub": "Papua New Guinea"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Paraguay è/sono",
+        "answer": " Spagnolo, Guarani",
+        "sub": "Paraguay",
+        "count": "2",
+        "list": [
+            " Spagnolo",
+            " Guarani"
+        ],
+        "en_sub": "Paraguay"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Qatar è/sono",
+        "answer": " Arabo",
+        "sub": "Qatar",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Qatar"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Moldova è/sono",
+        "answer": " Rumeno",
+        "sub": "Moldova",
+        "count": "1",
+        "list": [
+            " Rumeno"
+        ],
+        "en_sub": "Moldova"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Romania è/sono",
+        "answer": " Rumeno",
+        "sub": "Romania",
+        "count": "1",
+        "list": [
+            " Rumeno"
+        ],
+        "en_sub": "Romania"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Ruanda è/sono",
+        "answer": " Kinyarwanda, Francese, Inglese, Swahili",
+        "sub": "Ruanda",
+        "count": "4",
+        "list": [
+            " Kinyarwanda",
+            " Francese",
+            " Inglese",
+            " Swahili"
+        ],
+        "en_sub": "Rwanda"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Saint Kitts e Nevis è/sono",
+        "answer": " Inglese",
+        "sub": "Saint Kitts e Nevis",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Saint Kitts and Nevis"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Saint Vincent e Grenadine è/sono",
+        "answer": " Inglese",
+        "sub": "Saint Vincent e Grenadine",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Saint Vincent and the Grenadines"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del San Marino è/sono",
+        "answer": " Italiano",
+        "sub": "San Marino",
+        "count": "1",
+        "list": [
+            " Italiano"
+        ],
+        "en_sub": "San Marino"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Senegal è/sono",
+        "answer": " Francese",
+        "sub": "Senegal",
+        "count": "1",
+        "list": [
+            " Francese"
+        ],
+        "en_sub": "Senegal"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Serbia è/sono",
+        "answer": " Serbo",
+        "sub": "Serbia",
+        "count": "1",
+        "list": [
+            " Serbo"
+        ],
+        "en_sub": "Serbia"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Seychelles è/sono",
+        "answer": " Creolo delle Seychelles, Francese, Inglese",
+        "sub": "Seychelles",
+        "count": "3",
+        "list": [
+            " Creolo delle Seychelles",
+            " Francese",
+            " Inglese"
+        ],
+        "en_sub": "Seychelles"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Singapore è/sono",
+        "answer": " Inglese, Malese, Mandarino, il tamil",
+        "sub": "Singapore",
+        "count": "4",
+        "list": [
+            " Inglese",
+            " Malese",
+            " Mandarino",
+            " il tamil"
+        ],
+        "en_sub": "Singapore"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i dello Slovenia è/sono",
+        "answer": " Sloveno",
+        "sub": "Slovenia",
+        "count": "1",
+        "list": [
+            " Sloveno"
+        ],
+        "en_sub": "Slovenia"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i delle Isole Salomone è/sono",
+        "answer": " Inglese",
+        "sub": "Isole Salomone",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Solomon Islands"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i dello Spagna è/sono",
+        "answer": " Spagnolo",
+        "sub": "Spagna",
+        "count": "1",
+        "list": [
+            " Spagnolo"
+        ],
+        "en_sub": "Spain"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i dello Sri Lanka è/sono",
+        "answer": " Singalese, il tamil",
+        "sub": "Sri Lanka",
+        "count": "2",
+        "list": [
+            " Singalese",
+            " il tamil"
+        ],
+        "en_sub": "Sri Lanka"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Sudan è/sono",
+        "answer": " Arabo, Inglese",
+        "sub": "Sudan",
+        "count": "2",
+        "list": [
+            " Arabo",
+            " Inglese"
+        ],
+        "en_sub": "Sudan"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i dello Svizzera è/sono",
+        "answer": " Tedesco, Francese, Italiano, Romancio",
+        "sub": "Svizzera",
+        "count": "4",
+        "list": [
+            " Tedesco",
+            " Francese",
+            " Italiano",
+            " Romancio"
+        ],
+        "en_sub": "Switzerland"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Trinidad e Tobago è/sono",
+        "answer": " Inglese",
+        "sub": "Trinidad e Tobago",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Trinidad and Tobago"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Tunisia è/sono",
+        "answer": " Arabo",
+        "sub": "Tunisia",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Tunisia"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Turchia è/sono",
+        "answer": " Turco",
+        "sub": "Turchia",
+        "count": "1",
+        "list": [
+            " Turco"
+        ],
+        "en_sub": "Turkey"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Turkmenistan è/sono",
+        "answer": " Turkmeno",
+        "sub": "Turkmenistan",
+        "count": "1",
+        "list": [
+            " Turkmeno"
+        ],
+        "en_sub": "Turkmenistan"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i del Tuvalu è/sono",
+        "answer": " Tuvaluano, Inglese",
+        "sub": "Tuvalu",
+        "count": "2",
+        "list": [
+            " Tuvaluano",
+            " Inglese"
+        ],
+        "en_sub": "Tuvalu"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i dell'Ucraina è/sono",
+        "answer": " Ucraino",
+        "sub": "Ucraina",
+        "count": "1",
+        "list": [
+            " Ucraino"
+        ],
+        "en_sub": "Ukraine"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i della Tanzania è/sono",
+        "answer": " Swahili, Inglese",
+        "sub": "Tanzania",
+        "count": "2",
+        "list": [
+            " Swahili",
+            " Inglese"
+        ],
+        "en_sub": "Tanzania"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i degli Stati Uniti è/sono",
+        "answer": " Inglese",
+        "sub": "Stati Uniti",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "United States"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i dell'Uruguay è/sono",
+        "answer": " Spagnolo",
+        "sub": "Uruguay",
+        "count": "1",
+        "list": [
+            " Spagnolo"
+        ],
+        "en_sub": "Uruguay"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i dello Yemen è/sono",
+        "answer": " Arabo",
+        "sub": "Yemen",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Yemen"
+    },
+    {
+        "query": "La/Le lingua/e ufficiale/i dello Zambia è/sono",
+        "answer": " Inglese",
+        "sub": "Zambia",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Zambia"
+    }
+]

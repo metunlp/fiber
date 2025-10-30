@@ -1,0 +1,6 @@
+{
+    "hugging_face_token": "",
+    "model_id": "",
+    "data_dir": "../dataset",
+    "result_dir": ""
+}

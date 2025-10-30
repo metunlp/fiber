@@ -1,0 +1,374 @@
+﻿[
+  {
+    "query": "Il dominio di primo livello nazionale del Åland (Finlandia) è",
+    "answer": " .ax",
+    "sub": "Åland (Finlandia)",
+    "en_sub": "Åland (Finland)"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale dell'Anguilla (Regno Unito) è",
+    "answer": " .ai",
+    "sub": "Anguilla (Regno Unito)",
+    "en_sub": "Anguilla (United Kingdom)"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale dell'Antartide è",
+    "answer": " .aq",
+    "sub": "Antartide",
+    "en_sub": "Antarctica"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale dell'Armenia è",
+    "answer": " .am",
+    "sub": "Armenia",
+    "en_sub": "Armenia"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale dell'Australia è",
+    "answer": " .au",
+    "sub": "Australia",
+    "en_sub": "Australia"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale dell'Azerbaigian è",
+    "answer": " .az",
+    "sub": "Azerbaigian",
+    "en_sub": "Azerbaijan"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Bahamas è",
+    "answer": " .bs",
+    "sub": "Bahamas",
+    "en_sub": "Bahamas"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Belize è",
+    "answer": " .bz",
+    "sub": "Belize",
+    "en_sub": "Belize"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Benin è",
+    "answer": " .bj",
+    "sub": "Benin",
+    "en_sub": "Benin"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Bermuda (Regno Unito) è",
+    "answer": " .bm",
+    "sub": "Bermuda (Regno Unito)",
+    "en_sub": "Bermuda (United Kingdom)"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Bhutan è",
+    "answer": " .bt",
+    "sub": "Bhutan",
+    "en_sub": "Bhutan"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale della Bosnia ed Erzegovina è",
+    "answer": " .ba",
+    "sub": "Bosnia ed Erzegovina",
+    "en_sub": "Bosnia and Herzegovina"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Territorio Britannico dell'Oceano Indiano (Regno Unito) è",
+    "answer": " .io",
+    "sub": "Territorio Britannico dell'Oceano Indiano (Regno Unito)",
+    "en_sub": "British Indian Ocean Territory (United Kingdom)"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Burkina Faso è",
+    "answer": " .bf",
+    "sub": "Burkina Faso",
+    "en_sub": "Burkina Faso"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Capo Verde è",
+    "answer": " .cv",
+    "sub": "Capo Verde",
+    "en_sub": "Cape Verde"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale della Repubblica Centrafricana è",
+    "answer": " .cf",
+    "sub": "Repubblica Centrafricana",
+    "en_sub": "Central African Republic"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Comore è",
+    "answer": " .km",
+    "sub": "Comore",
+    "en_sub": "Comoros"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale delle Isole Cook è",
+    "answer": " .ck",
+    "sub": "Isole Cook",
+    "en_sub": "Cook Islands"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale della Cuba è",
+    "answer": " .cu",
+    "sub": "Cuba",
+    "en_sub": "Cuba"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Curaçao (Regno dei Paesi Bassi) è",
+    "answer": " .cw",
+    "sub": "Curaçao (Regno dei Paesi Bassi)",
+    "en_sub": "Curaçao (Kingdom of the Netherlands)"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Cipro è",
+    "answer": " .cy",
+    "sub": "Cipro",
+    "en_sub": "Cyprus"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale della Repubblica Ceca è",
+    "answer": " .cz",
+    "sub": "Repubblica Ceca",
+    "en_sub": "Czech Republic"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Repubblica Democratica del Congo è",
+    "answer": " .cd",
+    "sub": "Repubblica Democratica del Congo",
+    "en_sub": "Democratic Republic of the Congo"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale della Danimarca è",
+    "answer": " .dk",
+    "sub": "Danimarca",
+    "en_sub": "Denmark"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Gibuti è",
+    "answer": " .dj",
+    "sub": "Gibuti",
+    "en_sub": "Djibouti"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Timor Est è",
+    "answer": " .tl",
+    "sub": "Timor Est",
+    "en_sub": "East Timor"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale dell'Ecuador è",
+    "answer": " .ec",
+    "sub": "Ecuador",
+    "en_sub": "Ecuador"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale dell'Eritrea è",
+    "answer": " .er",
+    "sub": "Eritrea",
+    "en_sub": "Eritrea"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale dell'Estonia è",
+    "answer": " .ee",
+    "sub": "Estonia",
+    "en_sub": "Estonia"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale dell'Eswatini è",
+    "answer": " .sz",
+    "sub": "Eswatini",
+    "en_sub": "Eswatini"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale dell'Etiopia è",
+    "answer": " .et",
+    "sub": "Etiopia",
+    "en_sub": "Ethiopia"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale dell'Unione Europea è",
+    "answer": " .eu",
+    "sub": "Unione Europea",
+    "en_sub": "European Union"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale degli Stati Federati di Micronesia è",
+    "answer": " .fm",
+    "sub": "Stati Federati di Micronesia",
+    "en_sub": "Federated States of Micronesia"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Figi è",
+    "answer": " .fj",
+    "sub": "Figi",
+    "en_sub": "Fiji"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Terre australi e antartiche francesi è",
+    "answer": " .tf",
+    "sub": "Terre australi e antartiche francesi",
+    "en_sub": "French Southern and Antarctic Lands"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale della Germania è",
+    "answer": " .de",
+    "sub": "Germania",
+    "en_sub": "Germany"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale della Grecia è",
+    "answer": " .gr",
+    "sub": "Grecia",
+    "en_sub": "Greece"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Groenlandia (Regno di Danimarca) è",
+    "answer": " .gl",
+    "sub": "Groenlandia (Regno di Danimarca)",
+    "en_sub": "Greenland (Kingdom of Denmark)"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale della Grenada è",
+    "answer": " .gd",
+    "sub": "Grenada",
+    "en_sub": "Grenada"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Guam (Stati Uniti) è",
+    "answer": " .gu",
+    "sub": "Guam (Stati Uniti)",
+    "en_sub": "Guam (United States)"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Guernsey è",
+    "answer": " .gg",
+    "sub": "Guernsey",
+    "en_sub": "Guernsey"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale della Guinea è",
+    "answer": " .gn",
+    "sub": "Guinea",
+    "en_sub": "Guinea"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Guinea-Bissau è",
+    "answer": " .gw",
+    "sub": "Guinea-Bissau",
+    "en_sub": "Guinea-Bissau"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale della Guyana è",
+    "answer": " .gy",
+    "sub": "Guyana",
+    "en_sub": "Guyana"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Haiti è",
+    "answer": " .ht",
+    "sub": "Haiti",
+    "en_sub": "Haiti"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale delle Isole Heard e McDonald è",
+    "answer": " .hm",
+    "sub": "Isole Heard e McDonald",
+    "en_sub": "Heard Island and McDonald Islands"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale dell'India è",
+    "answer": " .in",
+    "sub": "India",
+    "en_sub": "India"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale dell'Isola di Man è",
+    "answer": " .im",
+    "sub": "Isola di Man",
+    "en_sub": "Isle of Man"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale di Israele è",
+    "answer": " .il",
+    "sub": "Israele",
+    "en_sub": "Israel"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale dell'Italia è",
+    "answer": " .it",
+    "sub": "Italia",
+    "en_sub": "Italy"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Kazakistan è",
+    "answer": " .kz",
+    "sub": "Kazakistan",
+    "en_sub": "Kazakhstan"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Kiribati è",
+    "answer": " .ki",
+    "sub": "Kiribati",
+    "en_sub": "Kiribati"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Kuwait è",
+    "answer": " .kw",
+    "sub": "Kuwait",
+    "en_sub": "Kuwait"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Lussemburgo è",
+    "answer": " .lu",
+    "sub": "Lussemburgo",
+    "en_sub": "Luxembourg"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale delle Isole Marianne Settentrionali (Stati Uniti) è",
+    "answer": " .mp",
+    "sub": "Isole Marianne Settentrionali (Stati Uniti)",
+    "en_sub": "Northern Mariana Islands (United States)"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale della Russia è",
+    "answer": " .ru",
+    "sub": "Russia",
+    "en_sub": "Russia"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale della Tunisia è",
+    "answer": " .tn",
+    "sub": "Tunisia",
+    "en_sub": "Tunisia"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale della Turchia è",
+    "answer": " .tr",
+    "sub": "Turchia",
+    "en_sub": "Turkey"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Turkmenistan è",
+    "answer": " .tm",
+    "sub": "Turkmenistan",
+    "en_sub": "Turkmenistan"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale del Regno Unito è",
+    "answer": " .uk",
+    "sub": "Regno Unito",
+    "en_sub": "United Kingdom"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale degli Stati Uniti d'America è",
+    "answer": " .us",
+    "sub": "Stati Uniti d'America",
+    "en_sub": "United States of America"
+  },
+  {
+    "query": "Il dominio di primo livello nazionale delle Isole Vergini americane (Stati Uniti) è",
+    "answer": " .vi",
+    "sub": "Isole Vergini americane (Stati Uniti)",
+    "en_sub": "United States Virgin Islands (United States)"
+  }
+]

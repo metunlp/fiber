@@ -1,0 +1,927 @@
+[
+    {
+        "query": "The neighbor(s) of Albania is/are",
+        "answer": " Greece, Kosovo, North Macedonia, Montenegro",
+        "sub": "Albania",
+        "count": 4,
+        "list": [
+            " Greece",
+            " Kosovo",
+            " North Macedonia",
+            " Montenegro"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Argentina is/are",
+        "answer": " Bolivia, Brazil, Chile, Paraguay, Uruguay",
+        "sub": "Argentina",
+        "count": 5,
+        "list": [
+            " Bolivia",
+            " Brazil",
+            " Chile",
+            " Paraguay",
+            " Uruguay"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Armenia is/are",
+        "answer": " Azerbaijan, Georgia, Iran, Turkey",
+        "sub": "Armenia",
+        "count": 4,
+        "list": [
+            " Azerbaijan",
+            " Georgia",
+            " Iran",
+            " Turkey"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Austria is/are",
+        "answer": " Czechia, Germany, Hungary, Italy, Liechtenstein, Slovakia, Slovenia, Switzerland",
+        "sub": "Austria",
+        "count": 8,
+        "list": [
+            " Czechia",
+            " Germany",
+            " Hungary",
+            " Italy",
+            " Liechtenstein",
+            " Slovakia",
+            " Slovenia",
+            " Switzerland"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Azerbaijan is/are",
+        "answer": " Armenia, Georgia, Iran, Russia, Turkey",
+        "sub": "Azerbaijan",
+        "count": 5,
+        "list": [
+            " Armenia",
+            " Georgia",
+            " Iran",
+            " Russia",
+            " Turkey"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Bangladesh is/are",
+        "answer": " India, Myanmar",
+        "sub": "Bangladesh",
+        "count": 2,
+        "list": [
+            " India",
+            " Myanmar"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Belarus is/are",
+        "answer": " Latvia, Lithuania, Poland, Russia, Ukraine",
+        "sub": "Belarus",
+        "count": 5,
+        "list": [
+            " Latvia",
+            " Lithuania",
+            " Poland",
+            " Russia",
+            " Ukraine"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Belgium is/are",
+        "answer": " France, Germany, Luxembourg, Netherlands",
+        "sub": "Belgium",
+        "count": 4,
+        "list": [
+            " France",
+            " Germany",
+            " Luxembourg",
+            " Netherlands"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Belize is/are",
+        "answer": " Guatemala, Mexico",
+        "sub": "Belize",
+        "count": 2,
+        "list": [
+            " Guatemala",
+            " Mexico"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Benin is/are",
+        "answer": " Burkina Faso, Niger, Nigeria, Togo",
+        "sub": "Benin",
+        "count": 4,
+        "list": [
+            " Burkina Faso",
+            " Niger",
+            " Nigeria",
+            " Togo"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Bolivia is/are",
+        "answer": " Argentina, Brazil, Chile, Paraguay, Peru",
+        "sub": "Bolivia",
+        "count": 5,
+        "list": [
+            " Argentina",
+            " Brazil",
+            " Chile",
+            " Paraguay",
+            " Peru"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Brunei is/are",
+        "answer": " Malaysia",
+        "sub": "Brunei",
+        "count": 1,
+        "list": [
+            " Malaysia"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Bulgaria is/are",
+        "answer": " Greece, North Macedonia, Romania, Serbia, Turkey",
+        "sub": "Bulgaria",
+        "count": 5,
+        "list": [
+            " Greece",
+            " North Macedonia",
+            " Romania",
+            " Serbia",
+            " Turkey"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Burundi is/are",
+        "answer": " Democratic Republic of the Congo, Rwanda, Tanzania",
+        "sub": "Burundi",
+        "count": 3,
+        "list": [
+            " Democratic Republic of the Congo",
+            " Rwanda",
+            " Tanzania"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Cambodia is/are",
+        "answer": " Laos, Thailand, Vietnam",
+        "sub": "Cambodia",
+        "count": 3,
+        "list": [
+            " Laos",
+            " Thailand",
+            " Vietnam"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Cameroon is/are",
+        "answer": " Central African Republic, Chad, Republic of the Congo, Equatorial Guinea, Gabon, Nigeria",
+        "sub": "Cameroon",
+        "count": 6,
+        "list": [
+            " Central African Republic",
+            " Chad",
+            " Republic of the Congo",
+            " Equatorial Guinea",
+            " Gabon",
+            " Nigeria"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Central African Republic is/are",
+        "answer": " Cameroon, Chad, Republic of the Congo, Democratic Republic of the Congo, South Sudan, Sudan",
+        "sub": "Central African Republic",
+        "count": 6,
+        "list": [
+            " Cameroon",
+            " Chad",
+            " Republic of the Congo",
+            " Democratic Republic of the Congo",
+            " South Sudan",
+            " Sudan"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Chad is/are",
+        "answer": " Cameroon, Central African Republic, Libya, Niger, Nigeria, Sudan",
+        "sub": "Chad",
+        "count": 6,
+        "list": [
+            " Cameroon",
+            " Central African Republic",
+            " Libya",
+            " Niger",
+            " Nigeria",
+            " Sudan"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Chile is/are",
+        "answer": " Argentina, Bolivia, Peru",
+        "sub": "Chile",
+        "count": 3,
+        "list": [
+            " Argentina",
+            " Bolivia",
+            " Peru"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of China is/are",
+        "answer": " Afghanistan, Bhutan, India, Kazakhstan, Kyrgyzstan, Laos, Mongolia, Myanmar, Nepal, North Korea, Pakistan, Russia, Tajikistan, Vietnam",
+        "sub": "China",
+        "count": 14,
+        "list": [
+            " Afghanistan",
+            " Bhutan",
+            " India",
+            " Kazakhstan",
+            " Kyrgyzstan",
+            " Laos",
+            " Mongolia",
+            " Myanmar",
+            " Nepal",
+            " North Korea",
+            " Pakistan",
+            " Russia",
+            " Tajikistan",
+            " Vietnam"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Costa Rica is/are",
+        "answer": " Nicaragua, Panama",
+        "sub": "Costa Rica",
+        "count": 2,
+        "list": [
+            " Nicaragua",
+            " Panama"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Croatia is/are",
+        "answer": " Bosnia and Herzegovina, Hungary, Montenegro, Serbia, Slovenia",
+        "sub": "Croatia",
+        "count": 5,
+        "list": [
+            " Bosnia and Herzegovina",
+            " Hungary",
+            " Montenegro",
+            " Serbia",
+            " Slovenia"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Czechia is/are",
+        "answer": " Austria, Germany, Poland, Slovakia",
+        "sub": "Czechia",
+        "count": 4,
+        "list": [
+            " Austria",
+            " Germany",
+            " Poland",
+            " Slovakia"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Djibouti is/are",
+        "answer": " Eritrea, Ethiopia, Somalia",
+        "sub": "Djibouti",
+        "count": 3,
+        "list": [
+            " Eritrea",
+            " Ethiopia",
+            " Somalia"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Ecuador is/are",
+        "answer": " Colombia, Peru",
+        "sub": "Ecuador",
+        "count": 2,
+        "list": [
+            " Colombia",
+            " Peru"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Equatorial Guinea is/are",
+        "answer": " Cameroon, Gabon",
+        "sub": "Equatorial Guinea",
+        "count": 2,
+        "list": [
+            " Cameroon",
+            " Gabon"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Eritrea is/are",
+        "answer": " Djibouti, Ethiopia, Sudan",
+        "sub": "Eritrea",
+        "count": 3,
+        "list": [
+            " Djibouti",
+            " Ethiopia",
+            " Sudan"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Estonia is/are",
+        "answer": " Latvia, Russia",
+        "sub": "Estonia",
+        "count": 2,
+        "list": [
+            " Latvia",
+            " Russia"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Eswatini is/are",
+        "answer": " Mozambique, South Africa",
+        "sub": "Eswatini",
+        "count": 2,
+        "list": [
+            " Mozambique",
+            " South Africa"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Ethiopia is/are",
+        "answer": " Djibouti, Eritrea, Kenya, Somalia, South Sudan, Sudan",
+        "sub": "Ethiopia",
+        "count": 6,
+        "list": [
+            " Djibouti",
+            " Eritrea",
+            " Kenya",
+            " Somalia",
+            " South Sudan",
+            " Sudan"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Finland is/are",
+        "answer": " Norway, Russia, Sweden",
+        "sub": "Finland",
+        "count": 3,
+        "list": [
+            " Norway",
+            " Russia",
+            " Sweden"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Gabon is/are",
+        "answer": " Cameroon, Republic of the Congo, Equatorial Guinea",
+        "sub": "Gabon",
+        "count": 3,
+        "list": [
+            " Cameroon",
+            " Republic of the Congo",
+            " Equatorial Guinea"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Greece is/are",
+        "answer": " Albania, Bulgaria, North Macedonia, Turkey",
+        "sub": "Greece",
+        "count": 4,
+        "list": [
+            " Albania",
+            " Bulgaria",
+            " North Macedonia",
+            " Turkey"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Guatemala is/are",
+        "answer": " Belize, El Salvador, Honduras, Mexico",
+        "sub": "Guatemala",
+        "count": 4,
+        "list": [
+            " Belize",
+            " El Salvador",
+            " Honduras",
+            " Mexico"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Guinea is/are",
+        "answer": " Ivory Coast, Guinea-Bissau, Liberia, Mali, Senegal, Sierra Leone",
+        "sub": "Guinea",
+        "count": 6,
+        "list": [
+            " Ivory Coast",
+            " Guinea-Bissau",
+            " Liberia",
+            " Mali",
+            " Senegal",
+            " Sierra Leone"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Guinea-Bissau is/are",
+        "answer": " Guinea, Senegal",
+        "sub": "Guinea-Bissau",
+        "count": 2,
+        "list": [
+            " Guinea",
+            " Senegal"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Guyana is/are",
+        "answer": " Brazil, Suriname, Venezuela",
+        "sub": "Guyana",
+        "count": 3,
+        "list": [
+            " Brazil",
+            " Suriname",
+            " Venezuela"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Hungary is/are",
+        "answer": " Austria, Croatia, Romania, Serbia, Slovakia, Slovenia, Ukraine",
+        "sub": "Hungary",
+        "count": 7,
+        "list": [
+            " Austria",
+            " Croatia",
+            " Romania",
+            " Serbia",
+            " Slovakia",
+            " Slovenia",
+            " Ukraine"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Israel is/are",
+        "answer": " Egypt, Jordan, Lebanon, Syria, Palestine (West Bank), Palestine (Gaza Strip)",
+        "sub": "Israel",
+        "count": 6,
+        "list": [
+            " Egypt",
+            " Jordan",
+            " Lebanon",
+            " Syria",
+            " Palestine (West Bank)",
+            " Palestine (Gaza Strip)"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Italy is/are",
+        "answer": " Austria, France, San Marino, Slovenia, Switzerland, Vatican City",
+        "sub": "Italy",
+        "count": 6,
+        "list": [
+            " Austria",
+            " France",
+            " San Marino",
+            " Slovenia",
+            " Switzerland",
+            " Vatican City"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Kazakhstan is/are",
+        "answer": " China, Kyrgyzstan, Russia, Turkmenistan, Uzbekistan",
+        "sub": "Kazakhstan",
+        "count": 5,
+        "list": [
+            " China",
+            " Kyrgyzstan",
+            " Russia",
+            " Turkmenistan",
+            " Uzbekistan"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Kenya is/are",
+        "answer": " Ethiopia, Somalia, South Sudan, Tanzania, Uganda",
+        "sub": "Kenya",
+        "count": 5,
+        "list": [
+            " Ethiopia",
+            " Somalia",
+            " South Sudan",
+            " Tanzania",
+            " Uganda"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Kuwait is/are",
+        "answer": " Iraq, Saudi Arabia",
+        "sub": "Kuwait",
+        "count": 2,
+        "list": [
+            " Iraq",
+            " Saudi Arabia"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Lebanon is/are",
+        "answer": " Israel, Syria",
+        "sub": "Lebanon",
+        "count": 2,
+        "list": [
+            " Israel",
+            " Syria"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Liberia is/are",
+        "answer": " Guinea, Ivory Coast, Sierra Leone",
+        "sub": "Liberia",
+        "count": 3,
+        "list": [
+            " Guinea",
+            " Ivory Coast",
+            " Sierra Leone"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Libya is/are",
+        "answer": " Algeria, Chad, Egypt, Niger, Sudan, Tunisia",
+        "sub": "Libya",
+        "count": 6,
+        "list": [
+            " Algeria",
+            " Chad",
+            " Egypt",
+            " Niger",
+            " Sudan",
+            " Tunisia"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Liechtenstein is/are",
+        "answer": " Austria, Switzerland",
+        "sub": "Liechtenstein",
+        "count": 2,
+        "list": [
+            " Austria",
+            " Switzerland"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Malawi is/are",
+        "answer": " Mozambique, Tanzania, Zambia",
+        "sub": "Malawi",
+        "count": 3,
+        "list": [
+            " Mozambique",
+            " Tanzania",
+            " Zambia"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Mauritania is/are",
+        "answer": " Algeria, Mali, Senegal, Western Sahara",
+        "sub": "Mauritania",
+        "count": 4,
+        "list": [
+            " Algeria",
+            " Mali",
+            " Senegal",
+            " Western Sahara"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Monaco is/are",
+        "answer": " France",
+        "sub": "Monaco",
+        "count": 1,
+        "list": [
+            " France"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Morocco is/are",
+        "answer": " Algeria, Western Sahara",
+        "sub": "Morocco",
+        "count": 2,
+        "list": [
+            " Algeria",
+            " Western Sahara"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Nepal is/are",
+        "answer": " China, India",
+        "sub": "Nepal",
+        "count": 2,
+        "list": [
+            " China",
+            " India"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Niger is/are",
+        "answer": " Algeria, Benin, Burkina Faso, Chad, Libya, Mali, Nigeria",
+        "sub": "Niger",
+        "count": 7,
+        "list": [
+            " Algeria",
+            " Benin",
+            " Burkina Faso",
+            " Chad",
+            " Libya",
+            " Mali",
+            " Nigeria"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of North Macedonia is/are",
+        "answer": " Albania, Bulgaria, Greece, Kosovo, Serbia",
+        "sub": "North Macedonia",
+        "count": 5,
+        "list": [
+            " Albania",
+            " Bulgaria",
+            " Greece",
+            " Kosovo",
+            " Serbia"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Oman is/are",
+        "answer": " Saudi Arabia, United Arab Emirates, Yemen",
+        "sub": "Oman",
+        "count": 3,
+        "list": [
+            " Saudi Arabia",
+            " United Arab Emirates",
+            " Yemen"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Pakistan is/are",
+        "answer": " Afghanistan, China, India, Iran",
+        "sub": "Pakistan",
+        "count": 4,
+        "list": [
+            " Afghanistan",
+            " China",
+            " India",
+            " Iran"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Palestine is/are",
+        "answer": " Egypt, Israel, Jordan",
+        "sub": "Palestine",
+        "count": 3,
+        "list": [
+            " Egypt",
+            " Israel",
+            " Jordan"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Panama is/are",
+        "answer": " Colombia, Costa Rica",
+        "sub": "Panama",
+        "count": 2,
+        "list": [
+            " Colombia",
+            " Costa Rica"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Papua New Guinea is/are",
+        "answer": " Indonesia",
+        "sub": "Papua New Guinea",
+        "count": 1,
+        "list": [
+            " Indonesia"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Paraguay is/are",
+        "answer": " Argentina, Bolivia, Brazil",
+        "sub": "Paraguay",
+        "count": 3,
+        "list": [
+            " Argentina",
+            " Bolivia",
+            " Brazil"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Peru is/are",
+        "answer": " Bolivia, Brazil, Chile, Colombia, Ecuador",
+        "sub": "Peru",
+        "count": 5,
+        "list": [
+            " Bolivia",
+            " Brazil",
+            " Chile",
+            " Colombia",
+            " Ecuador"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Poland is/are",
+        "answer": " Belarus, Czechia, Germany, Lithuania, Russia, Slovakia, Ukraine",
+        "sub": "Poland",
+        "count": 7,
+        "list": [
+            " Belarus",
+            " Czechia",
+            " Germany",
+            " Lithuania",
+            " Russia",
+            " Slovakia",
+            " Ukraine"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Qatar is/are",
+        "answer": " Saudi Arabia",
+        "sub": "Qatar",
+        "count": 1,
+        "list": [
+            " Saudi Arabia"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Rwanda is/are",
+        "answer": " Burundi, Democratic Republic of the Congo, Tanzania, Uganda",
+        "sub": "Rwanda",
+        "count": 4,
+        "list": [
+            " Burundi",
+            " Democratic Republic of the Congo",
+            " Tanzania",
+            " Uganda"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of San Marino is/are",
+        "answer": " Italy",
+        "sub": "San Marino",
+        "count": 1,
+        "list": [
+            " Italy"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Saudi Arabia is/are",
+        "answer": " Iraq, Jordan, Kuwait, Oman, Qatar, United Arab Emirates, Yemen",
+        "sub": "Saudi Arabia",
+        "count": 7,
+        "list": [
+            " Iraq",
+            " Jordan",
+            " Kuwait",
+            " Oman",
+            " Qatar",
+            " United Arab Emirates",
+            " Yemen"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Sierra Leone is/are",
+        "answer": " Guinea, Liberia",
+        "sub": "Sierra Leone",
+        "count": 2,
+        "list": [
+            " Guinea",
+            " Liberia"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Spain is/are",
+        "answer": " Andorra, France, Gibraltar, Portugal, Morocco",
+        "sub": "Spain",
+        "count": 5,
+        "list": [
+            " Andorra",
+            " France",
+            " Gibraltar",
+            " Portugal",
+            " Morocco"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Sweden is/are",
+        "answer": " Finland, Norway",
+        "sub": "Sweden",
+        "count": 2,
+        "list": [
+            " Finland",
+            " Norway"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Togo is/are",
+        "answer": " Benin, Burkina Faso, Ghana",
+        "sub": "Togo",
+        "count": 3,
+        "list": [
+            " Benin",
+            " Burkina Faso",
+            " Ghana"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Tunisia is/are",
+        "answer": " Algeria, Libya",
+        "sub": "Tunisia",
+        "count": 2,
+        "list": [
+            " Algeria",
+            " Libya"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Turkey is/are",
+        "answer": " Armenia, Azerbaijan, Bulgaria, Georgia, Greece, Iran, Iraq, Syria",
+        "sub": "Turkey",
+        "count": 8,
+        "list": [
+            " Armenia",
+            " Azerbaijan",
+            " Bulgaria",
+            " Georgia",
+            " Greece",
+            " Iran",
+            " Iraq",
+            " Syria"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of United Arab Emirates is/are",
+        "answer": " Oman, Saudi Arabia",
+        "sub": "United Arab Emirates",
+        "count": 2,
+        "list": [
+            " Oman",
+            " Saudi Arabia"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of United Kingdom is/are",
+        "answer": " Ireland",
+        "sub": "United Kingdom",
+        "count": 1,
+        "list": [
+            " Ireland"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Uzbekistan is/are",
+        "answer": " Afghanistan, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan",
+        "sub": "Uzbekistan",
+        "count": 5,
+        "list": [
+            " Afghanistan",
+            " Kazakhstan",
+            " Kyrgyzstan",
+            " Tajikistan",
+            " Turkmenistan"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Vatican City is/are",
+        "answer": " Italy",
+        "sub": "Vatican City",
+        "count": 1,
+        "list": [
+            " Italy"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Yemen is/are",
+        "answer": " Oman, Saudi Arabia",
+        "sub": "Yemen",
+        "count": 2,
+        "list": [
+            " Oman",
+            " Saudi Arabia"
+        ]
+    },
+    {
+        "query": "The neighbor(s) of Zambia is/are",
+        "answer": " Angola, Botswana, Democratic Republic of the Congo, Malawi, Mozambique, Namibia, Tanzania, Zimbabwe",
+        "sub": "Zambia",
+        "count": 8,
+        "list": [
+            " Angola",
+            " Botswana",
+            " Democratic Republic of the Congo",
+            " Malawi",
+            " Mozambique",
+            " Namibia",
+            " Tanzania",
+            " Zimbabwe"
+        ]
+    }
+]

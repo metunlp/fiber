@@ -1,0 +1,152 @@
+﻿[
+  {
+    "query": "Hidrojenin atom numarası şudur:",
+    "answer": " 1",
+    "sub": "Hidrojen"
+  },
+  {
+    "query": "Berilyumun atom numarası şudur:",
+    "answer": " 4",
+    "sub": "Berilyum"
+  },
+  {
+    "query": "Borun atom numarası şudur:",
+    "answer": " 5",
+    "sub": "Bor"
+  },
+  {
+    "query": "Karbonun atom numarası şudur:",
+    "answer": " 6",
+    "sub": "Karbon"
+  },
+  {
+    "query": "Sodyumun atom numarası şudur:",
+    "answer": " 11",
+    "sub": "Sodyum"
+  },
+  {
+    "query": "Magnezyumun atom numarası şudur:",
+    "answer": " 12",
+    "sub": "Magnezyum"
+  },
+  {
+    "query": "Alüminyumun atom numarası şudur:",
+    "answer": " 13",
+    "sub": "Alüminyum"
+  },
+  {
+    "query": "Silisyumun atom numarası şudur:",
+    "answer": " 14",
+    "sub": "Silisyum"
+  },
+  {
+    "query": "Fosforun atom numarası şudur:",
+    "answer": " 15",
+    "sub": "Fosfor"
+  },
+  {
+    "query": "Kükürtün atom numarası şudur:",
+    "answer": " 16",
+    "sub": "Kükürt"
+  },
+  {
+    "query": "Argonun atom numarası şudur:",
+    "answer": " 18",
+    "sub": "Argon"
+  },
+  {
+    "query": "Kalsiyumun atom numarası şudur:",
+    "answer": " 20",
+    "sub": "Kalsiyum"
+  },
+  {
+    "query": "Skandiyumun atom numarası şudur:",
+    "answer": " 21",
+    "sub": "Skandiyum"
+  },
+  {
+    "query": "Demirin atom numarası şudur:",
+    "answer": " 26",
+    "sub": "Demir"
+  },
+  {
+    "query": "Nikelin atom numarası şudur:",
+    "answer": " 28",
+    "sub": "Nikel"
+  },
+  {
+    "query": "Bakırın atom numarası şudur:",
+    "answer": " 29",
+    "sub": "Bakır"
+  },
+  {
+    "query": "Çinkonun atom numarası şudur:",
+    "answer": " 30",
+    "sub": "Çinko"
+  },
+  {
+    "query": "Almanyumun atom numarası şudur:",
+    "answer": " 32",
+    "sub": "Almanyum"
+  },
+  {
+    "query": "Selenyumun atom numarası şudur:",
+    "answer": " 34",
+    "sub": "Selenyum"
+  },
+  {
+    "query": "Kriptonun atom numarası şudur:",
+    "answer": " 36",
+    "sub": "Kripton"
+  },
+  {
+    "query": "Stronyumun atom numarası şudur:",
+    "answer": " 38",
+    "sub": "Stronyum"
+  },
+  {
+    "query": "Zirkonyumun atom numarası şudur:",
+    "answer": " 40",
+    "sub": "Zirkonyum"
+  },
+  {
+    "query": "Niobyumun atom numarası şudur:",
+    "answer": " 41",
+    "sub": "Niobyum"
+  },
+  {
+    "query": "Rutenyumun atom numarası şudur:",
+    "answer": " 44",
+    "sub": "Rutenyum"
+  },
+  {
+    "query": "Rodyumun atom numarası şudur:",
+    "answer": " 45",
+    "sub": "Rodyum"
+  },
+  {
+    "query": "Paladyumun atom numarası şudur:",
+    "answer": " 46",
+    "sub": "Paladyum"
+  },
+  {
+    "query": "İndiyumun atom numarası şudur:",
+    "answer": " 49",
+    "sub": "İndiyum"
+  },
+  {
+    "query": "Ksenonun atom numarası şudur:",
+    "answer": " 54",
+    "sub": "Ksenon"
+  },
+  {
+    "query": "Sezyumun atom numarası şudur:",
+    "answer": " 55",
+    "sub": "Sezyum"
+  },
+  {
+    "query": "Lantanın atom numarası şudur:",
+    "answer": " 57",
+    "sub": "Lantan"
+  }
+]

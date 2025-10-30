@@ -1,0 +1,716 @@
+[
+    {
+        "query": "How many automobile manufacturers does Algeria have?",
+        "answer": " 1",
+        "sub": "Algeria",
+        "count": 1,
+        "list": [
+            " SNVI"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Argentina have?",
+        "answer": " 3",
+        "sub": "Argentina",
+        "count": 3,
+        "list": [
+            " ASA Aluminium Body",
+            " Zanella",
+            " Sero Electric"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Austria have?",
+        "answer": " 4",
+        "sub": "Austria",
+        "count": 4,
+        "list": [
+            " KTM",
+            " Magna Steyr",
+            " Rosenbauer",
+            " Tushek & Spigel"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Azerbaijan have?",
+        "answer": " 3",
+        "sub": "Azerbaijan",
+        "count": 3,
+        "list": [
+            " AzSamand",
+            " Ganja Auto Plant",
+            " Nakhchivan Automobile Plant"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Bulgaria have?",
+        "answer": " 2",
+        "sub": "Bulgaria",
+        "count": 2,
+        "list": [
+            " Litex",
+            " SIN"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Canada have?",
+        "answer": " 12",
+        "sub": "Canada",
+        "count": 12,
+        "list": [
+            " Bombardier",
+            " Campagna",
+            " Felino Corporation",
+            " Intermeccanica",
+            " INKAS",
+            " Lion Electric Company",
+            " Magnum Cars",
+            " New Flyer",
+            " Nova Bus",
+            " Prevost",
+            " Terradyne",
+            " Vicinity Motor Corp."
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does China have?",
+        "answer": " 85",
+        "sub": "China",
+        "count": 85,
+        "list": [
+            " Arcfox",
+            " Aion",
+            " Apex Motors",
+            " Ankai",
+            " BAIC",
+            " Bonluck",
+            " Baojun",
+            " BAW",
+            " Bestune",
+            " Brilliance",
+            " BYD",
+            " Changan",
+            " Changhe",
+            " Chery",
+            " Dongfeng",
+            " Denza",
+            " Englon",
+            " Exeed",
+            " EuAuto",
+            " Everus",
+            " FAW",
+            " Hongqi",
+            " Foton",
+            " Firefly",
+            " Fangchengbao",
+            " GAC",
+            " Geely",
+            " Great Wall",
+            " Gyon",
+            " Henrey Automobile",
+            " Hafei",
+            " Haima",
+            " Hanteng",
+            " Hawtai",
+            " Haval",
+            " Heibao",
+            " HiPhi",
+            " Higer",
+            " Hozon Auto",
+            " Jetour",
+            " Jiangling",
+            " JMEV",
+            " Jinbei",
+            " Jonway",
+            " JAC",
+            " Jetta",
+            " JuneYao Auto",
+            " Karry",
+            " Kandi",
+            " King Long",
+            " ORA",
+            " Landwind",
+            " Leahead",
+            " Li Auto",
+            " Leapmotor",
+            " Lynk&Co",
+            " Maextro",
+            " Mudan Auto",
+            " Maxus",
+            " Nio",
+            " Qoros",
+            " Roewe",
+            " Ranz",
+            " SAIC",
+            " Sehol",
+            " Soueast",
+            " Spotlight Automotive",
+            " Stelato",
+            " Sunlong Bus",
+            " Skyworth Auto",
+            " Trumpchi",
+            " Wuling",
+            " Voyah",
+            " Xpeng",
+            " Xiaomi Auto",
+            " Yudo Auto",
+            " Yutong",
+            " Zhongtong Bus",
+            " Zinoro",
+            " Zotye",
+            " Zeekr",
+            " WEY",
+            " Xiamen Golden Dragon Bus",
+            " Yangwang",
+            " ZX Auto"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Colombia have?",
+        "answer": " 2",
+        "sub": "Colombia",
+        "count": 2,
+        "list": [
+            " Busscar de Colombia",
+            " Sofasa"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Croatia have?",
+        "answer": " 2",
+        "sub": "Croatia",
+        "count": 2,
+        "list": [
+            " DOK-ING",
+            " Rimac"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Czech Republic have?",
+        "answer": " 6",
+        "sub": "Czech Republic",
+        "count": 6,
+        "list": [
+            " Škoda",
+            " Tatra",
+            " Avia",
+            " Kaipan",
+            " MTX",
+            " Praga"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Egypt have?",
+        "answer": " 1",
+        "sub": "Egypt",
+        "count": 1,
+        "list": [
+            " MCV Bus & Coach"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Georgia have?",
+        "answer": " 1",
+        "sub": "Georgia",
+        "count": 1,
+        "list": [
+            " KAZ"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Hungary have?",
+        "answer": " 2",
+        "sub": "Hungary",
+        "count": 2,
+        "list": [
+            " Ikarus",
+            " Rába"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Iceland have?",
+        "answer": " 1",
+        "sub": "Iceland",
+        "count": 1,
+        "list": [
+            " Arctic Trucks"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does India have?",
+        "answer": " 16",
+        "sub": "India",
+        "count": 16,
+        "list": [
+            " Ajanta Group",
+            " Ashok Leyland",
+            " Asia MotorWorks",
+            " Atul Auto",
+            " Bajaj",
+            " Eicher",
+            " Force",
+            " Hindustan",
+            " ICML motors",
+            " KAL",
+            " Mahindra",
+            " Maruti",
+            " Ola Electric",
+            " Omega Seiki Mobility",
+            " Tara International",
+            " Tata"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Israel have?",
+        "answer": " 6",
+        "sub": "Israel",
+        "count": 6,
+        "list": [
+            " City Transformer",
+            " Ha'argaz",
+            " Merkavim",
+            " REE Automotive",
+            " Tomcar",
+            " Zibar"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Italy have?",
+        "answer": " 28",
+        "sub": "Italy",
+        "count": 28,
+        "list": [
+            " Abarth",
+            " Alkè",
+            " Astra",
+            " Alfa Romeo",
+            " Automobili Estrema",
+            " Bremach",
+            " Casalini",
+            " Covini",
+            " CTS",
+            " DR Motor",
+            " Dallara",
+            " Fiat",
+            " Ferrari",
+            " Iso",
+            " Italdesign",
+            " Iveco",
+            " Lancia",
+            " Lamborghini",
+            " Maserati",
+            " M.A.T",
+            " Mazzanti",
+            " Minardi",
+            " Pagani",
+            " Piaggio",
+            " Pininfarina",
+            " SCV Srl",
+            " XEV",
+            " Zagato"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Japan have?",
+        "answer": " 22",
+        "sub": "Japan",
+        "count": 22,
+        "list": [
+            " Acura",
+            " Daihatsu",
+            " Hino",
+            " Honda",
+            " Infiniti",
+            " Isuzu",
+            " Lexus",
+            " Mazda",
+            " Mitsubishi",
+            " Mitsubishi Fuso",
+            " Nissan",
+            " Subaru",
+            " Suzuki",
+            " Toyota",
+            " UD Trucks",
+            " Aspark",
+            " Dome",
+            " GLM",
+            " J-Bus",
+            " Mitsuoka",
+            " NMKV",
+            " Tommykaira"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Latvia have?",
+        "answer": " 2",
+        "sub": "Latvia",
+        "count": 2,
+        "list": [
+            " Dartz",
+            " Drive eO"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Lebanon have?",
+        "answer": " 2",
+        "sub": "Lebanon",
+        "count": 2,
+        "list": [
+            " EV Electra",
+            " W Motors"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Malaysia have?",
+        "answer": " 6",
+        "sub": "Malaysia",
+        "count": 6,
+        "list": [
+            " Bufori",
+            " DefTech",
+            " Inokom",
+            " Naza",
+            " Perodua",
+            " Proton"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Mexico have?",
+        "answer": " 4",
+        "sub": "Mexico",
+        "count": 4,
+        "list": [
+            " DINA",
+            " Mastretta",
+            " VUHL",
+            " Zacua"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Myanmar have?",
+        "answer": " 1",
+        "sub": "Myanmar",
+        "count": 1,
+        "list": [
+            " Shan Star"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Netherlands have?",
+        "answer": " 7",
+        "sub": "Netherlands",
+        "count": 7,
+        "list": [
+            " Burton",
+            " Carver",
+            " DAF",
+            " Dakar",
+            " Donkervoort",
+            " Spijkstaal",
+            " Spyker"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Stellantis have?",
+        "answer": " 3",
+        "sub": "Stellantis",
+        "count": 3,
+        "list": [
+            " Vandenbrink",
+            " VDL Bus & Coach",
+            " Vencer"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does New Zealand have?",
+        "answer": " 5",
+        "sub": "New Zealand",
+        "count": 5,
+        "list": [
+            " Almac",
+            " Anziel",
+            " Kiwi Bus Builders",
+            " Saker Cars",
+            " Trekka"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does North Macedonia have?",
+        "answer": " 1",
+        "sub": "North Macedonia",
+        "count": 1,
+        "list": [
+            " FAS Sanos"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Russia have?",
+        "answer": " 16",
+        "sub": "Russia",
+        "count": 16,
+        "list": [
+            " Aurus",
+            " Avtotor",
+            " AvtoVAZ",
+            " GAZ",
+            " KAvZ",
+            " LiAZ",
+            " PAZ",
+            " KAMAZ",
+            " NefAZ",
+            " Kombat Armouring",
+            " Moskvich",
+            " Sollers",
+            " UAZ",
+            " TREKOL",
+            " UralAZ",
+            " Volgabus"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Sudan have?",
+        "answer": " 1",
+        "sub": "Sudan",
+        "count": 1,
+        "list": [
+            " Giad Auto"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Sweden have?",
+        "answer": " 5",
+        "sub": "Sweden",
+        "count": 5,
+        "list": [
+            " Caresto",
+            " Koenigsegg",
+            " Polestar",
+            " Scania",
+            " Volvo"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Tunisia have?",
+        "answer": " 1",
+        "sub": "Tunisia",
+        "count": 1,
+        "list": [
+            " Wallyscar"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Turkey have?",
+        "answer": " 11",
+        "sub": "Turkey",
+        "count": 11,
+        "list": [
+            " BMC",
+            " Erkunt",
+            " Etox",
+            " Guleryuz",
+            " Karsan",
+            " Katmerciler",
+            " Otokar",
+            " Ozaltin",
+            " Temsa",
+            " Tofas",
+            " Togg"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Ukraine have?",
+        "answer": " 6",
+        "sub": "Ukraine",
+        "count": 6,
+        "list": [
+            " Bogdan",
+            " Etalon",
+            " Eurocar",
+            " KrAZ",
+            " Sherp",
+            " ZAZ"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does United Arab Emirates have?",
+        "answer": " 3",
+        "sub": "United Arab Emirates",
+        "count": 3,
+        "list": [
+            " NIMR",
+            " STREIT Group",
+            " W Motors"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does United Kingdom have?",
+        "answer": " 37",
+        "sub": "United Kingdom",
+        "count": 37,
+        "list": [
+            " AC",
+            " Alexander Dennis",
+            " Apex",
+            " Ariel",
+            " Aston Martin",
+            " Atalanta",
+            " BAC",
+            " Bentley",
+            " Bowler",
+            " Caterham",
+            " David Brown",
+            " Elemental Cars",
+            " Ginetta",
+            " Gordon Murray Automotive",
+            " GKD Sports",
+            " Grinnall",
+            " Ineos",
+            " Jaguar",
+            " Lagonda",
+            " London EV Company",
+            " Land Rover",
+            " Lister",
+            " Lotus",
+            " Munro Vehicles",
+            " McLaren",
+            " Mcmutry Automotive",
+            " MG",
+            " Mini",
+            " Morgan",
+            " Noble",
+            " Radical Sportscars",
+            " Rolls-Royce",
+            " Ronart",
+            " Switch Mobility",
+            " TVR",
+            " Ultima Sports",
+            " Vauxhall"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does United States have?",
+        "answer": " 79",
+        "sub": "United States",
+        "count": 79,
+        "list": [
+            " Buick",
+            " Cadillac",
+            " Chevrolet",
+            " GMC",
+            " Chrysler",
+            " Dodge",
+            " Jeep",
+            " Ram",
+            " Ford",
+            " Lincoln",
+            " All American Racers",
+            " AM General",
+            " Anteros Coachworks",
+            " Aptera",
+            " Arcimoto",
+            " Autocar",
+            " Alpha",
+            " Bremach",
+            " Bollinger",
+            " Callaway",
+            " Canoo",
+            " Czinger",
+            " DDR Motorsport",
+            " DeLorean",
+            " Drako",
+            " Detroit Electric",
+            " E-Z-GO",
+            " Equus",
+            " EdisonFuture",
+            " Falcon Motorsports",
+            " Factory Five Racing",
+            " Faraday",
+            " Fisker",
+            " Freightliner",
+            " Gillig",
+            " Google",
+            " GEM",
+            " Hennessey",
+            " Harley Davidson",
+            " International Harvester",
+            " IC Bus",
+            " Karma",
+            " Kenworth",
+            " Lingenfelter Performance Engineering",
+            " Lordstown",
+            " Lucid",
+            " Mullen",
+            " Mack",
+            " Myers",
+            " MCI",
+            " Navistar",
+            " Nikola",
+            " Oshkosh",
+            " Panoz",
+            " Phoenix Motorcars",
+            " Peterbilt",
+            " Pierce",
+            " Polaris",
+            " Proterra",
+            " RAESR",
+            " Rezvani",
+            " Rivian",
+            " Ronn Motor Group",
+            " Rossion",
+            " Saleen",
+            " SCG",
+            " Shelby",
+            " Slate Auto",
+            " SRT",
+            " SSC",
+            " Thomas Built Buses",
+            " Tesla",
+            " Telo Trucks",
+            " Trion Supercars",
+            " VLF",
+            " Vanderhall Motor Works",
+            " Western Star",
+            " Workhorse",
+            " Xos, Inc."
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Uruguay have?",
+        "answer": " 1",
+        "sub": "Uruguay",
+        "count": 1,
+        "list": [
+            " Effa"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Venezuela have?",
+        "answer": " 1",
+        "sub": "Venezuela",
+        "count": 1,
+        "list": [
+            " Venirauto"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Vietnam have?",
+        "answer": " 4",
+        "sub": "Vietnam",
+        "count": 4,
+        "list": [
+            " Mekong",
+            " SAMCO",
+            " THACO",
+            " VinFast"
+        ]
+    },
+    {
+        "query": "How many automobile manufacturers does Zimbabwe have?",
+        "answer": " 1",
+        "sub": "Zimbabwe",
+        "count": 1,
+        "list": [
+            " Willowvale Motor Industries"
+        ]
+    }
+]

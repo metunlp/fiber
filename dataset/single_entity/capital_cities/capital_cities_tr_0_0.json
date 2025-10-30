@@ -1,0 +1,292 @@
+[
+    {
+        "query": "Türkiye'nin başkenti",
+        "answer": " Ankara'dır",
+        "sub": "Türkiye"
+    },
+    {
+        "query": "Hollanda'nın başkenti",
+        "answer": " Amsterdam'dır",
+        "sub": "Hollanda"
+    },
+    {
+        "query": "Bavyera'nın başkenti",
+        "answer": " Münih'tir",
+        "sub": "Bavyera"
+    },
+    {
+        "query": "Toskana'nın başkenti",
+        "answer": " Floransa'dır",
+        "sub": "Toskana"
+    },
+    {
+        "query": "İtalya'nın başkenti",
+        "answer": " Roma'dır",
+        "sub": "İtalya"
+    },
+    {
+        "query": "Anvers İli'nin başkenti",
+        "answer": " Anvers'tir",
+        "sub": "Anvers İli"
+    },
+    {
+        "query": "Girit'in başkenti",
+        "answer": " Heraklion'dur",
+        "sub": "Girit"
+    },
+    {
+        "query": "Fransa'nın başkenti",
+        "answer": " Paris'tir",
+        "sub": "Fransa"
+    },
+    {
+        "query": "Maharashtra'nın başkenti",
+        "answer": " Mumbai'dir",
+        "sub": "Maharashtra"
+    },
+    {
+        "query": "Norveç'in başkenti",
+        "answer": " Oslo'dur",
+        "sub": "Norveç"
+    },
+    {
+        "query": "Yahuda'nın başkenti",
+        "answer": " Kudüs'tür",
+        "sub": "Yahuda"
+    },
+    {
+        "query": "Kırgızistan'ın başkenti",
+        "answer": " Bişkek'tir",
+        "sub": "Kırgızistan"
+    },
+    {
+        "query": "Victoria'nın başkenti",
+        "answer": " Melbourne'dir",
+        "sub": "Victoria"
+    },
+    {
+        "query": "İrlanda'nın başkenti",
+        "answer": " Dublin'dir",
+        "sub": "İrlanda"
+    },
+    {
+        "query": "İngiltere'nin başkenti",
+        "answer": " Londra'dır",
+        "sub": "İngiltere"
+    },
+    {
+        "query": "Letonya'nın başkenti",
+        "answer": " Riga'dır",
+        "sub": "Letonya"
+    },
+    {
+        "query": "Tanzanya'nın başkenti",
+        "answer": " Darüsselam'dır",
+        "sub": "Tanzanya"
+    },
+    {
+        "query": "İspanya'nın başkenti",
+        "answer": " Madrid'dir",
+        "sub": "İspanya"
+    },
+    {
+        "query": "Guatemala'nın başkenti",
+        "answer": " Guatemala Şehri'dir",
+        "sub": "Guatemala"
+    },
+    {
+        "query": "Saksonya'nın başkenti",
+        "answer": " Dresden'dir",
+        "sub": "Saksonya"
+    },
+    {
+        "query": "Haiti'nin başkenti",
+        "answer": " Port-au-Prince'dir",
+        "sub": "Haiti"
+    },
+    {
+        "query": "Yunanistan'ın başkenti",
+        "answer": " Atina'dır",
+        "sub": "Yunanistan"
+    },
+    {
+        "query": "Tasmania'nın başkenti",
+        "answer": " Hobart'tır",
+        "sub": "Tasmania"
+    },
+    {
+        "query": "Estonya'nın başkenti",
+        "answer": " Tallinn'dir",
+        "sub": "Estonya"
+    },
+    {
+        "query": "Japonya'nın başkenti",
+        "answer": " Tokyo'dur",
+        "sub": "Japonya"
+    },
+    {
+        "query": "Avusturya'nın başkenti",
+        "answer": " Viyana'dır",
+        "sub": "Avusturya"
+    },
+    {
+        "query": "Endonezya'nın başkenti",
+        "answer": " Jakarta'dır",
+        "sub": "Endonezya"
+    },
+    {
+        "query": "Nepal'ın başkenti",
+        "answer": " Katmandu'dur",
+        "sub": "Nepal"
+    },
+    {
+        "query": "Sudan'ın başkenti",
+        "answer": " Hartum'dur",
+        "sub": "Sudan"
+    },
+    {
+        "query": "Litvanya'nın başkenti",
+        "answer": " Vilnius'tur",
+        "sub": "Litvanya"
+    },
+    {
+        "query": "Lübnan'ın başkenti",
+        "answer": " Beyrut'tur",
+        "sub": "Lübnan"
+    },
+    {
+        "query": "Portekiz'in başkenti",
+        "answer": " Lizbon'dur",
+        "sub": "Portekiz"
+    },
+    {
+        "query": "Manitoba'nın başkenti",
+        "answer": " Winnipeg'dir",
+        "sub": "Manitoba"
+    },
+    {
+        "query": "Uruguay'ın başkenti",
+        "answer": " Montevideo'dur",
+        "sub": "Uruguay"
+    },
+    {
+        "query": "Macaristan'ın başkenti",
+        "answer": " Budapeşte'dir",
+        "sub": "Macaristan"
+    },
+    {
+        "query": "Karadağ'ın başkenti",
+        "answer": " Podgorica'dır",
+        "sub": "Karadağ"
+    },
+    {
+        "query": "Ontario'nun başkenti",
+        "answer": " Toronto'dur",
+        "sub": "Ontario"
+    },
+    {
+        "query": "Panama'nın başkenti",
+        "answer": " Panama Şehri'dir",
+        "sub": "Panama"
+    },
+    {
+        "query": "Tayland'ın başkenti",
+        "answer": " Bangkok'tur",
+        "sub": "Tayland"
+    },
+    {
+        "query": "Şili'nin başkenti",
+        "answer": " Santiago'dur",
+        "sub": "Şili"
+    },
+    {
+        "query": "Hindistan'ın başkenti",
+        "answer": " Yeni Delhi'dir",
+        "sub": "Hindistan"
+    },
+    {
+        "query": "Sırbistan'ın başkenti",
+        "answer": " Belgrad'dır",
+        "sub": "Sırbistan"
+    },
+    {
+        "query": "Sardinya'nın başkenti",
+        "answer": " Cagliari'dir",
+        "sub": "Sardinya"
+    },
+    {
+        "query": "Venezuela'nın başkenti",
+        "answer": " Caracas'tır",
+        "sub": "Venezuela"
+    },
+    {
+        "query": "Kıbrıs'ın başkenti",
+        "answer": " Lefkoşa'dır",
+        "sub": "Kıbrıs"
+    },
+    {
+        "query": "Bulgaristan'ın başkenti",
+        "answer": " Sofya'dır",
+        "sub": "Bulgaristan"
+    },
+    {
+        "query": "Utah'ın başkenti",
+        "answer": " Salt Lake City'dir",
+        "sub": "Utah"
+    },
+    {
+        "query": "Bangladeş'in başkenti",
+        "answer": " Dakka'dır",
+        "sub": "Bangladeş"
+    },
+    {
+        "query": "Tacikistan'ın başkenti",
+        "answer": " Duşanbe'dir",
+        "sub": "Tacikistan"
+    },
+    {
+        "query": "Sichuan'ın başkenti",
+        "answer": " Chengdu'dur",
+        "sub": "Sichuan"
+    },
+    {
+        "query": "Zambiya'nın başkenti",
+        "answer": " Lusaka'dır",
+        "sub": "Zambiya"
+    },
+    {
+        "query": "Mauritius'un başkenti",
+        "answer": " Port Louis'tir",
+        "sub": "Mauritius"
+    },
+    {
+        "query": "Iowa'nın başkenti",
+        "answer": " Des Moines'tir",
+        "sub": "Iowa"
+    },
+    {
+        "query": "Kazakistan'ın başkenti",
+        "answer": " Nur-Sultan'dır",
+        "sub": "Kazakistan"
+    },
+    {
+        "query": "İngiltere Krallığı'nın başkenti",
+        "answer": " Winchester'dir",
+        "sub": "İngiltere Krallığı"
+    },
+    {
+        "query": "Teksas'ın başkenti",
+        "answer": " Austin'dir",
+        "sub": "Teksas"
+    },
+    {
+        "query": "Minnesota'nın başkenti",
+        "answer": " Aziz Pavlus'tur",
+        "sub": "Minnesota"
+    },
+    {
+        "query": "Batı Bölgesi'nin başkenti",
+        "answer": " Bafoussam'dır",
+        "sub": "Batı Bölgesi"
+    }
+]

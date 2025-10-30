@@ -1,0 +1,954 @@
+[
+    {
+        "query": "Arnavutluk'un resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Arnavutça",
+        "sub": "Arnavutluk",
+        "count": "1",
+        "list": [
+            " Arnavutça"
+        ]
+    },
+    {
+        "query": "Arjantin'in resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İspanyolca",
+        "sub": "Arjantin",
+        "count": "1",
+        "list": [
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Ermenistan'ın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Ermenice",
+        "sub": "Ermenistan",
+        "count": "1",
+        "list": [
+            " Ermenice"
+        ]
+    },
+    {
+        "query": "Avustralya'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İngilizce",
+        "sub": "Avustralya",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Avusturya'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Almanca",
+        "sub": "Avusturya",
+        "count": "1",
+        "list": [
+            " Almanca"
+        ]
+    },
+    {
+        "query": "Bahamalar'ın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İngilizce",
+        "sub": "Bahamalar",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Belize'nin resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İngilizce",
+        "sub": "Belize",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Bolivya'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İspanyolca, Aymaraca, Araona, Baure, Bésiro, Canichana, Cavineño, Cayubaba, Chácobo, Chimán, Ese Ejja, Guaraní,\nGuarasu'we, Guarayu, Itonama, Leco, Machajuyai-kallawaya, Machineri,\nMaropa, Mojeñotrinitario, Mojeño-ignaciano, Moré, Mosetén, Movima,\nPacawara, Puquina, Keçuva, Sirionó, Tacana, Tapiete, Toromona, Uruchipaya,\nWeenhayek, Yaminawa, Yuki, Yuracaré, Zamuko",
+        "sub": "Bolivya",
+        "count": "37",
+        "list": [
+            " İspanyolca",
+            " Aymaraca",
+            " Araona",
+            " Baure",
+            " Bésiro",
+            " Canichana",
+            " Cavineño",
+            " Cayubaba",
+            " Chácobo",
+            " Chimán",
+            " Ese Ejja",
+            " Guaraní",
+            "\nGuarasu'we",
+            " Guarayu",
+            " Itonama",
+            " Leco",
+            " Machajuyai-kallawaya",
+            " Machineri",
+            "\nMaropa",
+            " Mojeñotrinitario",
+            " Mojeño-ignaciano",
+            " Moré",
+            " Mosetén",
+            " Movima",
+            "\nPacawara",
+            " Puquina",
+            " Keçuva",
+            " Sirionó",
+            " Tacana",
+            " Tapiete",
+            " Toromona",
+            " Uruchipaya",
+            "\nWeenhayek",
+            " Yaminawa",
+            " Yuki",
+            " Yuracaré",
+            " Zamuko"
+        ]
+    },
+    {
+        "query": "Bosna-Hersek'in resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Boşnakça, Hırvatça, Sırpça",
+        "sub": "Bosna-Hersek",
+        "count": "3",
+        "list": [
+            " Boşnakça",
+            " Hırvatça",
+            " Sırpça"
+        ]
+    },
+    {
+        "query": "Botsvana'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İngilizce",
+        "sub": "Botsvana",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Brezilya'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Portekizce",
+        "sub": "Brezilya",
+        "count": "1",
+        "list": [
+            " Portekizce"
+        ]
+    },
+    {
+        "query": "Brunei'nin resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Malayca",
+        "sub": "Brunei",
+        "count": "1",
+        "list": [
+            " Malayca"
+        ]
+    },
+    {
+        "query": "Bulgaristan'ın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Bulgarca",
+        "sub": "Bulgaristan",
+        "count": "1",
+        "list": [
+            " Bulgarca"
+        ]
+    },
+    {
+        "query": "Burkina Faso'nun resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Mooré, Bissa, Dyula, Fulaca",
+        "sub": "Burkina Faso",
+        "count": "4",
+        "list": [
+            " Mooré",
+            " Bissa",
+            " Dyula",
+            " Fulaca"
+        ]
+    },
+    {
+        "query": "Yeşil Burun Adaları'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Portekizce",
+        "sub": "Yeşil Burun Adaları",
+        "count": "1",
+        "list": [
+            " Portekizce"
+        ]
+    },
+    {
+        "query": "Kamboçya'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Khmerce",
+        "sub": "Kamboçya",
+        "count": "1",
+        "list": [
+            " Khmerce"
+        ]
+    },
+    {
+        "query": "Kanada'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İngilizce, Fransızca",
+        "sub": "Kanada",
+        "count": "2",
+        "list": [
+            " İngilizce",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Şili'nin resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İspanyolca",
+        "sub": "Şili",
+        "count": "1",
+        "list": [
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Çin'in resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Mandarin Çincesi",
+        "sub": "Çin",
+        "count": "1",
+        "list": [
+            " Mandarin Çincesi"
+        ]
+    },
+    {
+        "query": "Fildişi Sahili'nin resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Fransızca",
+        "sub": "Fildişi Sahili",
+        "count": "1",
+        "list": [
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Kosta Rika'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İspanyolca",
+        "sub": "Kosta Rika",
+        "count": "1",
+        "list": [
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Hırvatistan'ın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Hırvatça",
+        "sub": "Hırvatistan",
+        "count": "1",
+        "list": [
+            " Hırvatça"
+        ]
+    },
+    {
+        "query": "Kuzey Kore'nin resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Korece",
+        "sub": "Kuzey Kore",
+        "count": "1",
+        "list": [
+            " Korece"
+        ]
+    },
+    {
+        "query": "Demokratik Kongo Cumhuriyeti'nin resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Fransızca",
+        "sub": "Demokratik Kongo Cumhuriyeti",
+        "count": "1",
+        "list": [
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Danimarka'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Danca",
+        "sub": "Danimarka",
+        "count": "1",
+        "list": [
+            " Danca"
+        ]
+    },
+    {
+        "query": "Cibuti'nin resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Fransızca, Arapça",
+        "sub": "Cibuti",
+        "count": "2",
+        "list": [
+            " Fransızca",
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Dominika'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İngilizce",
+        "sub": "Dominika",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Dominik Cumhuriyeti'nin resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İspanyolca",
+        "sub": "Dominik Cumhuriyeti",
+        "count": "1",
+        "list": [
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Eritre'nin resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Tigrinya, Arapça, İngilizce",
+        "sub": "Eritre",
+        "count": "3",
+        "list": [
+            " Tigrinya",
+            " Arapça",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Estonya'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Estonca",
+        "sub": "Estonya",
+        "count": "1",
+        "list": [
+            " Estonca"
+        ]
+    },
+    {
+        "query": "Esvatini'nin resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Sisvati, İngilizce",
+        "sub": "Esvatini",
+        "count": "2",
+        "list": [
+            " Sisvati",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Etiyopya'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Amharca",
+        "sub": "Etiyopya",
+        "count": "1",
+        "list": [
+            " Amharca"
+        ]
+    },
+    {
+        "query": "Fiji'nin resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İngilizce, Fiji Dili, Fiji Hintçesi",
+        "sub": "Fiji",
+        "count": "3",
+        "list": [
+            " İngilizce",
+            " Fiji Dili",
+            " Fiji Hintçesi"
+        ]
+    },
+    {
+        "query": "Gabon'un resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Fransızca",
+        "sub": "Gabon",
+        "count": "1",
+        "list": [
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Yunanistan'ın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Yunanca",
+        "sub": "Yunanistan",
+        "count": "1",
+        "list": [
+            " Yunanca"
+        ]
+    },
+    {
+        "query": "Grenada'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İngilizce",
+        "sub": "Grenada",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Gine'nin resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Fransızca",
+        "sub": "Gine",
+        "count": "1",
+        "list": [
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Gine-Bissau'nun resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Portekizce",
+        "sub": "Gine-Bissau",
+        "count": "1",
+        "list": [
+            " Portekizce"
+        ]
+    },
+    {
+        "query": "Honduras'ın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İspanyolca",
+        "sub": "Honduras",
+        "count": "1",
+        "list": [
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Macaristan'ın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Macarca",
+        "sub": "Macaristan",
+        "count": "1",
+        "list": [
+            " Macarca"
+        ]
+    },
+    {
+        "query": "Hindistan'ın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Hintçe, İngilizce",
+        "sub": "Hindistan",
+        "count": "2",
+        "list": [
+            " Hintçe",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "İrlanda'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İrlandaca, İngilizce",
+        "sub": "İrlanda",
+        "count": "2",
+        "list": [
+            " İrlandaca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "İsrail'in resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İbranice, Arapça",
+        "sub": "İsrail",
+        "count": "2",
+        "list": [
+            " İbranice",
+            " Arapça"
+        ]
+    },
+    {
+        "query": "İtalya'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İtalyanca",
+        "sub": "İtalya",
+        "count": "1",
+        "list": [
+            " İtalyanca"
+        ]
+    },
+    {
+        "query": "Ürdün'ün resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Arapça",
+        "sub": "Ürdün",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Kazakistan'ın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Kazakça, Rusça",
+        "sub": "Kazakistan",
+        "count": "2",
+        "list": [
+            " Kazakça",
+            " Rusça"
+        ]
+    },
+    {
+        "query": "Kenya'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Svahili, İngilizce",
+        "sub": "Kenya",
+        "count": "2",
+        "list": [
+            " Svahili",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Kiribati'nin resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İngilizce, Gilbertçe",
+        "sub": "Kiribati",
+        "count": "2",
+        "list": [
+            " İngilizce",
+            " Gilbertçe"
+        ]
+    },
+    {
+        "query": "Kuveyt'in resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Arapça",
+        "sub": "Kuveyt",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Laos'un resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Laoca",
+        "sub": "Laos",
+        "count": "1",
+        "list": [
+            " Laoca"
+        ]
+    },
+    {
+        "query": "Letonya'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Letonca",
+        "sub": "Letonya",
+        "count": "1",
+        "list": [
+            " Letonca"
+        ]
+    },
+    {
+        "query": "Lübnan'ın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Arapça",
+        "sub": "Lübnan",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Libya'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Arapça",
+        "sub": "Libya",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Lihtenştayn'ın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Almanca",
+        "sub": "Lihtenştayn",
+        "count": "1",
+        "list": [
+            " Almanca"
+        ]
+    },
+    {
+        "query": "Marshall Adaları'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Marshallca, İngilizce",
+        "sub": "Marshall Adaları",
+        "count": "2",
+        "list": [
+            " Marshallca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Moritanya'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Arapça",
+        "sub": "Moritanya",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Mauritius'un resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İngilizce, Fransızca",
+        "sub": "Mauritius",
+        "count": "2",
+        "list": [
+            " İngilizce",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Moğolistan'ın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Moğolca",
+        "sub": "Moğolistan",
+        "count": "1",
+        "list": [
+            " Moğolca"
+        ]
+    },
+    {
+        "query": "Fas'ın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Arapça, Tamazight",
+        "sub": "Fas",
+        "count": "2",
+        "list": [
+            " Arapça",
+            " Tamazight"
+        ]
+    },
+    {
+        "query": "Myanmar'ın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Burmaca",
+        "sub": "Myanmar",
+        "count": "1",
+        "list": [
+            " Burmaca"
+        ]
+    },
+    {
+        "query": "Namibya'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İngilizce",
+        "sub": "Namibya",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Nauru'nun resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Nauruca, İngilizce",
+        "sub": "Nauru",
+        "count": "2",
+        "list": [
+            " Nauruca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Nijer'in resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Fransızca",
+        "sub": "Nijer",
+        "count": "1",
+        "list": [
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Norveç'in resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Norveççe",
+        "sub": "Norveç",
+        "count": "1",
+        "list": [
+            " Norveççe"
+        ]
+    },
+    {
+        "query": "Umman'ın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Arapça",
+        "sub": "Umman",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Pakistan'ın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Urduca, İngilizce",
+        "sub": "Pakistan",
+        "count": "2",
+        "list": [
+            " Urduca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Palau'nun resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Palauca, İngilizce",
+        "sub": "Palau",
+        "count": "2",
+        "list": [
+            " Palauca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Papua Yeni Gine'nin resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İngilizce, Tok Pisin, Hiri Motu, Papua Yeni Gine İşaret Dili",
+        "sub": "Papua Yeni Gine",
+        "count": "4",
+        "list": [
+            " İngilizce",
+            " Tok Pisin",
+            " Hiri Motu",
+            " Papua Yeni Gine İşaret Dili"
+        ]
+    },
+    {
+        "query": "Paraguay'ın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İspanyolca, Guaraní",
+        "sub": "Paraguay",
+        "count": "2",
+        "list": [
+            " İspanyolca",
+            " Guaraní"
+        ]
+    },
+    {
+        "query": "Katar'ın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Arapça",
+        "sub": "Katar",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Moldova'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Romence",
+        "sub": "Moldova",
+        "count": "1",
+        "list": [
+            " Romence"
+        ]
+    },
+    {
+        "query": "Romanya'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Romence",
+        "sub": "Romanya",
+        "count": "1",
+        "list": [
+            " Romence"
+        ]
+    },
+    {
+        "query": "Ruanda'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Kinyarwanda, Fransızca, İngilizce, Svahili",
+        "sub": "Ruanda",
+        "count": "4",
+        "list": [
+            " Kinyarwanda",
+            " Fransızca",
+            " İngilizce",
+            " Svahili"
+        ]
+    },
+    {
+        "query": "Saint Kitts ve Nevis'in resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İngilizce",
+        "sub": "Saint Kitts ve Nevis",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Saint Vincent ve Grenadinler'in resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İngilizce",
+        "sub": "Saint Vincent ve Grenadinler",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "San Marino'nun resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İtalyanca",
+        "sub": "San Marino",
+        "count": "1",
+        "list": [
+            " İtalyanca"
+        ]
+    },
+    {
+        "query": "Senegal'ın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Fransızca",
+        "sub": "Senegal",
+        "count": "1",
+        "list": [
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Sırbistan'ın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Sırpça",
+        "sub": "Sırbistan",
+        "count": "1",
+        "list": [
+            " Sırpça"
+        ]
+    },
+    {
+        "query": "Seyşeller'in resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Seyşel Creole, Fransızca, İngilizce",
+        "sub": "Seyşeller",
+        "count": "3",
+        "list": [
+            " Seyşel Creole",
+            " Fransızca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Singapur'un resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İngilizce, Malayca, Mandarin, Tamil",
+        "sub": "Singapur",
+        "count": "4",
+        "list": [
+            " İngilizce",
+            " Malayca",
+            " Mandarin",
+            " Tamil"
+        ]
+    },
+    {
+        "query": "Slovenya'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Slovence",
+        "sub": "Slovenya",
+        "count": "1",
+        "list": [
+            " Slovence"
+        ]
+    },
+    {
+        "query": "Solomon Adaları'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İngilizce",
+        "sub": "Solomon Adaları",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "İspanya'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İspanyolca",
+        "sub": "İspanya",
+        "count": "1",
+        "list": [
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Sri Lanka'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Sinhala, Tamilce",
+        "sub": "Sri Lanka",
+        "count": "2",
+        "list": [
+            " Sinhala",
+            " Tamilce"
+        ]
+    },
+    {
+        "query": "Sudan'ın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Arapça, İngilizce",
+        "sub": "Sudan",
+        "count": "2",
+        "list": [
+            " Arapça",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "İsviçre'nin resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Almanca, Fransızca, İtalyanca, Romanşça",
+        "sub": "İsviçre",
+        "count": "4",
+        "list": [
+            " Almanca",
+            " Fransızca",
+            " İtalyanca",
+            " Romanşça"
+        ]
+    },
+    {
+        "query": "Trinidad ve Tobago'nun resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İngilizce",
+        "sub": "Trinidad ve Tobago",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Tunus'un resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Arapça",
+        "sub": "Tunus",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Türkiye'nin resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Türkçe",
+        "sub": "Türkiye",
+        "count": "1",
+        "list": [
+            " Türkçe"
+        ]
+    },
+    {
+        "query": "Türkmenistan'ın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Türkmence",
+        "sub": "Türkmenistan",
+        "count": "1",
+        "list": [
+            " Türkmence"
+        ]
+    },
+    {
+        "query": "Tuvalu'nun resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Tuvaluca, İngilizce",
+        "sub": "Tuvalu",
+        "count": "2",
+        "list": [
+            " Tuvaluca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Ukrayna'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Ukraynaca",
+        "sub": "Ukrayna",
+        "count": "1",
+        "list": [
+            " Ukraynaca"
+        ]
+    },
+    {
+        "query": "Tanzanya'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Svahili, İngilizce",
+        "sub": "Tanzanya",
+        "count": "2",
+        "list": [
+            " Svahili",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Amerika Birleşik Devletleri'nin resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İngilizce",
+        "sub": "Amerika Birleşik Devletleri",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Uruguay'ın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İspanyolca",
+        "sub": "Uruguay",
+        "count": "1",
+        "list": [
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Yemen'in resmi dili/dilleri şudur/şunlardır:",
+        "answer": " Arapça",
+        "sub": "Yemen",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Zambiya'nın resmi dili/dilleri şudur/şunlardır:",
+        "answer": " İngilizce",
+        "sub": "Zambiya",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    }
+]

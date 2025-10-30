@@ -1,0 +1,1286 @@
+[
+    {
+        "query": "La lingua originale di Il Fiore Scarlatto è",
+        "answer": " Russo",
+        "sub": "Il Fiore Scarlatto",
+        "sub_en": "The Scarlet Flower"
+    },
+    {
+        "query": "La lingua originale di Inghilterra, la loro Inghilterra è",
+        "answer": " Inglese",
+        "sub": "Inghilterra, la loro Inghilterra",
+        "sub_en": "England, Their England"
+    },
+    {
+        "query": "La lingua originale di Notre Dame de Paris è",
+        "answer": " Francese",
+        "sub": "Notre Dame de Paris",
+        "sub_en": "The Hunchback of Notre Dame"
+    },
+    {
+        "query": "La lingua originale di Narciso nero è",
+        "answer": " Inglese",
+        "sub": "Narciso nero",
+        "sub_en": "Black Narcissus"
+    },
+    {
+        "query": "La lingua originale di L'Agenzia di Vetro è",
+        "answer": " Persiano",
+        "sub": "L'Agenzia di Vetro",
+        "sub_en": "The Glass Agency"
+    },
+    {
+        "query": "La lingua originale di Benvenuto è",
+        "answer": " Telugu",
+        "sub": "Benvenuto",
+        "sub_en": "Swagatam"
+    },
+    {
+        "query": "La lingua originale di Oltremare, sotto pietra è",
+        "answer": " Inglese",
+        "sub": "Oltremare, sotto pietra",
+        "sub_en": "Over Sea, Under Stone"
+    },
+    {
+        "query": "La lingua originale di Vetri della Slavonia è",
+        "answer": " Croato",
+        "sub": "Vetri della Slavonia",
+        "sub_en": "Glas Slavonije"
+    },
+    {
+        "query": "La lingua originale di Istruzione è",
+        "answer": " Coreano",
+        "sub": "Istruzione",
+        "sub_en": "Arahan"
+    },
+    {
+        "query": "La lingua originale di La Tregua è",
+        "answer": " Italiano",
+        "sub": "La Tregua",
+        "sub_en": "The Truce"
+    },
+    {
+        "query": "La lingua originale di Il pianeta delle scimmie è",
+        "answer": " Francese",
+        "sub": "Il pianeta delle scimmie",
+        "sub_en": "Planet of the Apes"
+    },
+    {
+        "query": "La lingua originale di Eenadu è",
+        "answer": " Telugu",
+        "sub": "Eenadu",
+        "sub_en": "Eenadu"
+    },
+    {
+        "query": "La lingua originale di Baaz è",
+        "answer": " Hindi",
+        "sub": "Baaz",
+        "sub_en": "Baaz"
+    },
+    {
+        "query": "La lingua originale di Voodoo Lounge è",
+        "answer": " Inglese",
+        "sub": "Voodoo Lounge",
+        "sub_en": "Voodoo Lounge"
+    },
+    {
+        "query": "La lingua originale di Zampa è",
+        "answer": " Francese",
+        "sub": "Zampa",
+        "sub_en": "Zampa"
+    },
+    {
+        "query": "La lingua originale di Anandha Jodhi è",
+        "answer": " il tamil",
+        "sub": "Anandha Jodhi",
+        "sub_en": "Anandha Jodhi"
+    },
+    {
+        "query": "La lingua originale di Vishwanatha Nayakudu è",
+        "answer": " Telugu",
+        "sub": "Vishwanatha Nayakudu",
+        "sub_en": "Vishwanatha Nayakudu"
+    },
+    {
+        "query": "La lingua originale di Maya Kannadi è",
+        "answer": " il tamil",
+        "sub": "Maya Kannadi",
+        "sub_en": "Maya Kannadi"
+    },
+    {
+        "query": "La lingua originale di Il Bacio Perfetto è",
+        "answer": " Inglese",
+        "sub": "Il Bacio Perfetto",
+        "sub_en": "The Perfect Kiss"
+    },
+    {
+        "query": "La lingua originale di Il Giorno Oggi è",
+        "answer": " Inglese",
+        "sub": "Il Giorno Oggi",
+        "sub_en": "The Day Today"
+    },
+    {
+        "query": "La lingua originale di Yonggary è",
+        "answer": " Coreano",
+        "sub": "Yonggary",
+        "sub_en": "Yonggary"
+    },
+    {
+        "query": "La lingua originale di Amleto va in affari è",
+        "answer": " finlandese",
+        "sub": "Amleto va in affari",
+        "sub_en": "Hamlet Goes Business"
+    },
+    {
+        "query": "La lingua originale di Cosa ha detto il cuore è",
+        "answer": " Hindi",
+        "sub": "Cosa ha detto il cuore",
+        "sub_en": "Kyaa Dil Ne Kahaa"
+    },
+    {
+        "query": "La lingua originale di Tolomeo è",
+        "answer": " Italiano",
+        "sub": "Tolomeo",
+        "sub_en": "Tolomeo"
+    },
+    {
+        "query": "La lingua originale di Il Mese del Raccolto è",
+        "answer": " finlandese",
+        "sub": "Il Mese del Raccolto",
+        "sub_en": "The Harvest Month"
+    },
+    {
+        "query": "La lingua originale di Un fiore ghiacciato è",
+        "answer": " Coreano",
+        "sub": "Un fiore ghiacciato",
+        "sub_en": "A Frozen Flower"
+    },
+    {
+        "query": "La lingua originale di Giuramento sull'India è",
+        "answer": " Hindi",
+        "sub": "Giuramento sull'India",
+        "sub_en": "Hindustan Ki Kasam"
+    },
+    {
+        "query": "La lingua originale di Illusione è",
+        "answer": " Hindi",
+        "sub": "Illusione",
+        "sub_en": "Mithya"
+    },
+    {
+        "query": "La lingua originale di Le nozze di Figaro è",
+        "answer": " Francese",
+        "sub": "Le nozze di Figaro",
+        "sub_en": "The Marriage of Figaro"
+    },
+    {
+        "query": "La lingua originale di The Irish Times è",
+        "answer": " Inglese",
+        "sub": "The Irish Times",
+        "sub_en": "The Irish Times"
+    },
+    {
+        "query": "La lingua originale di I nomi dell'amore è",
+        "answer": " Francese",
+        "sub": "I nomi dell'amore",
+        "sub_en": "The Names of Love"
+    },
+    {
+        "query": "La lingua originale di Brava Gente è",
+        "answer": " Portoghese",
+        "sub": "Brava Gente",
+        "sub_en": "Brava Gente"
+    },
+    {
+        "query": "La lingua originale di Il Taxi Viola è",
+        "answer": " Francese",
+        "sub": "Il Taxi Viola",
+        "sub_en": "The Purple Taxi"
+    },
+    {
+        "query": "La lingua originale di Ho bisogno di romanticismo. è",
+        "answer": " Coreano",
+        "sub": "Ho bisogno di romanticismo.",
+        "sub_en": "I Need Romance"
+    },
+    {
+        "query": "La lingua originale di Uccelli selvatici è",
+        "answer": " Svedese",
+        "sub": "Uccelli selvatici",
+        "sub_en": "Wild Birds"
+    },
+    {
+        "query": "La lingua originale di Thillu Mullu è",
+        "answer": " il tamil",
+        "sub": "Thillu Mullu",
+        "sub_en": "Thillu Mullu"
+    },
+    {
+        "query": "La lingua originale di Love Actually è",
+        "answer": " Inglese",
+        "sub": "Love Actually",
+        "sub_en": "Love Actually"
+    },
+    {
+        "query": "La lingua originale di Sedurre il Dottor Lewis è",
+        "answer": " Francese",
+        "sub": "Sedurre il Dottor Lewis",
+        "sub_en": "Seducing Doctor Lewis"
+    },
+    {
+        "query": "La lingua originale di Quella ragazza è",
+        "answer": " Inglese",
+        "sub": "Quella ragazza",
+        "sub_en": "That Girl"
+    },
+    {
+        "query": "La lingua originale di My Bloody Valentine 3D è",
+        "answer": " Inglese",
+        "sub": "My Bloody Valentine 3D",
+        "sub_en": "My Bloody Valentine 3D"
+    },
+    {
+        "query": "La lingua originale di Sala della Fama di Hallmark è",
+        "answer": " Inglese",
+        "sub": "Sala della Fama di Hallmark",
+        "sub_en": "Hallmark Hall of Fame"
+    },
+    {
+        "query": "La lingua originale di Terra del Sorriso è",
+        "answer": " il tamil",
+        "sub": "Terra del Sorriso",
+        "sub_en": "Punnagai Desam"
+    },
+    {
+        "query": "La lingua originale di La colomba è",
+        "answer": " Francese",
+        "sub": "La colomba",
+        "sub_en": "La colombe"
+    },
+    {
+        "query": "La lingua originale di Tusculanae Disputationes è",
+        "answer": " Latino",
+        "sub": "Tusculanae Disputationes",
+        "sub_en": "Tusculanae Disputationes"
+    },
+    {
+        "query": "La lingua originale di Calcio settimanale è",
+        "answer": " Inglese",
+        "sub": "Calcio settimanale",
+        "sub_en": "Football Weekly"
+    },
+    {
+        "query": "La lingua originale di I Love Lucy è",
+        "answer": " Inglese",
+        "sub": "I Love Lucy",
+        "sub_en": "I Love Lucy"
+    },
+    {
+        "query": "La lingua originale di Don Giovanni è",
+        "answer": " Francese",
+        "sub": "Don Giovanni",
+        "sub_en": "Dom Juan"
+    },
+    {
+        "query": "La lingua originale di Atalia è",
+        "answer": " Francese",
+        "sub": "Atalia",
+        "sub_en": "Athalie"
+    },
+    {
+        "query": "La lingua originale di La vita più bella è",
+        "answer": " Francese",
+        "sub": "La vita più bella",
+        "sub_en": "Plus belle la vie"
+    },
+    {
+        "query": "La lingua originale di Città Naturale è",
+        "answer": " Coreano",
+        "sub": "Città Naturale",
+        "sub_en": "Natural City"
+    },
+    {
+        "query": "La lingua originale di Otto donne è",
+        "answer": " Francese",
+        "sub": "Otto donne",
+        "sub_en": "8 Women"
+    },
+    {
+        "query": "La lingua originale di Salute è",
+        "answer": " Inglese",
+        "sub": "Salute",
+        "sub_en": "Cheers"
+    },
+    {
+        "query": "La lingua originale di Monster Buster Club è",
+        "answer": " Francese",
+        "sub": "Monster Buster Club",
+        "sub_en": "Monster Buster Club"
+    },
+    {
+        "query": "La lingua originale di Cuore è",
+        "answer": " Italiano",
+        "sub": "Cuore",
+        "sub_en": "Heart"
+    },
+    {
+        "query": "La lingua originale di Livelli è",
+        "answer": " Telugu",
+        "sub": "Livelli",
+        "sub_en": "Antastulu"
+    },
+    {
+        "query": "La lingua originale di Adattamento è",
+        "answer": " Inglese",
+        "sub": "Adattamento",
+        "sub_en": "Adaptation"
+    },
+    {
+        "query": "La lingua originale di Bruciato dal Sole è",
+        "answer": " Russo",
+        "sub": "Bruciato dal Sole",
+        "sub_en": "Burnt by the Sun"
+    },
+    {
+        "query": "La lingua originale di Pensieri notturni è",
+        "answer": " Inglese",
+        "sub": "Pensieri notturni",
+        "sub_en": "Night-Thoughts"
+    },
+    {
+        "query": "La lingua originale di La clemenza di Tito è",
+        "answer": " Italiano",
+        "sub": "La clemenza di Tito",
+        "sub_en": "La clemenza di Tito"
+    },
+    {
+        "query": "La lingua originale di Un Affare Molto Privato è",
+        "answer": " Francese",
+        "sub": "Un Affare Molto Privato",
+        "sub_en": "A Very Private Affair"
+    },
+    {
+        "query": "La lingua originale di Commediasexi è",
+        "answer": " Italiano",
+        "sub": "Commediasexi",
+        "sub_en": "Commediasexi"
+    },
+    {
+        "query": "La lingua originale di I figli del Paradiso è",
+        "answer": " Francese",
+        "sub": "I figli del Paradiso",
+        "sub_en": "Children of Paradise"
+    },
+    {
+        "query": "La lingua originale di Il Cortegiano è",
+        "answer": " Italiano",
+        "sub": "Il Cortegiano",
+        "sub_en": "The Book of the Courtier"
+    },
+    {
+        "query": "La lingua originale di Divertente Piccola Guerra Sporca è",
+        "answer": " Spagnolo",
+        "sub": "Divertente Piccola Guerra Sporca",
+        "sub_en": "Funny Dirty Little War"
+    },
+    {
+        "query": "La lingua originale di Razzo a bottiglia è",
+        "answer": " Spagnolo",
+        "sub": "Razzo a bottiglia",
+        "sub_en": "Bottle Rocket"
+    },
+    {
+        "query": "La lingua originale di Gioiello dei poeti Kalidasa è",
+        "answer": " Kannada",
+        "sub": "Gioiello dei poeti Kalidasa",
+        "sub_en": "Kaviratna Kalidasa"
+    },
+    {
+        "query": "La lingua originale di Bel Pugile è",
+        "answer": " Thailandese",
+        "sub": "Bel Pugile",
+        "sub_en": "Beautiful Boxer"
+    },
+    {
+        "query": "La lingua originale di Allegro Non Troppo è",
+        "answer": " Italiano",
+        "sub": "Allegro Non Troppo",
+        "sub_en": "Allegro Non Troppo"
+    },
+    {
+        "query": "La lingua originale di Il Grande Cittadino è",
+        "answer": " Russo",
+        "sub": "Il Grande Cittadino",
+        "sub_en": "The Great Citizen"
+    },
+    {
+        "query": "La lingua originale di Chirodini Tumi Je Amar è",
+        "answer": " Bengalese",
+        "sub": "Chirodini Tumi Je Amar",
+        "sub_en": "Chirodini Tumi Je Amar"
+    },
+    {
+        "query": "La lingua originale di Il giro del mondo in 80 giorni è",
+        "answer": " Inglese",
+        "sub": "Il giro del mondo in 80 giorni",
+        "sub_en": "Around the World in 80 Days"
+    },
+    {
+        "query": "La lingua originale di Canne selvagge è",
+        "answer": " Francese",
+        "sub": "Canne selvagge",
+        "sub_en": "Wild Reeds"
+    },
+    {
+        "query": "La lingua originale di Lais di Maria di Francia è",
+        "answer": " Francese",
+        "sub": "Lais di Maria di Francia",
+        "sub_en": "Lais of Marie de France"
+    },
+    {
+        "query": "La lingua originale di Thotta è",
+        "answer": " il tamil",
+        "sub": "Thotta",
+        "sub_en": "Thotta"
+    },
+    {
+        "query": "La lingua originale di Il Missionario è",
+        "answer": " Inglese",
+        "sub": "Il Missionario",
+        "sub_en": "The Missionary"
+    },
+    {
+        "query": "La lingua originale di A sangue freddo è",
+        "answer": " Inglese",
+        "sub": "A sangue freddo",
+        "sub_en": "In Cold Blood"
+    },
+    {
+        "query": "La lingua originale di Zero Kelvin è",
+        "answer": " Norvegese",
+        "sub": "Zero Kelvin",
+        "sub_en": "Zero Kelvin"
+    },
+    {
+        "query": "La lingua originale di Il dolce viaggio è",
+        "answer": " Francese",
+        "sub": "Il dolce viaggio",
+        "sub_en": "Le Voyage en douce"
+    },
+    {
+        "query": "La lingua originale di Disquisizioni Aritmetiche è",
+        "answer": " Latino",
+        "sub": "Disquisizioni Aritmetiche",
+        "sub_en": "Disquisitiones Arithmeticae"
+    },
+    {
+        "query": "La lingua originale di Innocente è",
+        "answer": " il tamil",
+        "sub": "Innocente",
+        "sub_en": "Nirdoshi"
+    },
+    {
+        "query": "La lingua originale di Cacciatore di troll è",
+        "answer": " Norvegese",
+        "sub": "Cacciatore di troll",
+        "sub_en": "Trollhunter"
+    },
+    {
+        "query": "La lingua originale di Serenata Spagnola è",
+        "answer": " Spagnolo",
+        "sub": "Serenata Spagnola",
+        "sub_en": "Spanish Serenade"
+    },
+    {
+        "query": "La lingua originale di Distretto 13 è",
+        "answer": " Francese",
+        "sub": "Distretto 13",
+        "sub_en": "District 13"
+    },
+    {
+        "query": "La lingua originale di Canzoni dal secondo piano è",
+        "answer": " Svedese",
+        "sub": "Canzoni dal secondo piano",
+        "sub_en": "Songs from the Second Floor"
+    },
+    {
+        "query": "La lingua originale di Viaggio Cosmico è",
+        "answer": " Inglese",
+        "sub": "Viaggio Cosmico",
+        "sub_en": "Cosmic Voyage"
+    },
+    {
+        "query": "La lingua originale di Lo straniero è",
+        "answer": " Bengalese",
+        "sub": "Lo straniero",
+        "sub_en": "The Stranger"
+    },
+    {
+        "query": "La lingua originale di Don Francisco Presenta è",
+        "answer": " Spagnolo",
+        "sub": "Don Francisco Presenta",
+        "sub_en": "Don Francisco Presenta"
+    },
+    {
+        "query": "La lingua originale di Anand Math è",
+        "answer": " Hindi",
+        "sub": "Anand Math",
+        "sub_en": "Anand Math"
+    },
+    {
+        "query": "La lingua originale di Komal Gandhar è",
+        "answer": " Bengalese",
+        "sub": "Komal Gandhar",
+        "sub_en": "Komal Gandhar"
+    },
+    {
+        "query": "La lingua originale di Mahapurush è",
+        "answer": " Bengalese",
+        "sub": "Mahapurush",
+        "sub_en": "Mahapurush"
+    },
+    {
+        "query": "La lingua originale di Breve tempo è",
+        "answer": " Inglese",
+        "sub": "Breve tempo",
+        "sub_en": "Short Time"
+    },
+    {
+        "query": "La lingua originale di Un dizionario latino è",
+        "answer": " Latino",
+        "sub": "Un dizionario latino",
+        "sub_en": "A Latin Dictionary"
+    },
+    {
+        "query": "La lingua originale di Guglielmo Tell è",
+        "answer": " Francese",
+        "sub": "Guglielmo Tell",
+        "sub_en": "William Tell"
+    },
+    {
+        "query": "La lingua originale di La felicità è nel campo. è",
+        "answer": " Francese",
+        "sub": "La felicità è nel campo.",
+        "sub_en": "Happiness Is in the Field"
+    },
+    {
+        "query": "La lingua originale di Questa è la mia vita. è",
+        "answer": " Hindi",
+        "sub": "Questa è la mia vita.",
+        "sub_en": "Ye Meri Life Hai"
+    },
+    {
+        "query": "La lingua originale di Khottabych è",
+        "answer": " Russo",
+        "sub": "Khottabych",
+        "sub_en": "Khottabych"
+    },
+    {
+        "query": "La lingua originale di Thuppakki è",
+        "answer": " il tamil",
+        "sub": "Thuppakki",
+        "sub_en": "Thuppakki"
+    },
+    {
+        "query": "La lingua originale di Banda Olsen è",
+        "answer": " Danese",
+        "sub": "Banda Olsen",
+        "sub_en": "Olsen Gang"
+    },
+    {
+        "query": "La lingua originale di La Jornada è",
+        "answer": " Spagnolo",
+        "sub": "La Jornada",
+        "sub_en": "La Jornada"
+    },
+    {
+        "query": "La lingua originale di Minnale è",
+        "answer": " il tamil",
+        "sub": "Minnale",
+        "sub_en": "Minnale"
+    },
+    {
+        "query": "La lingua originale di Soldato è",
+        "answer": " il tamil",
+        "sub": "Soldato",
+        "sub_en": "Sippai"
+    },
+    {
+        "query": "La lingua originale di Scala Bianca è",
+        "answer": " Inglese",
+        "sub": "Scala Bianca",
+        "sub_en": "White Ladder"
+    },
+    {
+        "query": "La lingua originale di Maria Egiziaca è",
+        "answer": " Italiano",
+        "sub": "Maria Egiziaca",
+        "sub_en": "Maria egiziaca"
+    },
+    {
+        "query": "La lingua originale di Souryam è",
+        "answer": " Telugu",
+        "sub": "Souryam",
+        "sub_en": "Souryam"
+    },
+    {
+        "query": "La lingua originale di Il Giardino delle Ombre è",
+        "answer": " Francese",
+        "sub": "Il Giardino delle Ombre",
+        "sub_en": "La Haine"
+    },
+    {
+        "query": "La lingua originale di Chander Pahar è",
+        "answer": " Bengalese",
+        "sub": "Chander Pahar",
+        "sub_en": "Chander Pahar"
+    },
+    {
+        "query": "La lingua originale di Pericoloso è",
+        "answer": " Telugu",
+        "sub": "Pericoloso",
+        "sub_en": "Khatarnak"
+    },
+    {
+        "query": "La lingua originale di Le tredici rose è",
+        "answer": " Spagnolo",
+        "sub": "Le tredici rose",
+        "sub_en": "Las 13 rosas"
+    },
+    {
+        "query": "La lingua originale di Il Mondo Nuovo è",
+        "answer": " Inglese",
+        "sub": "Il Mondo Nuovo",
+        "sub_en": "Brave New World"
+    },
+    {
+        "query": "La lingua originale di Il giorno in cui sono diventata donna è",
+        "answer": " Persiano",
+        "sub": "Il giorno in cui sono diventata donna",
+        "sub_en": "The Day I Became a Woman"
+    },
+    {
+        "query": "La lingua originale di Ginevra di Scozia è",
+        "answer": " Italiano",
+        "sub": "Ginevra di Scozia",
+        "sub_en": "Ginevra di Scozia"
+    },
+    {
+        "query": "La lingua originale di La ragazza di ieri è",
+        "answer": " Spagnolo",
+        "sub": "La ragazza di ieri",
+        "sub_en": "La Chica de Ayer"
+    },
+    {
+        "query": "La lingua originale di 36 Vayadhinile è",
+        "answer": " il tamil",
+        "sub": "36 Vayadhinile",
+        "sub_en": "36 Vayadhinile"
+    },
+    {
+        "query": "La lingua originale di La Pietra Bianca è",
+        "answer": " Svedese",
+        "sub": "La Pietra Bianca",
+        "sub_en": "The White Stone"
+    },
+    {
+        "query": "La lingua originale di Mississippi Masala è",
+        "answer": " Inglese",
+        "sub": "Mississippi Masala",
+        "sub_en": "Mississippi Masala"
+    },
+    {
+        "query": "La lingua originale di Brice de Nice è",
+        "answer": " Francese",
+        "sub": "Brice de Nice",
+        "sub_en": "Brice de Nice"
+    },
+    {
+        "query": "La lingua originale di Aspetta e vedrai! è",
+        "answer": " Russo",
+        "sub": "Aspetta e vedrai!",
+        "sub_en": "Well, Just You Wait!"
+    },
+    {
+        "query": "La lingua originale di Un cortometraggio sull'uccisione è",
+        "answer": " Polacco",
+        "sub": "Un cortometraggio sull'uccisione",
+        "sub_en": "A Short Film About Killing"
+    },
+    {
+        "query": "La lingua originale di Sotto il cielo blu è",
+        "answer": " Bengalese",
+        "sub": "Sotto il cielo blu",
+        "sub_en": "Neel Akasher Neechey"
+    },
+    {
+        "query": "La lingua originale di Ungli è",
+        "answer": " Hindi",
+        "sub": "Ungli",
+        "sub_en": "Ungli"
+    },
+    {
+        "query": "La lingua originale di L'amante di Yamudi. è",
+        "answer": " Telugu",
+        "sub": "L'amante di Yamudi.",
+        "sub_en": "Yamudiki Mogudu"
+    },
+    {
+        "query": "La lingua originale di Vipra Narayana è",
+        "answer": " il tamil",
+        "sub": "Vipra Narayana",
+        "sub_en": "Vipra Narayana"
+    },
+    {
+        "query": "La lingua originale di Studi anarchici è",
+        "answer": " Inglese",
+        "sub": "Studi anarchici",
+        "sub_en": "Anarchist Studies"
+    },
+    {
+        "query": "La lingua originale di Ispettore Gadget è",
+        "answer": " Francese",
+        "sub": "Ispettore Gadget",
+        "sub_en": "Inspector Gadget"
+    },
+    {
+        "query": "La lingua originale di Aalwar è",
+        "answer": " il tamil",
+        "sub": "Aalwar",
+        "sub_en": "Aalwar"
+    },
+    {
+        "query": "La lingua originale di Times Higher Education è",
+        "answer": " Inglese",
+        "sub": "Times Higher Education",
+        "sub_en": "Times Higher Education"
+    },
+    {
+        "query": "La lingua originale di Le vere casalinghe di Beverly Hills è",
+        "answer": " Inglese",
+        "sub": "Le vere casalinghe di Beverly Hills",
+        "sub_en": "The Real Housewives of Beverly Hills"
+    },
+    {
+        "query": "La lingua originale di Turner & Hooch è",
+        "answer": " Inglese",
+        "sub": "Turner & Hooch",
+        "sub_en": "Turner & Hooch"
+    },
+    {
+        "query": "La lingua originale di Sorga Ka Toedjoe è",
+        "answer": " Indonesiano",
+        "sub": "Sorga Ka Toedjoe",
+        "sub_en": "Sorga Ka Toedjoe"
+    },
+    {
+        "query": "La lingua originale di L'Eroe di Mumbai è",
+        "answer": " Inglese",
+        "sub": "L'Eroe di Mumbai",
+        "sub_en": "Slumdog Millionaire"
+    },
+    {
+        "query": "La lingua originale di Il Capo Engira Bhaskaran è",
+        "answer": " il tamil",
+        "sub": "Il Capo Engira Bhaskaran",
+        "sub_en": "Boss Engira Bhaskaran"
+    },
+    {
+        "query": "La lingua originale di Vjesnik è",
+        "answer": " Croato",
+        "sub": "Vjesnik",
+        "sub_en": "Vjesnik"
+    },
+    {
+        "query": "La lingua originale di Komban è",
+        "answer": " il tamil",
+        "sub": "Komban",
+        "sub_en": "Komban"
+    },
+    {
+        "query": "La lingua originale di Le Devoir è",
+        "answer": " Francese",
+        "sub": "Le Devoir",
+        "sub_en": "Le Devoir"
+    },
+    {
+        "query": "La lingua originale di Il Flauto Magico è",
+        "answer": " Svedese",
+        "sub": "Il Flauto Magico",
+        "sub_en": "The Magic Flute"
+    },
+    {
+        "query": "La lingua originale di Giovani, Sciolti, Felici è",
+        "answer": " Inglese",
+        "sub": "Giovani, Sciolti, Felici",
+        "sub_en": "Young Foolish Happy"
+    },
+    {
+        "query": "La lingua originale di Michael Madana Kama Rajan è",
+        "answer": " il tamil",
+        "sub": "Michael Madana Kama Rajan",
+        "sub_en": "Michael Madana Kama Rajan"
+    },
+    {
+        "query": "La lingua originale di Flashdance è",
+        "answer": " Inglese",
+        "sub": "Flashdance",
+        "sub_en": "Flashdance"
+    },
+    {
+        "query": "La lingua originale di Il Tempo è",
+        "answer": " Tedesco",
+        "sub": "Il Tempo",
+        "sub_en": "Die Zeit"
+    },
+    {
+        "query": "La lingua originale di Scuola di charme con Ricki Lake è",
+        "answer": " Inglese",
+        "sub": "Scuola di charme con Ricki Lake",
+        "sub_en": "Charm School with Ricki Lake"
+    },
+    {
+        "query": "La lingua originale di Vijetha è",
+        "answer": " Telugu",
+        "sub": "Vijetha",
+        "sub_en": "Vijetha"
+    },
+    {
+        "query": "La lingua originale di Il conformista è",
+        "answer": " Italiano",
+        "sub": "Il conformista",
+        "sub_en": "Il conformista"
+    },
+    {
+        "query": "La lingua originale di Quando l'amore arriva è",
+        "answer": " Hindi",
+        "sub": "Quando l'amore arriva",
+        "sub_en": "Jab Pyaar Kisise Hota Hai"
+    },
+    {
+        "query": "La lingua originale di Libro di Aggeo è",
+        "answer": " Ebraico",
+        "sub": "Libro di Aggeo",
+        "sub_en": "Book of Haggai"
+    },
+    {
+        "query": "La lingua originale di Una storia d'amore. è",
+        "answer": " il tamil",
+        "sub": "Una storia d'amore.",
+        "sub_en": "Aval Oru Thodar Kathai"
+    },
+    {
+        "query": "La lingua originale di Viaggio Oltre Tre Mari è",
+        "answer": " Hindi",
+        "sub": "Viaggio Oltre Tre Mari",
+        "sub_en": "Journey Beyond Three Seas"
+    },
+    {
+        "query": "La lingua originale di Aamra è",
+        "answer": " Bengalese",
+        "sub": "Aamra",
+        "sub_en": "Aamra"
+    },
+    {
+        "query": "La lingua originale di Peddarikam è",
+        "answer": " Telugu",
+        "sub": "Peddarikam",
+        "sub_en": "Peddarikam"
+    },
+    {
+        "query": "La lingua originale di Immersione di Cannella è",
+        "answer": " Bengalese",
+        "sub": "Immersione di Cannella",
+        "sub_en": "Daruchini Dip"
+    },
+    {
+        "query": "La lingua originale di Phi-Phi è",
+        "answer": " Francese",
+        "sub": "Phi-Phi",
+        "sub_en": "Phi-Phi"
+    },
+    {
+        "query": "La lingua originale di In silenzio è",
+        "answer": " Hindi",
+        "sub": "In silenzio",
+        "sub_en": "Chupke Chupke"
+    },
+    {
+        "query": "La lingua originale di Il Colpo è",
+        "answer": " Inglese",
+        "sub": "Il Colpo",
+        "sub_en": "The Knock"
+    },
+    {
+        "query": "La lingua originale di Il mio stesso carnefice è",
+        "answer": " Inglese",
+        "sub": "Il mio stesso carnefice",
+        "sub_en": "Mine Own Executioner"
+    },
+    {
+        "query": "La lingua originale di The Prisoner è",
+        "answer": " Italiano",
+        "sub": "The Prisoner",
+        "sub_en": "Il prigioniero"
+    },
+    {
+        "query": "La lingua originale di Il Petit Nicolò è",
+        "answer": " Francese",
+        "sub": "Il Petit Nicolò",
+        "sub_en": "Le Petit Nicolas"
+    },
+    {
+        "query": "La lingua originale di Kirkus Reviews è",
+        "answer": " Inglese",
+        "sub": "Kirkus Reviews",
+        "sub_en": "Kirkus Reviews"
+    },
+    {
+        "query": "La lingua originale di Jonny Vang è",
+        "answer": " Norvegese",
+        "sub": "Jonny Vang",
+        "sub_en": "Jonny Vang"
+    },
+    {
+        "query": "La lingua originale di Una storia di Cenerentola è",
+        "answer": " Inglese",
+        "sub": "Una storia di Cenerentola",
+        "sub_en": "A Cinderella Story"
+    },
+    {
+        "query": "La lingua originale di Juliet Bravo è",
+        "answer": " Inglese",
+        "sub": "Juliet Bravo",
+        "sub_en": "Juliet Bravo"
+    },
+    {
+        "query": "La lingua originale di La saga dei Forsyte è",
+        "answer": " Inglese",
+        "sub": "La saga dei Forsyte",
+        "sub_en": "The Forsyte Saga"
+    },
+    {
+        "query": "La lingua originale di Madeline è",
+        "answer": " Inglese",
+        "sub": "Madeline",
+        "sub_en": "Madeline"
+    },
+    {
+        "query": "La lingua originale di Polvere è",
+        "answer": " il tamil",
+        "sub": "Polvere",
+        "sub_en": "Dhool"
+    },
+    {
+        "query": "La lingua originale di Tata Birla Madhyalo Laila è",
+        "answer": " Telugu",
+        "sub": "Tata Birla Madhyalo Laila",
+        "sub_en": "Tata Birla Madhyalo Laila"
+    },
+    {
+        "query": "La lingua originale di Il Comune (Parigi, 1871) è",
+        "answer": " Francese",
+        "sub": "Il Comune (Parigi, 1871)",
+        "sub_en": "La Commune (Paris, 1871)"
+    },
+    {
+        "query": "La lingua originale di Salvataggio emotivo è",
+        "answer": " Inglese",
+        "sub": "Salvataggio emotivo",
+        "sub_en": "Emotional Rescue"
+    },
+    {
+        "query": "La lingua originale di R.U.R. è",
+        "answer": " Ceco",
+        "sub": "R.U.R.",
+        "sub_en": "R.U.R."
+    },
+    {
+        "query": "La lingua originale di TV Pazza è",
+        "answer": " Inglese",
+        "sub": "TV Pazza",
+        "sub_en": "Mad TV"
+    },
+    {
+        "query": "La lingua originale di Rovesciata in una bara è",
+        "answer": " Turco",
+        "sub": "Rovesciata in una bara",
+        "sub_en": "Somersault in a Coffin"
+    },
+    {
+        "query": "La lingua originale di Mishneh Berurah è",
+        "answer": " Ebraico",
+        "sub": "Mishneh Berurah",
+        "sub_en": "Mishnah Berurah"
+    },
+    {
+        "query": "La lingua originale di La cagna è",
+        "answer": " Inglese",
+        "sub": "La cagna",
+        "sub_en": "The Bitch"
+    },
+    {
+        "query": "La lingua originale di L'ospedale di Sabbia è",
+        "answer": " Polacco",
+        "sub": "L'ospedale di Sabbia",
+        "sub_en": "The Hour-Glass Sanatorium"
+    },
+    {
+        "query": "La lingua originale di Età dell'innocenza è",
+        "answer": " Telugu",
+        "sub": "Età dell'innocenza",
+        "sub_en": "Padaharella Vayasu"
+    },
+    {
+        "query": "La lingua originale di Il ladro di Parigi è",
+        "answer": " Francese",
+        "sub": "Il ladro di Parigi",
+        "sub_en": "The Thief of Paris"
+    },
+    {
+        "query": "La lingua originale di I bambini rubati è",
+        "answer": " Italiano",
+        "sub": "I bambini rubati",
+        "sub_en": "The Stolen Children"
+    },
+    {
+        "query": "La lingua originale di Amarcord è",
+        "answer": " Italiano",
+        "sub": "Amarcord",
+        "sub_en": "Amarcord"
+    },
+    {
+        "query": "La lingua originale di Centro Kavkaz è",
+        "answer": " Russo",
+        "sub": "Centro Kavkaz",
+        "sub_en": "Kavkaz Center"
+    },
+    {
+        "query": "La lingua originale di Respiro è",
+        "answer": " Italiano",
+        "sub": "Respiro",
+        "sub_en": "Respiro"
+    },
+    {
+        "query": "La lingua originale di Il Prezzo Giusto è",
+        "answer": " Francese",
+        "sub": "Il Prezzo Giusto",
+        "sub_en": "Le Juste Prix"
+    },
+    {
+        "query": "La lingua originale di Come ho concluso quest'estate è",
+        "answer": " Russo",
+        "sub": "Come ho concluso quest'estate",
+        "sub_en": "How I Ended This Summer"
+    },
+    {
+        "query": "La lingua originale di Jack Frost è",
+        "answer": " Russo",
+        "sub": "Jack Frost",
+        "sub_en": "Jack Frost"
+    },
+    {
+        "query": "La lingua originale di Il Custode è",
+        "answer": " Inglese",
+        "sub": "Il Custode",
+        "sub_en": "The Caretaker"
+    },
+    {
+        "query": "La lingua originale di Viaggio a Citera è",
+        "answer": " Greco",
+        "sub": "Viaggio a Citera",
+        "sub_en": "Voyage to Cythera"
+    },
+    {
+        "query": "La lingua originale di inoSMI è",
+        "answer": " Russo",
+        "sub": "inoSMI",
+        "sub_en": "inoSMI"
+    },
+    {
+        "query": "La lingua originale di Caro diario è",
+        "answer": " Italiano",
+        "sub": "Caro diario",
+        "sub_en": "Caro diario"
+    },
+    {
+        "query": "La lingua originale di La Certosa di Parma è",
+        "answer": " Francese",
+        "sub": "La Certosa di Parma",
+        "sub_en": "The Charterhouse of Parma"
+    },
+    {
+        "query": "La lingua originale di Gesù è",
+        "answer": " Inglese",
+        "sub": "Gesù",
+        "sub_en": "Jesus"
+    },
+    {
+        "query": "La lingua originale di Ballata Ussara è",
+        "answer": " Russo",
+        "sub": "Ballata Ussara",
+        "sub_en": "Hussar Ballad"
+    },
+    {
+        "query": "La lingua originale di Simon Boccanegra è",
+        "answer": " Italiano",
+        "sub": "Simon Boccanegra",
+        "sub_en": "Simon Boccanegra"
+    },
+    {
+        "query": "La lingua originale di Mediterraneo è",
+        "answer": " Italiano",
+        "sub": "Mediterraneo",
+        "sub_en": "Mediterraneo"
+    },
+    {
+        "query": "La lingua originale di Il gatto con gli stivali è",
+        "answer": " Italiano",
+        "sub": "Il gatto con gli stivali",
+        "sub_en": "Puss in Boots"
+    },
+    {
+        "query": "La lingua originale di Un incidente di caccia è",
+        "answer": " Russo",
+        "sub": "Un incidente di caccia",
+        "sub_en": "A Hunting Accident"
+    },
+    {
+        "query": "La lingua originale di Film Internazionale è",
+        "answer": " Inglese",
+        "sub": "Film Internazionale",
+        "sub_en": "Film International"
+    },
+    {
+        "query": "La lingua originale di Youku è",
+        "answer": " Cinese",
+        "sub": "Youku",
+        "sub_en": "Youku"
+    },
+    {
+        "query": "La lingua originale di Le Signore di Ferro è",
+        "answer": " Thailandese",
+        "sub": "Le Signore di Ferro",
+        "sub_en": "The Iron Ladies"
+    },
+    {
+        "query": "La lingua originale di Marito di seconda mano è",
+        "answer": " Punjabi",
+        "sub": "Marito di seconda mano",
+        "sub_en": "Second Hand Husband"
+    },
+    {
+        "query": "La lingua originale di Metro 2033 è",
+        "answer": " Russo",
+        "sub": "Metro 2033",
+        "sub_en": "Metro 2033"
+    },
+    {
+        "query": "La lingua originale di Teorema è",
+        "answer": " Italiano",
+        "sub": "Teorema",
+        "sub_en": "Teorema"
+    },
+    {
+        "query": "La lingua originale di Stylus Magazine è",
+        "answer": " Inglese",
+        "sub": "Stylus Magazine",
+        "sub_en": "Stylus Magazine"
+    },
+    {
+        "query": "La lingua originale di Il camorrista è",
+        "answer": " Italiano",
+        "sub": "Il camorrista",
+        "sub_en": "Il camorrista"
+    },
+    {
+        "query": "La lingua originale di Atomizzato è",
+        "answer": " Francese",
+        "sub": "Atomizzato",
+        "sub_en": "Atomised"
+    },
+    {
+        "query": "La lingua originale di Dizionario Biografico Nazionale è",
+        "answer": " Inglese",
+        "sub": "Dizionario Biografico Nazionale",
+        "sub_en": "Dictionary of National Biography"
+    },
+    {
+        "query": "La lingua originale di Bahumati è",
+        "answer": " Telugu",
+        "sub": "Bahumati",
+        "sub_en": "Bahumati"
+    },
+    {
+        "query": "La lingua originale di Il Decameron è",
+        "answer": " Italiano",
+        "sub": "Il Decameron",
+        "sub_en": "The Decameron"
+    },
+    {
+        "query": "La lingua originale di Espreso TV è",
+        "answer": " Ucraino",
+        "sub": "Espreso TV",
+        "sub_en": "Espreso TV"
+    },
+    {
+        "query": "La lingua originale di Pia de' Tolomei è",
+        "answer": " Italiano",
+        "sub": "Pia de' Tolomei",
+        "sub_en": "Pia de' Tolomei"
+    },
+    {
+        "query": "La lingua originale di Grande Fratello Australia è",
+        "answer": " Inglese",
+        "sub": "Grande Fratello Australia",
+        "sub_en": "Big Brother Australia"
+    },
+    {
+        "query": "La lingua originale di Yaamirukka Bayamey è",
+        "answer": " il tamil",
+        "sub": "Yaamirukka Bayamey",
+        "sub_en": "Yaamirukka Bayamey"
+    },
+    {
+        "query": "La lingua originale di Novye Izvestia è",
+        "answer": " Russo",
+        "sub": "Novye Izvestia",
+        "sub_en": "Novye Izvestia"
+    },
+    {
+        "query": "La lingua originale di Handbook of Love è",
+        "answer": " Italiano",
+        "sub": "Handbook of Love",
+        "sub_en": "Manuale d'amore"
+    },
+    {
+        "query": "La lingua originale di Oggi da te è",
+        "answer": " Malayalam",
+        "sub": "Oggi da te",
+        "sub_en": "Odayil Ninnu"
+    },
+    {
+        "query": "La lingua originale di Celia a scuola è",
+        "answer": " Spagnolo",
+        "sub": "Celia a scuola",
+        "sub_en": "Celia en el colegio"
+    },
+    {
+        "query": "La lingua originale di Rustavi 2 è",
+        "answer": " Georgiano",
+        "sub": "Rustavi 2",
+        "sub_en": "Rustavi 2"
+    },
+    {
+        "query": "La lingua originale di Regno di Rama è",
+        "answer": " Hindi",
+        "sub": "Regno di Rama",
+        "sub_en": "Ram Rajya"
+    },
+    {
+        "query": "La lingua originale di Il matrimonio di Rakhi è",
+        "answer": " Hindi",
+        "sub": "Il matrimonio di Rakhi",
+        "sub_en": "Rakhi Ka Swayamwar"
+    }
+]

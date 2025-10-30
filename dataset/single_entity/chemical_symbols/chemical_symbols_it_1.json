@@ -1,0 +1,182 @@
+[
+    {
+        "query": "Qual è il simbolo chimico dell'Idrogeno?",
+        "answer": " H",
+        "sub": "Idrogeno",
+        "en_sub": "Hydrogen"
+    },
+    {
+        "query": "Qual è il simbolo chimico del Berillio?",
+        "answer": " Be",
+        "sub": "Berillio",
+        "en_sub": "Beryllium"
+    },
+    {
+        "query": "Qual è il simbolo chimico del Boro?",
+        "answer": " B",
+        "sub": "Boro",
+        "en_sub": "Boron"
+    },
+    {
+        "query": "Qual è il simbolo chimico del Carbonio?",
+        "answer": " C",
+        "sub": "Carbonio",
+        "en_sub": "Carbon"
+    },
+    {
+        "query": "Qual è il simbolo chimico del Sodio?",
+        "answer": " Na",
+        "sub": "Sodio",
+        "en_sub": "Sodium"
+    },
+    {
+        "query": "Qual è il simbolo chimico del Magnesio?",
+        "answer": " Mg",
+        "sub": "Magnesio",
+        "en_sub": "Magnesium"
+    },
+    {
+        "query": "Qual è il simbolo chimico dell'Alluminio?",
+        "answer": " Al",
+        "sub": "Alluminio",
+        "en_sub": "Aluminium"
+    },
+    {
+        "query": "Qual è il simbolo chimico del Silicio?",
+        "answer": " Si",
+        "sub": "Silicio",
+        "en_sub": "Silicon"
+    },
+    {
+        "query": "Qual è il simbolo chimico del Fosforo?",
+        "answer": " P",
+        "sub": "Fosforo",
+        "en_sub": "Phosphorus"
+    },
+    {
+        "query": "Qual è il simbolo chimico dello Zolfo?",
+        "answer": " S",
+        "sub": "Zolfo",
+        "en_sub": "Sulfur"
+    },
+    {
+        "query": "Qual è il simbolo chimico dell'Argon?",
+        "answer": " Ar",
+        "sub": "Argon",
+        "en_sub": "Argon"
+    },
+    {
+        "query": "Qual è il simbolo chimico del Calcio?",
+        "answer": " Ca",
+        "sub": "Calcio",
+        "en_sub": "Calcium"
+    },
+    {
+        "query": "Qual è il simbolo chimico dello Scandio?",
+        "answer": " Sc",
+        "sub": "Scandio",
+        "en_sub": "Scandium"
+    },
+    {
+        "query": "Qual è il simbolo chimico del Ferro?",
+        "answer": " Fe",
+        "sub": "Ferro",
+        "en_sub": "Iron"
+    },
+    {
+        "query": "Qual è il simbolo chimico del Nichel?",
+        "answer": " Ni",
+        "sub": "Nichel",
+        "en_sub": "Nickel"
+    },
+    {
+        "query": "Qual è il simbolo chimico del Rame?",
+        "answer": " Cu",
+        "sub": "Rame",
+        "en_sub": "Copper"
+    },
+    {
+        "query": "Qual è il simbolo chimico dello Zinco?",
+        "answer": " Zn",
+        "sub": "Zinco",
+        "en_sub": "Zinc"
+    },
+    {
+        "query": "Qual è il simbolo chimico del Germanio?",
+        "answer": " Ge",
+        "sub": "Germanio",
+        "en_sub": "Germanium"
+    },
+    {
+        "query": "Qual è il simbolo chimico del Selenio?",
+        "answer": " Se",
+        "sub": "Selenio",
+        "en_sub": "Selenium"
+    },
+    {
+        "query": "Qual è il simbolo chimico del Krypton?",
+        "answer": " Kr",
+        "sub": "Krypton",
+        "en_sub": "Krypton"
+    },
+    {
+        "query": "Qual è il simbolo chimico dello Stronzio?",
+        "answer": " Sr",
+        "sub": "Stronzio",
+        "en_sub": "Strontium"
+    },
+    {
+        "query": "Qual è il simbolo chimico dello Zirconio?",
+        "answer": " Zr",
+        "sub": "Zirconio",
+        "en_sub": "Zirconium"
+    },
+    {
+        "query": "Qual è il simbolo chimico del Niobio?",
+        "answer": " Nb",
+        "sub": "Niobio",
+        "en_sub": "Niobium"
+    },
+    {
+        "query": "Qual è il simbolo chimico del Rutenio?",
+        "answer": " Ru",
+        "sub": "Rutenio",
+        "en_sub": "Ruthenium"
+    },
+    {
+        "query": "Qual è il simbolo chimico del Rodio?",
+        "answer": " Rh",
+        "sub": "Rodio",
+        "en_sub": "Rhodium"
+    },
+    {
+        "query": "Qual è il simbolo chimico del Palladio?",
+        "answer": " Pd",
+        "sub": "Palladio",
+        "en_sub": "Palladium"
+    },
+    {
+        "query": "Qual è il simbolo chimico dell'Indio?",
+        "answer": " In",
+        "sub": "Indio",
+        "en_sub": "Indium"
+    },
+    {
+        "query": "Qual è il simbolo chimico dello Xeno?",
+        "answer": " Xe",
+        "sub": "Xeno",
+        "en_sub": "Xenon"
+    },
+    {
+        "query": "Qual è il simbolo chimico del Cesio?",
+        "answer": " Cs",
+        "sub": "Cesio",
+        "en_sub": "Cesium"
+    },
+    {
+        "query": "Qual è il simbolo chimico del Lantanio?",
+        "answer": " La",
+        "sub": "Lantanio",
+        "en_sub": "Lanthanum"
+    }
+]

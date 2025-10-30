@@ -1,0 +1,1282 @@
+[
+    {
+        "query": "Il fuso orario dell'Albania è",
+        "answer": "  UTC+02:00",
+        "sub": "Albania",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Albania"
+    },
+    {
+        "query": "Il fuso orario dell'Antartide è",
+        "answer": "  UTC+02:00, UTC+03:00, UTC-03:00, UTC+05:00, UTC+07:00, UTC+08:00, UTC+10:00, UTC+12:00",
+        "sub": "Antartide",
+        "count": "8",
+        "list": [
+            " UTC+02:00",
+            " UTC+03:00",
+            " UTC-03:00",
+            " UTC+05:00",
+            " UTC+07:00",
+            " UTC+08:00",
+            " UTC+10:00",
+            " UTC+12:00"
+        ],
+        "en_sub": "Antarctica"
+    },
+    {
+        "query": "Il fuso orario dell'Antigua e Barbuda è",
+        "answer": "  UTC-04:00",
+        "sub": "Antigua e Barbuda",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Antigua & Barbuda"
+    },
+    {
+        "query": "Il fuso orario dell'Argentina è",
+        "answer": "  UTC-03:00",
+        "sub": "Argentina",
+        "count": "1",
+        "list": [
+            " UTC-03:00"
+        ],
+        "en_sub": "Argentina"
+    },
+    {
+        "query": "Il fuso orario dell'Australia è",
+        "answer": "  UTC+08:00, UTC+09:30, UTC+09:30, UTC+10:00, UTC+10:00, UTC+10:30, UTC+11:00",
+        "sub": "Australia",
+        "count": "7",
+        "list": [
+            " UTC+08:00",
+            " UTC+09:30",
+            " UTC+09:30",
+            " UTC+10:00",
+            " UTC+10:00",
+            " UTC+10:30",
+            " UTC+11:00"
+        ],
+        "en_sub": "Australia"
+    },
+    {
+        "query": "Il fuso orario del Bahamas è",
+        "answer": "  UTC-05:00",
+        "sub": "Bahamas",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ],
+        "en_sub": "Bahamas"
+    },
+    {
+        "query": "Il fuso orario del Bangladesh è",
+        "answer": "  UTC+06:00",
+        "sub": "Bangladesh",
+        "count": "1",
+        "list": [
+            " UTC+06:00"
+        ],
+        "en_sub": "Bangladesh"
+    },
+    {
+        "query": "Il fuso orario del Barbados è",
+        "answer": "  UTC-04:00",
+        "sub": "Barbados",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Barbados"
+    },
+    {
+        "query": "Il fuso orario della Bielorussia è",
+        "answer": "  UTC+03:00",
+        "sub": "Bielorussia",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ],
+        "en_sub": "Belarus"
+    },
+    {
+        "query": "Il fuso orario del Belize è",
+        "answer": "  UTC-06:00",
+        "sub": "Belize",
+        "count": "1",
+        "list": [
+            " UTC-06:00"
+        ],
+        "en_sub": "Belize"
+    },
+    {
+        "query": "Il fuso orario delle Bermuda è",
+        "answer": "  UTC-04:00",
+        "sub": "Bermuda",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Bermuda"
+    },
+    {
+        "query": "Il fuso orario del Bhutan è",
+        "answer": "  UTC+06:00",
+        "sub": "Bhutan",
+        "count": "1",
+        "list": [
+            " UTC+06:00"
+        ],
+        "en_sub": "Bhutan"
+    },
+    {
+        "query": "Il fuso orario della Bolivia è",
+        "answer": "  UTC-04:00",
+        "sub": "Bolivia",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Bolivia"
+    },
+    {
+        "query": "Il fuso orario della Bosnia ed Erzegovina è",
+        "answer": "  UTC+01:00",
+        "sub": "Bosnia ed Erzegovina",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Bosnia & Herzegovina"
+    },
+    {
+        "query": "Il fuso orario del Botswana è",
+        "answer": "  UTC+02:00",
+        "sub": "Botswana",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Botswana"
+    },
+    {
+        "query": "Il fuso orario del Brasile è",
+        "answer": "  UTC-02:00, UTC-03:00, UTC:-03:00, UTC-04:00, UTC-04:00, UTC-05:00",
+        "sub": "Brasile",
+        "count": "6",
+        "list": [
+            " UTC-02:00",
+            " UTC-03:00",
+            " UTC:-03:00",
+            " UTC-04:00",
+            " UTC-04:00",
+            " UTC-05:00"
+        ],
+        "en_sub": "Brazil"
+    },
+    {
+        "query": "Il fuso orario del Brunei è",
+        "answer": "  UTC+08:00",
+        "sub": "Brunei",
+        "count": "1",
+        "list": [
+            " UTC+08:00"
+        ],
+        "en_sub": "Brunei"
+    },
+    {
+        "query": "Il fuso orario della Cambogia è",
+        "answer": "  UTC+07:00",
+        "sub": "Cambogia",
+        "count": "1",
+        "list": [
+            " UTC+07:00"
+        ],
+        "en_sub": "Cambodia"
+    },
+    {
+        "query": "Il fuso orario del Camerun è",
+        "answer": "  UTC+01:00",
+        "sub": "Camerun",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Cameroon"
+    },
+    {
+        "query": "Il fuso orario dei Caraibi è",
+        "answer": "  UTC-04:00",
+        "sub": "Caraibi NL",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Caribbean NL"
+    },
+    {
+        "query": "Il fuso orario delle Isole Cayman è",
+        "answer": "  UTC-05:00",
+        "sub": "Isole Cayman",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ],
+        "en_sub": "Cayman Islands"
+    },
+    {
+        "query": "Il fuso orario della Repubblica Centrafricana è",
+        "answer": "  UTC+01:00",
+        "sub": "Repubblica Centrafricana",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Central African Rep."
+    },
+    {
+        "query": "Il fuso orario del Cile è",
+        "answer": "  UTC-03:00, UTC-04:00, UTC-06:00",
+        "sub": "Cile",
+        "count": "3",
+        "list": [
+            " UTC-03:00",
+            " UTC-04:00",
+            " UTC-06:00"
+        ],
+        "en_sub": "Chile"
+    },
+    {
+        "query": "Il fuso orario del Congo (Rep. Dem.) è",
+        "answer": "  UTC+01:00, UTC+02:00",
+        "sub": "Congo (Rep. Dem.)",
+        "count": "2",
+        "list": [
+            " UTC+01:00",
+            " UTC+02:00"
+        ],
+        "en_sub": "Congo (Dem. Rep.)"
+    },
+    {
+        "query": "Il fuso orario del Congo (Rep.) è",
+        "answer": "  UTC+01:00",
+        "sub": "Congo (Rep.)",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Congo (Rep.)"
+    },
+    {
+        "query": "Il fuso orario delle Isole Cook è",
+        "answer": "  UTC-10:00",
+        "sub": "Isole Cook",
+        "count": "1",
+        "list": [
+            " UTC-10:00"
+        ],
+        "en_sub": "Cook Islands"
+    },
+    {
+        "query": "Il fuso orario della Croazia è",
+        "answer": "  UTC+01:00",
+        "sub": "Croazia",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Croatia"
+    },
+    {
+        "query": "Il fuso orario di Cuba è",
+        "answer": "  UTC-05:00",
+        "sub": "Cuba",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ],
+        "en_sub": "Cuba"
+    },
+    {
+        "query": "Il fuso orario del Curaçao è",
+        "answer": "  UTC-04:00",
+        "sub": "Curaçao",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Curaçao"
+    },
+    {
+        "query": "Il fuso orario di Cipro è",
+        "answer": "  UTC+02:00",
+        "sub": "Cipro",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Cyprus"
+    },
+    {
+        "query": "Il fuso orario della Repubblica Ceca è",
+        "answer": "  UTC+01:00",
+        "sub": "Repubblica Ceca",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Czech Republic"
+    },
+    {
+        "query": "Il fuso orario della Costa d'Avorio è",
+        "answer": "  UTC+00:00",
+        "sub": "Costa d'Avorio",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ],
+        "en_sub": "Côte d'Ivoire"
+    },
+    {
+        "query": "Il fuso orario della Danimarca è",
+        "answer": "  UTC+01:00",
+        "sub": "Danimarca",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Denmark"
+    },
+    {
+        "query": "Il fuso orario della Repubblica Dominicana è",
+        "answer": "  UTC-04:00",
+        "sub": "Repubblica Dominicana",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Dominican Republic"
+    },
+    {
+        "query": "Il fuso orario del Timor Est è",
+        "answer": "  UTC+09:00",
+        "sub": "Timor Est",
+        "count": "1",
+        "list": [
+            " UTC+09:00"
+        ],
+        "en_sub": "East Timor"
+    },
+    {
+        "query": "Il fuso orario del Guinea Equatoriale è",
+        "answer": "  UTC+01:00",
+        "sub": "Guinea Equatoriale",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Equatorial Guinea"
+    },
+    {
+        "query": "Il fuso orario dell'Eritrea è",
+        "answer": "  UTC+03:00",
+        "sub": "Eritrea",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ],
+        "en_sub": "Eritrea"
+    },
+    {
+        "query": "Il fuso orario dell'Estonia è",
+        "answer": "  UTC+02:00",
+        "sub": "Estonia",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Estonia"
+    },
+    {
+        "query": "Il fuso orario dell'Eswatini (Swaziland) è",
+        "answer": "  UTC+02:00",
+        "sub": "Eswatini (Swaziland)",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Eswatini (Swaziland)"
+    },
+    {
+        "query": "Il fuso orario dell'Etiopia è",
+        "answer": "  UTC+03:00",
+        "sub": "Etiopia",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ],
+        "en_sub": "Ethiopia"
+    },
+    {
+        "query": "Il fuso orario delle Figi è",
+        "answer": "  UTC+12:00",
+        "sub": "Figi",
+        "count": "1",
+        "list": [
+            " UTC+12:00"
+        ],
+        "en_sub": "Fiji"
+    },
+    {
+        "query": "Il fuso orario della Finlandia è",
+        "answer": "  UTC+02:00",
+        "sub": "Finlandia",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Finland"
+    },
+    {
+        "query": "Il fuso orario del Gabon è",
+        "answer": "  UTC+01:00",
+        "sub": "Gabon",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Gabon"
+    },
+    {
+        "query": "Il fuso orario della Germania è",
+        "answer": "  UTC+01:00",
+        "sub": "Germania",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Germany"
+    },
+    {
+        "query": "Il fuso orario della Grecia è",
+        "answer": "  UTC+02:00",
+        "sub": "Grecia",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Greece"
+    },
+    {
+        "query": "Il fuso orario della Groenlandia è",
+        "answer": "  UTC+00:00, UTC-01:00, UTC-04:00, UTC-03:00",
+        "sub": "Groenlandia",
+        "count": "4",
+        "list": [
+            " UTC+00:00",
+            " UTC-01:00",
+            " UTC-04:00",
+            " UTC-03:00"
+        ],
+        "en_sub": "Greenland"
+    },
+    {
+        "query": "Il fuso orario della Grenada è",
+        "answer": "  UTC-04:00",
+        "sub": "Grenada",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Grenada"
+    },
+    {
+        "query": "Il fuso orario del Guam è",
+        "answer": "  UTC+10:00",
+        "sub": "Guam",
+        "count": "1",
+        "list": [
+            " UTC+10:00"
+        ],
+        "en_sub": "Guam"
+    },
+    {
+        "query": "Il fuso orario della Guatemala è",
+        "answer": "  UTC-06:00",
+        "sub": "Guatemala",
+        "count": "1",
+        "list": [
+            " UTC-06:00"
+        ],
+        "en_sub": "Guatemala"
+    },
+    {
+        "query": "Il fuso orario del Guernsey è",
+        "answer": "  UTC+00:00",
+        "sub": "Guernsey",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ],
+        "en_sub": "Guernsey"
+    },
+    {
+        "query": "Il fuso orario della Guinea è",
+        "answer": "  UTC+00:00",
+        "sub": "Guinea",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ],
+        "en_sub": "Guinea"
+    },
+    {
+        "query": "Il fuso orario del Guinea-Bissau è",
+        "answer": "  UTC+00:00",
+        "sub": "Guinea-Bissau",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ],
+        "en_sub": "Guinea-Bissau"
+    },
+    {
+        "query": "Il fuso orario di Haiti è",
+        "answer": "  UTC-04:00",
+        "sub": "Haiti",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Haiti"
+    },
+    {
+        "query": "Il fuso orario delle Isole Heard e McDonald è",
+        "answer": "  UTC+04:00",
+        "sub": "Isole Heard e McDonald",
+        "count": "1",
+        "list": [
+            " UTC+04:00"
+        ],
+        "en_sub": "Heard Island & McDonald Islands"
+    },
+    {
+        "query": "Il fuso orario dell'Islanda è",
+        "answer": "  UTC+00:00",
+        "sub": "Islanda",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ],
+        "en_sub": "Iceland"
+    },
+    {
+        "query": "Il fuso orario dell'India è",
+        "answer": "  UTC+05:30",
+        "sub": "India",
+        "count": "1",
+        "list": [
+            " UTC+05:30"
+        ],
+        "en_sub": "India"
+    },
+    {
+        "query": "Il fuso orario dell'Isola di Man è",
+        "answer": "  UTC+00:00",
+        "sub": "Isola di Man",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ],
+        "en_sub": "Isle of Man"
+    },
+    {
+        "query": "Il fuso orario di Israele è",
+        "answer": "  UTC+02:00",
+        "sub": "Israele",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Israel"
+    },
+    {
+        "query": "Il fuso orario dell'Italia è",
+        "answer": "  UTC+01:00",
+        "sub": "Italia",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Italy"
+    },
+    {
+        "query": "Il fuso orario della Giamaica è",
+        "answer": "  UTC-05:00",
+        "sub": "Giamaica",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ],
+        "en_sub": "Jamaica"
+    },
+    {
+        "query": "Il fuso orario della Kenya è",
+        "answer": "  UTC+03:00",
+        "sub": "Kenya",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ],
+        "en_sub": "Kenya"
+    },
+    {
+        "query": "Il fuso orario della Corea del Nord è",
+        "answer": "  UTC+09:00",
+        "sub": "Corea del Nord",
+        "count": "1",
+        "list": [
+            " UTC+09:00"
+        ],
+        "en_sub": "Korea (North)"
+    },
+    {
+        "query": "Il fuso orario della Corea del Sud è",
+        "answer": "  UTC+09:00",
+        "sub": "Corea del Sud",
+        "count": "1",
+        "list": [
+            " UTC+09:00"
+        ],
+        "en_sub": "Korea (South)"
+    },
+    {
+        "query": "Il fuso orario del Kuwait è",
+        "answer": "  UTC+03:00",
+        "sub": "Kuwait",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ],
+        "en_sub": "Kuwait"
+    },
+    {
+        "query": "Il fuso orario della Lituania è",
+        "answer": "  UTC+02:00",
+        "sub": "Lituania",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Lithuania"
+    },
+    {
+        "query": "Il fuso orario del Macao è",
+        "answer": "  UTC+08:00",
+        "sub": "Macao",
+        "count": "1",
+        "list": [
+            " UTC+08:00"
+        ],
+        "en_sub": "Macau"
+    },
+    {
+        "query": "Il fuso orario del Malawi è",
+        "answer": "  UTC+02:00",
+        "sub": "Malawi",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Malawi"
+    },
+    {
+        "query": "Il fuso orario delle Isole Marshall è",
+        "answer": "  UTC+12:00",
+        "sub": "Isole Marshall",
+        "count": "1",
+        "list": [
+            " UTC+12:00"
+        ],
+        "en_sub": "Marshall Islands"
+    },
+    {
+        "query": "Il fuso orario della Martinica è",
+        "answer": "  UTC-04:00",
+        "sub": "Martinica",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Martinique"
+    },
+    {
+        "query": "Il fuso orario della Mauritania è",
+        "answer": "  UTC+00:00",
+        "sub": "Mauritania",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ],
+        "en_sub": "Mauritania"
+    },
+    {
+        "query": "Il fuso orario del Mauritius è",
+        "answer": "  UTC+04:00",
+        "sub": "Mauritius",
+        "count": "1",
+        "list": [
+            " UTC+04:00"
+        ],
+        "en_sub": "Mauritius"
+    },
+    {
+        "query": "Il fuso orario del Messico è",
+        "answer": "  UTC-05:00, UTC-05:00, UTC-07:00, UTC-07:00, UTC-08:00",
+        "sub": "Messico",
+        "count": "5",
+        "list": [
+            " UTC-05:00",
+            " UTC-05:00",
+            " UTC-07:00",
+            " UTC-07:00",
+            " UTC-08:00"
+        ],
+        "en_sub": "Mexico"
+    },
+    {
+        "query": "Il fuso orario della Micronesia è",
+        "answer": "  UTC+10:00, UTC+11:00",
+        "sub": "Micronesia",
+        "count": "2",
+        "list": [
+            " UTC+10:00",
+            " UTC+11:00"
+        ],
+        "en_sub": "Micronesia"
+    },
+    {
+        "query": "Il fuso orario della Moldova è",
+        "answer": "  UTC+02:00",
+        "sub": "Moldova",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Moldova"
+    },
+    {
+        "query": "Il fuso orario del Montserrat è",
+        "answer": "  UTC-04:00",
+        "sub": "Montserrat",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Montserrat"
+    },
+    {
+        "query": "Il fuso orario del Marocco è",
+        "answer": "  UTC+01:00",
+        "sub": "Marocco",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Morocco"
+    },
+    {
+        "query": "Il fuso orario del Myanmar (Birmania) è",
+        "answer": "  UTC+06:30",
+        "sub": "Myanmar (Birmania)",
+        "count": "1",
+        "list": [
+            " UTC+06:30"
+        ],
+        "en_sub": "Myanmar (Burma)"
+    },
+    {
+        "query": "Il fuso orario della Namibia è",
+        "answer": "  UTC+02:00",
+        "sub": "Namibia",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Namibia"
+    },
+    {
+        "query": "Il fuso orario dei Paesi Bassi è",
+        "answer": "  UTC+01:00",
+        "sub": "Paesi Bassi",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Netherlands"
+    },
+    {
+        "query": "Il fuso orario della Nuova Caledonia è",
+        "answer": "  UTC+11:00",
+        "sub": "Nuova Caledonia",
+        "count": "1",
+        "list": [
+            " UTC+11:00"
+        ],
+        "en_sub": "New Caledonia"
+    },
+    {
+        "query": "Il fuso orario del Niger è",
+        "answer": "  UTC+01:00",
+        "sub": "Niger",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Niger"
+    },
+    {
+        "query": "Il fuso orario del Niue è",
+        "answer": "  UTC-11:00",
+        "sub": "Niue",
+        "count": "1",
+        "list": [
+            " UTC-11:00"
+        ],
+        "en_sub": "Niue"
+    },
+    {
+        "query": "Il fuso orario della Macedonia del Nord è",
+        "answer": "  UTC+01:00",
+        "sub": "Macedonia del Nord",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "North Macedonia"
+    },
+    {
+        "query": "Il fuso orario delle Isole Marianne Settentrionali è",
+        "answer": "  UTC+10:00",
+        "sub": "Isole Marianne Settentrionali",
+        "count": "1",
+        "list": [
+            " UTC+10:00"
+        ],
+        "en_sub": "Northern Mariana Islands"
+    },
+    {
+        "query": "Il fuso orario della Norvegia è",
+        "answer": "  UTC+01:00",
+        "sub": "Norvegia",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Norway"
+    },
+    {
+        "query": "Il fuso orario del Pakistan è",
+        "answer": "  UTC+05:00",
+        "sub": "Pakistan",
+        "count": "1",
+        "list": [
+            " UTC+05:00"
+        ],
+        "en_sub": "Pakistan"
+    },
+    {
+        "query": "Il fuso orario del Palau è",
+        "answer": "  UTC+09:00",
+        "sub": "Palau",
+        "count": "1",
+        "list": [
+            " UTC+09:00"
+        ],
+        "en_sub": "Palau"
+    },
+    {
+        "query": "Il fuso orario del Panama è",
+        "answer": "  UTC-05:00",
+        "sub": "Panama",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ],
+        "en_sub": "Panama"
+    },
+    {
+        "query": "Il fuso orario del Paraguay è",
+        "answer": "  UTC-04:00",
+        "sub": "Paraguay",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Paraguay"
+    },
+    {
+        "query": "Il fuso orario del Perù è",
+        "answer": "  UTC-05:00",
+        "sub": "Perù",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ],
+        "en_sub": "Peru"
+    },
+    {
+        "query": "Il fuso orario del Filippine è",
+        "answer": "  UTC+08:00",
+        "sub": "Filippine",
+        "count": "1",
+        "list": [
+            " UTC+08:00"
+        ],
+        "en_sub": "Philippines"
+    },
+    {
+        "query": "Il fuso orario del Qatar è",
+        "answer": "  UTC+03:00",
+        "sub": "Qatar",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ],
+        "en_sub": "Qatar"
+    },
+    {
+        "query": "Il fuso orario della Romania è",
+        "answer": "  UTC+02:00",
+        "sub": "Romania",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Romania"
+    },
+    {
+        "query": "Il fuso orario di Samoa Americane è",
+        "answer": "  UTC-11:00",
+        "sub": "Samoa Americane",
+        "count": "1",
+        "list": [
+            " UTC-11:00"
+        ],
+        "en_sub": "Samoa (American)"
+    },
+    {
+        "query": "Il fuso orario di São Tomé e Príncipe è",
+        "answer": "  UTC+00:00",
+        "sub": "São Tomé e Príncipe",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ],
+        "en_sub": "Sao Tome & Principe"
+    },
+    {
+        "query": "Il fuso orario dell'Arabia Saudita è",
+        "answer": "  UTC+03:00",
+        "sub": "Arabia Saudita",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ],
+        "en_sub": "Saudi Arabia"
+    },
+    {
+        "query": "Il fuso orario del Senegal è",
+        "answer": "  UTC+00:00",
+        "sub": "Senegal",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ],
+        "en_sub": "Senegal"
+    },
+    {
+        "query": "Il fuso orario della Serbia è",
+        "answer": "  UTC+01:00",
+        "sub": "Serbia",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Serbia"
+    },
+    {
+        "query": "Il fuso orario delle Seychelles è",
+        "answer": "  UTC+04:00",
+        "sub": "Seychelles",
+        "count": "1",
+        "list": [
+            " UTC+04:00"
+        ],
+        "en_sub": "Seychelles"
+    },
+    {
+        "query": "Il fuso orario della Slovenia è",
+        "answer": "  UTC+01:00",
+        "sub": "Slovenia",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Slovenia"
+    },
+    {
+        "query": "Il fuso orario delle Isole Salomone è",
+        "answer": "  UTC+11:00",
+        "sub": "Isole Salomone",
+        "count": "1",
+        "list": [
+            " UTC+11:00"
+        ],
+        "en_sub": "Solomon Islands"
+    },
+    {
+        "query": "Il fuso orario del Sud Sudan è",
+        "answer": "  UTC+02:00",
+        "sub": "Sud Sudan",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "South Sudan"
+    },
+    {
+        "query": "Il fuso orario del Saint Barthélemy è",
+        "answer": "  UTC-04:00",
+        "sub": "Saint Barthélemy",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "St Barthelemy"
+    },
+    {
+        "query": "Il fuso orario del Sint Maarten (parte olandese) è",
+        "answer": "  UTC-04:00",
+        "sub": "Sint Maarten (parte olandese)",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "St Maarten (Dutch)"
+    },
+    {
+        "query": "Il fuso orario del Saint-Martin (Francia) è",
+        "answer": "  UTC-04:00",
+        "sub": "Saint-Martin (Francia)",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "St Martin (French)"
+    },
+    {
+        "query": "Il fuso orario del Suriname è",
+        "answer": "  UTC-03:00",
+        "sub": "Suriname",
+        "count": "1",
+        "list": [
+            " UTC-03:00"
+        ],
+        "en_sub": "Suriname"
+    },
+    {
+        "query": "Il fuso orario dello Svezia è",
+        "answer": "  UTC+01:00",
+        "sub": "Svezia",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Sweden"
+    },
+    {
+        "query": "Il fuso orario della Svizzera è",
+        "answer": "  UTC+01:00",
+        "sub": "Svizzera",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ],
+        "en_sub": "Switzerland"
+    },
+    {
+        "query": "Il fuso orario del Tagikistan è",
+        "answer": "  UTC+05:00",
+        "sub": "Tagikistan",
+        "count": "1",
+        "list": [
+            " UTC+05:00"
+        ],
+        "en_sub": "Tajikistan"
+    },
+    {
+        "query": "Il fuso orario della Thailandia è",
+        "answer": "  UTC+07:00",
+        "sub": "Thailandia",
+        "count": "1",
+        "list": [
+            " UTC+07:00"
+        ],
+        "en_sub": "Thailand"
+    },
+    {
+        "query": "Il fuso orario del Trinidad e Tobago è",
+        "answer": "  UTC-04:00",
+        "sub": "Trinidad e Tobago",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Trinidad & Tobago"
+    },
+    {
+        "query": "Il fuso orario della Turchia è",
+        "answer": "  UTC+03:00",
+        "sub": "Turchia",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ],
+        "en_sub": "Turkey"
+    },
+    {
+        "query": "Il fuso orario del Turkmenistan è",
+        "answer": "  UTC+05:00",
+        "sub": "Turkmenistan",
+        "count": "1",
+        "list": [
+            " UTC+05:00"
+        ],
+        "en_sub": "Turkmenistan"
+    },
+    {
+        "query": "Il fuso orario delle Isole Turks e Caicos è",
+        "answer": "  UTC-04:00",
+        "sub": "Isole Turks e Caicos",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Turks & Caicos Is"
+    },
+    {
+        "query": "Il fuso orario del Tuvalu è",
+        "answer": "  UTC+12:00",
+        "sub": "Tuvalu",
+        "count": "1",
+        "list": [
+            " UTC+12:00"
+        ],
+        "en_sub": "Tuvalu"
+    },
+    {
+        "query": "Il fuso orario delle Isole minori periferiche degli Stati Uniti è",
+        "answer": "  UTC-11:00, UTC+12:00",
+        "sub": "Isole minori periferiche degli Stati Uniti",
+        "count": "2",
+        "list": [
+            " UTC-11:00",
+            " UTC+12:00"
+        ],
+        "en_sub": "US minor outlying islands"
+    },
+    {
+        "query": "Il fuso orario dell'Uganda è",
+        "answer": "  UTC+03:00",
+        "sub": "Uganda",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ],
+        "en_sub": "Uganda"
+    },
+    {
+        "query": "Il fuso orario dell'Ucraina è",
+        "answer": "  UTC+02:00",
+        "sub": "Ucraina",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Ukraine"
+    },
+    {
+        "query": "Il fuso orario dell'Uruguay è",
+        "answer": "  UTC-03:00",
+        "sub": "Uruguay",
+        "count": "1",
+        "list": [
+            " UTC-03:00"
+        ],
+        "en_sub": "Uruguay"
+    },
+    {
+        "query": "Il fuso orario del Vanuatu è",
+        "answer": "  UTC+11:00",
+        "sub": "Vanuatu",
+        "count": "1",
+        "list": [
+            " UTC+11:00"
+        ],
+        "en_sub": "Vanuatu"
+    },
+    {
+        "query": "Il fuso orario della Venezuela è",
+        "answer": "  UTC-04:00",
+        "sub": "Venezuela",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Venezuela"
+    },
+    {
+        "query": "Il fuso orario delle Isole Vergini Britanniche è",
+        "answer": "  UTC-04:00",
+        "sub": "Isole Vergini Britanniche",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ],
+        "en_sub": "Virgin Islands (UK)"
+    },
+    {
+        "query": "Il fuso orario della Wallis e Futuna è",
+        "answer": "  UTC+12:00",
+        "sub": "Wallis e Futuna",
+        "count": "1",
+        "list": [
+            " UTC+12:00"
+        ],
+        "en_sub": "Wallis & Futuna"
+    },
+    {
+        "query": "Il fuso orario dello Yemen è",
+        "answer": "  UTC+03:00",
+        "sub": "Yemen",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ],
+        "en_sub": "Yemen"
+    },
+    {
+        "query": "Il fuso orario dello Zambia è",
+        "answer": "  UTC+02:00",
+        "sub": "Zambia",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ],
+        "en_sub": "Zambia"
+    }
+]

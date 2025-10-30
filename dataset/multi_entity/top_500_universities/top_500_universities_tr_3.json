@@ -1,0 +1,563 @@
+[
+    {
+        "query": "Avustralya'nın ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 28",
+        "sub": "Avustralya",
+        "count": "28",
+        "list": [
+            " Melbourne Üniversitesi",
+            " Yeni Güney Galler Üniversitesi",
+            " Sydney Üniversitesi",
+            " Avustralya Ulusal Üniversitesi",
+            " Monash Üniversitesi",
+            " Queensland Üniversitesi",
+            " Batı Avustralya Üniversitesi",
+            " Adelaide Üniversitesi",
+            " Sydney Teknoloji Üniversitesi",
+            " RMIT Üniversitesi",
+            " Macquarie Üniversitesi",
+            " Curtin Üniversitesi",
+            " Wollongong Üniversitesi",
+            " Deakin Üniversitesi",
+            " Queensland Teknoloji Üniversitesi",
+            " Newcastle Üniversitesi",
+            " La Trobe Üniversitesi",
+            " Griffith Üniversitesi",
+            " Swinburne Teknoloji Üniversitesi",
+            " Tasmanya Üniversitesi",
+            " Flinders Üniversitesi",
+            " Batı Sydney Üniversitesi",
+            " Güney Queensland Üniversitesi",
+            " Murdoch Üniversitesi",
+            " James Cook Üniversitesi",
+            " Edith Cowan Üniversitesi",
+            " Canberra Üniversitesi",
+            " Central Queensland Üniversitesi Avustralya"
+        ]
+    },
+    {
+        "query": "Avusturya'nın ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 5",
+        "sub": "Avusturya",
+        "count": "5",
+        "list": [
+            " Viyana Üniversitesi",
+            " Viyana Teknik Üniversitesi",
+            " İnnsbruck Üniversitesi",
+            " Graz Teknik Üniversitesi",
+            " Johannes Kepler Üniversitesi Linz"
+        ]
+    },
+    {
+        "query": "Brezilya'nın ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 4",
+        "sub": "Brezilya",
+        "count": "4",
+        "list": [
+            " São Paulo Üniversitesi",
+            " Campinas Devlet Üniversitesi",
+            " Rio de Janeiro Federal Üniversitesi",
+            " São Paulo Eyalet Üniversitesi \"Júlio de Mesquita Filho\""
+        ]
+    },
+    {
+        "query": "Brunei Darussalam'ın ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 1",
+        "sub": "Brunei Darussalam",
+        "count": "1",
+        "list": [
+            " Brunei Darussalam Üniversitesi"
+        ]
+    },
+    {
+        "query": "Kanada'nın ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 18",
+        "sub": "Kanada",
+        "count": "18",
+        "list": [
+            " McGill Üniversitesi",
+            " Toronto Üniversitesi",
+            " British Columbia Üniversitesi",
+            " Alberta Üniversitesi",
+            " Waterloo Üniversitesi",
+            " Batı Üniversitesi",
+            " Montreal Üniversitesi",
+            " McMaster Üniversitesi",
+            " Queen's Üniversitesi - Ontario",
+            " Calgary Üniversitesi",
+            " Ottawa Üniversitesi",
+            " Dalhousie Üniversitesi",
+            " Simon Fraser Üniversitesi",
+            " York Üniversitesi",
+            " Victoria Üniversitesi",
+            " Saskatchewan Üniversitesi",
+            " Concordia Üniversitesi",
+            " Laval Üniversitesi"
+        ]
+    },
+    {
+        "query": "Şili'nin ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 3",
+        "sub": "Şili",
+        "count": "3",
+        "list": [
+            " Pontifical Katolik Şili Üniversitesi",
+            " Şili Üniversitesi",
+            " Şili Santiago Üniversitesi"
+        ]
+    },
+    {
+        "query": "Kıbrıs'ın ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 1",
+        "sub": "Kıbrıs",
+        "count": "1",
+        "list": [
+            " Kıbrıs Üniversitesi"
+        ]
+    },
+    {
+        "query": "Çekya'nın ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 3",
+        "sub": "Çekya",
+        "count": "3",
+        "list": [
+            " Charles Üniversitesi",
+            " Prag Çek Teknik Üniversitesi",
+            " Masaryk Üniversitesi"
+        ]
+    },
+    {
+        "query": "Danimarka'nın ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 5",
+        "sub": "Danimarka",
+        "count": "5",
+        "list": [
+            " Kopenhag Üniversitesi",
+            " Danimarka Teknik Üniversitesi",
+            " Aarhus Üniversitesi",
+            " Güney Danimarka Üniversitesi",
+            " Aalborg Üniversitesi"
+        ]
+    },
+    {
+        "query": "Mısır'ın ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 2",
+        "sub": "Mısır",
+        "count": "2",
+        "list": [
+            " Kahire Üniversitesi",
+            " Kahire Amerikan Üniversitesi"
+        ]
+    },
+    {
+        "query": "Finlandiya'nın ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 7",
+        "sub": "Finlandiya",
+        "count": "7",
+        "list": [
+            " Aalto Üniversitesi",
+            " Helsinki Üniversitesi",
+            " Oulu Üniversitesi",
+            " Turku Üniversitesi",
+            " Lappeenranta-Lahti Teknoloji Üniversitesi LUT",
+            " Tampere Üniversitesi",
+            " Jyväskylä Üniversitesi"
+        ]
+    },
+    {
+        "query": "İsrail'in ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 4",
+        "sub": "İsrail",
+        "count": "4",
+        "list": [
+            " Tel Aviv Üniversitesi",
+            " Kudüs Hebrew Üniversitesi",
+            " Technion - İsrail Teknoloji Enstitüsü",
+            " Negev Ben Gurion Üniversitesi"
+        ]
+    },
+    {
+        "query": "İtalya'nın ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 15",
+        "sub": "İtalya",
+        "count": "15",
+        "list": [
+            " Milano Politeknik Üniversitesi",
+            " Roma Sapienza Üniversitesi",
+            " Alma Mater Studiorum - Bologna Üniversitesi",
+            " Padova Üniversitesi",
+            " Torino Politekniği",
+            " Milano Üniversitesi",
+            " Pisa Üniversitesi",
+            " Roma Tor Vergata Üniversitesi",
+            " Napoli Federico II Üniversitesi",
+            " Floransa Üniversitesi",
+            " Turin Üniversitesi",
+            " Katolik Kalp Üniversitesi",
+            " Pavia Üniversitesi",
+            " Vita-Salute San Raffaele Üniversitesi",
+            " Trento Üniversitesi"
+        ]
+    },
+    {
+        "query": "Japonya'nın ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 13",
+        "sub": "Japonya",
+        "count": "13",
+        "list": [
+            " Tokyo Üniversitesi",
+            " Kyoto Üniversitesi",
+            " Tokyo Teknoloji Enstitüsü",
+            " Osaka Üniversitesi",
+            " Tohoku Üniversitesi",
+            " Nagoya Üniversitesi",
+            " Hokkaido Üniversitesi",
+            " Kyushu Üniversitesi",
+            " Waseda Üniversitesi",
+            " Keio Üniversitesi",
+            " Tsukuba Üniversitesi",
+            " Hiroshima Üniversitesi",
+            " Kobe Üniversitesi"
+        ]
+    },
+    {
+        "query": "Ürdün'ün ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 2",
+        "sub": "Ürdün",
+        "count": "2",
+        "list": [
+            " Ürdün Üniversitesi",
+            " Ürdün Bilim ve Teknoloji Üniversitesi"
+        ]
+    },
+    {
+        "query": "Lüksemburg'un ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 1",
+        "sub": "Lüksemburg",
+        "count": "1",
+        "list": [
+            " Lüksemburg Üniversitesi"
+        ]
+    },
+    {
+        "query": "Malezya'nın ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 10",
+        "sub": "Malezya",
+        "count": "10",
+        "list": [
+            " Malaya Üniversitesi",
+            " Malayziya Ulusal Üniversitesi",
+            " Universiti Putra Malaysia",
+            " Malezya Ulusal Bilimler Üniversitesi",
+            " Malezya Teknoloji Üniversitesi",
+            " Petronas Teknoloji Üniversitesi",
+            " Taylor Üniversitesi",
+            " UCSI Üniversitesi",
+            " Sunway Üniversitesi",
+            " Kuzey Malezya Üniversitesi"
+        ]
+    },
+    {
+        "query": "Meksika'nın ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 2",
+        "sub": "Meksika",
+        "count": "2",
+        "list": [
+            " Meksika Ulusal Özerk Üniversitesi",
+            " Monterrey Teknoloji Enstitüsü"
+        ]
+    },
+    {
+        "query": "Yeni Zelanda'nın ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 8",
+        "sub": "Yeni Zelanda",
+        "count": "8",
+        "list": [
+            " Auckland Üniversitesi",
+            " Otago Üniversitesi",
+            " Massey Üniversitesi",
+            " Wellington Victoria Üniversitesi",
+            " Canterbury Üniversitesi",
+            " Waikato Üniversitesi",
+            " Lincoln Üniversitesi",
+            " Auckland Teknoloji Üniversitesi"
+        ]
+    },
+    {
+        "query": "Norveç'in ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 3",
+        "sub": "Norveç",
+        "count": "3",
+        "list": [
+            " Oslo Üniversitesi",
+            " Norveç Bilim ve Teknoloji Üniversitesi",
+            " Bergen Üniversitesi"
+        ]
+    },
+    {
+        "query": "Pakistan'ın ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 2",
+        "sub": "Pakistan",
+        "count": "2",
+        "list": [
+            " Kâide-i Azam Üniversitesi",
+            " İslamabad Ulusal Bilim ve Teknoloji Üniversitesi"
+        ]
+    },
+    {
+        "query": "Polonya'nın ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 3",
+        "sub": "Polonya",
+        "count": "3",
+        "list": [
+            " Varşova Üniversitesi",
+            " Jagiellonian Üniversitesi",
+            " Varşova Teknoloji Üniversitesi"
+        ]
+    },
+    {
+        "query": "Suudi Arabistan'ın ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 5",
+        "sub": "Suudi Arabistan",
+        "count": "5",
+        "list": [
+            " Kral Fahd Petrol ve Maden Üniversitesi",
+            " Kral Suud Üniversitesi",
+            " Kral Abdulaziz Üniversitesi",
+            " Prens Muhammed Bin Fahd Üniversitesi",
+            " İmam Abdurrahman Bin Faysal Üniversitesi"
+        ]
+    },
+    {
+        "query": "Singapur'un ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 2",
+        "sub": "Singapur",
+        "count": "2",
+        "list": [
+            " Singapur Ulusal Üniversitesi",
+            " Nanyang Teknoloji Üniversitesi - Singapur"
+        ]
+    },
+    {
+        "query": "Güney Afrika'nın ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 5",
+        "sub": "Güney Afrika",
+        "count": "5",
+        "list": [
+            " Cape Town Üniversitesi",
+            " Witwatersrand Üniversitesi",
+            " Stellenbosch Üniversitesi",
+            " Johannesburg Üniversitesi",
+            " Pretoria Üniversitesi"
+        ]
+    },
+    {
+        "query": "Güney Kore'nin ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 13",
+        "sub": "Güney Kore",
+        "count": "13",
+        "list": [
+            " Seul Ulusal Üniversitesi",
+            " Yonsei Üniversitesi",
+            " Kore Üniversitesi",
+            " Pohang Bilim ve Teknoloji Üniversitesi",
+            " Sungkyunkwan Üniversitesi",
+            " Hanyang Üniversitesi",
+            " Ulsan Ulusal Bilim ve Teknoloji Enstitüsü",
+            " Kyung Hee Üniversitesi",
+            " Daegu Gyeongbuk Bilim ve Teknoloji Enstitüsü",
+            " Gwangju Bilim ve Teknoloji Enstitüsü",
+            " Sejong Üniversitesi",
+            " Pusan Ulusal Üniversitesi",
+            " Chung-Ang Üniversitesi"
+        ]
+    },
+    {
+        "query": "İsveç'in ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 8",
+        "sub": "İsveç",
+        "count": "8",
+        "list": [
+            " Lund Üniversitesi",
+            " KTH Kraliyet Teknoloji Enstitüsü",
+            " Uppsala Üniversitesi",
+            " Stockholm Üniversitesi",
+            " Chalmers Teknoloji Üniversitesi",
+            " Gothenburg Üniversitesi",
+            " Linköping Üniversitesi",
+            " Umeå Üniversitesi"
+        ]
+    },
+    {
+        "query": "Tayvan'ın ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 8",
+        "sub": "Tayvan",
+        "count": "8",
+        "list": [
+            " Ulusal Tayvan Üniversitesi",
+            " Ulusal Tsing Hua Üniversitesi",
+            " Ulusal Yang Ming Chiao Tung Üniversitesi",
+            " Ulusal Cheng Kung Üniversitesi",
+            " Ulusal Tayvan Bilim ve Teknoloji Üniversitesi",
+            " Ulusal Taipei Teknoloji Üniversitesi",
+            " Ulusal Tayvan Normal Üniversitesi",
+            " Ulusal Sun Yat-sen Üniversitesi"
+        ]
+    },
+    {
+        "query": "Türkiye'nin ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 6",
+        "sub": "Türkiye",
+        "count": "6",
+        "list": [
+            " Orta Doğu Teknik Üniversitesi",
+            " İstanbul Teknik Üniversitesi",
+            " Koç Üniversitesi",
+            " Boğaziçi Üniversitesi",
+            " Sabansçı Üniversitesi",
+            " Bilkent Üniversitesi"
+        ]
+    },
+    {
+        "query": "Birleşik Krallık'ın ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 46",
+        "sub": "Birleşik Krallık",
+        "count": "46",
+        "list": [
+            " Imperial College London",
+            " Oxford Üniversitesi",
+            " Cambridge Üniversitesi",
+            " UCL",
+            " King's College London",
+            " Edinburgh Üniversitesi",
+            " Manchester Üniversitesi",
+            " Bristol Üniversitesi",
+            " Londra Ekonomi ve Siyaset Bilimleri Okulu",
+            " Warwick Üniversitesi",
+            " Birmingham Üniversitesi",
+            " Glasgow Üniversitesi",
+            " Leeds Üniversitesi",
+            " Southampton Üniversitesi",
+            " Sheffield Üniversitesi",
+            " Durham Üniversitesi",
+            " Nottingham Üniversitesi",
+            " Londra Kraliyet Mary Üniversitesi",
+            " St Andrews Üniversitesi",
+            " Bath Üniversitesi",
+            " Newcastle Üniversitesi",
+            " Liverpool Üniversitesi",
+            " Exeter Üniversitesi",
+            " Lancaster Üniversitesi",
+            " York Üniversitesi",
+            " Cardiff Üniversitesi",
+            " Reading Üniversitesi",
+            " Belfast Kraliçe Üniversitesi",
+            " Loughborough Üniversitesi",
+            " Strathclyde Üniversitesi",
+            " Aberdeen Üniversitesi",
+            " Surrey Üniversitesi",
+            " Sussex Üniversitesi",
+            " Heriot-Watt Üniversitesi",
+            " Swansea Üniversitesi",
+            " Saint George Üniversitesi - Londra Üniversitesi",
+            " Leicester Üniversitesi",
+            " Oxford Brookes Üniversitesi",
+            " Doğu Anglia Üniversitesi",
+            " Brunel Üniversitesi, Londra",
+            " Birkbeck Koleji - Londra Üniversitesi",
+            " Aston Üniversitesi",
+            " Kent Üniversitesi",
+            " Dundee Üniversitesi",
+            " Essex Üniversitesi",
+            " Londra Royal Holloway Üniversitesi"
+        ]
+    },
+    {
+        "query": "Amerika Birleşik Devletleri'nin ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 71",
+        "sub": "Amerika Birleşik Devletleri",
+        "count": "71",
+        "list": [
+            " Massachusetts Teknoloji Enstitüsü",
+            " Stanford Üniversitesi",
+            " Harvard Üniversitesi",
+            " California Teknoloji Enstitüsü",
+            " Chicago Üniversitesi",
+            " Pennsylvania Üniversitesi",
+            " Cornell Üniversitesi",
+            " California Üniversitesi - Berkeley",
+            " Yale Üniversitesi",
+            " Johns Hopkins Üniversitesi",
+            " Princeton Üniversitesi",
+            " Columbia Üniversitesi",
+            " Northwestern Üniversitesi",
+            " Michigan Üniversitesi-Ann Arbor",
+            " Kaliforniya Üniversitesi - Los Angeles",
+            " Carnegie Mellon Üniversitesi",
+            " New York Üniversitesi",
+            " Duke Üniversitesi",
+            " California Üniversitesi - San Diego",
+            " Teksas Austin Üniversitesi",
+            " Brown Üniversitesi",
+            " Urbana-Champaign, Illinois Üniversitesi",
+            " Washington Üniversitesi",
+            " Pennsylvania Eyalet Üniversitesi",
+            " Boston Üniversitesi",
+            " Purdue Üniversitesi",
+            " Wisconsin-Madison Üniversitesi",
+            " California Üniversitesi - Davis",
+            " Rice Üniversitesi",
+            " Georgia Teknoloji Enstitüsü",
+            " Kuzey Carolina Üniversitesi - Chapel Hill",
+            " Texas A&M Üniversitesi",
+            " Güney Kaliforniya Üniversitesi",
+            " Michigan Eyalet Üniversitesi",
+            " Saint Louis Washington Üniversitesi",
+            " Arizona Eyalet Üniversitesi",
+            " Kaliforniya Üniversitesi - Santa Barbara",
+            " Emory Üniversitesi",
+            " Ohio Eyalet Üniversitesi",
+            " Maryland Üniversitesi - College Park",
+            " Minnesota Üniversitesi",
+            " Florida Üniversitesi",
+            " Rochester Üniversitesi",
+            " Dartmouth Koleji",
+            " Massachusetts Amherst Üniversitesi",
+            " Vanderbilt Üniversitesi",
+            " Kuzey Carolina Eyalet Üniversitesi",
+            " Virginia Üniversitesi",
+            " Pittsburgh Üniversitesi",
+            " Georgetown Üniversitesi",
+            " Arizona Üniversitesi",
+            " California Üniversitesi - Irvine",
+            " Case Western Reserve Üniversitesi",
+            " Notre Dame Üniversitesi",
+            " Colorado Boulder Üniversitesi",
+            " Indiana Üniversitesi Bloomington",
+            " Miami Üniversitesi",
+            " Rutgers Üniversitesi – New Brunswick",
+            " Tufts Üniversitesi",
+            " Illinois Üniversitesi Chicago",
+            " George Washington Üniversitesi",
+            " Virginia Polytechnic Enstitüsü",
+            " Kuzeydoğu Üniversitesi",
+            " Buffalo Üniversitesi SUNY",
+            " Washington Eyalet Üniversitesi",
+            " California Üniversitesi - Riverside",
+            " Iowa Eyalet Üniversitesi",
+            " Stony Brook Üniversitesi",
+            " Colorado Eyalet Üniversitesi",
+            " California Üniversitesi - Santa Cruz",
+            " Kansas Üniversitesi"
+        ]
+    },
+    {
+        "query": "Vietnam'ın ilk 500'de kaç tane üniversitesi vardır?",
+        "answer": " 1",
+        "sub": "Vietnam",
+        "count": "1",
+        "list": [
+            " Duy Tan Üniversitesi"
+        ]
+    }
+]

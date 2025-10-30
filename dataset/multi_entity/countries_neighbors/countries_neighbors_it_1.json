@@ -1,0 +1,1005 @@
+[
+    {
+        "query": "Qual è/sono il/i vicino/i di Albania?",
+        "answer": " Grecia, Kosovo, Macedonia del Nord, Montenegro",
+        "sub": "Albania",
+        "count": 4,
+        "list": [
+            " Grecia",
+            " Kosovo",
+            " Macedonia del Nord",
+            " Montenegro"
+        ],
+        "en_sub": "Albania"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Argentina?",
+        "answer": " Bolivia, Brasile, Cile, Paraguay, Uruguay",
+        "sub": "Argentina",
+        "count": 5,
+        "list": [
+            " Bolivia",
+            " Brasile",
+            " Cile",
+            " Paraguay",
+            " Uruguay"
+        ],
+        "en_sub": "Argentina"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Armenia?",
+        "answer": " Azerbaigian, Georgia, Iran, Turchia",
+        "sub": "Armenia",
+        "count": 4,
+        "list": [
+            " Azerbaigian",
+            " Georgia",
+            " Iran",
+            " Turchia"
+        ],
+        "en_sub": "Armenia"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Austria?",
+        "answer": " Cechia, Germania, Ungheria, Italia, Liechtenstein, Slovacchia, Slovenia, Svizzera",
+        "sub": "Austria",
+        "count": 8,
+        "list": [
+            " Cechia",
+            " Germania",
+            " Ungheria",
+            " Italia",
+            " Liechtenstein",
+            " Slovacchia",
+            " Slovenia",
+            " Svizzera"
+        ],
+        "en_sub": "Austria"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Azerbaigian?",
+        "answer": " Armenia, Georgia, Iran, Russia, Turchia",
+        "sub": "Azerbaigian",
+        "count": 5,
+        "list": [
+            " Armenia",
+            " Georgia",
+            " Iran",
+            " Russia",
+            " Turchia"
+        ],
+        "en_sub": "Azerbaijan"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Bangladesh?",
+        "answer": " India, Myanmar",
+        "sub": "Bangladesh",
+        "count": 2,
+        "list": [
+            " India",
+            " Myanmar"
+        ],
+        "en_sub": "Bangladesh"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Bielorussia?",
+        "answer": " Lettonia, Lituania, Polonia, Russia, Ucraina",
+        "sub": "Bielorussia",
+        "count": 5,
+        "list": [
+            " Lettonia",
+            " Lituania",
+            " Polonia",
+            " Russia",
+            " Ucraina"
+        ],
+        "en_sub": "Belarus"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Belgio?",
+        "answer": " Francia, Germania, Lussemburgo, Paesi Bassi",
+        "sub": "Belgio",
+        "count": 4,
+        "list": [
+            " Francia",
+            " Germania",
+            " Lussemburgo",
+            " Paesi Bassi"
+        ],
+        "en_sub": "Belgium"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Belize?",
+        "answer": " Guatemala, Messico",
+        "sub": "Belize",
+        "count": 2,
+        "list": [
+            " Guatemala",
+            " Messico"
+        ],
+        "en_sub": "Belize"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Benin?",
+        "answer": " Burkina Faso, Niger, Nigeria, Togo",
+        "sub": "Benin",
+        "count": 4,
+        "list": [
+            " Burkina Faso",
+            " Niger",
+            " Nigeria",
+            " Togo"
+        ],
+        "en_sub": "Benin"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Bolivia?",
+        "answer": " Argentina, Brasile, Cile, Paraguay, Perù",
+        "sub": "Bolivia",
+        "count": 5,
+        "list": [
+            " Argentina",
+            " Brasile",
+            " Cile",
+            " Paraguay",
+            " Perù"
+        ],
+        "en_sub": "Bolivia"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Brunei?",
+        "answer": " Malesia",
+        "sub": "Brunei",
+        "count": 1,
+        "list": [
+            " Malesia"
+        ],
+        "en_sub": "Brunei"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Bulgaria?",
+        "answer": " Grecia, Macedonia del Nord, Romania, Serbia, Turchia",
+        "sub": "Bulgaria",
+        "count": 5,
+        "list": [
+            " Grecia",
+            " Macedonia del Nord",
+            " Romania",
+            " Serbia",
+            " Turchia"
+        ],
+        "en_sub": "Bulgaria"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Burundi?",
+        "answer": " Repubblica Democratica del Congo, Ruanda, Tanzania",
+        "sub": "Burundi",
+        "count": 3,
+        "list": [
+            " Repubblica Democratica del Congo",
+            " Ruanda",
+            " Tanzania"
+        ],
+        "en_sub": "Burundi"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Cambogia?",
+        "answer": " Laos, Thailandia, Vietnam",
+        "sub": "Cambogia",
+        "count": 3,
+        "list": [
+            " Laos",
+            " Thailandia",
+            " Vietnam"
+        ],
+        "en_sub": "Cambodia"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Camerun?",
+        "answer": " Repubblica Centrafricana, Ciad, Repubblica del Congo, Guinea Equatoriale, Gabon, Nigeria",
+        "sub": "Camerun",
+        "count": 6,
+        "list": [
+            " Repubblica Centrafricana",
+            " Ciad",
+            " Repubblica del Congo",
+            " Guinea Equatoriale",
+            " Gabon",
+            " Nigeria"
+        ],
+        "en_sub": "Cameroon"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Repubblica Centrafricana?",
+        "answer": " Camerun, Ciad, Repubblica del Congo, Repubblica Democratica del Congo, Sud Sudan, Sudan",
+        "sub": "Repubblica Centrafricana",
+        "count": 6,
+        "list": [
+            " Camerun",
+            " Ciad",
+            " Repubblica del Congo",
+            " Repubblica Democratica del Congo",
+            " Sud Sudan",
+            " Sudan"
+        ],
+        "en_sub": "Central African Republic"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Ciad?",
+        "answer": " Camerun, Repubblica Centrafricana, Libia, Niger, Nigeria, Sudan",
+        "sub": "Ciad",
+        "count": 6,
+        "list": [
+            " Camerun",
+            " Repubblica Centrafricana",
+            " Libia",
+            " Niger",
+            " Nigeria",
+            " Sudan"
+        ],
+        "en_sub": "Chad"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Cile?",
+        "answer": " Argentina, Bolivia, Perù",
+        "sub": "Cile",
+        "count": 3,
+        "list": [
+            " Argentina",
+            " Bolivia",
+            " Perù"
+        ],
+        "en_sub": "Chile"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Cina?",
+        "answer": " Afghanistan, Bhutan, India, Kazakistan, Kirghizistan, Laos, Mongolia, Myanmar, Nepal, Corea del Nord, Pakistan, Russia, Tagikistan, Vietnam",
+        "sub": "Cina",
+        "count": 14,
+        "list": [
+            " Afghanistan",
+            " Bhutan",
+            " India",
+            " Kazakistan",
+            " Kirghizistan",
+            " Laos",
+            " Mongolia",
+            " Myanmar",
+            " Nepal",
+            " Corea del Nord",
+            " Pakistan",
+            " Russia",
+            " Tagikistan",
+            " Vietnam"
+        ],
+        "en_sub": "China"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Costa Rica?",
+        "answer": " Nicaragua, Panama",
+        "sub": "Costa Rica",
+        "count": 2,
+        "list": [
+            " Nicaragua",
+            " Panama"
+        ],
+        "en_sub": "Costa Rica"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Croazia?",
+        "answer": " Bosnia ed Erzegovina, Ungheria, Montenegro, Serbia, Slovenia",
+        "sub": "Croazia",
+        "count": 5,
+        "list": [
+            " Bosnia ed Erzegovina",
+            " Ungheria",
+            " Montenegro",
+            " Serbia",
+            " Slovenia"
+        ],
+        "en_sub": "Croatia"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Repubblica Ceca?",
+        "answer": " Austria, Germania, Polonia, Slovacchia",
+        "sub": "Repubblica Ceca",
+        "count": 4,
+        "list": [
+            " Austria",
+            " Germania",
+            " Polonia",
+            " Slovacchia"
+        ],
+        "en_sub": "Czechia"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Gibuti?",
+        "answer": " Eritrea, Etiopia, Somalia",
+        "sub": "Gibuti",
+        "count": 3,
+        "list": [
+            " Eritrea",
+            " Etiopia",
+            " Somalia"
+        ],
+        "en_sub": "Djibouti"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Ecuador?",
+        "answer": " Colombia, Perù",
+        "sub": "Ecuador",
+        "count": 2,
+        "list": [
+            " Colombia",
+            " Perù"
+        ],
+        "en_sub": "Ecuador"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Guinea Equatoriale?",
+        "answer": " Camerun, Gabon",
+        "sub": "Guinea Equatoriale",
+        "count": 2,
+        "list": [
+            " Camerun",
+            " Gabon"
+        ],
+        "en_sub": "Equatorial Guinea"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Eritrea?",
+        "answer": " Gibuti, Etiopia, Sudan",
+        "sub": "Eritrea",
+        "count": 3,
+        "list": [
+            " Gibuti",
+            " Etiopia",
+            " Sudan"
+        ],
+        "en_sub": "Eritrea"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Estonia?",
+        "answer": " Lettonia, Russia",
+        "sub": "Estonia",
+        "count": 2,
+        "list": [
+            " Lettonia",
+            " Russia"
+        ],
+        "en_sub": "Estonia"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Eswatini?",
+        "answer": " Mozambico, Sudafrica",
+        "sub": "Eswatini",
+        "count": 2,
+        "list": [
+            " Mozambico",
+            " Sudafrica"
+        ],
+        "en_sub": "Eswatini"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Etiopia?",
+        "answer": " Gibuti, Eritrea, Kenya, Somalia, Sud Sudan, Sudan",
+        "sub": "Etiopia",
+        "count": 6,
+        "list": [
+            " Gibuti",
+            " Eritrea",
+            " Kenya",
+            " Somalia",
+            " Sud Sudan",
+            " Sudan"
+        ],
+        "en_sub": "Ethiopia"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Finlandia?",
+        "answer": " Norvegia, Russia, Svezia",
+        "sub": "Finlandia",
+        "count": 3,
+        "list": [
+            " Norvegia",
+            " Russia",
+            " Svezia"
+        ],
+        "en_sub": "Finland"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Gabon?",
+        "answer": " Camerun, Repubblica del Congo, Guinea Equatoriale",
+        "sub": "Gabon",
+        "count": 3,
+        "list": [
+            " Camerun",
+            " Repubblica del Congo",
+            " Guinea Equatoriale"
+        ],
+        "en_sub": "Gabon"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Grecia?",
+        "answer": " Albania, Bulgaria, Macedonia del Nord, Turchia",
+        "sub": "Grecia",
+        "count": 4,
+        "list": [
+            " Albania",
+            " Bulgaria",
+            " Macedonia del Nord",
+            " Turchia"
+        ],
+        "en_sub": "Greece"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Guatemala?",
+        "answer": " Belize, El Salvador, Honduras, Messico",
+        "sub": "Guatemala",
+        "count": 4,
+        "list": [
+            " Belize",
+            " El Salvador",
+            " Honduras",
+            " Messico"
+        ],
+        "en_sub": "Guatemala"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Guinea?",
+        "answer": " Costa d'Avorio, Guinea-Bissau, Liberia, Mali, Senegal, Sierra Leone",
+        "sub": "Guinea",
+        "count": 6,
+        "list": [
+            " Costa d'Avorio",
+            " Guinea-Bissau",
+            " Liberia",
+            " Mali",
+            " Senegal",
+            " Sierra Leone"
+        ],
+        "en_sub": "Guinea"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Guinea-Bissau?",
+        "answer": " Guinea, Senegal",
+        "sub": "Guinea-Bissau",
+        "count": 2,
+        "list": [
+            " Guinea",
+            " Senegal"
+        ],
+        "en_sub": "Guinea-Bissau"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Guyana?",
+        "answer": " Brasile, Suriname, Venezuela",
+        "sub": "Guyana",
+        "count": 3,
+        "list": [
+            " Brasile",
+            " Suriname",
+            " Venezuela"
+        ],
+        "en_sub": "Guyana"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Ungheria?",
+        "answer": " Austria, Croazia, Romania, Serbia, Slovacchia, Slovenia, Ucraina",
+        "sub": "Ungheria",
+        "count": 7,
+        "list": [
+            " Austria",
+            " Croazia",
+            " Romania",
+            " Serbia",
+            " Slovacchia",
+            " Slovenia",
+            " Ucraina"
+        ],
+        "en_sub": "Hungary"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Israele?",
+        "answer": " Egitto, Giordania, Libano, Siria, Palestina (Cisgiordania), Palestina (Striscia di Gaza)",
+        "sub": "Israele",
+        "count": 6,
+        "list": [
+            " Egitto",
+            " Giordania",
+            " Libano",
+            " Siria",
+            " Palestina (Cisgiordania)",
+            " Palestina (Striscia di Gaza)"
+        ],
+        "en_sub": "Israel"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Italia?",
+        "answer": " Austria, Francia, San Marino, Slovenia, Svizzera, Città del Vaticano",
+        "sub": "Italia",
+        "count": 6,
+        "list": [
+            " Austria",
+            " Francia",
+            " San Marino",
+            " Slovenia",
+            " Svizzera",
+            " Città del Vaticano"
+        ],
+        "en_sub": "Italy"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Kazakistan?",
+        "answer": " Cina, Kirghizistan, Russia, Turkmenistan, Uzbekistan",
+        "sub": "Kazakistan",
+        "count": 5,
+        "list": [
+            " Cina",
+            " Kirghizistan",
+            " Russia",
+            " Turkmenistan",
+            " Uzbekistan"
+        ],
+        "en_sub": "Kazakhstan"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Kenya?",
+        "answer": " Etiopia, Somalia, Sud Sudan, Tanzania, Uganda",
+        "sub": "Kenya",
+        "count": 5,
+        "list": [
+            " Etiopia",
+            " Somalia",
+            " Sud Sudan",
+            " Tanzania",
+            " Uganda"
+        ],
+        "en_sub": "Kenya"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Kuwait?",
+        "answer": " Iraq, Arabia Saudita",
+        "sub": "Kuwait",
+        "count": 2,
+        "list": [
+            " Iraq",
+            " Arabia Saudita"
+        ],
+        "en_sub": "Kuwait"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Libano?",
+        "answer": " Israele, Siria",
+        "sub": "Libano",
+        "count": 2,
+        "list": [
+            " Israele",
+            " Siria"
+        ],
+        "en_sub": "Lebanon"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Liberia?",
+        "answer": " Guinea, Costa d'Avorio, Sierra Leone",
+        "sub": "Liberia",
+        "count": 3,
+        "list": [
+            " Guinea",
+            " Costa d'Avorio",
+            " Sierra Leone"
+        ],
+        "en_sub": "Liberia"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Libia?",
+        "answer": " Algeria, Ciad, Egitto, Niger, Sudan, Tunisia",
+        "sub": "Libia",
+        "count": 6,
+        "list": [
+            " Algeria",
+            " Ciad",
+            " Egitto",
+            " Niger",
+            " Sudan",
+            " Tunisia"
+        ],
+        "en_sub": "Libya"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Liechtenstein?",
+        "answer": " Austria, Svizzera",
+        "sub": "Liechtenstein",
+        "count": 2,
+        "list": [
+            " Austria",
+            " Svizzera"
+        ],
+        "en_sub": "Liechtenstein"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Malawi?",
+        "answer": " Mozambico, Tanzania, Zambia",
+        "sub": "Malawi",
+        "count": 3,
+        "list": [
+            " Mozambico",
+            " Tanzania",
+            " Zambia"
+        ],
+        "en_sub": "Malawi"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Mauritania?",
+        "answer": " Algeria, Mali, Senegal, Sahara Occidentale",
+        "sub": "Mauritania",
+        "count": 4,
+        "list": [
+            " Algeria",
+            " Mali",
+            " Senegal",
+            " Sahara Occidentale"
+        ],
+        "en_sub": "Mauritania"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Monaco?",
+        "answer": " Francia",
+        "sub": "Monaco",
+        "count": 1,
+        "list": [
+            " Francia"
+        ],
+        "en_sub": "Monaco"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Marocco?",
+        "answer": " Algeria, Sahara Occidentale",
+        "sub": "Marocco",
+        "count": 2,
+        "list": [
+            " Algeria",
+            " Sahara Occidentale"
+        ],
+        "en_sub": "Morocco"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Nepal?",
+        "answer": " Cina, India",
+        "sub": "Nepal",
+        "count": 2,
+        "list": [
+            " Cina",
+            " India"
+        ],
+        "en_sub": "Nepal"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Niger?",
+        "answer": " Algeria, Benin, Burkina Faso, Ciad, Libia, Mali, Nigeria",
+        "sub": "Niger",
+        "count": 7,
+        "list": [
+            " Algeria",
+            " Benin",
+            " Burkina Faso",
+            " Ciad",
+            " Libia",
+            " Mali",
+            " Nigeria"
+        ],
+        "en_sub": "Niger"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Macedonia del Nord?",
+        "answer": " Albania, Bulgaria, Grecia, Kosovo, Serbia",
+        "sub": "Macedonia del Nord",
+        "count": 5,
+        "list": [
+            " Albania",
+            " Bulgaria",
+            " Grecia",
+            " Kosovo",
+            " Serbia"
+        ],
+        "en_sub": "North Macedonia"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Oman?",
+        "answer": " Arabia Saudita, Emirati Arabi Uniti, Yemen",
+        "sub": "Oman",
+        "count": 3,
+        "list": [
+            " Arabia Saudita",
+            " Emirati Arabi Uniti",
+            " Yemen"
+        ],
+        "en_sub": "Oman"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Pakistan?",
+        "answer": " Afghanistan, Cina, India, Iran",
+        "sub": "Pakistan",
+        "count": 4,
+        "list": [
+            " Afghanistan",
+            " Cina",
+            " India",
+            " Iran"
+        ],
+        "en_sub": "Pakistan"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Palestina?",
+        "answer": " Egitto, Israele, Giordania",
+        "sub": "Palestina",
+        "count": 3,
+        "list": [
+            " Egitto",
+            " Israele",
+            " Giordania"
+        ],
+        "en_sub": "Palestine"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Panama?",
+        "answer": " Colombia, Costa Rica",
+        "sub": "Panama",
+        "count": 2,
+        "list": [
+            " Colombia",
+            " Costa Rica"
+        ],
+        "en_sub": "Panama"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Papua Nuova Guinea?",
+        "answer": " Indonesia",
+        "sub": "Papua Nuova Guinea",
+        "count": 1,
+        "list": [
+            " Indonesia"
+        ],
+        "en_sub": "Papua New Guinea"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Paraguay?",
+        "answer": " Argentina, Bolivia, Brasile",
+        "sub": "Paraguay",
+        "count": 3,
+        "list": [
+            " Argentina",
+            " Bolivia",
+            " Brasile"
+        ],
+        "en_sub": "Paraguay"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Perù?",
+        "answer": " Bolivia, Brasile, Cile, Colombia, Ecuador",
+        "sub": "Perù",
+        "count": 5,
+        "list": [
+            " Bolivia",
+            " Brasile",
+            " Cile",
+            " Colombia",
+            " Ecuador"
+        ],
+        "en_sub": "Peru"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Polonia?",
+        "answer": " Bielorussia, Cechia, Germania, Lituania, Russia, Slovacchia, Ucraina",
+        "sub": "Polonia",
+        "count": 7,
+        "list": [
+            " Bielorussia",
+            " Cechia",
+            " Germania",
+            " Lituania",
+            " Russia",
+            " Slovacchia",
+            " Ucraina"
+        ],
+        "en_sub": "Poland"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Qatar?",
+        "answer": " Arabia Saudita",
+        "sub": "Qatar",
+        "count": 1,
+        "list": [
+            " Arabia Saudita"
+        ],
+        "en_sub": "Qatar"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Ruanda?",
+        "answer": " Burundi, Repubblica Democratica del Congo, Tanzania, Uganda",
+        "sub": "Ruanda",
+        "count": 4,
+        "list": [
+            " Burundi",
+            " Repubblica Democratica del Congo",
+            " Tanzania",
+            " Uganda"
+        ],
+        "en_sub": "Rwanda"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di San Marino?",
+        "answer": " Italia",
+        "sub": "San Marino",
+        "count": 1,
+        "list": [
+            " Italia"
+        ],
+        "en_sub": "San Marino"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Arabia Saudita?",
+        "answer": " Iraq, Giordania, Kuwait, Oman, Qatar, Emirati Arabi Uniti, Yemen",
+        "sub": "Arabia Saudita",
+        "count": 7,
+        "list": [
+            " Iraq",
+            " Giordania",
+            " Kuwait",
+            " Oman",
+            " Qatar",
+            " Emirati Arabi Uniti",
+            " Yemen"
+        ],
+        "en_sub": "Saudi Arabia"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Sierra Leone?",
+        "answer": " Guinea, Liberia",
+        "sub": "Sierra Leone",
+        "count": 2,
+        "list": [
+            " Guinea",
+            " Liberia"
+        ],
+        "en_sub": "Sierra Leone"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Spagna?",
+        "answer": " Andorra, Francia, Gibilterra, Portogallo, Marocco",
+        "sub": "Spagna",
+        "count": 5,
+        "list": [
+            " Andorra",
+            " Francia",
+            " Gibilterra",
+            " Portogallo",
+            " Marocco"
+        ],
+        "en_sub": "Spain"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Svezia?",
+        "answer": " Finlandia, Norvegia",
+        "sub": "Svezia",
+        "count": 2,
+        "list": [
+            " Finlandia",
+            " Norvegia"
+        ],
+        "en_sub": "Sweden"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Togo?",
+        "answer": " Benin, Burkina Faso, Ghana",
+        "sub": "Togo",
+        "count": 3,
+        "list": [
+            " Benin",
+            " Burkina Faso",
+            " Ghana"
+        ],
+        "en_sub": "Togo"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Tunisia?",
+        "answer": " Algeria, Libia",
+        "sub": "Tunisia",
+        "count": 2,
+        "list": [
+            " Algeria",
+            " Libia"
+        ],
+        "en_sub": "Tunisia"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Turchia?",
+        "answer": " Armenia, Azerbaigian, Bulgaria, Georgia, Grecia, Iran, Iraq, Siria",
+        "sub": "Turchia",
+        "count": 8,
+        "list": [
+            " Armenia",
+            " Azerbaigian",
+            " Bulgaria",
+            " Georgia",
+            " Grecia",
+            " Iran",
+            " Iraq",
+            " Siria"
+        ],
+        "en_sub": "Turkey"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Emirati Arabi Uniti?",
+        "answer": " Oman, Arabia Saudita",
+        "sub": "Emirati Arabi Uniti",
+        "count": 2,
+        "list": [
+            " Oman",
+            " Arabia Saudita"
+        ],
+        "en_sub": "United Arab Emirates"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Regno Unito?",
+        "answer": " Irlanda",
+        "sub": "Regno Unito",
+        "count": 1,
+        "list": [
+            " Irlanda"
+        ],
+        "en_sub": "United Kingdom"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Uzbekistan?",
+        "answer": " Afghanistan, Kazakistan, Kirghizistan, Tagikistan, Turkmenistan",
+        "sub": "Uzbekistan",
+        "count": 5,
+        "list": [
+            " Afghanistan",
+            " Kazakistan",
+            " Kirghizistan",
+            " Tagikistan",
+            " Turkmenistan"
+        ],
+        "en_sub": "Uzbekistan"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Città del Vaticano?",
+        "answer": " Italia",
+        "sub": "Città del Vaticano",
+        "count": 1,
+        "list": [
+            " Italia"
+        ],
+        "en_sub": "Vatican City"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Yemen?",
+        "answer": " Oman, Arabia Saudita",
+        "sub": "Yemen",
+        "count": 2,
+        "list": [
+            " Oman",
+            " Arabia Saudita"
+        ],
+        "en_sub": "Yemen"
+    },
+    {
+        "query": "Qual è/sono il/i vicino/i di Zambia?",
+        "answer": " Angola, Botswana, Repubblica Democratica del Congo, Malawi, Mozambico, Namibia, Tanzania, Zimbabwe",
+        "sub": "Zambia",
+        "count": 8,
+        "list": [
+            " Angola",
+            " Botswana",
+            " Repubblica Democratica del Congo",
+            " Malawi",
+            " Mozambico",
+            " Namibia",
+            " Tanzania",
+            " Zimbabwe"
+        ],
+        "en_sub": "Zambia"
+    }
+]

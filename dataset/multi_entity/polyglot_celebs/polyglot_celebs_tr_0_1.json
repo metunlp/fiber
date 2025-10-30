@@ -1,0 +1,829 @@
+[
+    {
+        "query": "Pope John Paul II'nin konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Lehçe, İtalyanca, Latince, Fransızca, İngilizce, Almanca, İspanyolca, Portekizce",
+        "sub": "Pope John Paul II",
+        "count": "8",
+        "list": [
+            " Lehçe",
+            " İtalyanca",
+            " Latince",
+            " Fransızca",
+            " İngilizce",
+            " Almanca",
+            " İspanyolca",
+            " Portekizce"
+        ]
+    },
+    {
+        "query": "António Guterres'in konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Portekizce, İngilizce, Fransızca, İspanyolca",
+        "sub": "António Guterres",
+        "count": "4",
+        "list": [
+            " Portekizce",
+            " İngilizce",
+            " Fransızca",
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Boutros Boutros-Ghali'nin konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Arapça, Fransızca, İngilizce",
+        "sub": "Boutros Boutros-Ghali",
+        "count": "3",
+        "list": [
+            " Arapça",
+            " Fransızca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Ban Ki-moon'un konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Korece, İngilizce, Fransızca",
+        "sub": "Ban Ki-moon",
+        "count": "3",
+        "list": [
+            " Korece",
+            " İngilizce",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Dag Hammarskjöld'ün konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " İsveççe, İngilizce, Fransızca, Almanca",
+        "sub": "Dag Hammarskjöld",
+        "count": "4",
+        "list": [
+            " İsveççe",
+            " İngilizce",
+            " Fransızca",
+            " Almanca"
+        ]
+    },
+    {
+        "query": "U Thant'ın konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Birmanca, İngilizce, Hintçe",
+        "sub": "U Thant",
+        "count": "3",
+        "list": [
+            " Birmanca",
+            " İngilizce",
+            " Hintçe"
+        ]
+    },
+    {
+        "query": "Trygve Lie'nin konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Norveççe, İngilizce, Fransızca",
+        "sub": "Trygve Lie",
+        "count": "3",
+        "list": [
+            " Norveççe",
+            " İngilizce",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Joseph Conrad'ın konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Lehçe, İngilizce, Fransızca",
+        "sub": "Joseph Conrad",
+        "count": "3",
+        "list": [
+            " Lehçe",
+            " İngilizce",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Vladimir Nabokov'un konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Rusça, İngilizce, Fransızca",
+        "sub": "Vladimir Nabokov",
+        "count": "3",
+        "list": [
+            " Rusça",
+            " İngilizce",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Jorge Luis Borges'in konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " İspanyolca, İngilizce, Fransızca, Almanca",
+        "sub": "Jorge Luis Borges",
+        "count": "4",
+        "list": [
+            " İspanyolca",
+            " İngilizce",
+            " Fransızca",
+            " Almanca"
+        ]
+    },
+    {
+        "query": "Chinua Achebe'nin konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " İgboca, İngilizce, Yorubaca",
+        "sub": "Chinua Achebe",
+        "count": "3",
+        "list": [
+            " İgboca",
+            " İngilizce",
+            " Yorubaca"
+        ]
+    },
+    {
+        "query": "Ismail Kadare'nin konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Arnavutça, Fransızca, İtalyanca",
+        "sub": "Ismail Kadare",
+        "count": "3",
+        "list": [
+            " Arnavutça",
+            " Fransızca",
+            " İtalyanca"
+        ]
+    },
+    {
+        "query": "Isaac Bashevis Singer'in konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Yidiş, Lehçe, İngilizce",
+        "sub": "Isaac Bashevis Singer",
+        "count": "3",
+        "list": [
+            " Yidiş",
+            " Lehçe",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Hannah Arendt'in konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Almanca, İngilizce, Fransızca",
+        "sub": "Hannah Arendt",
+        "count": "3",
+        "list": [
+            " Almanca",
+            " İngilizce",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Susan Sontag'ın konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " İngilizce, Fransızca, Almanca",
+        "sub": "Susan Sontag",
+        "count": "3",
+        "list": [
+            " İngilizce",
+            " Fransızca",
+            " Almanca"
+        ]
+    },
+    {
+        "query": "Goethe'nin konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Almanca, Fransızca, İtalyanca, İngilizce, Latince, Yunanca",
+        "sub": "Goethe",
+        "count": "6",
+        "list": [
+            " Almanca",
+            " Fransızca",
+            " İtalyanca",
+            " İngilizce",
+            " Latince",
+            " Yunanca"
+        ]
+    },
+    {
+        "query": "René Descartes'in konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Fransızca, Latince, Felemenkçe",
+        "sub": "René Descartes",
+        "count": "3",
+        "list": [
+            " Fransızca",
+            " Latince",
+            " Felemenkçe"
+        ]
+    },
+    {
+        "query": "Baruch Spinoza'nın konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Portekizce, Felemenkçe, İspanyolca, İbranice, Latince",
+        "sub": "Baruch Spinoza",
+        "count": "5",
+        "list": [
+            " Portekizce",
+            " Felemenkçe",
+            " İspanyolca",
+            " İbranice",
+            " Latince"
+        ]
+    },
+    {
+        "query": "Gottfried Wilhelm Leibniz'in konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Almanca, Latince, Fransızca",
+        "sub": "Gottfried Wilhelm Leibniz",
+        "count": "3",
+        "list": [
+            " Almanca",
+            " Latince",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Voltaire'nin konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Fransızca, İngilizce, İtalyanca",
+        "sub": "Voltaire",
+        "count": "3",
+        "list": [
+            " Fransızca",
+            " İngilizce",
+            " İtalyanca"
+        ]
+    },
+    {
+        "query": "Amin Maalouf'un konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Arapça, Fransızca, İngilizce",
+        "sub": "Amin Maalouf",
+        "count": "3",
+        "list": [
+            " Arapça",
+            " Fransızca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Nikola Tesla'nın konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Sırpça, İngilizce, Almanca, Fransızca, İtalyanca, Çekçe, Macarca, Latince",
+        "sub": "Nikola Tesla",
+        "count": "8",
+        "list": [
+            " Sırpça",
+            " İngilizce",
+            " Almanca",
+            " Fransızca",
+            " İtalyanca",
+            " Çekçe",
+            " Macarca",
+            " Latince"
+        ]
+    },
+    {
+        "query": "Leonardo da Vinci'nin konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " İtalyanca, Latince, Fransızca",
+        "sub": "Leonardo da Vinci",
+        "count": "3",
+        "list": [
+            " İtalyanca",
+            " Latince",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Mustafa Kemal Atatürk'ün konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Türkçe, Fransızca, Almanca",
+        "sub": "Mustafa Kemal Atatürk",
+        "count": "3",
+        "list": [
+            " Türkçe",
+            " Fransızca",
+            " Almanca"
+        ]
+    },
+    {
+        "query": "Charles de Gaulle'nin konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Fransızca, İngilizce, Almanca",
+        "sub": "Charles de Gaulle",
+        "count": "3",
+        "list": [
+            " Fransızca",
+            " İngilizce",
+            " Almanca"
+        ]
+    },
+    {
+        "query": "Winston Churchill'in konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " İngilizce, Fransızca, Latince",
+        "sub": "Winston Churchill",
+        "count": "3",
+        "list": [
+            " İngilizce",
+            " Fransızca",
+            " Latince"
+        ]
+    },
+    {
+        "query": "Jawaharlal Nehru'nun konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Hintçe, İngilizce, Urduca",
+        "sub": "Jawaharlal Nehru",
+        "count": "3",
+        "list": [
+            " Hintçe",
+            " İngilizce",
+            " Urduca"
+        ]
+    },
+    {
+        "query": "Shimon Peres'in konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " İbranice, İngilizce, Lehçe, Rusça",
+        "sub": "Shimon Peres",
+        "count": "4",
+        "list": [
+            " İbranice",
+            " İngilizce",
+            " Lehçe",
+            " Rusça"
+        ]
+    },
+    {
+        "query": "Olaf Scholz'un konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Almanca, İngilizce, Fransızca",
+        "sub": "Olaf Scholz",
+        "count": "3",
+        "list": [
+            " Almanca",
+            " İngilizce",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Ursula von der Leyen'in konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Almanca, İngilizce, Fransızca",
+        "sub": "Ursula von der Leyen",
+        "count": "3",
+        "list": [
+            " Almanca",
+            " İngilizce",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Queen Silvia of Sweden'in konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Almanca, Portekizce, İspanyolca, İngilizce, İsveççe, Fransızca",
+        "sub": "Queen Silvia of Sweden",
+        "count": "6",
+        "list": [
+            " Almanca",
+            " Portekizce",
+            " İspanyolca",
+            " İngilizce",
+            " İsveççe",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Queen Rania of Jordan'ın konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Arapça, İngilizce, Fransızca",
+        "sub": "Queen Rania of Jordan",
+        "count": "3",
+        "list": [
+            " Arapça",
+            " İngilizce",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "King Felipe VI of Spain'in konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " İspanyolca, Katalanca, İngilizce, Fransızca",
+        "sub": "King Felipe VI of Spain",
+        "count": "4",
+        "list": [
+            " İspanyolca",
+            " Katalanca",
+            " İngilizce",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Queen Letizia of Spain'in konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " İspanyolca, İngilizce, Fransızca",
+        "sub": "Queen Letizia of Spain",
+        "count": "3",
+        "list": [
+            " İspanyolca",
+            " İngilizce",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Guy Verhofstadt'ın konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Felemenkçe, Fransızca, İngilizce",
+        "sub": "Guy Verhofstadt",
+        "count": "3",
+        "list": [
+            " Felemenkçe",
+            " Fransızca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Zeinab Badawi'nin konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Arapça, İngilizce, Fransızca",
+        "sub": "Zeinab Badawi",
+        "count": "3",
+        "list": [
+            " Arapça",
+            " İngilizce",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Audrey Hepburn'un konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " İngilizce, Felemenkçe, Fransızca, İtalyanca, İspanyolca",
+        "sub": "Audrey Hepburn",
+        "count": "5",
+        "list": [
+            " İngilizce",
+            " Felemenkçe",
+            " Fransızca",
+            " İtalyanca",
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Trevor Noah'ın konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " İngilizce, Zuluca, Xhosaca, Tsvanaca, Tsonca, Afrikanca",
+        "sub": "Trevor Noah",
+        "count": "6",
+        "list": [
+            " İngilizce",
+            " Zuluca",
+            " Xhosaca",
+            " Tsvanaca",
+            " Tsonca",
+            " Afrikanca"
+        ]
+    },
+    {
+        "query": "Jackie Chan'ın konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Kantonca, Mandarince, İngilizce",
+        "sub": "Jackie Chan",
+        "count": "3",
+        "list": [
+            " Kantonca",
+            " Mandarince",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Viggo Mortensen'in konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " İngilizce, Danca, İspanyolca",
+        "sub": "Viggo Mortensen",
+        "count": "3",
+        "list": [
+            " İngilizce",
+            " Danca",
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Shakira'nın konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " İspanyolca, İngilizce, Portekizce, İtalyanca, Arapça",
+        "sub": "Shakira",
+        "count": "5",
+        "list": [
+            " İspanyolca",
+            " İngilizce",
+            " Portekizce",
+            " İtalyanca",
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Gael García Bernal'ın konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " İspanyolca, İngilizce, Portekizce, Fransızca",
+        "sub": "Gael García Bernal",
+        "count": "4",
+        "list": [
+            " İspanyolca",
+            " İngilizce",
+            " Portekizce",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Natalie Portman'ın konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " İngilizce, İbranice, Fransızca",
+        "sub": "Natalie Portman",
+        "count": "3",
+        "list": [
+            " İngilizce",
+            " İbranice",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Salma Hayek'in konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " İspanyolca, İngilizce, Portekizce",
+        "sub": "Salma Hayek",
+        "count": "3",
+        "list": [
+            " İspanyolca",
+            " İngilizce",
+            " Portekizce"
+        ]
+    },
+    {
+        "query": "Monica Bellucci'nin konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " İtalyanca, Fransızca, İngilizce",
+        "sub": "Monica Bellucci",
+        "count": "3",
+        "list": [
+            " İtalyanca",
+            " Fransızca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Gong Li'nin konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Mandarince, İngilizce, Kantonca",
+        "sub": "Gong Li",
+        "count": "3",
+        "list": [
+            " Mandarince",
+            " İngilizce",
+            " Kantonca"
+        ]
+    },
+    {
+        "query": "Bradley Cooper'in konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " İngilizce, Fransızca, İtalyanca",
+        "sub": "Bradley Cooper",
+        "count": "3",
+        "list": [
+            " İngilizce",
+            " Fransızca",
+            " İtalyanca"
+        ]
+    },
+    {
+        "query": "Daniel Brühl'ün konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Almanca, İspanyolca, İngilizce, Fransızca, Katalanca",
+        "sub": "Daniel Brühl",
+        "count": "5",
+        "list": [
+            " Almanca",
+            " İspanyolca",
+            " İngilizce",
+            " Fransızca",
+            " Katalanca"
+        ]
+    },
+    {
+        "query": "Mads Mikkelsen'in konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Danca, İngilizce, İsveççe, Almanca",
+        "sub": "Mads Mikkelsen",
+        "count": "4",
+        "list": [
+            " Danca",
+            " İngilizce",
+            " İsveççe",
+            " Almanca"
+        ]
+    },
+    {
+        "query": "Aishwarya Rai Bachchan'ın konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Hintçe, İngilizce, Tamilce",
+        "sub": "Aishwarya Rai Bachchan",
+        "count": "3",
+        "list": [
+            " Hintçe",
+            " İngilizce",
+            " Tamilce"
+        ]
+    },
+    {
+        "query": "Irrfan Khan'ın konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Hintçe, İngilizce, Urduca",
+        "sub": "Irrfan Khan",
+        "count": "3",
+        "list": [
+            " Hintçe",
+            " İngilizce",
+            " Urduca"
+        ]
+    },
+    {
+        "query": "Priyanka Chopra Jonas'ın konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Hintçe, İngilizce, Pencapça",
+        "sub": "Priyanka Chopra Jonas",
+        "count": "3",
+        "list": [
+            " Hintçe",
+            " İngilizce",
+            " Pencapça"
+        ]
+    },
+    {
+        "query": "Andrea Bocelli'nin konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " İtalyanca, İngilizce, İspanyolca, Fransızca",
+        "sub": "Andrea Bocelli",
+        "count": "4",
+        "list": [
+            " İtalyanca",
+            " İngilizce",
+            " İspanyolca",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Lara Fabian'ın konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Fransızca, İtalyanca, İngilizce, İspanyolca",
+        "sub": "Lara Fabian",
+        "count": "4",
+        "list": [
+            " Fransızca",
+            " İtalyanca",
+            " İngilizce",
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Sönke Wortmann'ın konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Almanca, İngilizce, Fransızca",
+        "sub": "Sönke Wortmann",
+        "count": "3",
+        "list": [
+            " Almanca",
+            " İngilizce",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Pep Guardiola'nın konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Katalanca, İspanyolca, İngilizce, Almanca",
+        "sub": "Pep Guardiola",
+        "count": "4",
+        "list": [
+            " Katalanca",
+            " İspanyolca",
+            " İngilizce",
+            " Almanca"
+        ]
+    },
+    {
+        "query": "Zlatan Ibrahimović'nin konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " İsveççe, Boşnakça/Sırpça, İngilizce, İtalyanca, İspanyolca",
+        "sub": "Zlatan Ibrahimović",
+        "count": "5",
+        "list": [
+            " İsveççe",
+            " Boşnakça/Sırpça",
+            " İngilizce",
+            " İtalyanca",
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Mesut Özil'in konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Almanca, Türkçe, İngilizce, İspanyolca",
+        "sub": "Mesut Özil",
+        "count": "4",
+        "list": [
+            " Almanca",
+            " Türkçe",
+            " İngilizce",
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Luka Modrić'nin konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Hırvatça, İngilizce, İspanyolca",
+        "sub": "Luka Modrić",
+        "count": "3",
+        "list": [
+            " Hırvatça",
+            " İngilizce",
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Thierry Henry'in konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Fransızca, İngilizce, İspanyolca",
+        "sub": "Thierry Henry",
+        "count": "3",
+        "list": [
+            " Fransızca",
+            " İngilizce",
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Yao Ming'in konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Mandarince, İngilizce, Şanghayca",
+        "sub": "Yao Ming",
+        "count": "3",
+        "list": [
+            " Mandarince",
+            " İngilizce",
+            " Şanghayca"
+        ]
+    },
+    {
+        "query": "Pau Gasol'un konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " İspanyolca, Katalanca, İngilizce",
+        "sub": "Pau Gasol",
+        "count": "3",
+        "list": [
+            " İspanyolca",
+            " Katalanca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Sundar Pichai'nin konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Tamilce, Hintçe, İngilizce",
+        "sub": "Sundar Pichai",
+        "count": "3",
+        "list": [
+            " Tamilce",
+            " Hintçe",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Satya Nadella'nın konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Teluguca, Hintçe, İngilizce",
+        "sub": "Satya Nadella",
+        "count": "3",
+        "list": [
+            " Teluguca",
+            " Hintçe",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Malala Yousafzai'nin konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Peştuca, Urduca, İngilizce",
+        "sub": "Malala Yousafzai",
+        "count": "3",
+        "list": [
+            " Peştuca",
+            " Urduca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Al-Farabi'nin konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Arapça, Farsça, Türkçe (Türkî diller)",
+        "sub": "Al-Farabi",
+        "count": "3",
+        "list": [
+            " Arapça",
+            " Farsça",
+            " Türkçe (Türkî diller)"
+        ]
+    },
+    {
+        "query": "Erasmus'un konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Latince, Felemenkçe, Fransızca, İngilizce, Yunanca",
+        "sub": "Erasmus",
+        "count": "5",
+        "list": [
+            " Latince",
+            " Felemenkçe",
+            " Fransızca",
+            " İngilizce",
+            " Yunanca"
+        ]
+    },
+    {
+        "query": "Thomas More'nin konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " İngilizce, Latince, Fransızca",
+        "sub": "Thomas More",
+        "count": "3",
+        "list": [
+            " İngilizce",
+            " Latince",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Ignatius of Loyola'nın konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Baskça, İspanyolca, Latince, İtalyanca",
+        "sub": "Ignatius of Loyola",
+        "count": "4",
+        "list": [
+            " Baskça",
+            " İspanyolca",
+            " Latince",
+            " İtalyanca"
+        ]
+    },
+    {
+        "query": "Francis Xavier'in konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " Baskça, İspanyolca, Portekizce, Latince, Japonca",
+        "sub": "Francis Xavier",
+        "count": "5",
+        "list": [
+            " Baskça",
+            " İspanyolca",
+            " Portekizce",
+            " Latince",
+            " Japonca"
+        ]
+    },
+    {
+        "query": "Matteo Ricci'nin konuşabildiği dil/diller şudur/şunlardır:",
+        "answer": " İtalyanca, Latince, Portekizce, Çince",
+        "sub": "Matteo Ricci",
+        "count": "4",
+        "list": [
+            " İtalyanca",
+            " Latince",
+            " Portekizce",
+            " Çince"
+        ]
+    }
+]

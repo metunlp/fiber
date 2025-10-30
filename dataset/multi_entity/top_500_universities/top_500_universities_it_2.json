@@ -1,0 +1,595 @@
+[
+    {
+        "query": "Il numero di università elencate nella top 500 in Australia è",
+        "answer": " 28",
+        "sub": "Australia",
+        "count": "28",
+        "list": [
+            " L'Università di Melbourne",
+            " L'Università del Nuovo Galles del Sud",
+            " L'Università di Sydney",
+            " Università Nazionale Australiana",
+            " Università Monash",
+            " L'Università di Queensland",
+            " L'Università dell'Australia Occidentale",
+            " Università di Adelaide",
+            " Università di Tecnologia Sydney",
+            " RMIT Università",
+            " Università Macquarie",
+            " Università Curtin",
+            " Università di Wollongong",
+            " Deakin University",
+            " Università di Tecnologia del Queensland",
+            " L'Università di Newcastle",
+            " La Trobe University",
+            " Università Griffith",
+            " Università Swinburne di Tecnologia",
+            " Università della Tasmania",
+            " Flinders Università",
+            " Università di Sydney Occidentale",
+            " Università del Queensland Meridionale",
+            " Murdoch University",
+            " Università James Cook",
+            " Università Edith Cowan",
+            " Università di Canberra",
+            " Central Queensland University Australia"
+        ],
+        "en_sub": "Australia"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Austria è",
+        "answer": " 5",
+        "sub": "Austria",
+        "count": "5",
+        "list": [
+            " Università di Vienna",
+            " Università di Tecnologia di Vienna",
+            " Universität Innsbruck",
+            " Università di Tecnologia di Graz",
+            " Università Johannes Kepler di Linz"
+        ],
+        "en_sub": "Austria"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Brasile è",
+        "answer": " 4",
+        "sub": "Brasile",
+        "count": "4",
+        "list": [
+            " Universidade de São Paulo",
+            " Universidade Estadual de Campinas",
+            " Universidade Federal do Rio de Janeiro",
+            " Universidade Estadual Paulista \"Júlio de Mesquita Filho\""
+        ],
+        "en_sub": "Brazil"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Brunei Darussalam è",
+        "answer": " 1",
+        "sub": "Brunei Darussalam",
+        "count": "1",
+        "list": [
+            " Universiti Brunei Darussalam"
+        ],
+        "en_sub": "Brunei Darussalam"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Canada è",
+        "answer": " 18",
+        "sub": "Canada",
+        "count": "18",
+        "list": [
+            " Università McGill",
+            " Università di Toronto",
+            " Università della Columbia Britannica",
+            " Università di Alberta",
+            " Università di Waterloo",
+            " Università Occidentale",
+            " Università di Montreal",
+            " Università McMaster",
+            " Queen's University - Ontario",
+            " Università di Calgary",
+            " Università di Ottawa",
+            " Università Dalhousie",
+            " Università Simon Fraser",
+            " Università York",
+            " Università di Victoria",
+            " Università di Saskatchewan",
+            " Università Concordia",
+            " Università Laval"
+        ],
+        "en_sub": "Canada"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Cile è",
+        "answer": " 3",
+        "sub": "Cile",
+        "count": "3",
+        "list": [
+            " Pontificia Università Cattolica del Cile",
+            " Universidad de Chile",
+            " Universidad de Santiago de Chile"
+        ],
+        "en_sub": "Chile"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Cipro è",
+        "answer": " 1",
+        "sub": "Cipro",
+        "count": "1",
+        "list": [
+            " Università di Cipro"
+        ],
+        "en_sub": "Cyprus"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Repubblica Ceca è",
+        "answer": " 3",
+        "sub": "Repubblica Ceca",
+        "count": "3",
+        "list": [
+            " Università Carolina",
+            " Università Tecnica Ceca di Praga",
+            " Università Masaryk"
+        ],
+        "en_sub": "Czechia"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Danimarca è",
+        "answer": " 5",
+        "sub": "Danimarca",
+        "count": "5",
+        "list": [
+            " Università di Copenaghen",
+            " Università Tecnica della Danimarca",
+            " Università di Aarhus",
+            " Università della Danimarca Meridionale",
+            " Università di Aalborg"
+        ],
+        "en_sub": "Denmark"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Egitto è",
+        "answer": " 2",
+        "sub": "Egitto",
+        "count": "2",
+        "list": [
+            " Università del Cairo",
+            " L'Università Americana del Cairo"
+        ],
+        "en_sub": "Egypt"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Finlandia è",
+        "answer": " 7",
+        "sub": "Finlandia",
+        "count": "7",
+        "list": [
+            " Università Aalto",
+            " Università di Helsinki",
+            " Università di Oulu",
+            " Università di Turku",
+            " Lappeenranta-Lahti Università di Tecnologia LUT",
+            " Università di Tampere",
+            " Università di Jyväskylä"
+        ],
+        "en_sub": "Finland"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Israele è",
+        "answer": " 4",
+        "sub": "Israele",
+        "count": "4",
+        "list": [
+            " Università di Tel Aviv",
+            " Università Ebraica di Gerusalemme",
+            " Technion - Istituto Israeliano di Tecnologia",
+            " Università Ben Gurion del Negev"
+        ],
+        "en_sub": "Israel"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Italia è",
+        "answer": " 15",
+        "sub": "Italia",
+        "count": "15",
+        "list": [
+            " Politecnico di Milano",
+            " Sapienza Università di Roma",
+            " Alma Mater Studiorum - Università di Bologna",
+            " Università di Padova",
+            " Politecnico di Torino",
+            " Università di Milano",
+            " Università di Pisa",
+            " Università degli Studi di Roma - Tor Vergata",
+            " Università degli Studi di Napoli - Federico II",
+            " Università di Firenze",
+            " Università di Torino",
+            " Università Cattolica del Sacro Cuore",
+            " Università degli Studi di Pavia",
+            " Università Vita-Salute San Raffaele",
+            " Università di Trento"
+        ],
+        "en_sub": "Italy"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Giappone è",
+        "answer": " 13",
+        "sub": "Giappone",
+        "count": "13",
+        "list": [
+            " L'Università di Tokyo",
+            " Università di Kyoto",
+            " Istituto di Tecnologia di Tokyo",
+            " L'Università di Osaka",
+            " Università di Tohoku",
+            " Università di Nagoya",
+            " Università di Hokkaido",
+            " Università di Kyushu",
+            " Waseda University",
+            " Università Keio",
+            " Università di Tsukuba",
+            " Università di Hiroshima",
+            " Università di Kobe"
+        ],
+        "en_sub": "Japan"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Giordania è",
+        "answer": " 2",
+        "sub": "Giordania",
+        "count": "2",
+        "list": [
+            " Università della Giordania",
+            " Università Giordana di Scienza e Tecnologia"
+        ],
+        "en_sub": "Jordan"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Lussemburgo è",
+        "answer": " 1",
+        "sub": "Lussemburgo",
+        "count": "1",
+        "list": [
+            " Università del Lussemburgo"
+        ],
+        "en_sub": "Luxembourg"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Malesia è",
+        "answer": " 10",
+        "sub": "Malesia",
+        "count": "10",
+        "list": [
+            " Università Malaya",
+            " Universiti Kebangsaan Malaysia",
+            " Universiti Putra Malaysia",
+            " Universiti Sains Malaysia",
+            " Universiti Teknologi Malaysia",
+            " Universiti Teknologi Petronas",
+            " Taylor's University",
+            " UCSI Università",
+            " Università Sunway",
+            " Universiti Utara Malaysia"
+        ],
+        "en_sub": "Malaysia"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Messico è",
+        "answer": " 2",
+        "sub": "Messico",
+        "count": "2",
+        "list": [
+            " Università Nazionale Autonoma del Messico",
+            " Tecnológico de Monterrey"
+        ],
+        "en_sub": "Mexico"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Nuova Zelanda è",
+        "answer": " 8",
+        "sub": "Nuova Zelanda",
+        "count": "8",
+        "list": [
+            " L'Università di Auckland",
+            " University of Otago",
+            " Università Massey",
+            " Università Victoria di Wellington",
+            " Università di Canterbury",
+            " Università di Waikato",
+            " Università Lincoln",
+            " Università di Tecnologia di Auckland"
+        ],
+        "en_sub": "New Zealand"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Norvegia è",
+        "answer": " 3",
+        "sub": "Norvegia",
+        "count": "3",
+        "list": [
+            " Università di Oslo",
+            " Università Norvegese di Scienze e Tecnologia",
+            " Università di Bergen"
+        ],
+        "en_sub": "Norway"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Pakistan è",
+        "answer": " 2",
+        "sub": "Pakistan",
+        "count": "2",
+        "list": [
+            " Università Quaid-i-azam",
+            " Università Nazionale di Scienze e Tecnologia Islamabad"
+        ],
+        "en_sub": "Pakistan"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Polonia è",
+        "answer": " 3",
+        "sub": "Polonia",
+        "count": "3",
+        "list": [
+            " Università di Varsavia",
+            " Università Jagellonica",
+            " Politecnico di Varsavia"
+        ],
+        "en_sub": "Poland"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Arabia Saudita è",
+        "answer": " 5",
+        "sub": "Arabia Saudita",
+        "count": "5",
+        "list": [
+            " Università Re Fahd del Petrolio e Minerali",
+            " Università Re Saud",
+            " Università Re Abdul Aziz",
+            " Università Principe Mohammad Bin Fahd",
+            " Università Imam Abdulrahman Bin Faisal"
+        ],
+        "en_sub": "Saudi Arabia"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Singapore è",
+        "answer": " 2",
+        "sub": "Singapore",
+        "count": "2",
+        "list": [
+            " Università Nazionale di Singapore",
+            " Nanyang Technological University - Singapore"
+        ],
+        "en_sub": "Singapore"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Sudafrica è",
+        "answer": " 5",
+        "sub": "Sudafrica",
+        "count": "5",
+        "list": [
+            " Università di Città del Capo",
+            " Università del Witwatersrand",
+            " Università di Stellenbosch",
+            " Università di Johannesburg",
+            " Università di Pretoria"
+        ],
+        "en_sub": "South Africa"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Corea del Sud è",
+        "answer": " 13",
+        "sub": "Corea del Sud",
+        "count": "13",
+        "list": [
+            " Università Nazionale di Seoul",
+            " Università Yonsei",
+            " Università della Corea",
+            " Università delle Scienze e della Tecnologia di Pohang",
+            " Università di Sungkyunkwan",
+            " Università Hanyang",
+            " Istituto Nazionale di Scienza e Tecnologia di Ulsan",
+            " Università Kyung Hee",
+            " Istituto di Scienza e Tecnologia di Daegu Gyeongbuk",
+            " Gwangju Institute of Science and Technology",
+            " Università Sejong",
+            " Università Nazionale di Pusan",
+            " Chung-Ang University"
+        ],
+        "en_sub": "South Korea"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Svezia è",
+        "answer": " 8",
+        "sub": "Svezia",
+        "count": "8",
+        "list": [
+            " Università di Lund",
+            " KTH Istituto Reale di Tecnologia",
+            " Università di Uppsala",
+            " Università di Stoccolma",
+            " Università di Tecnologia di Chalmers",
+            " Università di Göteborg",
+            " Università di Linköping",
+            " Università di Umeå"
+        ],
+        "en_sub": "Sweden"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Taiwan è",
+        "answer": " 8",
+        "sub": "Taiwan",
+        "count": "8",
+        "list": [
+            " Università Nazionale di Taiwan",
+            " Università Nazionale Tsing Hua",
+            " Università Nazionale Yang Ming Chiao Tung",
+            " National Cheng Kung University",
+            " Università Nazionale di Taiwan delle Scienze e della Tecnologia",
+            " Università Nazionale di Tecnologia di Taipei",
+            " Università Nazionale Normale di Taiwan",
+            " Università Nazionale Sun Yat-sen"
+        ],
+        "en_sub": "Taiwan"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Turchia è",
+        "answer": " 6",
+        "sub": "Turchia",
+        "count": "6",
+        "list": [
+            " Università Tecnica del Medio Oriente",
+            " Università Tecnica di Istanbul",
+            " Università Koc",
+            " Università del Bosforo",
+            " Università Sabanci",
+            " Università Bilkent"
+        ],
+        "en_sub": "Türkiye"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Regno Unito è",
+        "answer": " 46",
+        "sub": "Regno Unito",
+        "count": "46",
+        "list": [
+            " Imperial College London",
+            " Università di Oxford",
+            " Università di Cambridge",
+            " UCL",
+            " Collegio del Re di Londra",
+            " Università di Edimburgo",
+            " L'Università di Manchester",
+            " Università di Bristol",
+            " Scuola di Economia e Scienze Politiche di Londra",
+            " L'Università di Warwick",
+            " Università di Birmingham",
+            " Università di Glasgow",
+            " Università di Leeds",
+            " Università di Southampton",
+            " L'Università di Sheffield",
+            " Università di Durham",
+            " L'Università di Nottingham",
+            " Università Queen Mary di Londra",
+            " Università di St Andrews",
+            " Università di Bath",
+            " Università di Newcastle",
+            " Università di Liverpool",
+            " Università di Exeter",
+            " Università di Lancaster",
+            " Università di York",
+            " Università di Cardiff",
+            " Università di Reading",
+            " Queen's University Belfast",
+            " Università di Loughborough",
+            " Università di Strathclyde",
+            " Università di Aberdeen",
+            " Università di Surrey",
+            " Università di Sussex",
+            " Heriot-Watt University",
+            " Università di Swansea",
+            " City St George’s - Università di Londra",
+            " Università di Leicester",
+            " Oxford Brookes Università",
+            " Università dell'Anglia Orientale",
+            " Università Brunel di Londra",
+            " Birkbeck College - Università di Londra",
+            " Aston University",
+            " Università di Kent",
+            " Università di Dundee",
+            " Università di Essex",
+            " Royal Holloway University of London"
+        ],
+        "en_sub": "United Kingdom"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Stati Uniti d'America è",
+        "answer": " 71",
+        "sub": "Stati Uniti d'America",
+        "count": "71",
+        "list": [
+            " Istituto di Tecnologia del Massachusetts",
+            " Stanford Università",
+            " Università di Harvard",
+            " Istituto di Tecnologia della California",
+            " Università di Chicago",
+            " Università della Pennsylvania",
+            " Università Cornell",
+            " Università della California - Berkeley",
+            " Università Yale",
+            " Università Johns Hopkins",
+            " Università di Princeton",
+            " Columbia University",
+            " Northwestern University",
+            " Università del Michigan-Ann Arbor",
+            " Università della California - Los Angeles",
+            " Università Carnegie Mellon",
+            " Università di New York",
+            " Duke University",
+            " Università della California - San Diego",
+            " Università del Texas ad Austin",
+            " Brown University",
+            " Università dell'Illinois a Urbana-Champaign",
+            " Università di Washington",
+            " Università Statale della Pennsylvania",
+            " Università di Boston",
+            " Università Purdue",
+            " Università del Wisconsin-Madison",
+            " Università della California - Davis",
+            " Rice University",
+            " Georgia Institute of Technology",
+            " Università del North Carolina - Chapel Hill",
+            " Università Texas A&M",
+            " Università della California del Sud",
+            " Michigan State University",
+            " Washington University a St. Louis",
+            " Arizona State University",
+            " Università della California - Santa Barbara",
+            " Emory University",
+            " Università Statale dell'Ohio",
+            " Università del Maryland - College Park",
+            " Università del Minnesota",
+            " Università della Florida",
+            " Università di Rochester",
+            " Dartmouth College",
+            " Università del Massachusetts - Amherst",
+            " Vanderbilt University",
+            " Università Statale del North Carolina",
+            " Università della Virginia",
+            " Università di Pittsburgh",
+            " Università di Georgetown",
+            " Università dell'Arizona",
+            " Università della California - Irvine",
+            " Case Western Reserve University",
+            " Università di Notre Dame",
+            " Università del Colorado Boulder",
+            " Università dell'Indiana a Bloomington",
+            " Università di Miami",
+            " Università Rutgers – New Brunswick",
+            " Tufts University",
+            " Università di Illinois Chicago",
+            " Università George Washington",
+            " Istituto Politecnico della Virginia",
+            " Università Nordorientale",
+            " Università a Buffalo SUNY",
+            " Università Statale di Washington",
+            " Università della California - Riverside",
+            " Iowa State University",
+            " Università di Stony Brook",
+            " Colorado State University",
+            " Università della California - Santa Cruz",
+            " Università di Kansas"
+        ],
+        "en_sub": "United States of America"
+    },
+    {
+        "query": "Il numero di università elencate nella top 500 in Vietnam è",
+        "answer": " 1",
+        "sub": "Vietnam",
+        "count": "1",
+        "list": [
+            " Università Duy Tan"
+        ],
+        "en_sub": "Vietnam"
+    }
+]

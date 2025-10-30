@@ -1,0 +1,374 @@
+[
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Åland (Finlandia)?",
+        "answer": " .ax",
+        "sub": "Åland (Finlandia)",
+        "en_sub": "Åland (Finland)"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale dell'Anguilla (Regno Unito)?",
+        "answer": " .ai",
+        "sub": "Anguilla (Regno Unito)",
+        "en_sub": "Anguilla (United Kingdom)"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale dell'Antartide?",
+        "answer": " .aq",
+        "sub": "Antartide",
+        "en_sub": "Antarctica"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale dell'Armenia?",
+        "answer": " .am",
+        "sub": "Armenia",
+        "en_sub": "Armenia"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale dell'Australia?",
+        "answer": " .au",
+        "sub": "Australia",
+        "en_sub": "Australia"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale dell'Azerbaigian?",
+        "answer": " .az",
+        "sub": "Azerbaigian",
+        "en_sub": "Azerbaijan"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Bahamas?",
+        "answer": " .bs",
+        "sub": "Bahamas",
+        "en_sub": "Bahamas"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Belize?",
+        "answer": " .bz",
+        "sub": "Belize",
+        "en_sub": "Belize"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Benin?",
+        "answer": " .bj",
+        "sub": "Benin",
+        "en_sub": "Benin"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Bermuda (Regno Unito)?",
+        "answer": " .bm",
+        "sub": "Bermuda (Regno Unito)",
+        "en_sub": "Bermuda (United Kingdom)"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Bhutan?",
+        "answer": " .bt",
+        "sub": "Bhutan",
+        "en_sub": "Bhutan"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale della Bosnia ed Erzegovina?",
+        "answer": " .ba",
+        "sub": "Bosnia ed Erzegovina",
+        "en_sub": "Bosnia and Herzegovina"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Territorio Britannico dell'Oceano Indiano (Regno Unito)?",
+        "answer": " .io",
+        "sub": "Territorio Britannico dell'Oceano Indiano (Regno Unito)",
+        "en_sub": "British Indian Ocean Territory (United Kingdom)"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Burkina Faso?",
+        "answer": " .bf",
+        "sub": "Burkina Faso",
+        "en_sub": "Burkina Faso"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Capo Verde?",
+        "answer": " .cv",
+        "sub": "Capo Verde",
+        "en_sub": "Cape Verde"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale della Repubblica Centrafricana?",
+        "answer": " .cf",
+        "sub": "Repubblica Centrafricana",
+        "en_sub": "Central African Republic"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Comore?",
+        "answer": " .km",
+        "sub": "Comore",
+        "en_sub": "Comoros"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale delle Isole Cook?",
+        "answer": " .ck",
+        "sub": "Isole Cook",
+        "en_sub": "Cook Islands"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale della Cuba?",
+        "answer": " .cu",
+        "sub": "Cuba",
+        "en_sub": "Cuba"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Curaçao (Regno dei Paesi Bassi)?",
+        "answer": " .cw",
+        "sub": "Curaçao (Regno dei Paesi Bassi)",
+        "en_sub": "Curaçao (Kingdom of the Netherlands)"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Cipro?",
+        "answer": " .cy",
+        "sub": "Cipro",
+        "en_sub": "Cyprus"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale della Repubblica Ceca?",
+        "answer": " .cz",
+        "sub": "Repubblica Ceca",
+        "en_sub": "Czech Republic"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Repubblica Democratica del Congo?",
+        "answer": " .cd",
+        "sub": "Repubblica Democratica del Congo",
+        "en_sub": "Democratic Republic of the Congo"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale della Danimarca?",
+        "answer": " .dk",
+        "sub": "Danimarca",
+        "en_sub": "Denmark"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Gibuti?",
+        "answer": " .dj",
+        "sub": "Gibuti",
+        "en_sub": "Djibouti"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Timor Est?",
+        "answer": " .tl",
+        "sub": "Timor Est",
+        "en_sub": "East Timor"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale dell'Ecuador?",
+        "answer": " .ec",
+        "sub": "Ecuador",
+        "en_sub": "Ecuador"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale dell'Eritrea?",
+        "answer": " .er",
+        "sub": "Eritrea",
+        "en_sub": "Eritrea"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale dell'Estonia?",
+        "answer": " .ee",
+        "sub": "Estonia",
+        "en_sub": "Estonia"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale dell'Eswatini?",
+        "answer": " .sz",
+        "sub": "Eswatini",
+        "en_sub": "Eswatini"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale dell'Etiopia?",
+        "answer": " .et",
+        "sub": "Etiopia",
+        "en_sub": "Ethiopia"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale dell'Unione Europea?",
+        "answer": " .eu",
+        "sub": "Unione Europea",
+        "en_sub": "European Union"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale degli Stati Federati di Micronesia?",
+        "answer": " .fm",
+        "sub": "Stati Federati di Micronesia",
+        "en_sub": "Federated States of Micronesia"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Figi?",
+        "answer": " .fj",
+        "sub": "Figi",
+        "en_sub": "Fiji"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Terre australi e antartiche francesi?",
+        "answer": " .tf",
+        "sub": "Terre australi e antartiche francesi",
+        "en_sub": "French Southern and Antarctic Lands"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale della Germania?",
+        "answer": " .de",
+        "sub": "Germania",
+        "en_sub": "Germany"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale della Grecia?",
+        "answer": " .gr",
+        "sub": "Grecia",
+        "en_sub": "Greece"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Groenlandia (Regno di Danimarca)?",
+        "answer": " .gl",
+        "sub": "Groenlandia (Regno di Danimarca)",
+        "en_sub": "Greenland (Kingdom of Denmark)"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale della Grenada?",
+        "answer": " .gd",
+        "sub": "Grenada",
+        "en_sub": "Grenada"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Guam (Stati Uniti)?",
+        "answer": " .gu",
+        "sub": "Guam (Stati Uniti)",
+        "en_sub": "Guam (United States)"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Guernsey?",
+        "answer": " .gg",
+        "sub": "Guernsey",
+        "en_sub": "Guernsey"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale della Guinea?",
+        "answer": " .gn",
+        "sub": "Guinea",
+        "en_sub": "Guinea"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Guinea-Bissau?",
+        "answer": " .gw",
+        "sub": "Guinea-Bissau",
+        "en_sub": "Guinea-Bissau"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale della Guyana?",
+        "answer": " .gy",
+        "sub": "Guyana",
+        "en_sub": "Guyana"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Haiti?",
+        "answer": " .ht",
+        "sub": "Haiti",
+        "en_sub": "Haiti"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale delle Isole Heard e McDonald?",
+        "answer": " .hm",
+        "sub": "Isole Heard e McDonald",
+        "en_sub": "Heard Island and McDonald Islands"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale dell'India?",
+        "answer": " .in",
+        "sub": "India",
+        "en_sub": "India"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale dell'Isola di Man?",
+        "answer": " .im",
+        "sub": "Isola di Man",
+        "en_sub": "Isle of Man"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale di Israele?",
+        "answer": " .il",
+        "sub": "Israele",
+        "en_sub": "Israel"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale dell'Italia?",
+        "answer": " .it",
+        "sub": "Italia",
+        "en_sub": "Italy"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Kazakistan?",
+        "answer": " .kz",
+        "sub": "Kazakistan",
+        "en_sub": "Kazakhstan"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Kiribati?",
+        "answer": " .ki",
+        "sub": "Kiribati",
+        "en_sub": "Kiribati"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Kuwait?",
+        "answer": " .kw",
+        "sub": "Kuwait",
+        "en_sub": "Kuwait"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Lussemburgo?",
+        "answer": " .lu",
+        "sub": "Lussemburgo",
+        "en_sub": "Luxembourg"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale delle Isole Marianne Settentrionali (Stati Uniti)?",
+        "answer": " .mp",
+        "sub": "Isole Marianne Settentrionali (Stati Uniti)",
+        "en_sub": "Northern Mariana Islands (United States)"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale della Russia?",
+        "answer": " .ru",
+        "sub": "Russia",
+        "en_sub": "Russia"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale della Tunisia?",
+        "answer": " .tn",
+        "sub": "Tunisia",
+        "en_sub": "Tunisia"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale della Turchia?",
+        "answer": " .tr",
+        "sub": "Turchia",
+        "en_sub": "Turkey"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Turkmenistan?",
+        "answer": " .tm",
+        "sub": "Turkmenistan",
+        "en_sub": "Turkmenistan"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale del Regno Unito?",
+        "answer": " .uk",
+        "sub": "Regno Unito",
+        "en_sub": "United Kingdom"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale degli Stati Uniti d'America?",
+        "answer": " .us",
+        "sub": "Stati Uniti d'America",
+        "en_sub": "United States of America"
+    },
+    {
+        "query": "Qual è il dominio di primo livello nazionale delle Isole Vergini americane (Stati Uniti)?",
+        "answer": " .vi",
+        "sub": "Isole Vergini americane (Stati Uniti)",
+        "en_sub": "United States Virgin Islands (United States)"
+    }
+]

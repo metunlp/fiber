@@ -1,0 +1,742 @@
+﻿[
+  {
+    "query": "MessagePad'ın üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "MessagePad"
+  },
+  {
+    "query": "macOS'un üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "macOS"
+  },
+  {
+    "query": "Safari'nin üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "Safari"
+  },
+  {
+    "query": "iWork'un üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "iWork"
+  },
+  {
+    "query": "PostScript'in üreticisi şudur:",
+    "answer": " Adobe",
+    "sub": "PostScript"
+  },
+  {
+    "query": "IBM AIX'in üreticisi şudur:",
+    "answer": " IBM",
+    "sub": "IBM AIX"
+  },
+  {
+    "query": "GW-BASIC'in üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "GW-BASIC"
+  },
+  {
+    "query": "Windows 1.0'un üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Windows 1.0"
+  },
+  {
+    "query": "Nintendo 2DS'un üreticisi şudur:",
+    "answer": " Nintendo",
+    "sub": "Nintendo 2DS"
+  },
+  {
+    "query": "Intel Threading Building Blocks'un üreticisi şudur:",
+    "answer": " Intel",
+    "sub": "Intel Threading Building Blocks"
+  },
+  {
+    "query": "IA-32'nın üreticisi şudur:",
+    "answer": " Intel",
+    "sub": "IA-32"
+  },
+  {
+    "query": "Intel 8086'in üreticisi şudur:",
+    "answer": " Intel",
+    "sub": "Intel 8086"
+  },
+  {
+    "query": "Intel 80386'in üreticisi şudur:",
+    "answer": " Intel",
+    "sub": "Intel 80386"
+  },
+  {
+    "query": "Intel 80486'in üreticisi şudur:",
+    "answer": " Intel",
+    "sub": "Intel 80486"
+  },
+  {
+    "query": "Windows 10'un üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Windows 10"
+  },
+  {
+    "query": "IA-64'nın üreticisi şudur:",
+    "answer": " Intel",
+    "sub": "IA-64"
+  },
+  {
+    "query": "Lotus 1-2-3'un üreticisi şudur:",
+    "answer": " IBM",
+    "sub": "Lotus 1-2-3"
+  },
+  {
+    "query": "Microsoft Office'nin üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Microsoft Office"
+  },
+  {
+    "query": "Xenix'in üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Xenix"
+  },
+  {
+    "query": "Microsoft Word'un üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Microsoft Word"
+  },
+  {
+    "query": "macOS Server'in üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "macOS Server"
+  },
+  {
+    "query": "Final Fantasy V'ın üreticisi şudur:",
+    "answer": " Square",
+    "sub": "Final Fantasy V"
+  },
+  {
+    "query": "Windows Embedded Automotive'nin üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Windows Embedded Automotive"
+  },
+  {
+    "query": "Microsoft Visual Studio'nun üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Microsoft Visual Studio"
+  },
+  {
+    "query": "Windows NT 4.0'un üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Windows NT 4.0"
+  },
+  {
+    "query": "Microsoft FrontPage'nin üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Microsoft FrontPage"
+  },
+  {
+    "query": "Mac OS X Panther'in üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "Mac OS X Panther"
+  },
+  {
+    "query": "XEDIT'in üreticisi şudur:",
+    "answer": " IBM",
+    "sub": "XEDIT"
+  },
+  {
+    "query": "Microsoft BASIC'in üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Microsoft BASIC"
+  },
+  {
+    "query": "Adobe Acrobat'ın üreticisi şudur:",
+    "answer": " Adobe",
+    "sub": "Adobe Acrobat"
+  },
+  {
+    "query": "MobileMe'nin üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "MobileMe"
+  },
+  {
+    "query": "Zaxxon'un üreticisi şudur:",
+    "answer": " Sega",
+    "sub": "Zaxxon"
+  },
+  {
+    "query": "Visual Basic .NET'in üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Visual Basic .NET"
+  },
+  {
+    "query": "Adobe Flash Builder'in üreticisi şudur:",
+    "answer": " Adobe",
+    "sub": "Adobe Flash Builder"
+  },
+  {
+    "query": "Windows Phone'nin üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Windows Phone"
+  },
+  {
+    "query": "Mario franchise'nin üreticisi şudur:",
+    "answer": " Nintendo",
+    "sub": "Mario franchise"
+  },
+  {
+    "query": "Pentium'un üreticisi şudur:",
+    "answer": " Intel",
+    "sub": "Pentium"
+  },
+  {
+    "query": "Adobe Photoshop Elements'in üreticisi şudur:",
+    "answer": " Adobe",
+    "sub": "Adobe Photoshop Elements"
+  },
+  {
+    "query": "Adobe Photoshop Lightroom'un üreticisi şudur:",
+    "answer": " Adobe",
+    "sub": "Adobe Photoshop Lightroom"
+  },
+  {
+    "query": "Mac OS X 10.2'un üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "Mac OS X 10.2"
+  },
+  {
+    "query": "Wii U'nun üreticisi şudur:",
+    "answer": " Nintendo",
+    "sub": "Wii U"
+  },
+  {
+    "query": "Microsoft Visio'nun üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Microsoft Visio"
+  },
+  {
+    "query": "Windows XP'un üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Windows XP"
+  },
+  {
+    "query": "Windows 2000'un üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Windows 2000"
+  },
+  {
+    "query": "Intel 80186'in üreticisi şudur:",
+    "answer": " Intel",
+    "sub": "Intel 80186"
+  },
+  {
+    "query": "Intel 80286'in üreticisi şudur:",
+    "answer": " Intel",
+    "sub": "Intel 80286"
+  },
+  {
+    "query": "Audio Video Interleave'nin üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Audio Video Interleave"
+  },
+  {
+    "query": "IBM System i'nin üreticisi şudur:",
+    "answer": " IBM",
+    "sub": "IBM System i"
+  },
+  {
+    "query": "IBM i'nin üreticisi şudur:",
+    "answer": " IBM",
+    "sub": "IBM i"
+  },
+  {
+    "query": "Alex Kidd'in üreticisi şudur:",
+    "answer": " Sega",
+    "sub": "Alex Kidd"
+  },
+  {
+    "query": "Windows 8'un üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Windows 8"
+  },
+  {
+    "query": "The Legend of Zelda'nın üreticisi şudur:",
+    "answer": " Nintendo",
+    "sub": "The Legend of Zelda"
+  },
+  {
+    "query": "Gmail'in üreticisi şudur:",
+    "answer": " Google",
+    "sub": "Gmail"
+  },
+  {
+    "query": "Mac OS X Snow Leopard'ın üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "Mac OS X Snow Leopard"
+  },
+  {
+    "query": "Microsoft Office 2007'nin üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Microsoft Office 2007"
+  },
+  {
+    "query": "Windows Embedded Compact'ın üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Windows Embedded Compact"
+  },
+  {
+    "query": "NTLDR'nin üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "NTLDR"
+  },
+  {
+    "query": "Windows Server 2003'in üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Windows Server 2003"
+  },
+  {
+    "query": "Windows Server 2008'in üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Windows Server 2008"
+  },
+  {
+    "query": "Google Workspace'nin üreticisi şudur:",
+    "answer": " Google",
+    "sub": "Google Workspace"
+  },
+  {
+    "query": "Microsoft Picture It!'in üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Microsoft Picture It!"
+  },
+  {
+    "query": "Nintendo DSi'nin üreticisi şudur:",
+    "answer": " Nintendo",
+    "sub": "Nintendo DSi"
+  },
+  {
+    "query": "Super Monaco GP'un üreticisi şudur:",
+    "answer": " Sega",
+    "sub": "Super Monaco GP"
+  },
+  {
+    "query": "Windows Media Player'in üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Windows Media Player"
+  },
+  {
+    "query": "Chrono Trigger'in üreticisi şudur:",
+    "answer": " Square",
+    "sub": "Chrono Trigger"
+  },
+  {
+    "query": "Zune'nin üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Zune"
+  },
+  {
+    "query": "iTunes'in üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "iTunes"
+  },
+  {
+    "query": "Google Talk'ın üreticisi şudur:",
+    "answer": " Google",
+    "sub": "Google Talk"
+  },
+  {
+    "query": "Windows Embedded'in üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Windows Embedded"
+  },
+  {
+    "query": "zero configuration networking'in üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "zero configuration networking"
+  },
+  {
+    "query": "Adobe Illustrator'un üreticisi şudur:",
+    "answer": " Adobe",
+    "sub": "Adobe Illustrator"
+  },
+  {
+    "query": "Donkey Kong'un üreticisi şudur:",
+    "answer": " Nintendo",
+    "sub": "Donkey Kong"
+  },
+  {
+    "query": "Google AdSense'nin üreticisi şudur:",
+    "answer": " Google",
+    "sub": "Google AdSense"
+  },
+  {
+    "query": "Thunder Blade'nin üreticisi şudur:",
+    "answer": " Sega",
+    "sub": "Thunder Blade"
+  },
+  {
+    "query": "Windows 8.1'un üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Windows 8.1"
+  },
+  {
+    "query": "Test Drive Le Mans'ın üreticisi şudur:",
+    "answer": " Atari",
+    "sub": "Test Drive Le Mans"
+  },
+  {
+    "query": "A350'nın üreticisi şudur:",
+    "answer": " Airbus",
+    "sub": "A350"
+  },
+  {
+    "query": "SonicStage'nin üreticisi şudur:",
+    "answer": " Sony",
+    "sub": "SonicStage"
+  },
+  {
+    "query": "Digital Negative'nin üreticisi şudur:",
+    "answer": " Adobe",
+    "sub": "Digital Negative"
+  },
+  {
+    "query": "Golden Axe'nin üreticisi şudur:",
+    "answer": " Sega",
+    "sub": "Golden Axe"
+  },
+  {
+    "query": "Time Sharing Option'un üreticisi şudur:",
+    "answer": " IBM",
+    "sub": "Time Sharing Option"
+  },
+  {
+    "query": "Google Desktop'un üreticisi şudur:",
+    "answer": " Google",
+    "sub": "Google Desktop"
+  },
+  {
+    "query": "ASCI Red'in üreticisi şudur:",
+    "answer": " Intel",
+    "sub": "ASCI Red"
+  },
+  {
+    "query": "Picasa'nın üreticisi şudur:",
+    "answer": " Google",
+    "sub": "Picasa"
+  },
+  {
+    "query": "IBM Db2'in üreticisi şudur:",
+    "answer": " IBM",
+    "sub": "IBM Db2"
+  },
+  {
+    "query": "Microsoft Silverlight'in üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Microsoft Silverlight"
+  },
+  {
+    "query": "iPod Touch'un üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "iPod Touch"
+  },
+  {
+    "query": "Synchronized Accessible Media Interchange'nin üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Synchronized Accessible Media Interchange"
+  },
+  {
+    "query": "Microsoft Compiled HTML Help'in üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Microsoft Compiled HTML Help"
+  },
+  {
+    "query": "OpenAFS'ın üreticisi şudur:",
+    "answer": " IBM",
+    "sub": "OpenAFS"
+  },
+  {
+    "query": "iPod Mini'nin üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "iPod Mini"
+  },
+  {
+    "query": "Vector Markup Language'nin üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Vector Markup Language"
+  },
+  {
+    "query": "YUI Library'ın üreticisi şudur:",
+    "answer": " Yahoo",
+    "sub": "YUI Library"
+  },
+  {
+    "query": "QuickDraw'ın üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "QuickDraw"
+  },
+  {
+    "query": "OpenDoc'un üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "OpenDoc"
+  },
+  {
+    "query": "Meta Content Framework'un üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "Meta Content Framework"
+  },
+  {
+    "query": "iPod Shuffle'nin üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "iPod Shuffle"
+  },
+  {
+    "query": "Windows Communication Foundation'un üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Windows Communication Foundation"
+  },
+  {
+    "query": "Adobe Soundbooth'un üreticisi şudur:",
+    "answer": " Adobe",
+    "sub": "Adobe Soundbooth"
+  },
+  {
+    "query": "Adobe Audition'un üreticisi şudur:",
+    "answer": " Adobe",
+    "sub": "Adobe Audition"
+  },
+  {
+    "query": "Heavyweight Champ'ın üreticisi şudur:",
+    "answer": " Sega",
+    "sub": "Heavyweight Champ"
+  },
+  {
+    "query": "Resource Access Control Facility'in üreticisi şudur:",
+    "answer": " IBM",
+    "sub": "Resource Access Control Facility"
+  },
+  {
+    "query": "IBM Network Control Program'ın üreticisi şudur:",
+    "answer": " IBM",
+    "sub": "IBM Network Control Program"
+  },
+  {
+    "query": "Tamarin'in üreticisi şudur:",
+    "answer": " Adobe",
+    "sub": "Tamarin"
+  },
+  {
+    "query": "Adobe Flash Player'in üreticisi şudur:",
+    "answer": " Adobe",
+    "sub": "Adobe Flash Player"
+  },
+  {
+    "query": "Microsoft Plus!'un üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Microsoft Plus!"
+  },
+  {
+    "query": "iDisk'in üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "iDisk"
+  },
+  {
+    "query": "OS X Yosemite'nin üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "OS X Yosemite"
+  },
+  {
+    "query": "iOS 8'un üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "iOS 8"
+  },
+  {
+    "query": "Mac OS X Tiger'in üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "Mac OS X Tiger"
+  },
+  {
+    "query": "Advanced Systems Format'ın üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Advanced Systems Format"
+  },
+  {
+    "query": "Siri'nin üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "Siri"
+  },
+  {
+    "query": "Super Audio CD'un üreticisi şudur:",
+    "answer": " Sony",
+    "sub": "Super Audio CD"
+  },
+  {
+    "query": "B-47 Stratojet'in üreticisi şudur:",
+    "answer": " Boeing",
+    "sub": "B-47 Stratojet"
+  },
+  {
+    "query": "TypeScript'in üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "TypeScript"
+  },
+  {
+    "query": "Adobe After Effects'in üreticisi şudur:",
+    "answer": " Adobe",
+    "sub": "Adobe After Effects"
+  },
+  {
+    "query": "Adobe Premiere Pro'nun üreticisi şudur:",
+    "answer": " Adobe",
+    "sub": "Adobe Premiere Pro"
+  },
+  {
+    "query": "Google Patents'in üreticisi şudur:",
+    "answer": " Google",
+    "sub": "Google Patents"
+  },
+  {
+    "query": "Sega Smash Pack'ın üreticisi şudur:",
+    "answer": " Sega",
+    "sub": "Sega Smash Pack"
+  },
+  {
+    "query": "IBM RPG II'nin üreticisi şudur:",
+    "answer": " IBM",
+    "sub": "IBM RPG II"
+  },
+  {
+    "query": "iTunes Radio'nun üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "iTunes Radio"
+  },
+  {
+    "query": "Journaled File System'in üreticisi şudur:",
+    "answer": " IBM",
+    "sub": "Journaled File System"
+  },
+  {
+    "query": "IBM General Parallel File System'in üreticisi şudur:",
+    "answer": " IBM",
+    "sub": "IBM General Parallel File System"
+  },
+  {
+    "query": "WebObjects'in üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "WebObjects"
+  },
+  {
+    "query": "Microsoft Macro Assembler'in üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Microsoft Macro Assembler"
+  },
+  {
+    "query": "Windows Installer'in üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Windows Installer"
+  },
+  {
+    "query": "sRGB'nin üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "sRGB"
+  },
+  {
+    "query": "Final Fantasy'ın üreticisi şudur:",
+    "answer": " Square",
+    "sub": "Final Fantasy"
+  },
+  {
+    "query": "Google Drive'nin üreticisi şudur:",
+    "answer": " Google",
+    "sub": "Google Drive"
+  },
+  {
+    "query": "Google Calendar'ın üreticisi şudur:",
+    "answer": " Google",
+    "sub": "Google Calendar"
+  },
+  {
+    "query": "Skype'nin üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Skype"
+  },
+  {
+    "query": "Eternal Champions'un üreticisi şudur:",
+    "answer": " Sega",
+    "sub": "Eternal Champions"
+  },
+  {
+    "query": "IntelliPoint'in üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "IntelliPoint"
+  },
+  {
+    "query": "The Ocean Hunter'in üreticisi şudur:",
+    "answer": " Sega",
+    "sub": "The Ocean Hunter"
+  },
+  {
+    "query": "Final Cut Studio'nun üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "Final Cut Studio"
+  },
+  {
+    "query": "Adobe Media Player'in üreticisi şudur:",
+    "answer": " Adobe",
+    "sub": "Adobe Media Player"
+  },
+  {
+    "query": "HFS Plus'un üreticisi şudur:",
+    "answer": " Apple Inc.",
+    "sub": "HFS Plus"
+  },
+  {
+    "query": "Adobe Fireworks'un üreticisi şudur:",
+    "answer": " Adobe",
+    "sub": "Adobe Fireworks"
+  },
+  {
+    "query": "IBM Business System 12'in üreticisi şudur:",
+    "answer": " IBM",
+    "sub": "IBM Business System 12"
+  },
+  {
+    "query": "Airbus A300-600ST Beluga'nın üreticisi şudur:",
+    "answer": " Airbus",
+    "sub": "Airbus A300-600ST Beluga"
+  },
+  {
+    "query": "Internet Explorer 11'in üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Internet Explorer 11"
+  },
+  {
+    "query": "Adobe Muse'nin üreticisi şudur:",
+    "answer": " Adobe",
+    "sub": "Adobe Muse"
+  },
+  {
+    "query": "Binary Synchronous Communications'un üreticisi şudur:",
+    "answer": " IBM",
+    "sub": "Binary Synchronous Communications"
+  },
+  {
+    "query": "NetFront'un üreticisi şudur:",
+    "answer": " Access",
+    "sub": "NetFront"
+  },
+  {
+    "query": "Astron Belt'in üreticisi şudur:",
+    "answer": " Sega",
+    "sub": "Astron Belt"
+  },
+  {
+    "query": "IBM Lotus SmartSuite'nin üreticisi şudur:",
+    "answer": " IBM",
+    "sub": "IBM Lotus SmartSuite"
+  },
+  {
+    "query": "Microsoft Schedule Plus'un üreticisi şudur:",
+    "answer": " Microsoft",
+    "sub": "Microsoft Schedule Plus"
+  },
+  {
+    "query": "Adobe Illustrator Artwork'un üreticisi şudur:",
+    "answer": " Adobe",
+    "sub": "Adobe Illustrator Artwork"
+  }
+]

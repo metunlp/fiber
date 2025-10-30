@@ -1,0 +1,742 @@
+﻿[
+  {
+    "query": "Which company does MessagePad belong to?",
+    "answer": " Apple Inc.",
+    "sub": "MessagePad"
+  },
+  {
+    "query": "Which company does macOS belong to?",
+    "answer": " Apple Inc.",
+    "sub": "macOS"
+  },
+  {
+    "query": "Which company does Safari belong to?",
+    "answer": " Apple Inc.",
+    "sub": "Safari"
+  },
+  {
+    "query": "Which company does iWork belong to?",
+    "answer": " Apple Inc.",
+    "sub": "iWork"
+  },
+  {
+    "query": "Which company does PostScript belong to?",
+    "answer": " Adobe",
+    "sub": "PostScript"
+  },
+  {
+    "query": "Which company does IBM AIX belong to?",
+    "answer": " IBM",
+    "sub": "IBM AIX"
+  },
+  {
+    "query": "Which company does GW-BASIC belong to?",
+    "answer": " Microsoft",
+    "sub": "GW-BASIC"
+  },
+  {
+    "query": "Which company does Windows 1.0 belong to?",
+    "answer": " Microsoft",
+    "sub": "Windows 1.0"
+  },
+  {
+    "query": "Which company does Nintendo 2DS belong to?",
+    "answer": " Nintendo",
+    "sub": "Nintendo 2DS"
+  },
+  {
+    "query": "Which company does Intel Threading Building Blocks belong to?",
+    "answer": " Intel",
+    "sub": "Intel Threading Building Blocks"
+  },
+  {
+    "query": "Which company does IA-32 belong to?",
+    "answer": " Intel",
+    "sub": "IA-32"
+  },
+  {
+    "query": "Which company does Intel 8086 belong to?",
+    "answer": " Intel",
+    "sub": "Intel 8086"
+  },
+  {
+    "query": "Which company does Intel 80386 belong to?",
+    "answer": " Intel",
+    "sub": "Intel 80386"
+  },
+  {
+    "query": "Which company does Intel 80486 belong to?",
+    "answer": " Intel",
+    "sub": "Intel 80486"
+  },
+  {
+    "query": "Which company does Windows 10 belong to?",
+    "answer": " Microsoft",
+    "sub": "Windows 10"
+  },
+  {
+    "query": "Which company does IA-64 belong to?",
+    "answer": " Intel",
+    "sub": "IA-64"
+  },
+  {
+    "query": "Which company does Lotus 1-2-3 belong to?",
+    "answer": " IBM",
+    "sub": "Lotus 1-2-3"
+  },
+  {
+    "query": "Which company does Microsoft Office belong to?",
+    "answer": " Microsoft",
+    "sub": "Microsoft Office"
+  },
+  {
+    "query": "Which company does Xenix belong to?",
+    "answer": " Microsoft",
+    "sub": "Xenix"
+  },
+  {
+    "query": "Which company does Microsoft Word belong to?",
+    "answer": " Microsoft",
+    "sub": "Microsoft Word"
+  },
+  {
+    "query": "Which company does macOS Server belong to?",
+    "answer": " Apple Inc.",
+    "sub": "macOS Server"
+  },
+  {
+    "query": "Which company does Final Fantasy V belong to?",
+    "answer": " Square",
+    "sub": "Final Fantasy V"
+  },
+  {
+    "query": "Which company does Windows Embedded Automotive belong to?",
+    "answer": " Microsoft",
+    "sub": "Windows Embedded Automotive"
+  },
+  {
+    "query": "Which company does Microsoft Visual Studio belong to?",
+    "answer": " Microsoft",
+    "sub": "Microsoft Visual Studio"
+  },
+  {
+    "query": "Which company does Windows NT 4.0 belong to?",
+    "answer": " Microsoft",
+    "sub": "Windows NT 4.0"
+  },
+  {
+    "query": "Which company does Microsoft FrontPage belong to?",
+    "answer": " Microsoft",
+    "sub": "Microsoft FrontPage"
+  },
+  {
+    "query": "Which company does Mac OS X Panther belong to?",
+    "answer": " Apple Inc.",
+    "sub": "Mac OS X Panther"
+  },
+  {
+    "query": "Which company does XEDIT belong to?",
+    "answer": " IBM",
+    "sub": "XEDIT"
+  },
+  {
+    "query": "Which company does Microsoft BASIC belong to?",
+    "answer": " Microsoft",
+    "sub": "Microsoft BASIC"
+  },
+  {
+    "query": "Which company does Adobe Acrobat belong to?",
+    "answer": " Adobe",
+    "sub": "Adobe Acrobat"
+  },
+  {
+    "query": "Which company does MobileMe belong to?",
+    "answer": " Apple Inc.",
+    "sub": "MobileMe"
+  },
+  {
+    "query": "Which company does Zaxxon belong to?",
+    "answer": " Sega",
+    "sub": "Zaxxon"
+  },
+  {
+    "query": "Which company does Visual Basic .NET belong to?",
+    "answer": " Microsoft",
+    "sub": "Visual Basic .NET"
+  },
+  {
+    "query": "Which company does Adobe Flash Builder belong to?",
+    "answer": " Adobe",
+    "sub": "Adobe Flash Builder"
+  },
+  {
+    "query": "Which company does Windows Phone belong to?",
+    "answer": " Microsoft",
+    "sub": "Windows Phone"
+  },
+  {
+    "query": "Which company does Mario franchise belong to?",
+    "answer": " Nintendo",
+    "sub": "Mario franchise"
+  },
+  {
+    "query": "Which company does Pentium belong to?",
+    "answer": " Intel",
+    "sub": "Pentium"
+  },
+  {
+    "query": "Which company does Adobe Photoshop Elements belong to?",
+    "answer": " Adobe",
+    "sub": "Adobe Photoshop Elements"
+  },
+  {
+    "query": "Which company does Adobe Photoshop Lightroom belong to?",
+    "answer": " Adobe",
+    "sub": "Adobe Photoshop Lightroom"
+  },
+  {
+    "query": "Which company does Mac OS X 10.2 belong to?",
+    "answer": " Apple Inc.",
+    "sub": "Mac OS X 10.2"
+  },
+  {
+    "query": "Which company does Wii U belong to?",
+    "answer": " Nintendo",
+    "sub": "Wii U"
+  },
+  {
+    "query": "Which company does Microsoft Visio belong to?",
+    "answer": " Microsoft",
+    "sub": "Microsoft Visio"
+  },
+  {
+    "query": "Which company does Windows XP belong to?",
+    "answer": " Microsoft",
+    "sub": "Windows XP"
+  },
+  {
+    "query": "Which company does Windows 2000 belong to?",
+    "answer": " Microsoft",
+    "sub": "Windows 2000"
+  },
+  {
+    "query": "Which company does Intel 80186 belong to?",
+    "answer": " Intel",
+    "sub": "Intel 80186"
+  },
+  {
+    "query": "Which company does Intel 80286 belong to?",
+    "answer": " Intel",
+    "sub": "Intel 80286"
+  },
+  {
+    "query": "Which company does Audio Video Interleave belong to?",
+    "answer": " Microsoft",
+    "sub": "Audio Video Interleave"
+  },
+  {
+    "query": "Which company does IBM System i belong to?",
+    "answer": " IBM",
+    "sub": "IBM System i"
+  },
+  {
+    "query": "Which company does IBM i belong to?",
+    "answer": " IBM",
+    "sub": "IBM i"
+  },
+  {
+    "query": "Which company does Alex Kidd belong to?",
+    "answer": " Sega",
+    "sub": "Alex Kidd"
+  },
+  {
+    "query": "Which company does Windows 8 belong to?",
+    "answer": " Microsoft",
+    "sub": "Windows 8"
+  },
+  {
+    "query": "Which company does The Legend of Zelda belong to?",
+    "answer": " Nintendo",
+    "sub": "The Legend of Zelda"
+  },
+  {
+    "query": "Which company does Gmail belong to?",
+    "answer": " Google",
+    "sub": "Gmail"
+  },
+  {
+    "query": "Which company does Mac OS X Snow Leopard belong to?",
+    "answer": " Apple Inc.",
+    "sub": "Mac OS X Snow Leopard"
+  },
+  {
+    "query": "Which company does Microsoft Office 2007 belong to?",
+    "answer": " Microsoft",
+    "sub": "Microsoft Office 2007"
+  },
+  {
+    "query": "Which company does Windows Embedded Compact belong to?",
+    "answer": " Microsoft",
+    "sub": "Windows Embedded Compact"
+  },
+  {
+    "query": "Which company does NTLDR belong to?",
+    "answer": " Microsoft",
+    "sub": "NTLDR"
+  },
+  {
+    "query": "Which company does Windows Server 2003 belong to?",
+    "answer": " Microsoft",
+    "sub": "Windows Server 2003"
+  },
+  {
+    "query": "Which company does Windows Server 2008 belong to?",
+    "answer": " Microsoft",
+    "sub": "Windows Server 2008"
+  },
+  {
+    "query": "Which company does Google Workspace belong to?",
+    "answer": " Google",
+    "sub": "Google Workspace"
+  },
+  {
+    "query": "Which company does Microsoft Picture It! belong to?",
+    "answer": " Microsoft",
+    "sub": "Microsoft Picture It!"
+  },
+  {
+    "query": "Which company does Nintendo DSi belong to?",
+    "answer": " Nintendo",
+    "sub": "Nintendo DSi"
+  },
+  {
+    "query": "Which company does Super Monaco GP belong to?",
+    "answer": " Sega",
+    "sub": "Super Monaco GP"
+  },
+  {
+    "query": "Which company does Windows Media Player belong to?",
+    "answer": " Microsoft",
+    "sub": "Windows Media Player"
+  },
+  {
+    "query": "Which company does Chrono Trigger belong to?",
+    "answer": " Square",
+    "sub": "Chrono Trigger"
+  },
+  {
+    "query": "Which company does Zune belong to?",
+    "answer": " Microsoft",
+    "sub": "Zune"
+  },
+  {
+    "query": "Which company does iTunes belong to?",
+    "answer": " Apple Inc.",
+    "sub": "iTunes"
+  },
+  {
+    "query": "Which company does Google Talk belong to?",
+    "answer": " Google",
+    "sub": "Google Talk"
+  },
+  {
+    "query": "Which company does Windows Embedded belong to?",
+    "answer": " Microsoft",
+    "sub": "Windows Embedded"
+  },
+  {
+    "query": "Which company does zero configuration networking belong to?",
+    "answer": " Apple Inc.",
+    "sub": "zero configuration networking"
+  },
+  {
+    "query": "Which company does Adobe Illustrator belong to?",
+    "answer": " Adobe",
+    "sub": "Adobe Illustrator"
+  },
+  {
+    "query": "Which company does Donkey Kong belong to?",
+    "answer": " Nintendo",
+    "sub": "Donkey Kong"
+  },
+  {
+    "query": "Which company does Google AdSense belong to?",
+    "answer": " Google",
+    "sub": "Google AdSense"
+  },
+  {
+    "query": "Which company does Thunder Blade belong to?",
+    "answer": " Sega",
+    "sub": "Thunder Blade"
+  },
+  {
+    "query": "Which company does Windows 8.1 belong to?",
+    "answer": " Microsoft",
+    "sub": "Windows 8.1"
+  },
+  {
+    "query": "Which company does Test Drive Le Mans belong to?",
+    "answer": " Atari",
+    "sub": "Test Drive Le Mans"
+  },
+  {
+    "query": "Which company does A350 belong to?",
+    "answer": " Airbus",
+    "sub": "A350"
+  },
+  {
+    "query": "Which company does SonicStage belong to?",
+    "answer": " Sony",
+    "sub": "SonicStage"
+  },
+  {
+    "query": "Which company does Digital Negative belong to?",
+    "answer": " Adobe",
+    "sub": "Digital Negative"
+  },
+  {
+    "query": "Which company does Golden Axe belong to?",
+    "answer": " Sega",
+    "sub": "Golden Axe"
+  },
+  {
+    "query": "Which company does Time Sharing Option belong to?",
+    "answer": " IBM",
+    "sub": "Time Sharing Option"
+  },
+  {
+    "query": "Which company does Google Desktop belong to?",
+    "answer": " Google",
+    "sub": "Google Desktop"
+  },
+  {
+    "query": "Which company does ASCI Red belong to?",
+    "answer": " Intel",
+    "sub": "ASCI Red"
+  },
+  {
+    "query": "Which company does Picasa belong to?",
+    "answer": " Google",
+    "sub": "Picasa"
+  },
+  {
+    "query": "Which company does IBM Db2 belong to?",
+    "answer": " IBM",
+    "sub": "IBM Db2"
+  },
+  {
+    "query": "Which company does Microsoft Silverlight belong to?",
+    "answer": " Microsoft",
+    "sub": "Microsoft Silverlight"
+  },
+  {
+    "query": "Which company does iPod Touch belong to?",
+    "answer": " Apple Inc.",
+    "sub": "iPod Touch"
+  },
+  {
+    "query": "Which company does Synchronized Accessible Media Interchange belong to?",
+    "answer": " Microsoft",
+    "sub": "Synchronized Accessible Media Interchange"
+  },
+  {
+    "query": "Which company does Microsoft Compiled HTML Help belong to?",
+    "answer": " Microsoft",
+    "sub": "Microsoft Compiled HTML Help"
+  },
+  {
+    "query": "Which company does OpenAFS belong to?",
+    "answer": " IBM",
+    "sub": "OpenAFS"
+  },
+  {
+    "query": "Which company does iPod Mini belong to?",
+    "answer": " Apple Inc.",
+    "sub": "iPod Mini"
+  },
+  {
+    "query": "Which company does Vector Markup Language belong to?",
+    "answer": " Microsoft",
+    "sub": "Vector Markup Language"
+  },
+  {
+    "query": "Which company does YUI Library belong to?",
+    "answer": " Yahoo",
+    "sub": "YUI Library"
+  },
+  {
+    "query": "Which company does QuickDraw belong to?",
+    "answer": " Apple Inc.",
+    "sub": "QuickDraw"
+  },
+  {
+    "query": "Which company does OpenDoc belong to?",
+    "answer": " Apple Inc.",
+    "sub": "OpenDoc"
+  },
+  {
+    "query": "Which company does Meta Content Framework belong to?",
+    "answer": " Apple Inc.",
+    "sub": "Meta Content Framework"
+  },
+  {
+    "query": "Which company does iPod Shuffle belong to?",
+    "answer": " Apple Inc.",
+    "sub": "iPod Shuffle"
+  },
+  {
+    "query": "Which company does Windows Communication Foundation belong to?",
+    "answer": " Microsoft",
+    "sub": "Windows Communication Foundation"
+  },
+  {
+    "query": "Which company does Adobe Soundbooth belong to?",
+    "answer": " Adobe",
+    "sub": "Adobe Soundbooth"
+  },
+  {
+    "query": "Which company does Adobe Audition belong to?",
+    "answer": " Adobe",
+    "sub": "Adobe Audition"
+  },
+  {
+    "query": "Which company does Heavyweight Champ belong to?",
+    "answer": " Sega",
+    "sub": "Heavyweight Champ"
+  },
+  {
+    "query": "Which company does Resource Access Control Facility belong to?",
+    "answer": " IBM",
+    "sub": "Resource Access Control Facility"
+  },
+  {
+    "query": "Which company does IBM Network Control Program belong to?",
+    "answer": " IBM",
+    "sub": "IBM Network Control Program"
+  },
+  {
+    "query": "Which company does Tamarin belong to?",
+    "answer": " Adobe",
+    "sub": "Tamarin"
+  },
+  {
+    "query": "Which company does Adobe Flash Player belong to?",
+    "answer": " Adobe",
+    "sub": "Adobe Flash Player"
+  },
+  {
+    "query": "Which company does Microsoft Plus! belong to?",
+    "answer": " Microsoft",
+    "sub": "Microsoft Plus!"
+  },
+  {
+    "query": "Which company does iDisk belong to?",
+    "answer": " Apple Inc.",
+    "sub": "iDisk"
+  },
+  {
+    "query": "Which company does OS X Yosemite belong to?",
+    "answer": " Apple Inc.",
+    "sub": "OS X Yosemite"
+  },
+  {
+    "query": "Which company does iOS 8 belong to?",
+    "answer": " Apple Inc.",
+    "sub": "iOS 8"
+  },
+  {
+    "query": "Which company does Mac OS X Tiger belong to?",
+    "answer": " Apple Inc.",
+    "sub": "Mac OS X Tiger"
+  },
+  {
+    "query": "Which company does Advanced Systems Format belong to?",
+    "answer": " Microsoft",
+    "sub": "Advanced Systems Format"
+  },
+  {
+    "query": "Which company does Siri belong to?",
+    "answer": " Apple Inc.",
+    "sub": "Siri"
+  },
+  {
+    "query": "Which company does Super Audio CD belong to?",
+    "answer": " Sony",
+    "sub": "Super Audio CD"
+  },
+  {
+    "query": "Which company does B-47 Stratojet belong to?",
+    "answer": " Boeing",
+    "sub": "B-47 Stratojet"
+  },
+  {
+    "query": "Which company does TypeScript belong to?",
+    "answer": " Microsoft",
+    "sub": "TypeScript"
+  },
+  {
+    "query": "Which company does Adobe After Effects belong to?",
+    "answer": " Adobe",
+    "sub": "Adobe After Effects"
+  },
+  {
+    "query": "Which company does Adobe Premiere Pro belong to?",
+    "answer": " Adobe",
+    "sub": "Adobe Premiere Pro"
+  },
+  {
+    "query": "Which company does Google Patents belong to?",
+    "answer": " Google",
+    "sub": "Google Patents"
+  },
+  {
+    "query": "Which company does Sega Smash Pack belong to?",
+    "answer": " Sega",
+    "sub": "Sega Smash Pack"
+  },
+  {
+    "query": "Which company does IBM RPG II belong to?",
+    "answer": " IBM",
+    "sub": "IBM RPG II"
+  },
+  {
+    "query": "Which company does iTunes Radio belong to?",
+    "answer": " Apple Inc.",
+    "sub": "iTunes Radio"
+  },
+  {
+    "query": "Which company does Journaled File System belong to?",
+    "answer": " IBM",
+    "sub": "Journaled File System"
+  },
+  {
+    "query": "Which company does IBM General Parallel File System belong to?",
+    "answer": " IBM",
+    "sub": "IBM General Parallel File System"
+  },
+  {
+    "query": "Which company does WebObjects belong to?",
+    "answer": " Apple Inc.",
+    "sub": "WebObjects"
+  },
+  {
+    "query": "Which company does Microsoft Macro Assembler belong to?",
+    "answer": " Microsoft",
+    "sub": "Microsoft Macro Assembler"
+  },
+  {
+    "query": "Which company does Windows Installer belong to?",
+    "answer": " Microsoft",
+    "sub": "Windows Installer"
+  },
+  {
+    "query": "Which company does sRGB belong to?",
+    "answer": " Microsoft",
+    "sub": "sRGB"
+  },
+  {
+    "query": "Which company does Final Fantasy belong to?",
+    "answer": " Square",
+    "sub": "Final Fantasy"
+  },
+  {
+    "query": "Which company does Google Drive belong to?",
+    "answer": " Google",
+    "sub": "Google Drive"
+  },
+  {
+    "query": "Which company does Google Calendar belong to?",
+    "answer": " Google",
+    "sub": "Google Calendar"
+  },
+  {
+    "query": "Which company does Skype belong to?",
+    "answer": " Microsoft",
+    "sub": "Skype"
+  },
+  {
+    "query": "Which company does Eternal Champions belong to?",
+    "answer": " Sega",
+    "sub": "Eternal Champions"
+  },
+  {
+    "query": "Which company does IntelliPoint belong to?",
+    "answer": " Microsoft",
+    "sub": "IntelliPoint"
+  },
+  {
+    "query": "Which company does The Ocean Hunter belong to?",
+    "answer": " Sega",
+    "sub": "The Ocean Hunter"
+  },
+  {
+    "query": "Which company does Final Cut Studio belong to?",
+    "answer": " Apple Inc.",
+    "sub": "Final Cut Studio"
+  },
+  {
+    "query": "Which company does Adobe Media Player belong to?",
+    "answer": " Adobe",
+    "sub": "Adobe Media Player"
+  },
+  {
+    "query": "Which company does HFS Plus belong to?",
+    "answer": " Apple Inc.",
+    "sub": "HFS Plus"
+  },
+  {
+    "query": "Which company does Adobe Fireworks belong to?",
+    "answer": " Adobe",
+    "sub": "Adobe Fireworks"
+  },
+  {
+    "query": "Which company does IBM Business System 12 belong to?",
+    "answer": " IBM",
+    "sub": "IBM Business System 12"
+  },
+  {
+    "query": "Which company does Airbus A300-600ST Beluga belong to?",
+    "answer": " Airbus",
+    "sub": "Airbus A300-600ST Beluga"
+  },
+  {
+    "query": "Which company does Internet Explorer 11 belong to?",
+    "answer": " Microsoft",
+    "sub": "Internet Explorer 11"
+  },
+  {
+    "query": "Which company does Adobe Muse belong to?",
+    "answer": " Adobe",
+    "sub": "Adobe Muse"
+  },
+  {
+    "query": "Which company does Binary Synchronous Communications belong to?",
+    "answer": " IBM",
+    "sub": "Binary Synchronous Communications"
+  },
+  {
+    "query": "Which company does NetFront belong to?",
+    "answer": " Access",
+    "sub": "NetFront"
+  },
+  {
+    "query": "Which company does Astron Belt belong to?",
+    "answer": " Sega",
+    "sub": "Astron Belt"
+  },
+  {
+    "query": "Which company does IBM Lotus SmartSuite belong to?",
+    "answer": " IBM",
+    "sub": "IBM Lotus SmartSuite"
+  },
+  {
+    "query": "Which company does Microsoft Schedule Plus belong to?",
+    "answer": " Microsoft",
+    "sub": "Microsoft Schedule Plus"
+  },
+  {
+    "query": "Which company does Adobe Illustrator Artwork belong to?",
+    "answer": " Adobe",
+    "sub": "Adobe Illustrator Artwork"
+  }
+]

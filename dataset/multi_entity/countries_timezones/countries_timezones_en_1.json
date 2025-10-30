@@ -1,0 +1,1157 @@
+[
+    {
+        "query": "What is/are the time zone(s) of Albania?",
+        "answer": "  UTC+02:00",
+        "sub": "Albania",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Antarctica?",
+        "answer": "  UTC+02:00, UTC+03:00, UTC-03:00, UTC+05:00, UTC+07:00, UTC+08:00, UTC+10:00, UTC+12:00",
+        "sub": "Antarctica",
+        "count": "8",
+        "list": [
+            " UTC+02:00",
+            " UTC+03:00",
+            " UTC-03:00",
+            " UTC+05:00",
+            " UTC+07:00",
+            " UTC+08:00",
+            " UTC+10:00",
+            " UTC+12:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Antigua & Barbuda?",
+        "answer": "  UTC-04:00",
+        "sub": "Antigua & Barbuda",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Argentina?",
+        "answer": "  UTC-03:00",
+        "sub": "Argentina",
+        "count": "1",
+        "list": [
+            " UTC-03:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Australia?",
+        "answer": "  UTC+08:00, UTC+09:30, UTC+09:30, UTC+10:00, UTC+10:00, UTC+10:30, UTC+11:00",
+        "sub": "Australia",
+        "count": "7",
+        "list": [
+            " UTC+08:00",
+            " UTC+09:30",
+            " UTC+09:30",
+            " UTC+10:00",
+            " UTC+10:00",
+            " UTC+10:30",
+            " UTC+11:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Bahamas?",
+        "answer": "  UTC-05:00",
+        "sub": "Bahamas",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Bangladesh?",
+        "answer": "  UTC+06:00",
+        "sub": "Bangladesh",
+        "count": "1",
+        "list": [
+            " UTC+06:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Barbados?",
+        "answer": "  UTC-04:00",
+        "sub": "Barbados",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Belarus?",
+        "answer": "  UTC+03:00",
+        "sub": "Belarus",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Belize?",
+        "answer": "  UTC-06:00",
+        "sub": "Belize",
+        "count": "1",
+        "list": [
+            " UTC-06:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Bermuda?",
+        "answer": "  UTC-04:00",
+        "sub": "Bermuda",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Bhutan?",
+        "answer": "  UTC+06:00",
+        "sub": "Bhutan",
+        "count": "1",
+        "list": [
+            " UTC+06:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Bolivia?",
+        "answer": "  UTC-04:00",
+        "sub": "Bolivia",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Bosnia & Herzegovina?",
+        "answer": "  UTC+01:00",
+        "sub": "Bosnia & Herzegovina",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Botswana?",
+        "answer": "  UTC+02:00",
+        "sub": "Botswana",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Brazil?",
+        "answer": "  UTC-02:00, UTC-03:00, UTC:-03:00, UTC-04:00, UTC-04:00, UTC-05:00",
+        "sub": "Brazil",
+        "count": "6",
+        "list": [
+            " UTC-02:00",
+            " UTC-03:00",
+            " UTC:-03:00",
+            " UTC-04:00",
+            " UTC-04:00",
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Brunei?",
+        "answer": "  UTC+08:00",
+        "sub": "Brunei",
+        "count": "1",
+        "list": [
+            " UTC+08:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Cambodia?",
+        "answer": "  UTC+07:00",
+        "sub": "Cambodia",
+        "count": "1",
+        "list": [
+            " UTC+07:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Cameroon?",
+        "answer": "  UTC+01:00",
+        "sub": "Cameroon",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Caribbean NL?",
+        "answer": "  UTC-04:00",
+        "sub": "Caribbean NL",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Cayman Islands?",
+        "answer": "  UTC-05:00",
+        "sub": "Cayman Islands",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Central African Rep.?",
+        "answer": "  UTC+01:00",
+        "sub": "Central African Rep.",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Chile?",
+        "answer": "  UTC-03:00, UTC-04:00, UTC-06:00",
+        "sub": "Chile",
+        "count": "3",
+        "list": [
+            " UTC-03:00",
+            " UTC-04:00",
+            " UTC-06:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Congo (Dem. Rep.)?",
+        "answer": "  UTC+01:00, UTC+02:00",
+        "sub": "Congo (Dem. Rep.)",
+        "count": "2",
+        "list": [
+            " UTC+01:00",
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Congo (Rep.)?",
+        "answer": "  UTC+01:00",
+        "sub": "Congo (Rep.)",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Cook Islands?",
+        "answer": "  UTC-10:00",
+        "sub": "Cook Islands",
+        "count": "1",
+        "list": [
+            " UTC-10:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Croatia?",
+        "answer": "  UTC+01:00",
+        "sub": "Croatia",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Cuba?",
+        "answer": "  UTC-05:00",
+        "sub": "Cuba",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Curaçao?",
+        "answer": "  UTC-04:00",
+        "sub": "Curaçao",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Cyprus?",
+        "answer": "  UTC+02:00",
+        "sub": "Cyprus",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Czech Republic?",
+        "answer": "  UTC+01:00",
+        "sub": "Czech Republic",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Côte d'Ivoire?",
+        "answer": "  UTC+00:00",
+        "sub": "Côte d'Ivoire",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Denmark?",
+        "answer": "  UTC+01:00",
+        "sub": "Denmark",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Dominican Republic?",
+        "answer": "  UTC-04:00",
+        "sub": "Dominican Republic",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of East Timor?",
+        "answer": "  UTC+09:00",
+        "sub": "East Timor",
+        "count": "1",
+        "list": [
+            " UTC+09:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Equatorial Guinea?",
+        "answer": "  UTC+01:00",
+        "sub": "Equatorial Guinea",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Eritrea?",
+        "answer": "  UTC+03:00",
+        "sub": "Eritrea",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Estonia?",
+        "answer": "  UTC+02:00",
+        "sub": "Estonia",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Eswatini (Swaziland)?",
+        "answer": "  UTC+02:00",
+        "sub": "Eswatini (Swaziland)",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Ethiopia?",
+        "answer": "  UTC+03:00",
+        "sub": "Ethiopia",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Fiji?",
+        "answer": "  UTC+12:00",
+        "sub": "Fiji",
+        "count": "1",
+        "list": [
+            " UTC+12:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Finland?",
+        "answer": "  UTC+02:00",
+        "sub": "Finland",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Gabon?",
+        "answer": "  UTC+01:00",
+        "sub": "Gabon",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Germany?",
+        "answer": "  UTC+01:00",
+        "sub": "Germany",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Greece?",
+        "answer": "  UTC+02:00",
+        "sub": "Greece",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Greenland?",
+        "answer": "  UTC+00:00, UTC-01:00, UTC-04:00, UTC-03:00",
+        "sub": "Greenland",
+        "count": "4",
+        "list": [
+            " UTC+00:00",
+            " UTC-01:00",
+            " UTC-04:00",
+            " UTC-03:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Grenada?",
+        "answer": "  UTC-04:00",
+        "sub": "Grenada",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Guam?",
+        "answer": "  UTC+10:00",
+        "sub": "Guam",
+        "count": "1",
+        "list": [
+            " UTC+10:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Guatemala?",
+        "answer": "  UTC-06:00",
+        "sub": "Guatemala",
+        "count": "1",
+        "list": [
+            " UTC-06:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Guernsey?",
+        "answer": "  UTC+00:00",
+        "sub": "Guernsey",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Guinea?",
+        "answer": "  UTC+00:00",
+        "sub": "Guinea",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Guinea-Bissau?",
+        "answer": "  UTC+00:00",
+        "sub": "Guinea-Bissau",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Haiti?",
+        "answer": "  UTC-04:00",
+        "sub": "Haiti",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Heard Island & McDonald Islands?",
+        "answer": "  UTC+04:00",
+        "sub": "Heard Island & McDonald Islands",
+        "count": "1",
+        "list": [
+            " UTC+04:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Iceland?",
+        "answer": "  UTC+00:00",
+        "sub": "Iceland",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of India?",
+        "answer": "  UTC+05:30",
+        "sub": "India",
+        "count": "1",
+        "list": [
+            " UTC+05:30"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Isle of Man?",
+        "answer": "  UTC+00:00",
+        "sub": "Isle of Man",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Israel?",
+        "answer": "  UTC+02:00",
+        "sub": "Israel",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Italy?",
+        "answer": "  UTC+01:00",
+        "sub": "Italy",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Jamaica?",
+        "answer": "  UTC-05:00",
+        "sub": "Jamaica",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Kenya?",
+        "answer": "  UTC+03:00",
+        "sub": "Kenya",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Korea (North)?",
+        "answer": "  UTC+09:00",
+        "sub": "Korea (North)",
+        "count": "1",
+        "list": [
+            " UTC+09:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Korea (South)?",
+        "answer": "  UTC+09:00",
+        "sub": "Korea (South)",
+        "count": "1",
+        "list": [
+            " UTC+09:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Kuwait?",
+        "answer": "  UTC+03:00",
+        "sub": "Kuwait",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Lithuania?",
+        "answer": "  UTC+02:00",
+        "sub": "Lithuania",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Macau?",
+        "answer": "  UTC+08:00",
+        "sub": "Macau",
+        "count": "1",
+        "list": [
+            " UTC+08:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Malawi?",
+        "answer": "  UTC+02:00",
+        "sub": "Malawi",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Marshall Islands?",
+        "answer": "  UTC+12:00",
+        "sub": "Marshall Islands",
+        "count": "1",
+        "list": [
+            " UTC+12:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Martinique?",
+        "answer": "  UTC-04:00",
+        "sub": "Martinique",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Mauritania?",
+        "answer": "  UTC+00:00",
+        "sub": "Mauritania",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Mauritius?",
+        "answer": "  UTC+04:00",
+        "sub": "Mauritius",
+        "count": "1",
+        "list": [
+            " UTC+04:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Mexico?",
+        "answer": "  UTC-05:00, UTC-05:00, UTC-07:00, UTC-07:00, UTC-08:00",
+        "sub": "Mexico",
+        "count": "5",
+        "list": [
+            " UTC-05:00",
+            " UTC-05:00",
+            " UTC-07:00",
+            " UTC-07:00",
+            " UTC-08:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Micronesia?",
+        "answer": "  UTC+10:00, UTC+11:00",
+        "sub": "Micronesia",
+        "count": "2",
+        "list": [
+            " UTC+10:00",
+            " UTC+11:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Moldova?",
+        "answer": "  UTC+02:00",
+        "sub": "Moldova",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Montserrat?",
+        "answer": "  UTC-04:00",
+        "sub": "Montserrat",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Morocco?",
+        "answer": "  UTC+01:00",
+        "sub": "Morocco",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Myanmar (Burma)?",
+        "answer": "  UTC+06:30",
+        "sub": "Myanmar (Burma)",
+        "count": "1",
+        "list": [
+            " UTC+06:30"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Namibia?",
+        "answer": "  UTC+02:00",
+        "sub": "Namibia",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Netherlands?",
+        "answer": "  UTC+01:00",
+        "sub": "Netherlands",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of New Caledonia?",
+        "answer": "  UTC+11:00",
+        "sub": "New Caledonia",
+        "count": "1",
+        "list": [
+            " UTC+11:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Niger?",
+        "answer": "  UTC+01:00",
+        "sub": "Niger",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Niue?",
+        "answer": "  UTC-11:00",
+        "sub": "Niue",
+        "count": "1",
+        "list": [
+            " UTC-11:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of North Macedonia?",
+        "answer": "  UTC+01:00",
+        "sub": "North Macedonia",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Northern Mariana Islands?",
+        "answer": "  UTC+10:00",
+        "sub": "Northern Mariana Islands",
+        "count": "1",
+        "list": [
+            " UTC+10:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Norway?",
+        "answer": "  UTC+01:00",
+        "sub": "Norway",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Pakistan?",
+        "answer": "  UTC+05:00",
+        "sub": "Pakistan",
+        "count": "1",
+        "list": [
+            " UTC+05:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Palau?",
+        "answer": "  UTC+09:00",
+        "sub": "Palau",
+        "count": "1",
+        "list": [
+            " UTC+09:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Panama?",
+        "answer": "  UTC-05:00",
+        "sub": "Panama",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Paraguay?",
+        "answer": "  UTC-04:00",
+        "sub": "Paraguay",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Peru?",
+        "answer": "  UTC-05:00",
+        "sub": "Peru",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Philippines?",
+        "answer": "  UTC+08:00",
+        "sub": "Philippines",
+        "count": "1",
+        "list": [
+            " UTC+08:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Qatar?",
+        "answer": "  UTC+03:00",
+        "sub": "Qatar",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Romania?",
+        "answer": "  UTC+02:00",
+        "sub": "Romania",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Samoa (American)?",
+        "answer": "  UTC-11:00",
+        "sub": "Samoa (American)",
+        "count": "1",
+        "list": [
+            " UTC-11:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Sao Tome & Principe?",
+        "answer": "  UTC+00:00",
+        "sub": "Sao Tome & Principe",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Saudi Arabia?",
+        "answer": "  UTC+03:00",
+        "sub": "Saudi Arabia",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Senegal?",
+        "answer": "  UTC+00:00",
+        "sub": "Senegal",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Serbia?",
+        "answer": "  UTC+01:00",
+        "sub": "Serbia",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Seychelles?",
+        "answer": "  UTC+04:00",
+        "sub": "Seychelles",
+        "count": "1",
+        "list": [
+            " UTC+04:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Slovenia?",
+        "answer": "  UTC+01:00",
+        "sub": "Slovenia",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Solomon Islands?",
+        "answer": "  UTC+11:00",
+        "sub": "Solomon Islands",
+        "count": "1",
+        "list": [
+            " UTC+11:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of South Sudan?",
+        "answer": "  UTC+02:00",
+        "sub": "South Sudan",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of St Barthelemy?",
+        "answer": "  UTC-04:00",
+        "sub": "St Barthelemy",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of St Maarten (Dutch)?",
+        "answer": "  UTC-04:00",
+        "sub": "St Maarten (Dutch)",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of St Martin (French)?",
+        "answer": "  UTC-04:00",
+        "sub": "St Martin (French)",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Suriname?",
+        "answer": "  UTC-03:00",
+        "sub": "Suriname",
+        "count": "1",
+        "list": [
+            " UTC-03:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Sweden?",
+        "answer": "  UTC+01:00",
+        "sub": "Sweden",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Switzerland?",
+        "answer": "  UTC+01:00",
+        "sub": "Switzerland",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Tajikistan?",
+        "answer": "  UTC+05:00",
+        "sub": "Tajikistan",
+        "count": "1",
+        "list": [
+            " UTC+05:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Thailand?",
+        "answer": "  UTC+07:00",
+        "sub": "Thailand",
+        "count": "1",
+        "list": [
+            " UTC+07:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Trinidad & Tobago?",
+        "answer": "  UTC-04:00",
+        "sub": "Trinidad & Tobago",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Turkey?",
+        "answer": "  UTC+03:00",
+        "sub": "Turkey",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Turkmenistan?",
+        "answer": "  UTC+05:00",
+        "sub": "Turkmenistan",
+        "count": "1",
+        "list": [
+            " UTC+05:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Turks & Caicos Is?",
+        "answer": "  UTC-04:00",
+        "sub": "Turks & Caicos Is",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Tuvalu?",
+        "answer": "  UTC+12:00",
+        "sub": "Tuvalu",
+        "count": "1",
+        "list": [
+            " UTC+12:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of US minor outlying islands?",
+        "answer": "  UTC-11:00, UTC+12:00",
+        "sub": "US minor outlying islands",
+        "count": "2",
+        "list": [
+            " UTC-11:00",
+            " UTC+12:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Uganda?",
+        "answer": "  UTC+03:00",
+        "sub": "Uganda",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Ukraine?",
+        "answer": "  UTC+02:00",
+        "sub": "Ukraine",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Uruguay?",
+        "answer": "  UTC-03:00",
+        "sub": "Uruguay",
+        "count": "1",
+        "list": [
+            " UTC-03:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Vanuatu?",
+        "answer": "  UTC+11:00",
+        "sub": "Vanuatu",
+        "count": "1",
+        "list": [
+            " UTC+11:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Venezuela?",
+        "answer": "  UTC-04:00",
+        "sub": "Venezuela",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Virgin Islands (UK)?",
+        "answer": "  UTC-04:00",
+        "sub": "Virgin Islands (UK)",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Wallis & Futuna?",
+        "answer": "  UTC+12:00",
+        "sub": "Wallis & Futuna",
+        "count": "1",
+        "list": [
+            " UTC+12:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Yemen?",
+        "answer": "  UTC+03:00",
+        "sub": "Yemen",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "What is/are the time zone(s) of Zambia?",
+        "answer": "  UTC+02:00",
+        "sub": "Zambia",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    }
+]

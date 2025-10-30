@@ -1,0 +1,270 @@
+[
+    {
+        "query": "Arnavutluk'ta kaç tane GSM operatörü vardır?",
+        "answer": " 3",
+        "sub": "Arnavutluk",
+        "count": 3,
+        "list": [
+            " Vodafone Albania",
+            " One Telecommunications",
+            " ALBtelecom"
+        ]
+    },
+    {
+        "query": "Andorra'da kaç tane GSM operatörü vardır?",
+        "answer": " 1",
+        "sub": "Andorra",
+        "count": 1,
+        "list": [
+            " Andorra Telecom"
+        ]
+    },
+    {
+        "query": "Ermenistan'da kaç tane GSM operatörü vardır?",
+        "answer": " 3",
+        "sub": "Ermenistan",
+        "count": 3,
+        "list": [
+            " Viva-MTS",
+            " Ucom",
+            " Telecom Armenia (Beeline)"
+        ]
+    },
+    {
+        "query": "Belarus'ta kaç tane GSM operatörü vardır?",
+        "answer": " 3",
+        "sub": "Belarus",
+        "count": 3,
+        "list": [
+            " A1 Belarus",
+            " MTS Belarus",
+            " life:) Belarus"
+        ]
+    },
+    {
+        "query": "Belçika'da kaç tane GSM operatörü vardır?",
+        "answer": " 4",
+        "sub": "Belçika",
+        "count": 4,
+        "list": [
+            " Proximus",
+            " Orange Belgium",
+            " Telenet/Base",
+            " DIGI Belgium"
+        ]
+    },
+    {
+        "query": "Bosna Hersek'te kaç tane GSM operatörü vardır?",
+        "answer": " 3",
+        "sub": "Bosna Hersek",
+        "count": 3,
+        "list": [
+            " BH Telecom",
+            " HT Eronet",
+            " Mtel"
+        ]
+    },
+    {
+        "query": "Bulgaristan'da kaç tane GSM operatörü vardır?",
+        "answer": " 3",
+        "sub": "Bulgaristan",
+        "count": 3,
+        "list": [
+            " A1 Bulgaria",
+            " Yettel Bulgaria",
+            " Vivacom"
+        ]
+    },
+    {
+        "query": "Estonya'da kaç tane GSM operatörü vardır?",
+        "answer": " 3",
+        "sub": "Estonya",
+        "count": 3,
+        "list": [
+            " Telia Eesti",
+            " Elisa Eesti",
+            " Tele2 Eesti"
+        ]
+    },
+    {
+        "query": "Finlandiya'da kaç tane GSM operatörü vardır?",
+        "answer": " 3",
+        "sub": "Finlandiya",
+        "count": 3,
+        "list": [
+            " Elisa",
+            " DNA Oyj",
+            " Telia Finland"
+        ]
+    },
+    {
+        "query": "Fransa'da kaç tane GSM operatörü vardır?",
+        "answer": " 4",
+        "sub": "Fransa",
+        "count": 4,
+        "list": [
+            " Orange France",
+            " SFR",
+            " Bouygues Telecom",
+            " Free Mobile"
+        ]
+    },
+    {
+        "query": "Gürcistan'da kaç tane GSM operatörü vardır?",
+        "answer": " 3",
+        "sub": "Gürcistan",
+        "count": 3,
+        "list": [
+            " MagtiCom",
+            " Silknet",
+            " Beeline Georgia"
+        ]
+    },
+    {
+        "query": "Almanya'da kaç tane GSM operatörü vardır?",
+        "answer": " 4",
+        "sub": "Almanya",
+        "count": 4,
+        "list": [
+            " Telekom Deutschland",
+            " Vodafone Germany",
+            " O2 Telefónica",
+            " 1&1"
+        ]
+    },
+    {
+        "query": "Macaristan'da kaç tane GSM operatörü vardır?",
+        "answer": " 4",
+        "sub": "Macaristan",
+        "count": 4,
+        "list": [
+            " Magyar Telekom (Telekom HU)",
+            " Yettel Hungary",
+            " Vodafone Hungary",
+            " DIGI"
+        ]
+    },
+    {
+        "query": "İtalya'da kaç tane GSM operatörü vardır?",
+        "answer": " 4",
+        "sub": "İtalya",
+        "count": 4,
+        "list": [
+            " TIM",
+            " Vodafone Italy",
+            " Wind Tre",
+            " Iliad"
+        ]
+    },
+    {
+        "query": "Kosova'da kaç tane GSM operatörü vardır?",
+        "answer": " 2",
+        "sub": "Kosova",
+        "count": 2,
+        "list": [
+            " Vala",
+            " IPKO"
+        ]
+    },
+    {
+        "query": "Moldova'da kaç tane GSM operatörü vardır?",
+        "answer": " 3",
+        "sub": "Moldova",
+        "count": 3,
+        "list": [
+            " Orange Moldova",
+            " Moldcell",
+            " Unite"
+        ]
+    },
+    {
+        "query": "Portekiz'de kaç tane GSM operatörü vardır?",
+        "answer": " 3",
+        "sub": "Portekiz",
+        "count": 3,
+        "list": [
+            " MEO",
+            " NOS",
+            " Vodafone Portugal"
+        ]
+    },
+    {
+        "query": "Rusya'da kaç tane GSM operatörü vardır?",
+        "answer": " 4",
+        "sub": "Rusya",
+        "count": 4,
+        "list": [
+            " MTS",
+            " MegaFon",
+            " Beeline",
+            " Tele2 Russia"
+        ]
+    },
+    {
+        "query": "Sırbistan'da kaç tane GSM operatörü vardır?",
+        "answer": " 3",
+        "sub": "Sırbistan",
+        "count": 3,
+        "list": [
+            " mts",
+            " Yettel Serbia",
+            " A1 Serbia"
+        ]
+    },
+    {
+        "query": "Slovenya'da kaç tane GSM operatörü vardır?",
+        "answer": " 3",
+        "sub": "Slovenya",
+        "count": 3,
+        "list": [
+            " Telekom Slovenije",
+            " A1 Slovenia",
+            " Telemach Slovenia"
+        ]
+    },
+    {
+        "query": "İsveç'te kaç tane GSM operatörü vardır?",
+        "answer": " 4",
+        "sub": "İsveç",
+        "count": 4,
+        "list": [
+            " Telia Sweden",
+            " Tele2 Sweden",
+            " Telenor Sweden",
+            " 3 (Tre)"
+        ]
+    },
+    {
+        "query": "İsviçre'de kaç tane GSM operatörü vardır?",
+        "answer": " 3",
+        "sub": "İsviçre",
+        "count": 3,
+        "list": [
+            " Swisscom",
+            " Sunrise",
+            " Salt"
+        ]
+    },
+    {
+        "query": "Türkiye'de kaç tane GSM operatörü vardır?",
+        "answer": " 3",
+        "sub": "Türkiye",
+        "count": 3,
+        "list": [
+            " Turkcell",
+            " Vodafone Turkey",
+            " Türk Telekom"
+        ]
+    },
+    {
+        "query": "Ukrayna'da kaç tane GSM operatörü vardır?",
+        "answer": " 3",
+        "sub": "Ukrayna",
+        "count": 3,
+        "list": [
+            " Kyivstar",
+            " Vodafone Ukraine",
+            " lifecell"
+        ]
+    }
+]

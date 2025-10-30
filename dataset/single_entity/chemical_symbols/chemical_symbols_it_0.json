@@ -1,0 +1,182 @@
+﻿[
+  {
+    "query": "Il simbolo chimico dell'Idrogeno è",
+    "answer": " H",
+    "sub": "Idrogeno",
+    "en_sub": "Hydrogen"
+  },
+  {
+    "query": "Il simbolo chimico del Berillio è",
+    "answer": " Be",
+    "sub": "Berillio",
+    "en_sub": "Beryllium"
+  },
+  {
+    "query": "Il simbolo chimico del Boro è",
+    "answer": " B",
+    "sub": "Boro",
+    "en_sub": "Boron"
+  },
+  {
+    "query": "Il simbolo chimico del Carbonio è",
+    "answer": " C",
+    "sub": "Carbonio",
+    "en_sub": "Carbon"
+  },
+  {
+    "query": "Il simbolo chimico del Sodio è",
+    "answer": " Na",
+    "sub": "Sodio",
+    "en_sub": "Sodium"
+  },
+  {
+    "query": "Il simbolo chimico del Magnesio è",
+    "answer": " Mg",
+    "sub": "Magnesio",
+    "en_sub": "Magnesium"
+  },
+  {
+    "query": "Il simbolo chimico dell'Alluminio è",
+    "answer": " Al",
+    "sub": "Alluminio",
+    "en_sub": "Aluminium"
+  },
+  {
+    "query": "Il simbolo chimico del Silicio è",
+    "answer": " Si",
+    "sub": "Silicio",
+    "en_sub": "Silicon"
+  },
+  {
+    "query": "Il simbolo chimico del Fosforo è",
+    "answer": " P",
+    "sub": "Fosforo",
+    "en_sub": "Phosphorus"
+  },
+  {
+    "query": "Il simbolo chimico dello Zolfo è",
+    "answer": " S",
+    "sub": "Zolfo",
+    "en_sub": "Sulfur"
+  },
+  {
+    "query": "Il simbolo chimico dell'Argon è",
+    "answer": " Ar",
+    "sub": "Argon",
+    "en_sub": "Argon"
+  },
+  {
+    "query": "Il simbolo chimico del Calcio è",
+    "answer": " Ca",
+    "sub": "Calcio",
+    "en_sub": "Calcium"
+  },
+  {
+    "query": "Il simbolo chimico dello Scandio è",
+    "answer": " Sc",
+    "sub": "Scandio",
+    "en_sub": "Scandium"
+  },
+  {
+    "query": "Il simbolo chimico del Ferro è",
+    "answer": " Fe",
+    "sub": "Ferro",
+    "en_sub": "Iron"
+  },
+  {
+    "query": "Il simbolo chimico del Nichel è",
+    "answer": " Ni",
+    "sub": "Nichel",
+    "en_sub": "Nickel"
+  },
+  {
+    "query": "Il simbolo chimico del Rame è",
+    "answer": " Cu",
+    "sub": "Rame",
+    "en_sub": "Copper"
+  },
+  {
+    "query": "Il simbolo chimico dello Zinco è",
+    "answer": " Zn",
+    "sub": "Zinco",
+    "en_sub": "Zinc"
+  },
+  {
+    "query": "Il simbolo chimico del Germanio è",
+    "answer": " Ge",
+    "sub": "Germanio",
+    "en_sub": "Germanium"
+  },
+  {
+    "query": "Il simbolo chimico del Selenio è",
+    "answer": " Se",
+    "sub": "Selenio",
+    "en_sub": "Selenium"
+  },
+  {
+    "query": "Il simbolo chimico del Krypton è",
+    "answer": " Kr",
+    "sub": "Krypton",
+    "en_sub": "Krypton"
+  },
+  {
+    "query": "Il simbolo chimico dello Stronzio è",
+    "answer": " Sr",
+    "sub": "Stronzio",
+    "en_sub": "Strontium"
+  },
+  {
+    "query": "Il simbolo chimico dello Zirconio è",
+    "answer": " Zr",
+    "sub": "Zirconio",
+    "en_sub": "Zirconium"
+  },
+  {
+    "query": "Il simbolo chimico del Niobio è",
+    "answer": " Nb",
+    "sub": "Niobio",
+    "en_sub": "Niobium"
+  },
+  {
+    "query": "Il simbolo chimico del Rutenio è",
+    "answer": " Ru",
+    "sub": "Rutenio",
+    "en_sub": "Ruthenium"
+  },
+  {
+    "query": "Il simbolo chimico del Rodio è",
+    "answer": " Rh",
+    "sub": "Rodio",
+    "en_sub": "Rhodium"
+  },
+  {
+    "query": "Il simbolo chimico del Palladio è",
+    "answer": " Pd",
+    "sub": "Palladio",
+    "en_sub": "Palladium"
+  },
+  {
+    "query": "Il simbolo chimico dell'Indio è",
+    "answer": " In",
+    "sub": "Indio",
+    "en_sub": "Indium"
+  },
+  {
+    "query": "Il simbolo chimico dello Xeno è",
+    "answer": " Xe",
+    "sub": "Xeno",
+    "en_sub": "Xenon"
+  },
+  {
+    "query": "Il simbolo chimico del Cesio è",
+    "answer": " Cs",
+    "sub": "Cesio",
+    "en_sub": "Cesium"
+  },
+  {
+    "query": "Il simbolo chimico del Lantanio è",
+    "answer": " La",
+    "sub": "Lantanio",
+    "en_sub": "Lanthanum"
+  }
+]

@@ -1,0 +1,890 @@
+[
+    {
+        "query": "A quale azienda appartiene MessagePad?",
+        "answer": " Apple Inc.",
+        "sub": "MessagePad",
+        "sub_en": "MessagePad"
+    },
+    {
+        "query": "A quale azienda appartiene macOS?",
+        "answer": " Apple Inc.",
+        "sub": "macOS",
+        "sub_en": "macOS"
+    },
+    {
+        "query": "A quale azienda appartiene Safari?",
+        "answer": " Apple Inc.",
+        "sub": "Safari",
+        "sub_en": "Safari"
+    },
+    {
+        "query": "A quale azienda appartiene iWork?",
+        "answer": " Apple Inc.",
+        "sub": "iWork",
+        "sub_en": "iWork"
+    },
+    {
+        "query": "A quale azienda appartiene PostScript?",
+        "answer": " Adobe",
+        "sub": "PostScript",
+        "sub_en": "PostScript"
+    },
+    {
+        "query": "A quale azienda appartiene IBM AIX?",
+        "answer": " IBM",
+        "sub": "IBM AIX",
+        "sub_en": "IBM AIX"
+    },
+    {
+        "query": "A quale azienda appartiene GW-BASIC?",
+        "answer": " Microsoft",
+        "sub": "GW-BASIC",
+        "sub_en": "GW-BASIC"
+    },
+    {
+        "query": "A quale azienda appartiene Windows 1.0?",
+        "answer": " Microsoft",
+        "sub": "Windows 1.0",
+        "sub_en": "Windows 1.0"
+    },
+    {
+        "query": "A quale azienda appartiene Nintendo 2DS?",
+        "answer": " Nintendo",
+        "sub": "Nintendo 2DS",
+        "sub_en": "Nintendo 2DS"
+    },
+    {
+        "query": "A quale azienda appartiene Intel Threading Building Blocks?",
+        "answer": " Intel",
+        "sub": "Intel Threading Building Blocks",
+        "sub_en": "Intel Threading Building Blocks"
+    },
+    {
+        "query": "A quale azienda appartiene IA-32?",
+        "answer": " Intel",
+        "sub": "IA-32",
+        "sub_en": "IA-32"
+    },
+    {
+        "query": "A quale azienda appartiene Intel 8086?",
+        "answer": " Intel",
+        "sub": "Intel 8086",
+        "sub_en": "Intel 8086"
+    },
+    {
+        "query": "A quale azienda appartiene Intel 80386?",
+        "answer": " Intel",
+        "sub": "Intel 80386",
+        "sub_en": "Intel 80386"
+    },
+    {
+        "query": "A quale azienda appartiene Intel 80486?",
+        "answer": " Intel",
+        "sub": "Intel 80486",
+        "sub_en": "Intel 80486"
+    },
+    {
+        "query": "A quale azienda appartiene Windows 10?",
+        "answer": " Microsoft",
+        "sub": "Windows 10",
+        "sub_en": "Windows 10"
+    },
+    {
+        "query": "A quale azienda appartiene IA-64?",
+        "answer": " Intel",
+        "sub": "IA-64",
+        "sub_en": "IA-64"
+    },
+    {
+        "query": "A quale azienda appartiene Lotus 1-2-3?",
+        "answer": " IBM",
+        "sub": "Lotus 1-2-3",
+        "sub_en": "Lotus 1-2-3"
+    },
+    {
+        "query": "A quale azienda appartiene Microsoft Office?",
+        "answer": " Microsoft",
+        "sub": "Microsoft Office",
+        "sub_en": "Microsoft Office"
+    },
+    {
+        "query": "A quale azienda appartiene Xenix?",
+        "answer": " Microsoft",
+        "sub": "Xenix",
+        "sub_en": "Xenix"
+    },
+    {
+        "query": "A quale azienda appartiene Microsoft Word?",
+        "answer": " Microsoft",
+        "sub": "Microsoft Word",
+        "sub_en": "Microsoft Word"
+    },
+    {
+        "query": "A quale azienda appartiene macOS Server?",
+        "answer": " Apple Inc.",
+        "sub": "macOS Server",
+        "sub_en": "macOS Server"
+    },
+    {
+        "query": "A quale azienda appartiene Final Fantasy V?",
+        "answer": " Square",
+        "sub": "Final Fantasy V",
+        "sub_en": "Final Fantasy V"
+    },
+    {
+        "query": "A quale azienda appartiene Windows Embedded Automotive?",
+        "answer": " Microsoft",
+        "sub": "Windows Embedded Automotive",
+        "sub_en": "Windows Embedded Automotive"
+    },
+    {
+        "query": "A quale azienda appartiene Microsoft Visual Studio?",
+        "answer": " Microsoft",
+        "sub": "Microsoft Visual Studio",
+        "sub_en": "Microsoft Visual Studio"
+    },
+    {
+        "query": "A quale azienda appartiene Windows NT 4.0?",
+        "answer": " Microsoft",
+        "sub": "Windows NT 4.0",
+        "sub_en": "Windows NT 4.0"
+    },
+    {
+        "query": "A quale azienda appartiene Microsoft FrontPage?",
+        "answer": " Microsoft",
+        "sub": "Microsoft FrontPage",
+        "sub_en": "Microsoft FrontPage"
+    },
+    {
+        "query": "A quale azienda appartiene Mac OS X Panther?",
+        "answer": " Apple Inc.",
+        "sub": "Mac OS X Panther",
+        "sub_en": "Mac OS X Panther"
+    },
+    {
+        "query": "A quale azienda appartiene XEDIT?",
+        "answer": " IBM",
+        "sub": "XEDIT",
+        "sub_en": "XEDIT"
+    },
+    {
+        "query": "A quale azienda appartiene Microsoft BASIC?",
+        "answer": " Microsoft",
+        "sub": "Microsoft BASIC",
+        "sub_en": "Microsoft BASIC"
+    },
+    {
+        "query": "A quale azienda appartiene Adobe Acrobat?",
+        "answer": " Adobe",
+        "sub": "Adobe Acrobat",
+        "sub_en": "Adobe Acrobat"
+    },
+    {
+        "query": "A quale azienda appartiene MobileMe?",
+        "answer": " Apple Inc.",
+        "sub": "MobileMe",
+        "sub_en": "MobileMe"
+    },
+    {
+        "query": "A quale azienda appartiene Zaxxon?",
+        "answer": " Sega",
+        "sub": "Zaxxon",
+        "sub_en": "Zaxxon"
+    },
+    {
+        "query": "A quale azienda appartiene Visual Basic .NET?",
+        "answer": " Microsoft",
+        "sub": "Visual Basic .NET",
+        "sub_en": "Visual Basic .NET"
+    },
+    {
+        "query": "A quale azienda appartiene Adobe Flash Builder?",
+        "answer": " Adobe",
+        "sub": "Adobe Flash Builder",
+        "sub_en": "Adobe Flash Builder"
+    },
+    {
+        "query": "A quale azienda appartiene Windows Phone?",
+        "answer": " Microsoft",
+        "sub": "Windows Phone",
+        "sub_en": "Windows Phone"
+    },
+    {
+        "query": "A quale azienda appartiene Franchise di Mario?",
+        "answer": " Nintendo",
+        "sub": "Franchise di Mario",
+        "sub_en": "Mario franchise"
+    },
+    {
+        "query": "A quale azienda appartiene Pentium?",
+        "answer": " Intel",
+        "sub": "Pentium",
+        "sub_en": "Pentium"
+    },
+    {
+        "query": "A quale azienda appartiene Adobe Photoshop Elements?",
+        "answer": " Adobe",
+        "sub": "Adobe Photoshop Elements",
+        "sub_en": "Adobe Photoshop Elements"
+    },
+    {
+        "query": "A quale azienda appartiene Adobe Photoshop Lightroom?",
+        "answer": " Adobe",
+        "sub": "Adobe Photoshop Lightroom",
+        "sub_en": "Adobe Photoshop Lightroom"
+    },
+    {
+        "query": "A quale azienda appartiene Mac OS X 10.2?",
+        "answer": " Apple Inc.",
+        "sub": "Mac OS X 10.2",
+        "sub_en": "Mac OS X 10.2"
+    },
+    {
+        "query": "A quale azienda appartiene Wii U?",
+        "answer": " Nintendo",
+        "sub": "Wii U",
+        "sub_en": "Wii U"
+    },
+    {
+        "query": "A quale azienda appartiene Microsoft Visio?",
+        "answer": " Microsoft",
+        "sub": "Microsoft Visio",
+        "sub_en": "Microsoft Visio"
+    },
+    {
+        "query": "A quale azienda appartiene Windows XP?",
+        "answer": " Microsoft",
+        "sub": "Windows XP",
+        "sub_en": "Windows XP"
+    },
+    {
+        "query": "A quale azienda appartiene Windows 2000?",
+        "answer": " Microsoft",
+        "sub": "Windows 2000",
+        "sub_en": "Windows 2000"
+    },
+    {
+        "query": "A quale azienda appartiene Intel 80186?",
+        "answer": " Intel",
+        "sub": "Intel 80186",
+        "sub_en": "Intel 80186"
+    },
+    {
+        "query": "A quale azienda appartiene Intel 80286?",
+        "answer": " Intel",
+        "sub": "Intel 80286",
+        "sub_en": "Intel 80286"
+    },
+    {
+        "query": "A quale azienda appartiene Audio Video Interleave?",
+        "answer": " Microsoft",
+        "sub": "Audio Video Interleave",
+        "sub_en": "Audio Video Interleave"
+    },
+    {
+        "query": "A quale azienda appartiene IBM System i?",
+        "answer": " IBM",
+        "sub": "IBM System i",
+        "sub_en": "IBM System i"
+    },
+    {
+        "query": "A quale azienda appartiene IBM i?",
+        "answer": " IBM",
+        "sub": "IBM i",
+        "sub_en": "IBM i"
+    },
+    {
+        "query": "A quale azienda appartiene Alex Kidd?",
+        "answer": " Sega",
+        "sub": "Alex Kidd",
+        "sub_en": "Alex Kidd"
+    },
+    {
+        "query": "A quale azienda appartiene Windows 8?",
+        "answer": " Microsoft",
+        "sub": "Windows 8",
+        "sub_en": "Windows 8"
+    },
+    {
+        "query": "A quale azienda appartiene The Legend of Zelda?",
+        "answer": " Nintendo",
+        "sub": "The Legend of Zelda",
+        "sub_en": "The Legend of Zelda"
+    },
+    {
+        "query": "A quale azienda appartiene Gmail?",
+        "answer": " Google",
+        "sub": "Gmail",
+        "sub_en": "Gmail"
+    },
+    {
+        "query": "A quale azienda appartiene Mac OS X Snow Leopard?",
+        "answer": " Apple Inc.",
+        "sub": "Mac OS X Snow Leopard",
+        "sub_en": "Mac OS X Snow Leopard"
+    },
+    {
+        "query": "A quale azienda appartiene Microsoft Office 2007?",
+        "answer": " Microsoft",
+        "sub": "Microsoft Office 2007",
+        "sub_en": "Microsoft Office 2007"
+    },
+    {
+        "query": "A quale azienda appartiene Windows Embedded Compact?",
+        "answer": " Microsoft",
+        "sub": "Windows Embedded Compact",
+        "sub_en": "Windows Embedded Compact"
+    },
+    {
+        "query": "A quale azienda appartiene NTLDR?",
+        "answer": " Microsoft",
+        "sub": "NTLDR",
+        "sub_en": "NTLDR"
+    },
+    {
+        "query": "A quale azienda appartiene Windows Server 2003?",
+        "answer": " Microsoft",
+        "sub": "Windows Server 2003",
+        "sub_en": "Windows Server 2003"
+    },
+    {
+        "query": "A quale azienda appartiene Windows Server 2008?",
+        "answer": " Microsoft",
+        "sub": "Windows Server 2008",
+        "sub_en": "Windows Server 2008"
+    },
+    {
+        "query": "A quale azienda appartiene Google Workspace?",
+        "answer": " Google",
+        "sub": "Google Workspace",
+        "sub_en": "Google Workspace"
+    },
+    {
+        "query": "A quale azienda appartiene Microsoft Picture It!?",
+        "answer": " Microsoft",
+        "sub": "Microsoft Picture It!",
+        "sub_en": "Microsoft Picture It!"
+    },
+    {
+        "query": "A quale azienda appartiene Nintendo DSi?",
+        "answer": " Nintendo",
+        "sub": "Nintendo DSi",
+        "sub_en": "Nintendo DSi"
+    },
+    {
+        "query": "A quale azienda appartiene Super Gran Premio di Monaco?",
+        "answer": " Sega",
+        "sub": "Super Gran Premio di Monaco",
+        "sub_en": "Super Monaco GP"
+    },
+    {
+        "query": "A quale azienda appartiene Windows Media Player?",
+        "answer": " Microsoft",
+        "sub": "Windows Media Player",
+        "sub_en": "Windows Media Player"
+    },
+    {
+        "query": "A quale azienda appartiene Chrono Trigger?",
+        "answer": " Square",
+        "sub": "Chrono Trigger",
+        "sub_en": "Chrono Trigger"
+    },
+    {
+        "query": "A quale azienda appartiene Zune?",
+        "answer": " Microsoft",
+        "sub": "Zune",
+        "sub_en": "Zune"
+    },
+    {
+        "query": "A quale azienda appartiene iTunes?",
+        "answer": " Apple Inc.",
+        "sub": "iTunes",
+        "sub_en": "iTunes"
+    },
+    {
+        "query": "A quale azienda appartiene Google Talk?",
+        "answer": " Google",
+        "sub": "Google Talk",
+        "sub_en": "Google Talk"
+    },
+    {
+        "query": "A quale azienda appartiene Windows Embedded?",
+        "answer": " Microsoft",
+        "sub": "Windows Embedded",
+        "sub_en": "Windows Embedded"
+    },
+    {
+        "query": "A quale azienda appartiene Configurazione di rete zero.?",
+        "answer": " Apple Inc.",
+        "sub": "Configurazione di rete zero.",
+        "sub_en": "zero configuration networking"
+    },
+    {
+        "query": "A quale azienda appartiene Adobe Illustrator?",
+        "answer": " Adobe",
+        "sub": "Adobe Illustrator",
+        "sub_en": "Adobe Illustrator"
+    },
+    {
+        "query": "A quale azienda appartiene Donkey Kong?",
+        "answer": " Nintendo",
+        "sub": "Donkey Kong",
+        "sub_en": "Donkey Kong"
+    },
+    {
+        "query": "A quale azienda appartiene Google AdSense?",
+        "answer": " Google",
+        "sub": "Google AdSense",
+        "sub_en": "Google AdSense"
+    },
+    {
+        "query": "A quale azienda appartiene Thunder Blade?",
+        "answer": " Sega",
+        "sub": "Thunder Blade",
+        "sub_en": "Thunder Blade"
+    },
+    {
+        "query": "A quale azienda appartiene Windows 8.1?",
+        "answer": " Microsoft",
+        "sub": "Windows 8.1",
+        "sub_en": "Windows 8.1"
+    },
+    {
+        "query": "A quale azienda appartiene Test Drive Le Mans?",
+        "answer": " Atari",
+        "sub": "Test Drive Le Mans",
+        "sub_en": "Test Drive Le Mans"
+    },
+    {
+        "query": "A quale azienda appartiene A350?",
+        "answer": " Airbus",
+        "sub": "A350",
+        "sub_en": "A350"
+    },
+    {
+        "query": "A quale azienda appartiene SonicStage?",
+        "answer": " Sony",
+        "sub": "SonicStage",
+        "sub_en": "SonicStage"
+    },
+    {
+        "query": "A quale azienda appartiene Negativo digitale?",
+        "answer": " Adobe",
+        "sub": "Negativo digitale",
+        "sub_en": "Digital Negative"
+    },
+    {
+        "query": "A quale azienda appartiene Golden Axe?",
+        "answer": " Sega",
+        "sub": "Golden Axe",
+        "sub_en": "Golden Axe"
+    },
+    {
+        "query": "A quale azienda appartiene Time Sharing Option?",
+        "answer": " IBM",
+        "sub": "Time Sharing Option",
+        "sub_en": "Time Sharing Option"
+    },
+    {
+        "query": "A quale azienda appartiene Google Desktop?",
+        "answer": " Google",
+        "sub": "Google Desktop",
+        "sub_en": "Google Desktop"
+    },
+    {
+        "query": "A quale azienda appartiene ASCI Rosso?",
+        "answer": " Intel",
+        "sub": "ASCI Rosso",
+        "sub_en": "ASCI Red"
+    },
+    {
+        "query": "A quale azienda appartiene Picasa?",
+        "answer": " Google",
+        "sub": "Picasa",
+        "sub_en": "Picasa"
+    },
+    {
+        "query": "A quale azienda appartiene IBM Db2?",
+        "answer": " IBM",
+        "sub": "IBM Db2",
+        "sub_en": "IBM Db2"
+    },
+    {
+        "query": "A quale azienda appartiene Microsoft Silverlight?",
+        "answer": " Microsoft",
+        "sub": "Microsoft Silverlight",
+        "sub_en": "Microsoft Silverlight"
+    },
+    {
+        "query": "A quale azienda appartiene iPod Touch?",
+        "answer": " Apple Inc.",
+        "sub": "iPod Touch",
+        "sub_en": "iPod Touch"
+    },
+    {
+        "query": "A quale azienda appartiene Scambio di supporti accessibili sincronizzato?",
+        "answer": " Microsoft",
+        "sub": "Scambio di supporti accessibili sincronizzato",
+        "sub_en": "Synchronized Accessible Media Interchange"
+    },
+    {
+        "query": "A quale azienda appartiene Microsoft Compiled HTML Help?",
+        "answer": " Microsoft",
+        "sub": "Microsoft Compiled HTML Help",
+        "sub_en": "Microsoft Compiled HTML Help"
+    },
+    {
+        "query": "A quale azienda appartiene OpenAFS?",
+        "answer": " IBM",
+        "sub": "OpenAFS",
+        "sub_en": "OpenAFS"
+    },
+    {
+        "query": "A quale azienda appartiene iPod Mini?",
+        "answer": " Apple Inc.",
+        "sub": "iPod Mini",
+        "sub_en": "iPod Mini"
+    },
+    {
+        "query": "A quale azienda appartiene Vector Markup Language?",
+        "answer": " Microsoft",
+        "sub": "Vector Markup Language",
+        "sub_en": "Vector Markup Language"
+    },
+    {
+        "query": "A quale azienda appartiene Libreria YUI?",
+        "answer": " Yahoo",
+        "sub": "Libreria YUI",
+        "sub_en": "YUI Library"
+    },
+    {
+        "query": "A quale azienda appartiene QuickDraw?",
+        "answer": " Apple Inc.",
+        "sub": "QuickDraw",
+        "sub_en": "QuickDraw"
+    },
+    {
+        "query": "A quale azienda appartiene OpenDoc?",
+        "answer": " Apple Inc.",
+        "sub": "OpenDoc",
+        "sub_en": "OpenDoc"
+    },
+    {
+        "query": "A quale azienda appartiene Framework di Contenuto Meta?",
+        "answer": " Apple Inc.",
+        "sub": "Framework di Contenuto Meta",
+        "sub_en": "Meta Content Framework"
+    },
+    {
+        "query": "A quale azienda appartiene iPod Shuffle?",
+        "answer": " Apple Inc.",
+        "sub": "iPod Shuffle",
+        "sub_en": "iPod Shuffle"
+    },
+    {
+        "query": "A quale azienda appartiene Windows Communication Foundation?",
+        "answer": " Microsoft",
+        "sub": "Windows Communication Foundation",
+        "sub_en": "Windows Communication Foundation"
+    },
+    {
+        "query": "A quale azienda appartiene Adobe Soundbooth?",
+        "answer": " Adobe",
+        "sub": "Adobe Soundbooth",
+        "sub_en": "Adobe Soundbooth"
+    },
+    {
+        "query": "A quale azienda appartiene Adobe Audition?",
+        "answer": " Adobe",
+        "sub": "Adobe Audition",
+        "sub_en": "Adobe Audition"
+    },
+    {
+        "query": "A quale azienda appartiene Campione dei pesi massimi?",
+        "answer": " Sega",
+        "sub": "Campione dei pesi massimi",
+        "sub_en": "Heavyweight Champ"
+    },
+    {
+        "query": "A quale azienda appartiene Resource Access Control Facility?",
+        "answer": " IBM",
+        "sub": "Resource Access Control Facility",
+        "sub_en": "Resource Access Control Facility"
+    },
+    {
+        "query": "A quale azienda appartiene IBM Network Control Program?",
+        "answer": " IBM",
+        "sub": "IBM Network Control Program",
+        "sub_en": "IBM Network Control Program"
+    },
+    {
+        "query": "A quale azienda appartiene Tamarin?",
+        "answer": " Adobe",
+        "sub": "Tamarin",
+        "sub_en": "Tamarin"
+    },
+    {
+        "query": "A quale azienda appartiene Adobe Flash Player?",
+        "answer": " Adobe",
+        "sub": "Adobe Flash Player",
+        "sub_en": "Adobe Flash Player"
+    },
+    {
+        "query": "A quale azienda appartiene Microsoft Plus!?",
+        "answer": " Microsoft",
+        "sub": "Microsoft Plus!",
+        "sub_en": "Microsoft Plus!"
+    },
+    {
+        "query": "A quale azienda appartiene iDisk?",
+        "answer": " Apple Inc.",
+        "sub": "iDisk",
+        "sub_en": "iDisk"
+    },
+    {
+        "query": "A quale azienda appartiene OS X Yosemite?",
+        "answer": " Apple Inc.",
+        "sub": "OS X Yosemite",
+        "sub_en": "OS X Yosemite"
+    },
+    {
+        "query": "A quale azienda appartiene iOS 8?",
+        "answer": " Apple Inc.",
+        "sub": "iOS 8",
+        "sub_en": "iOS 8"
+    },
+    {
+        "query": "A quale azienda appartiene Mac OS X Tiger?",
+        "answer": " Apple Inc.",
+        "sub": "Mac OS X Tiger",
+        "sub_en": "Mac OS X Tiger"
+    },
+    {
+        "query": "A quale azienda appartiene Advanced Systems Format?",
+        "answer": " Microsoft",
+        "sub": "Advanced Systems Format",
+        "sub_en": "Advanced Systems Format"
+    },
+    {
+        "query": "A quale azienda appartiene Siri?",
+        "answer": " Apple Inc.",
+        "sub": "Siri",
+        "sub_en": "Siri"
+    },
+    {
+        "query": "A quale azienda appartiene Super Audio CD?",
+        "answer": " Sony",
+        "sub": "Super Audio CD",
+        "sub_en": "Super Audio CD"
+    },
+    {
+        "query": "A quale azienda appartiene B-47 Stratojet?",
+        "answer": " Boeing",
+        "sub": "B-47 Stratojet",
+        "sub_en": "B-47 Stratojet"
+    },
+    {
+        "query": "A quale azienda appartiene TypeScript?",
+        "answer": " Microsoft",
+        "sub": "TypeScript",
+        "sub_en": "TypeScript"
+    },
+    {
+        "query": "A quale azienda appartiene Adobe After Effects?",
+        "answer": " Adobe",
+        "sub": "Adobe After Effects",
+        "sub_en": "Adobe After Effects"
+    },
+    {
+        "query": "A quale azienda appartiene Adobe Premiere Pro?",
+        "answer": " Adobe",
+        "sub": "Adobe Premiere Pro",
+        "sub_en": "Adobe Premiere Pro"
+    },
+    {
+        "query": "A quale azienda appartiene Google Patents?",
+        "answer": " Google",
+        "sub": "Google Patents",
+        "sub_en": "Google Patents"
+    },
+    {
+        "query": "A quale azienda appartiene Sega Smash Pack?",
+        "answer": " Sega",
+        "sub": "Sega Smash Pack",
+        "sub_en": "Sega Smash Pack"
+    },
+    {
+        "query": "A quale azienda appartiene IBM RPG II?",
+        "answer": " IBM",
+        "sub": "IBM RPG II",
+        "sub_en": "IBM RPG II"
+    },
+    {
+        "query": "A quale azienda appartiene iTunes Radio?",
+        "answer": " Apple Inc.",
+        "sub": "iTunes Radio",
+        "sub_en": "iTunes Radio"
+    },
+    {
+        "query": "A quale azienda appartiene Journaled File System?",
+        "answer": " IBM",
+        "sub": "Journaled File System",
+        "sub_en": "Journaled File System"
+    },
+    {
+        "query": "A quale azienda appartiene IBM General Parallel File System?",
+        "answer": " IBM",
+        "sub": "IBM General Parallel File System",
+        "sub_en": "IBM General Parallel File System"
+    },
+    {
+        "query": "A quale azienda appartiene WebObjects?",
+        "answer": " Apple Inc.",
+        "sub": "WebObjects",
+        "sub_en": "WebObjects"
+    },
+    {
+        "query": "A quale azienda appartiene Assembler Macro Microsoft?",
+        "answer": " Microsoft",
+        "sub": "Assembler Macro Microsoft",
+        "sub_en": "Microsoft Macro Assembler"
+    },
+    {
+        "query": "A quale azienda appartiene Installazione di Windows?",
+        "answer": " Microsoft",
+        "sub": "Installazione di Windows",
+        "sub_en": "Windows Installer"
+    },
+    {
+        "query": "A quale azienda appartiene sRGB?",
+        "answer": " Microsoft",
+        "sub": "sRGB",
+        "sub_en": "sRGB"
+    },
+    {
+        "query": "A quale azienda appartiene Final Fantasy?",
+        "answer": " Square",
+        "sub": "Final Fantasy",
+        "sub_en": "Final Fantasy"
+    },
+    {
+        "query": "A quale azienda appartiene Google Drive?",
+        "answer": " Google",
+        "sub": "Google Drive",
+        "sub_en": "Google Drive"
+    },
+    {
+        "query": "A quale azienda appartiene Google Calendar?",
+        "answer": " Google",
+        "sub": "Google Calendar",
+        "sub_en": "Google Calendar"
+    },
+    {
+        "query": "A quale azienda appartiene Skype?",
+        "answer": " Microsoft",
+        "sub": "Skype",
+        "sub_en": "Skype"
+    },
+    {
+        "query": "A quale azienda appartiene Campioni Eterni?",
+        "answer": " Sega",
+        "sub": "Campioni Eterni",
+        "sub_en": "Eternal Champions"
+    },
+    {
+        "query": "A quale azienda appartiene IntelliPoint?",
+        "answer": " Microsoft",
+        "sub": "IntelliPoint",
+        "sub_en": "IntelliPoint"
+    },
+    {
+        "query": "A quale azienda appartiene The Ocean Hunter?",
+        "answer": " Sega",
+        "sub": "The Ocean Hunter",
+        "sub_en": "The Ocean Hunter"
+    },
+    {
+        "query": "A quale azienda appartiene Final Cut Studio?",
+        "answer": " Apple Inc.",
+        "sub": "Final Cut Studio",
+        "sub_en": "Final Cut Studio"
+    },
+    {
+        "query": "A quale azienda appartiene Adobe Media Player?",
+        "answer": " Adobe",
+        "sub": "Adobe Media Player",
+        "sub_en": "Adobe Media Player"
+    },
+    {
+        "query": "A quale azienda appartiene HFS Plus?",
+        "answer": " Apple Inc.",
+        "sub": "HFS Plus",
+        "sub_en": "HFS Plus"
+    },
+    {
+        "query": "A quale azienda appartiene Adobe Fireworks?",
+        "answer": " Adobe",
+        "sub": "Adobe Fireworks",
+        "sub_en": "Adobe Fireworks"
+    },
+    {
+        "query": "A quale azienda appartiene IBM Sistema Aziendale 12?",
+        "answer": " IBM",
+        "sub": "IBM Sistema Aziendale 12",
+        "sub_en": "IBM Business System 12"
+    },
+    {
+        "query": "A quale azienda appartiene Airbus A300-600ST Beluga?",
+        "answer": " Airbus",
+        "sub": "Airbus A300-600ST Beluga",
+        "sub_en": "Airbus A300-600ST Beluga"
+    },
+    {
+        "query": "A quale azienda appartiene Internet Explorer 11?",
+        "answer": " Microsoft",
+        "sub": "Internet Explorer 11",
+        "sub_en": "Internet Explorer 11"
+    },
+    {
+        "query": "A quale azienda appartiene Adobe Muse?",
+        "answer": " Adobe",
+        "sub": "Adobe Muse",
+        "sub_en": "Adobe Muse"
+    },
+    {
+        "query": "A quale azienda appartiene Comunicazioni sincrone binarie?",
+        "answer": " IBM",
+        "sub": "Comunicazioni sincrone binarie",
+        "sub_en": "Binary Synchronous Communications"
+    },
+    {
+        "query": "A quale azienda appartiene NetFront?",
+        "answer": " Access",
+        "sub": "NetFront",
+        "sub_en": "NetFront"
+    },
+    {
+        "query": "A quale azienda appartiene Cintura degli Asteroidi?",
+        "answer": " Sega",
+        "sub": "Cintura degli Asteroidi",
+        "sub_en": "Astron Belt"
+    },
+    {
+        "query": "A quale azienda appartiene IBM Lotus SmartSuite?",
+        "answer": " IBM",
+        "sub": "IBM Lotus SmartSuite",
+        "sub_en": "IBM Lotus SmartSuite"
+    },
+    {
+        "query": "A quale azienda appartiene Microsoft Schedule Plus?",
+        "answer": " Microsoft",
+        "sub": "Microsoft Schedule Plus",
+        "sub_en": "Microsoft Schedule Plus"
+    },
+    {
+        "query": "A quale azienda appartiene Immagine di Adobe Illustrator?",
+        "answer": " Adobe",
+        "sub": "Immagine di Adobe Illustrator",
+        "sub_en": "Adobe Illustrator Artwork"
+    }
+]

@@ -1,0 +1,1005 @@
+[
+    {
+        "query": "Quanti vicini ha Albania?",
+        "answer": " 4",
+        "sub": "Albania",
+        "count": 4,
+        "list": [
+            " Grecia",
+            " Kosovo",
+            " Macedonia del Nord",
+            " Montenegro"
+        ],
+        "en_sub": "Albania"
+    },
+    {
+        "query": "Quanti vicini ha Argentina?",
+        "answer": " 5",
+        "sub": "Argentina",
+        "count": 5,
+        "list": [
+            " Bolivia",
+            " Brasile",
+            " Cile",
+            " Paraguay",
+            " Uruguay"
+        ],
+        "en_sub": "Argentina"
+    },
+    {
+        "query": "Quanti vicini ha Armenia?",
+        "answer": " 4",
+        "sub": "Armenia",
+        "count": 4,
+        "list": [
+            " Azerbaigian",
+            " Georgia",
+            " Iran",
+            " Turchia"
+        ],
+        "en_sub": "Armenia"
+    },
+    {
+        "query": "Quanti vicini ha Austria?",
+        "answer": " 8",
+        "sub": "Austria",
+        "count": 8,
+        "list": [
+            " Cechia",
+            " Germania",
+            " Ungheria",
+            " Italia",
+            " Liechtenstein",
+            " Slovacchia",
+            " Slovenia",
+            " Svizzera"
+        ],
+        "en_sub": "Austria"
+    },
+    {
+        "query": "Quanti vicini ha Azerbaigian?",
+        "answer": " 5",
+        "sub": "Azerbaigian",
+        "count": 5,
+        "list": [
+            " Armenia",
+            " Georgia",
+            " Iran",
+            " Russia",
+            " Turchia"
+        ],
+        "en_sub": "Azerbaijan"
+    },
+    {
+        "query": "Quanti vicini ha Bangladesh?",
+        "answer": " 2",
+        "sub": "Bangladesh",
+        "count": 2,
+        "list": [
+            " India",
+            " Myanmar"
+        ],
+        "en_sub": "Bangladesh"
+    },
+    {
+        "query": "Quanti vicini ha Bielorussia?",
+        "answer": " 5",
+        "sub": "Bielorussia",
+        "count": 5,
+        "list": [
+            " Lettonia",
+            " Lituania",
+            " Polonia",
+            " Russia",
+            " Ucraina"
+        ],
+        "en_sub": "Belarus"
+    },
+    {
+        "query": "Quanti vicini ha Belgio?",
+        "answer": " 4",
+        "sub": "Belgio",
+        "count": 4,
+        "list": [
+            " Francia",
+            " Germania",
+            " Lussemburgo",
+            " Paesi Bassi"
+        ],
+        "en_sub": "Belgium"
+    },
+    {
+        "query": "Quanti vicini ha Belize?",
+        "answer": " 2",
+        "sub": "Belize",
+        "count": 2,
+        "list": [
+            " Guatemala",
+            " Messico"
+        ],
+        "en_sub": "Belize"
+    },
+    {
+        "query": "Quanti vicini ha Benin?",
+        "answer": " 4",
+        "sub": "Benin",
+        "count": 4,
+        "list": [
+            " Burkina Faso",
+            " Niger",
+            " Nigeria",
+            " Togo"
+        ],
+        "en_sub": "Benin"
+    },
+    {
+        "query": "Quanti vicini ha Bolivia?",
+        "answer": " 5",
+        "sub": "Bolivia",
+        "count": 5,
+        "list": [
+            " Argentina",
+            " Brasile",
+            " Cile",
+            " Paraguay",
+            " Perù"
+        ],
+        "en_sub": "Bolivia"
+    },
+    {
+        "query": "Quanti vicini ha Brunei?",
+        "answer": " 1",
+        "sub": "Brunei",
+        "count": 1,
+        "list": [
+            " Malesia"
+        ],
+        "en_sub": "Brunei"
+    },
+    {
+        "query": "Quanti vicini ha Bulgaria?",
+        "answer": " 5",
+        "sub": "Bulgaria",
+        "count": 5,
+        "list": [
+            " Grecia",
+            " Macedonia del Nord",
+            " Romania",
+            " Serbia",
+            " Turchia"
+        ],
+        "en_sub": "Bulgaria"
+    },
+    {
+        "query": "Quanti vicini ha Burundi?",
+        "answer": " 3",
+        "sub": "Burundi",
+        "count": 3,
+        "list": [
+            " Repubblica Democratica del Congo",
+            " Ruanda",
+            " Tanzania"
+        ],
+        "en_sub": "Burundi"
+    },
+    {
+        "query": "Quanti vicini ha Cambogia?",
+        "answer": " 3",
+        "sub": "Cambogia",
+        "count": 3,
+        "list": [
+            " Laos",
+            " Thailandia",
+            " Vietnam"
+        ],
+        "en_sub": "Cambodia"
+    },
+    {
+        "query": "Quanti vicini ha Camerun?",
+        "answer": " 6",
+        "sub": "Camerun",
+        "count": 6,
+        "list": [
+            " Repubblica Centrafricana",
+            " Ciad",
+            " Repubblica del Congo",
+            " Guinea Equatoriale",
+            " Gabon",
+            " Nigeria"
+        ],
+        "en_sub": "Cameroon"
+    },
+    {
+        "query": "Quanti vicini ha Repubblica Centrafricana?",
+        "answer": " 6",
+        "sub": "Repubblica Centrafricana",
+        "count": 6,
+        "list": [
+            " Camerun",
+            " Ciad",
+            " Repubblica del Congo",
+            " Repubblica Democratica del Congo",
+            " Sud Sudan",
+            " Sudan"
+        ],
+        "en_sub": "Central African Republic"
+    },
+    {
+        "query": "Quanti vicini ha Ciad?",
+        "answer": " 6",
+        "sub": "Ciad",
+        "count": 6,
+        "list": [
+            " Camerun",
+            " Repubblica Centrafricana",
+            " Libia",
+            " Niger",
+            " Nigeria",
+            " Sudan"
+        ],
+        "en_sub": "Chad"
+    },
+    {
+        "query": "Quanti vicini ha Cile?",
+        "answer": " 3",
+        "sub": "Cile",
+        "count": 3,
+        "list": [
+            " Argentina",
+            " Bolivia",
+            " Perù"
+        ],
+        "en_sub": "Chile"
+    },
+    {
+        "query": "Quanti vicini ha Cina?",
+        "answer": " 14",
+        "sub": "Cina",
+        "count": 14,
+        "list": [
+            " Afghanistan",
+            " Bhutan",
+            " India",
+            " Kazakistan",
+            " Kirghizistan",
+            " Laos",
+            " Mongolia",
+            " Myanmar",
+            " Nepal",
+            " Corea del Nord",
+            " Pakistan",
+            " Russia",
+            " Tagikistan",
+            " Vietnam"
+        ],
+        "en_sub": "China"
+    },
+    {
+        "query": "Quanti vicini ha Costa Rica?",
+        "answer": " 2",
+        "sub": "Costa Rica",
+        "count": 2,
+        "list": [
+            " Nicaragua",
+            " Panama"
+        ],
+        "en_sub": "Costa Rica"
+    },
+    {
+        "query": "Quanti vicini ha Croazia?",
+        "answer": " 5",
+        "sub": "Croazia",
+        "count": 5,
+        "list": [
+            " Bosnia ed Erzegovina",
+            " Ungheria",
+            " Montenegro",
+            " Serbia",
+            " Slovenia"
+        ],
+        "en_sub": "Croatia"
+    },
+    {
+        "query": "Quanti vicini ha Repubblica Ceca?",
+        "answer": " 4",
+        "sub": "Repubblica Ceca",
+        "count": 4,
+        "list": [
+            " Austria",
+            " Germania",
+            " Polonia",
+            " Slovacchia"
+        ],
+        "en_sub": "Czechia"
+    },
+    {
+        "query": "Quanti vicini ha Gibuti?",
+        "answer": " 3",
+        "sub": "Gibuti",
+        "count": 3,
+        "list": [
+            " Eritrea",
+            " Etiopia",
+            " Somalia"
+        ],
+        "en_sub": "Djibouti"
+    },
+    {
+        "query": "Quanti vicini ha Ecuador?",
+        "answer": " 2",
+        "sub": "Ecuador",
+        "count": 2,
+        "list": [
+            " Colombia",
+            " Perù"
+        ],
+        "en_sub": "Ecuador"
+    },
+    {
+        "query": "Quanti vicini ha Guinea Equatoriale?",
+        "answer": " 2",
+        "sub": "Guinea Equatoriale",
+        "count": 2,
+        "list": [
+            " Camerun",
+            " Gabon"
+        ],
+        "en_sub": "Equatorial Guinea"
+    },
+    {
+        "query": "Quanti vicini ha Eritrea?",
+        "answer": " 3",
+        "sub": "Eritrea",
+        "count": 3,
+        "list": [
+            " Gibuti",
+            " Etiopia",
+            " Sudan"
+        ],
+        "en_sub": "Eritrea"
+    },
+    {
+        "query": "Quanti vicini ha Estonia?",
+        "answer": " 2",
+        "sub": "Estonia",
+        "count": 2,
+        "list": [
+            " Lettonia",
+            " Russia"
+        ],
+        "en_sub": "Estonia"
+    },
+    {
+        "query": "Quanti vicini ha Eswatini?",
+        "answer": " 2",
+        "sub": "Eswatini",
+        "count": 2,
+        "list": [
+            " Mozambico",
+            " Sudafrica"
+        ],
+        "en_sub": "Eswatini"
+    },
+    {
+        "query": "Quanti vicini ha Etiopia?",
+        "answer": " 6",
+        "sub": "Etiopia",
+        "count": 6,
+        "list": [
+            " Gibuti",
+            " Eritrea",
+            " Kenya",
+            " Somalia",
+            " Sud Sudan",
+            " Sudan"
+        ],
+        "en_sub": "Ethiopia"
+    },
+    {
+        "query": "Quanti vicini ha Finlandia?",
+        "answer": " 3",
+        "sub": "Finlandia",
+        "count": 3,
+        "list": [
+            " Norvegia",
+            " Russia",
+            " Svezia"
+        ],
+        "en_sub": "Finland"
+    },
+    {
+        "query": "Quanti vicini ha Gabon?",
+        "answer": " 3",
+        "sub": "Gabon",
+        "count": 3,
+        "list": [
+            " Camerun",
+            " Repubblica del Congo",
+            " Guinea Equatoriale"
+        ],
+        "en_sub": "Gabon"
+    },
+    {
+        "query": "Quanti vicini ha Grecia?",
+        "answer": " 4",
+        "sub": "Grecia",
+        "count": 4,
+        "list": [
+            " Albania",
+            " Bulgaria",
+            " Macedonia del Nord",
+            " Turchia"
+        ],
+        "en_sub": "Greece"
+    },
+    {
+        "query": "Quanti vicini ha Guatemala?",
+        "answer": " 4",
+        "sub": "Guatemala",
+        "count": 4,
+        "list": [
+            " Belize",
+            " El Salvador",
+            " Honduras",
+            " Messico"
+        ],
+        "en_sub": "Guatemala"
+    },
+    {
+        "query": "Quanti vicini ha Guinea?",
+        "answer": " 6",
+        "sub": "Guinea",
+        "count": 6,
+        "list": [
+            " Costa d'Avorio",
+            " Guinea-Bissau",
+            " Liberia",
+            " Mali",
+            " Senegal",
+            " Sierra Leone"
+        ],
+        "en_sub": "Guinea"
+    },
+    {
+        "query": "Quanti vicini ha Guinea-Bissau?",
+        "answer": " 2",
+        "sub": "Guinea-Bissau",
+        "count": 2,
+        "list": [
+            " Guinea",
+            " Senegal"
+        ],
+        "en_sub": "Guinea-Bissau"
+    },
+    {
+        "query": "Quanti vicini ha Guyana?",
+        "answer": " 3",
+        "sub": "Guyana",
+        "count": 3,
+        "list": [
+            " Brasile",
+            " Suriname",
+            " Venezuela"
+        ],
+        "en_sub": "Guyana"
+    },
+    {
+        "query": "Quanti vicini ha Ungheria?",
+        "answer": " 7",
+        "sub": "Ungheria",
+        "count": 7,
+        "list": [
+            " Austria",
+            " Croazia",
+            " Romania",
+            " Serbia",
+            " Slovacchia",
+            " Slovenia",
+            " Ucraina"
+        ],
+        "en_sub": "Hungary"
+    },
+    {
+        "query": "Quanti vicini ha Israele?",
+        "answer": " 6",
+        "sub": "Israele",
+        "count": 6,
+        "list": [
+            " Egitto",
+            " Giordania",
+            " Libano",
+            " Siria",
+            " Palestina (Cisgiordania)",
+            " Palestina (Striscia di Gaza)"
+        ],
+        "en_sub": "Israel"
+    },
+    {
+        "query": "Quanti vicini ha Italia?",
+        "answer": " 6",
+        "sub": "Italia",
+        "count": 6,
+        "list": [
+            " Austria",
+            " Francia",
+            " San Marino",
+            " Slovenia",
+            " Svizzera",
+            " Città del Vaticano"
+        ],
+        "en_sub": "Italy"
+    },
+    {
+        "query": "Quanti vicini ha Kazakistan?",
+        "answer": " 5",
+        "sub": "Kazakistan",
+        "count": 5,
+        "list": [
+            " Cina",
+            " Kirghizistan",
+            " Russia",
+            " Turkmenistan",
+            " Uzbekistan"
+        ],
+        "en_sub": "Kazakhstan"
+    },
+    {
+        "query": "Quanti vicini ha Kenya?",
+        "answer": " 5",
+        "sub": "Kenya",
+        "count": 5,
+        "list": [
+            " Etiopia",
+            " Somalia",
+            " Sud Sudan",
+            " Tanzania",
+            " Uganda"
+        ],
+        "en_sub": "Kenya"
+    },
+    {
+        "query": "Quanti vicini ha Kuwait?",
+        "answer": " 2",
+        "sub": "Kuwait",
+        "count": 2,
+        "list": [
+            " Iraq",
+            " Arabia Saudita"
+        ],
+        "en_sub": "Kuwait"
+    },
+    {
+        "query": "Quanti vicini ha Libano?",
+        "answer": " 2",
+        "sub": "Libano",
+        "count": 2,
+        "list": [
+            " Israele",
+            " Siria"
+        ],
+        "en_sub": "Lebanon"
+    },
+    {
+        "query": "Quanti vicini ha Liberia?",
+        "answer": " 3",
+        "sub": "Liberia",
+        "count": 3,
+        "list": [
+            " Guinea",
+            " Costa d'Avorio",
+            " Sierra Leone"
+        ],
+        "en_sub": "Liberia"
+    },
+    {
+        "query": "Quanti vicini ha Libia?",
+        "answer": " 6",
+        "sub": "Libia",
+        "count": 6,
+        "list": [
+            " Algeria",
+            " Ciad",
+            " Egitto",
+            " Niger",
+            " Sudan",
+            " Tunisia"
+        ],
+        "en_sub": "Libya"
+    },
+    {
+        "query": "Quanti vicini ha Liechtenstein?",
+        "answer": " 2",
+        "sub": "Liechtenstein",
+        "count": 2,
+        "list": [
+            " Austria",
+            " Svizzera"
+        ],
+        "en_sub": "Liechtenstein"
+    },
+    {
+        "query": "Quanti vicini ha Malawi?",
+        "answer": " 3",
+        "sub": "Malawi",
+        "count": 3,
+        "list": [
+            " Mozambico",
+            " Tanzania",
+            " Zambia"
+        ],
+        "en_sub": "Malawi"
+    },
+    {
+        "query": "Quanti vicini ha Mauritania?",
+        "answer": " 4",
+        "sub": "Mauritania",
+        "count": 4,
+        "list": [
+            " Algeria",
+            " Mali",
+            " Senegal",
+            " Sahara Occidentale"
+        ],
+        "en_sub": "Mauritania"
+    },
+    {
+        "query": "Quanti vicini ha Monaco?",
+        "answer": " 1",
+        "sub": "Monaco",
+        "count": 1,
+        "list": [
+            " Francia"
+        ],
+        "en_sub": "Monaco"
+    },
+    {
+        "query": "Quanti vicini ha Marocco?",
+        "answer": " 2",
+        "sub": "Marocco",
+        "count": 2,
+        "list": [
+            " Algeria",
+            " Sahara Occidentale"
+        ],
+        "en_sub": "Morocco"
+    },
+    {
+        "query": "Quanti vicini ha Nepal?",
+        "answer": " 2",
+        "sub": "Nepal",
+        "count": 2,
+        "list": [
+            " Cina",
+            " India"
+        ],
+        "en_sub": "Nepal"
+    },
+    {
+        "query": "Quanti vicini ha Niger?",
+        "answer": " 7",
+        "sub": "Niger",
+        "count": 7,
+        "list": [
+            " Algeria",
+            " Benin",
+            " Burkina Faso",
+            " Ciad",
+            " Libia",
+            " Mali",
+            " Nigeria"
+        ],
+        "en_sub": "Niger"
+    },
+    {
+        "query": "Quanti vicini ha Macedonia del Nord?",
+        "answer": " 5",
+        "sub": "Macedonia del Nord",
+        "count": 5,
+        "list": [
+            " Albania",
+            " Bulgaria",
+            " Grecia",
+            " Kosovo",
+            " Serbia"
+        ],
+        "en_sub": "North Macedonia"
+    },
+    {
+        "query": "Quanti vicini ha Oman?",
+        "answer": " 3",
+        "sub": "Oman",
+        "count": 3,
+        "list": [
+            " Arabia Saudita",
+            " Emirati Arabi Uniti",
+            " Yemen"
+        ],
+        "en_sub": "Oman"
+    },
+    {
+        "query": "Quanti vicini ha Pakistan?",
+        "answer": " 4",
+        "sub": "Pakistan",
+        "count": 4,
+        "list": [
+            " Afghanistan",
+            " Cina",
+            " India",
+            " Iran"
+        ],
+        "en_sub": "Pakistan"
+    },
+    {
+        "query": "Quanti vicini ha Palestina?",
+        "answer": " 3",
+        "sub": "Palestina",
+        "count": 3,
+        "list": [
+            " Egitto",
+            " Israele",
+            " Giordania"
+        ],
+        "en_sub": "Palestine"
+    },
+    {
+        "query": "Quanti vicini ha Panama?",
+        "answer": " 2",
+        "sub": "Panama",
+        "count": 2,
+        "list": [
+            " Colombia",
+            " Costa Rica"
+        ],
+        "en_sub": "Panama"
+    },
+    {
+        "query": "Quanti vicini ha Papua Nuova Guinea?",
+        "answer": " 1",
+        "sub": "Papua Nuova Guinea",
+        "count": 1,
+        "list": [
+            " Indonesia"
+        ],
+        "en_sub": "Papua New Guinea"
+    },
+    {
+        "query": "Quanti vicini ha Paraguay?",
+        "answer": " 3",
+        "sub": "Paraguay",
+        "count": 3,
+        "list": [
+            " Argentina",
+            " Bolivia",
+            " Brasile"
+        ],
+        "en_sub": "Paraguay"
+    },
+    {
+        "query": "Quanti vicini ha Perù?",
+        "answer": " 5",
+        "sub": "Perù",
+        "count": 5,
+        "list": [
+            " Bolivia",
+            " Brasile",
+            " Cile",
+            " Colombia",
+            " Ecuador"
+        ],
+        "en_sub": "Peru"
+    },
+    {
+        "query": "Quanti vicini ha Polonia?",
+        "answer": " 7",
+        "sub": "Polonia",
+        "count": 7,
+        "list": [
+            " Bielorussia",
+            " Cechia",
+            " Germania",
+            " Lituania",
+            " Russia",
+            " Slovacchia",
+            " Ucraina"
+        ],
+        "en_sub": "Poland"
+    },
+    {
+        "query": "Quanti vicini ha Qatar?",
+        "answer": " 1",
+        "sub": "Qatar",
+        "count": 1,
+        "list": [
+            " Arabia Saudita"
+        ],
+        "en_sub": "Qatar"
+    },
+    {
+        "query": "Quanti vicini ha Ruanda?",
+        "answer": " 4",
+        "sub": "Ruanda",
+        "count": 4,
+        "list": [
+            " Burundi",
+            " Repubblica Democratica del Congo",
+            " Tanzania",
+            " Uganda"
+        ],
+        "en_sub": "Rwanda"
+    },
+    {
+        "query": "Quanti vicini ha San Marino?",
+        "answer": " 1",
+        "sub": "San Marino",
+        "count": 1,
+        "list": [
+            " Italia"
+        ],
+        "en_sub": "San Marino"
+    },
+    {
+        "query": "Quanti vicini ha Arabia Saudita?",
+        "answer": " 7",
+        "sub": "Arabia Saudita",
+        "count": 7,
+        "list": [
+            " Iraq",
+            " Giordania",
+            " Kuwait",
+            " Oman",
+            " Qatar",
+            " Emirati Arabi Uniti",
+            " Yemen"
+        ],
+        "en_sub": "Saudi Arabia"
+    },
+    {
+        "query": "Quanti vicini ha Sierra Leone?",
+        "answer": " 2",
+        "sub": "Sierra Leone",
+        "count": 2,
+        "list": [
+            " Guinea",
+            " Liberia"
+        ],
+        "en_sub": "Sierra Leone"
+    },
+    {
+        "query": "Quanti vicini ha Spagna?",
+        "answer": " 5",
+        "sub": "Spagna",
+        "count": 5,
+        "list": [
+            " Andorra",
+            " Francia",
+            " Gibilterra",
+            " Portogallo",
+            " Marocco"
+        ],
+        "en_sub": "Spain"
+    },
+    {
+        "query": "Quanti vicini ha Svezia?",
+        "answer": " 2",
+        "sub": "Svezia",
+        "count": 2,
+        "list": [
+            " Finlandia",
+            " Norvegia"
+        ],
+        "en_sub": "Sweden"
+    },
+    {
+        "query": "Quanti vicini ha Togo?",
+        "answer": " 3",
+        "sub": "Togo",
+        "count": 3,
+        "list": [
+            " Benin",
+            " Burkina Faso",
+            " Ghana"
+        ],
+        "en_sub": "Togo"
+    },
+    {
+        "query": "Quanti vicini ha Tunisia?",
+        "answer": " 2",
+        "sub": "Tunisia",
+        "count": 2,
+        "list": [
+            " Algeria",
+            " Libia"
+        ],
+        "en_sub": "Tunisia"
+    },
+    {
+        "query": "Quanti vicini ha Turchia?",
+        "answer": " 8",
+        "sub": "Turchia",
+        "count": 8,
+        "list": [
+            " Armenia",
+            " Azerbaigian",
+            " Bulgaria",
+            " Georgia",
+            " Grecia",
+            " Iran",
+            " Iraq",
+            " Siria"
+        ],
+        "en_sub": "Turkey"
+    },
+    {
+        "query": "Quanti vicini ha Emirati Arabi Uniti?",
+        "answer": " 2",
+        "sub": "Emirati Arabi Uniti",
+        "count": 2,
+        "list": [
+            " Oman",
+            " Arabia Saudita"
+        ],
+        "en_sub": "United Arab Emirates"
+    },
+    {
+        "query": "Quanti vicini ha Regno Unito?",
+        "answer": " 1",
+        "sub": "Regno Unito",
+        "count": 1,
+        "list": [
+            " Irlanda"
+        ],
+        "en_sub": "United Kingdom"
+    },
+    {
+        "query": "Quanti vicini ha Uzbekistan?",
+        "answer": " 5",
+        "sub": "Uzbekistan",
+        "count": 5,
+        "list": [
+            " Afghanistan",
+            " Kazakistan",
+            " Kirghizistan",
+            " Tagikistan",
+            " Turkmenistan"
+        ],
+        "en_sub": "Uzbekistan"
+    },
+    {
+        "query": "Quanti vicini ha Città del Vaticano?",
+        "answer": " 1",
+        "sub": "Città del Vaticano",
+        "count": 1,
+        "list": [
+            " Italia"
+        ],
+        "en_sub": "Vatican City"
+    },
+    {
+        "query": "Quanti vicini ha Yemen?",
+        "answer": " 2",
+        "sub": "Yemen",
+        "count": 2,
+        "list": [
+            " Oman",
+            " Arabia Saudita"
+        ],
+        "en_sub": "Yemen"
+    },
+    {
+        "query": "Quanti vicini ha Zambia?",
+        "answer": " 8",
+        "sub": "Zambia",
+        "count": 8,
+        "list": [
+            " Angola",
+            " Botswana",
+            " Repubblica Democratica del Congo",
+            " Malawi",
+            " Mozambico",
+            " Namibia",
+            " Tanzania",
+            " Zimbabwe"
+        ],
+        "en_sub": "Zambia"
+    }
+]

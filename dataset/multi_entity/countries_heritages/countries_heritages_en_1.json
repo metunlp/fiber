@@ -1,0 +1,889 @@
+[
+    {
+        "query": "What is/are the world heritage site(s) of Albania?",
+        "answer": " Butrint; Historic Centres of Berat and Gjirokastra; Ancient and Primeval Beech Forests",
+        "sub": "Albania",
+        "count": "3",
+        "list": [
+            " Butrint",
+            " Historic Centres of Berat and Gjirokastra",
+            " Ancient and Primeval Beech Forests"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Antigua and Barbuda?",
+        "answer": " Antigua Naval Dockyard and Related Archaeological Sites",
+        "sub": "Antigua and Barbuda",
+        "count": "1",
+        "list": [
+            " Antigua Naval Dockyard and Related Archaeological Sites"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Argentina?",
+        "answer": " Iguazú National Park; Los Glaciares; Quebrada de Humahuaca",
+        "sub": "Argentina",
+        "count": "3",
+        "list": [
+            " Iguazú National Park",
+            " Los Glaciares",
+            " Quebrada de Humahuaca"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Armenia?",
+        "answer": " Monasteries of Haghpat and Sanahin; Geghard Monastery; Cathedral and Churches of Echmiadzin and Zvartnots",
+        "sub": "Armenia",
+        "count": "3",
+        "list": [
+            " Monasteries of Haghpat and Sanahin",
+            " Geghard Monastery",
+            " Cathedral and Churches of Echmiadzin and Zvartnots"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Australia?",
+        "answer": " Great Barrier Reef; Sydney Opera House; Kakadu National Park",
+        "sub": "Australia",
+        "count": "3",
+        "list": [
+            " Great Barrier Reef",
+            " Sydney Opera House",
+            " Kakadu National Park"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Austria?",
+        "answer": " Historic Centre of Vienna; Palace and Gardens of Schönbrunn; Hallstatt‑Dachstein / Salzkammergut",
+        "sub": "Austria",
+        "count": "3",
+        "list": [
+            " Historic Centre of Vienna",
+            " Palace and Gardens of Schönbrunn",
+            " Hallstatt‑Dachstein / Salzkammergut"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Azerbaijan?",
+        "answer": " Walled City of Baku with the Shirvanshah’s Palace and Maiden Tower; Gobustan Rock Art; Historic Centre of Sheki with the Khan’s Palace",
+        "sub": "Azerbaijan",
+        "count": "3",
+        "list": [
+            " Walled City of Baku with the Shirvanshah’s Palace and Maiden Tower",
+            " Gobustan Rock Art",
+            " Historic Centre of Sheki with the Khan’s Palace"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Bangladesh?",
+        "answer": " Historic Mosque City of Bagerhat; Ruins of the Buddhist Vihara at Paharpur; Sundarbans",
+        "sub": "Bangladesh",
+        "count": "3",
+        "list": [
+            " Historic Mosque City of Bagerhat",
+            " Ruins of the Buddhist Vihara at Paharpur",
+            " Sundarbans"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Belgium?",
+        "answer": " Grand‑Place, Brussels; Plantin‑Moretus House‑Workshop‑Museum; Belfries of Belgium and France",
+        "sub": "Belgium",
+        "count": "3",
+        "list": [
+            " Grand‑Place, Brussels",
+            " Plantin‑Moretus House‑Workshop‑Museum",
+            " Belfries of Belgium and France"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Botswana?",
+        "answer": " Okavango Delta; Tsodilo",
+        "sub": "Botswana",
+        "count": "2",
+        "list": [
+            " Okavango Delta",
+            " Tsodilo"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Bulgaria?",
+        "answer": " Boyana Church; Rila Monastery; Ancient City of Nesebar",
+        "sub": "Bulgaria",
+        "count": "3",
+        "list": [
+            " Boyana Church",
+            " Rila Monastery",
+            " Ancient City of Nesebar"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Burkina Faso?",
+        "answer": " Ruins of Loropéni; W‑Arly‑Pendjari Complex; Ancient Ferrous Metallurgy Sites of Burkina Faso",
+        "sub": "Burkina Faso",
+        "count": "3",
+        "list": [
+            " Ruins of Loropéni",
+            " W‑Arly‑Pendjari Complex",
+            " Ancient Ferrous Metallurgy Sites of Burkina Faso"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Cabo Verde?",
+        "answer": " Cidade Velha, Historic Centre of Ribeira Grande",
+        "sub": "Cabo Verde",
+        "count": "1",
+        "list": [
+            " Cidade Velha, Historic Centre of Ribeira Grande"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Cameroon?",
+        "answer": " Dja Faunal Reserve; Sangha Trinational",
+        "sub": "Cameroon",
+        "count": "2",
+        "list": [
+            " Dja Faunal Reserve",
+            " Sangha Trinational"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Central African Republic?",
+        "answer": " Manovo‑Gounda St. Floris National Park; Sangha Trinational",
+        "sub": "Central African Republic",
+        "count": "2",
+        "list": [
+            " Manovo‑Gounda St. Floris National Park",
+            " Sangha Trinational"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Chad?",
+        "answer": " Lakes of Ounianga; Ennedi Massif: Natural and Cultural Landscape",
+        "sub": "Chad",
+        "count": "2",
+        "list": [
+            " Lakes of Ounianga",
+            " Ennedi Massif: Natural and Cultural Landscape"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Costa Rica?",
+        "answer": " Area de Conservación Guanacaste; Cocos Island National Park; Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís",
+        "sub": "Costa Rica",
+        "count": "3",
+        "list": [
+            " Area de Conservación Guanacaste",
+            " Cocos Island National Park",
+            " Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Côte d'Ivoire?",
+        "answer": " Comoé National Park; Mount Nimba Strict Nature Reserve; Taï National Park",
+        "sub": "Côte d'Ivoire",
+        "count": "3",
+        "list": [
+            " Comoé National Park",
+            " Mount Nimba Strict Nature Reserve",
+            " Taï National Park"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Cuba?",
+        "answer": " Old Havana and its Fortification System; Trinidad and the Valley de los Ingenios; Viñales Valley",
+        "sub": "Cuba",
+        "count": "3",
+        "list": [
+            " Old Havana and its Fortification System",
+            " Trinidad and the Valley de los Ingenios",
+            " Viñales Valley"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Czechia?",
+        "answer": " Historic Centre of Prague; Kutná Hora: Historical Town Centre with the Church of St Barbara; Lednice‑Valtice Cultural Landscape",
+        "sub": "Czechia",
+        "count": "3",
+        "list": [
+            " Historic Centre of Prague",
+            " Kutná Hora: Historical Town Centre with the Church of St Barbara",
+            " Lednice‑Valtice Cultural Landscape"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Democratic People's Republic of Korea?",
+        "answer": " Historic Monuments and Sites in Kaesong; Complex of Koguryo Tombs; Namhansanseong (not DPRK)",
+        "sub": "Democratic People's Republic of Korea",
+        "count": "3",
+        "list": [
+            " Historic Monuments and Sites in Kaesong",
+            " Complex of Koguryo Tombs",
+            " Namhansanseong (not DPRK)"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Ecuador?",
+        "answer": " City of Quito; Galápagos Islands; Historic Centre of Santa Ana de los Ríos de Cuenca",
+        "sub": "Ecuador",
+        "count": "3",
+        "list": [
+            " City of Quito",
+            " Galápagos Islands",
+            " Historic Centre of Santa Ana de los Ríos de Cuenca"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Egypt?",
+        "answer": " Historic Cairo; Ancient Thebes with its Necropolis; Nubian Monuments from Abu Simbel to Philae",
+        "sub": "Egypt",
+        "count": "3",
+        "list": [
+            " Historic Cairo",
+            " Ancient Thebes with its Necropolis",
+            " Nubian Monuments from Abu Simbel to Philae"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of El Salvador?",
+        "answer": " Joya de Cerén Archaeological Site",
+        "sub": "El Salvador",
+        "count": "1",
+        "list": [
+            " Joya de Cerén Archaeological Site"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Eritrea?",
+        "answer": " Asmara: a Modernist City of Africa",
+        "sub": "Eritrea",
+        "count": "1",
+        "list": [
+            " Asmara: a Modernist City of Africa"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Ethiopia?",
+        "answer": " Rock‑Hewn Churches, Lalibela; Simien National Park; Fasil Ghebbi, Gondar Region",
+        "sub": "Ethiopia",
+        "count": "3",
+        "list": [
+            " Rock‑Hewn Churches, Lalibela",
+            " Simien National Park",
+            " Fasil Ghebbi, Gondar Region"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Gambia?",
+        "answer": " Kunta Kinteh Island and Related Sites; Stone Circles of Senegambia",
+        "sub": "Gambia",
+        "count": "2",
+        "list": [
+            " Kunta Kinteh Island and Related Sites",
+            " Stone Circles of Senegambia"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Georgia?",
+        "answer": " Gelati Monastery; Historical Monuments of Mtskheta; Upper Svaneti",
+        "sub": "Georgia",
+        "count": "3",
+        "list": [
+            " Gelati Monastery",
+            " Historical Monuments of Mtskheta",
+            " Upper Svaneti"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Germany?",
+        "answer": " Cologne Cathedral; Museumsinsel (Museum Island), Berlin; Würzburg Residence with the Court Gardens",
+        "sub": "Germany",
+        "count": "3",
+        "list": [
+            " Cologne Cathedral",
+            " Museumsinsel (Museum Island), Berlin",
+            " Würzburg Residence with the Court Gardens"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Ghana?",
+        "answer": " Forts and Castles, Volta, Greater Accra, Central and Western Regions; Asante Traditional Buildings",
+        "sub": "Ghana",
+        "count": "2",
+        "list": [
+            " Forts and Castles, Volta, Greater Accra, Central and Western Regions",
+            " Asante Traditional Buildings"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Greece?",
+        "answer": " Acropolis, Athens; Meteora; Archaeological Site of Delphi",
+        "sub": "Greece",
+        "count": "3",
+        "list": [
+            " Acropolis, Athens",
+            " Meteora",
+            " Archaeological Site of Delphi"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Guinea-Bissau?",
+        "answer": " Bijagós Archipelago (Biosphere Reserve, not WHS)",
+        "sub": "Guinea-Bissau",
+        "count": "1",
+        "list": [
+            " Bijagós Archipelago (Biosphere Reserve, not WHS)"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Iceland?",
+        "answer": " Þingvellir National Park; Surtsey; Vatnajökull National Park",
+        "sub": "Iceland",
+        "count": "3",
+        "list": [
+            " Þingvellir National Park",
+            " Surtsey",
+            " Vatnajökull National Park"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of India?",
+        "answer": " Taj Mahal; Qutub Minar and its Monuments, Delhi; Ajanta Caves",
+        "sub": "India",
+        "count": "3",
+        "list": [
+            " Taj Mahal",
+            " Qutub Minar and its Monuments, Delhi",
+            " Ajanta Caves"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Iran (Islamic Republic of)?",
+        "answer": " Persepolis; Meidan Emam, Esfahan; Golestan Palace",
+        "sub": "Iran (Islamic Republic of)",
+        "count": "3",
+        "list": [
+            " Persepolis",
+            " Meidan Emam, Esfahan",
+            " Golestan Palace"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Iraq?",
+        "answer": " Hatra; Ashur (Qal’at Sherqat); Samarra Archaeological City",
+        "sub": "Iraq",
+        "count": "3",
+        "list": [
+            " Hatra",
+            " Ashur (Qal’at Sherqat)",
+            " Samarra Archaeological City"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Israel?",
+        "answer": " Masada; Old City of Acre; White City of Tel‑Aviv",
+        "sub": "Israel",
+        "count": "3",
+        "list": [
+            " Masada",
+            " Old City of Acre",
+            " White City of Tel‑Aviv"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Italy?",
+        "answer": " Historic Centre of Rome; Historic Centre of Florence; Archaeological Areas of Pompeii",
+        "sub": "Italy",
+        "count": "3",
+        "list": [
+            " Historic Centre of Rome",
+            " Historic Centre of Florence",
+            " Archaeological Areas of Pompeii"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Kiribati?",
+        "answer": " Phoenix Islands Protected Area",
+        "sub": "Kiribati",
+        "count": "1",
+        "list": [
+            " Phoenix Islands Protected Area"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Kyrgyzstan?",
+        "answer": " Sulayman‑Too Sacred Mountain; Silk Roads: Chang'an‑Tianshan Corridor; Western Tien‑Shan",
+        "sub": "Kyrgyzstan",
+        "count": "3",
+        "list": [
+            " Sulayman‑Too Sacred Mountain",
+            " Silk Roads: Chang'an‑Tianshan Corridor",
+            " Western Tien‑Shan"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Lao People's Democratic Republic?",
+        "answer": " Town of Luang Prabang; Vat Phou and Associated Ancient Settlements",
+        "sub": "Lao People's Democratic Republic",
+        "count": "2",
+        "list": [
+            " Town of Luang Prabang",
+            " Vat Phou and Associated Ancient Settlements"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Latvia?",
+        "answer": " Historic Centre of Riga; Struve Geodetic Arc; Old Town of Kuldīga",
+        "sub": "Latvia",
+        "count": "3",
+        "list": [
+            " Historic Centre of Riga",
+            " Struve Geodetic Arc",
+            " Old Town of Kuldīga"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Lesotho?",
+        "answer": " Sehlabathebe National Park (Maloti‑Drakensberg Park)",
+        "sub": "Lesotho",
+        "count": "1",
+        "list": [
+            " Sehlabathebe National Park (Maloti‑Drakensberg Park)"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Libya?",
+        "answer": " Leptis Magna; Cyrene; Sabratha",
+        "sub": "Libya",
+        "count": "3",
+        "list": [
+            " Leptis Magna",
+            " Cyrene",
+            " Sabratha"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Lithuania?",
+        "answer": " Curonian Spit; Kernavė Archaeological Site; Vilnius Historic Centre",
+        "sub": "Lithuania",
+        "count": "3",
+        "list": [
+            " Curonian Spit",
+            " Kernavė Archaeological Site",
+            " Vilnius Historic Centre"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Luxembourg?",
+        "answer": " City of Luxembourg: its Old Quarters and Fortifications",
+        "sub": "Luxembourg",
+        "count": "1",
+        "list": [
+            " City of Luxembourg: its Old Quarters and Fortifications"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Madagascar?",
+        "answer": " Tsingy de Bemaraha Strict Nature Reserve; Royal Hill of Ambohimanga",
+        "sub": "Madagascar",
+        "count": "2",
+        "list": [
+            " Tsingy de Bemaraha Strict Nature Reserve",
+            " Royal Hill of Ambohimanga"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Malaysia?",
+        "answer": " Historic Cities of the Straits of Malacca (Melaka and George Town); Archaeological Heritage of the Lenggong Valley; Gunung Mulu National Park",
+        "sub": "Malaysia",
+        "count": "3",
+        "list": [
+            " Historic Cities of the Straits of Malacca (Melaka and George Town)",
+            " Archaeological Heritage of the Lenggong Valley",
+            " Gunung Mulu National Park"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Mali?",
+        "answer": " Old Towns of Djenné; Timbuktu; Tomb of Askia",
+        "sub": "Mali",
+        "count": "3",
+        "list": [
+            " Old Towns of Djenné",
+            " Timbuktu",
+            " Tomb of Askia"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Marshall Islands?",
+        "answer": " Bikini Atoll Nuclear Test Site",
+        "sub": "Marshall Islands",
+        "count": "1",
+        "list": [
+            " Bikini Atoll Nuclear Test Site"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Micronesia (Federated States of)?",
+        "answer": " Nan Madol: Ceremonial Centre of Eastern Micronesia",
+        "sub": "Micronesia (Federated States of)",
+        "count": "1",
+        "list": [
+            " Nan Madol: Ceremonial Centre of Eastern Micronesia"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Mongolia?",
+        "answer": " Uvs Nuur Basin; Orkhon Valley Cultural Landscape; Petroglyphic Complexes of the Mongolian Altai",
+        "sub": "Mongolia",
+        "count": "3",
+        "list": [
+            " Uvs Nuur Basin",
+            " Orkhon Valley Cultural Landscape",
+            " Petroglyphic Complexes of the Mongolian Altai"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Namibia?",
+        "answer": " Twyfelfontein / ǀUi‑ǁAis; Namib Sand Sea",
+        "sub": "Namibia",
+        "count": "2",
+        "list": [
+            " Twyfelfontein / ǀUi‑ǁAis",
+            " Namib Sand Sea"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Nepal?",
+        "answer": " Kathmandu Valley; Chitwan National Park; Sagarmatha National Park",
+        "sub": "Nepal",
+        "count": "3",
+        "list": [
+            " Kathmandu Valley",
+            " Chitwan National Park",
+            " Sagarmatha National Park"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of New Zealand?",
+        "answer": " Te Wāhipounamu – South West New Zealand; Tongariro National Park; Subantarctic Islands",
+        "sub": "New Zealand",
+        "count": "3",
+        "list": [
+            " Te Wāhipounamu – South West New Zealand",
+            " Tongariro National Park",
+            " Subantarctic Islands"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Nicaragua?",
+        "answer": " Ruins of León Viejo; León Cathedral",
+        "sub": "Nicaragua",
+        "count": "2",
+        "list": [
+            " Ruins of León Viejo",
+            " León Cathedral"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Niger?",
+        "answer": " Air and Ténéré Natural Reserves; W National Park of Niger",
+        "sub": "Niger",
+        "count": "2",
+        "list": [
+            " Air and Ténéré Natural Reserves",
+            " W National Park of Niger"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of North Macedonia?",
+        "answer": " Natural and Cultural Heritage of the Ohrid region",
+        "sub": "North Macedonia",
+        "count": "1",
+        "list": [
+            " Natural and Cultural Heritage of the Ohrid region"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Norway?",
+        "answer": " Bryggen; Urnes Stave Church; Rjukan‑Notodden Industrial Heritage Site",
+        "sub": "Norway",
+        "count": "3",
+        "list": [
+            " Bryggen",
+            " Urnes Stave Church",
+            " Rjukan‑Notodden Industrial Heritage Site"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Palau?",
+        "answer": " Rock Islands Southern Lagoon",
+        "sub": "Palau",
+        "count": "1",
+        "list": [
+            " Rock Islands Southern Lagoon"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Papua New Guinea?",
+        "answer": " Kuk Early Agricultural Site",
+        "sub": "Papua New Guinea",
+        "count": "1",
+        "list": [
+            " Kuk Early Agricultural Site"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Peru?",
+        "answer": " Historic Sanctuary of Machu Picchu; City of Cuzco; Chan Chan Archaeological Zone",
+        "sub": "Peru",
+        "count": "3",
+        "list": [
+            " Historic Sanctuary of Machu Picchu",
+            " City of Cuzco",
+            " Chan Chan Archaeological Zone"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Philippines?",
+        "answer": " Baroque Churches of the Philippines; Historic City of Vigan; Rice Terraces of the Philippine Cordilleras",
+        "sub": "Philippines",
+        "count": "3",
+        "list": [
+            " Baroque Churches of the Philippines",
+            " Historic City of Vigan",
+            " Rice Terraces of the Philippine Cordilleras"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Poland?",
+        "answer": " Historic Centre of Kraków; Auschwitz Birkenau; Wieliczka and Bochnia Royal Salt Mines",
+        "sub": "Poland",
+        "count": "3",
+        "list": [
+            " Historic Centre of Kraków",
+            " Auschwitz Birkenau",
+            " Wieliczka and Bochnia Royal Salt Mines"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Republic of Korea?",
+        "answer": " Changdeokgung Palace Complex; Bulguksa Temple and Seokguram Grotto; Historic Villages of Hahoe and Yangdong",
+        "sub": "Republic of Korea",
+        "count": "3",
+        "list": [
+            " Changdeokgung Palace Complex",
+            " Bulguksa Temple and Seokguram Grotto",
+            " Historic Villages of Hahoe and Yangdong"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Romania?",
+        "answer": " Churches of Moldavia; Dacian Fortresses of the Orăștie Mountains; Villages with Fortified Churches in Transylvania",
+        "sub": "Romania",
+        "count": "3",
+        "list": [
+            " Churches of Moldavia",
+            " Dacian Fortresses of the Orăștie Mountains",
+            " Villages with Fortified Churches in Transylvania"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Saint Lucia?",
+        "answer": " Pitons Management Area",
+        "sub": "Saint Lucia",
+        "count": "1",
+        "list": [
+            " Pitons Management Area"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of San Marino?",
+        "answer": " San Marino Historic Centre and Mount Titano",
+        "sub": "San Marino",
+        "count": "1",
+        "list": [
+            " San Marino Historic Centre and Mount Titano"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Serbia?",
+        "answer": " Studenica Monastery; Gamzigrad‑Romuliana, Palace of Galerius; Medieval Monuments in Kosovo",
+        "sub": "Serbia",
+        "count": "3",
+        "list": [
+            " Studenica Monastery",
+            " Gamzigrad‑Romuliana, Palace of Galerius",
+            " Medieval Monuments in Kosovo"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Slovenia?",
+        "answer": " Škocjan Caves; Ancient and Primeval Beech Forests; Idrija Mercury Mine",
+        "sub": "Slovenia",
+        "count": "3",
+        "list": [
+            " Škocjan Caves",
+            " Ancient and Primeval Beech Forests",
+            " Idrija Mercury Mine"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Solomon Islands?",
+        "answer": " East Rennell",
+        "sub": "Solomon Islands",
+        "count": "1",
+        "list": [
+            " East Rennell"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Sri Lanka?",
+        "answer": " Ancient City of Sigiriya; Sacred City of Kandy; Old Town of Galle and its Fortifications",
+        "sub": "Sri Lanka",
+        "count": "3",
+        "list": [
+            " Ancient City of Sigiriya",
+            " Sacred City of Kandy",
+            " Old Town of Galle and its Fortifications"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of State of Palestine?",
+        "answer": " Birthplace of Jesus: Church of the Nativity and the Pilgrimage Route; Hebron/Al‑Khalil Old Town; Cultural Landscape of Southern Jerusalem, Battir",
+        "sub": "State of Palestine",
+        "count": "3",
+        "list": [
+            " Birthplace of Jesus: Church of the Nativity and the Pilgrimage Route",
+            " Hebron/Al‑Khalil Old Town",
+            " Cultural Landscape of Southern Jerusalem, Battir"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Togo?",
+        "answer": " Koutammakou, the Land of the Batammariba",
+        "sub": "Togo",
+        "count": "1",
+        "list": [
+            " Koutammakou, the Land of the Batammariba"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Tunisia?",
+        "answer": " Amphitheatre of El Jem; Archaeological Site of Carthage; Medina of Tunis",
+        "sub": "Tunisia",
+        "count": "3",
+        "list": [
+            " Amphitheatre of El Jem",
+            " Archaeological Site of Carthage",
+            " Medina of Tunis"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Türkiye?",
+        "answer": " Göreme National Park and the Rock Sites of Cappadocia; Historic Areas of Istanbul; Hattusa: the Hittite Capital",
+        "sub": "Türkiye",
+        "count": "3",
+        "list": [
+            " Göreme National Park and the Rock Sites of Cappadocia",
+            " Historic Areas of Istanbul",
+            " Hattusa: the Hittite Capital"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Turkmenistan?",
+        "answer": " Ancient Merv; Kunya‑Urgench; Parthian Fortresses of Nisa",
+        "sub": "Turkmenistan",
+        "count": "3",
+        "list": [
+            " Ancient Merv",
+            " Kunya‑Urgench",
+            " Parthian Fortresses of Nisa"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Ukraine?",
+        "answer": " Kyiv: Saint‑Sophia Cathedral and Related Monastic Buildings; L’viv – the Ensemble of the Historic Centre; Ancient City of Tauric Chersonese",
+        "sub": "Ukraine",
+        "count": "3",
+        "list": [
+            " Kyiv: Saint‑Sophia Cathedral and Related Monastic Buildings",
+            " L’viv – the Ensemble of the Historic Centre",
+            " Ancient City of Tauric Chersonese"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of United Arab Emirates?",
+        "answer": " Cultural Sites of Al Ain (Hafit, Hili, Bidaa Bint Saud and Oases Areas); Ancient Filaj Irrigation Systems (part of Al Ain)",
+        "sub": "United Arab Emirates",
+        "count": "2",
+        "list": [
+            " Cultural Sites of Al Ain (Hafit, Hili, Bidaa Bint Saud and Oases Areas)",
+            " Ancient Filaj Irrigation Systems (part of Al Ain)"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of United States of America?",
+        "answer": " Statue of Liberty; Grand Canyon National Park; Independence Hall",
+        "sub": "United States of America",
+        "count": "3",
+        "list": [
+            " Statue of Liberty",
+            " Grand Canyon National Park",
+            " Independence Hall"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Uruguay?",
+        "answer": " Historic Quarter of the City of Colonia del Sacramento; Fray Bentos Industrial Landscape",
+        "sub": "Uruguay",
+        "count": "2",
+        "list": [
+            " Historic Quarter of the City of Colonia del Sacramento",
+            " Fray Bentos Industrial Landscape"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Uzbekistan?",
+        "answer": " Itchan Kala; Historic Centre of Bukhara; Samarkand – Crossroad of Cultures",
+        "sub": "Uzbekistan",
+        "count": "3",
+        "list": [
+            " Itchan Kala",
+            " Historic Centre of Bukhara",
+            " Samarkand – Crossroad of Cultures"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Venezuela (Bolivarian Republic of)?",
+        "answer": " Coro and its Port; Canaima National Park",
+        "sub": "Venezuela (Bolivarian Republic of)",
+        "count": "2",
+        "list": [
+            " Coro and its Port",
+            " Canaima National Park"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Viet Nam?",
+        "answer": " Complex of Hué Monuments; Hạ Long Bay; Hội An Ancient Town",
+        "sub": "Viet Nam",
+        "count": "3",
+        "list": [
+            " Complex of Hué Monuments",
+            " Hạ Long Bay",
+            " Hội An Ancient Town"
+        ]
+    },
+    {
+        "query": "What is/are the world heritage site(s) of Yemen?",
+        "answer": " Old Walled City of Shibam; Old City of Sana’a; Historic Town of Zabid",
+        "sub": "Yemen",
+        "count": "3",
+        "list": [
+            " Old Walled City of Shibam",
+            " Old City of Sana’a",
+            " Historic Town of Zabid"
+        ]
+    }
+]

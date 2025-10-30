@@ -1,0 +1,954 @@
+[
+    {
+        "query": "Arnavutluk'un resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Arnavutluk",
+        "count": "1",
+        "list": [
+            " Arnavutça"
+        ]
+    },
+    {
+        "query": "Arjantin'in resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Arjantin",
+        "count": "1",
+        "list": [
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Ermenistan'ın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Ermenistan",
+        "count": "1",
+        "list": [
+            " Ermenice"
+        ]
+    },
+    {
+        "query": "Avustralya'nın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Avustralya",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Avusturya'nın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Avusturya",
+        "count": "1",
+        "list": [
+            " Almanca"
+        ]
+    },
+    {
+        "query": "Bahamalar'ın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Bahamalar",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Belize'nin resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Belize",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Bolivya'nın resmi dil sayısı:",
+        "answer": " 37",
+        "sub": "Bolivya",
+        "count": "37",
+        "list": [
+            " İspanyolca",
+            " Aymaraca",
+            " Araona",
+            " Baure",
+            " Bésiro",
+            " Canichana",
+            " Cavineño",
+            " Cayubaba",
+            " Chácobo",
+            " Chimán",
+            " Ese Ejja",
+            " Guaraní",
+            "\nGuarasu'we",
+            " Guarayu",
+            " Itonama",
+            " Leco",
+            " Machajuyai-kallawaya",
+            " Machineri",
+            "\nMaropa",
+            " Mojeñotrinitario",
+            " Mojeño-ignaciano",
+            " Moré",
+            " Mosetén",
+            " Movima",
+            "\nPacawara",
+            " Puquina",
+            " Keçuva",
+            " Sirionó",
+            " Tacana",
+            " Tapiete",
+            " Toromona",
+            " Uruchipaya",
+            "\nWeenhayek",
+            " Yaminawa",
+            " Yuki",
+            " Yuracaré",
+            " Zamuko"
+        ]
+    },
+    {
+        "query": "Bosna-Hersek'in resmi dil sayısı:",
+        "answer": " 3",
+        "sub": "Bosna-Hersek",
+        "count": "3",
+        "list": [
+            " Boşnakça",
+            " Hırvatça",
+            " Sırpça"
+        ]
+    },
+    {
+        "query": "Botsvana'nın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Botsvana",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Brezilya'nın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Brezilya",
+        "count": "1",
+        "list": [
+            " Portekizce"
+        ]
+    },
+    {
+        "query": "Brunei'nin resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Brunei",
+        "count": "1",
+        "list": [
+            " Malayca"
+        ]
+    },
+    {
+        "query": "Bulgaristan'ın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Bulgaristan",
+        "count": "1",
+        "list": [
+            " Bulgarca"
+        ]
+    },
+    {
+        "query": "Burkina Faso'nun resmi dil sayısı:",
+        "answer": " 4",
+        "sub": "Burkina Faso",
+        "count": "4",
+        "list": [
+            " Mooré",
+            " Bissa",
+            " Dyula",
+            " Fulaca"
+        ]
+    },
+    {
+        "query": "Yeşil Burun Adaları'nın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Yeşil Burun Adaları",
+        "count": "1",
+        "list": [
+            " Portekizce"
+        ]
+    },
+    {
+        "query": "Kamboçya'nın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Kamboçya",
+        "count": "1",
+        "list": [
+            " Khmerce"
+        ]
+    },
+    {
+        "query": "Kanada'nın resmi dil sayısı:",
+        "answer": " 2",
+        "sub": "Kanada",
+        "count": "2",
+        "list": [
+            " İngilizce",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Şili'nin resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Şili",
+        "count": "1",
+        "list": [
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Çin'in resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Çin",
+        "count": "1",
+        "list": [
+            " Mandarin Çincesi"
+        ]
+    },
+    {
+        "query": "Fildişi Sahili'nin resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Fildişi Sahili",
+        "count": "1",
+        "list": [
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Kosta Rika'nın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Kosta Rika",
+        "count": "1",
+        "list": [
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Hırvatistan'ın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Hırvatistan",
+        "count": "1",
+        "list": [
+            " Hırvatça"
+        ]
+    },
+    {
+        "query": "Kuzey Kore'nin resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Kuzey Kore",
+        "count": "1",
+        "list": [
+            " Korece"
+        ]
+    },
+    {
+        "query": "Demokratik Kongo Cumhuriyeti'nin resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Demokratik Kongo Cumhuriyeti",
+        "count": "1",
+        "list": [
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Danimarka'nın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Danimarka",
+        "count": "1",
+        "list": [
+            " Danca"
+        ]
+    },
+    {
+        "query": "Cibuti'nin resmi dil sayısı:",
+        "answer": " 2",
+        "sub": "Cibuti",
+        "count": "2",
+        "list": [
+            " Fransızca",
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Dominika'nın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Dominika",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Dominik Cumhuriyeti'nin resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Dominik Cumhuriyeti",
+        "count": "1",
+        "list": [
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Eritre'nin resmi dil sayısı:",
+        "answer": " 3",
+        "sub": "Eritre",
+        "count": "3",
+        "list": [
+            " Tigrinya",
+            " Arapça",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Estonya'nın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Estonya",
+        "count": "1",
+        "list": [
+            " Estonca"
+        ]
+    },
+    {
+        "query": "Esvatini'nin resmi dil sayısı:",
+        "answer": " 2",
+        "sub": "Esvatini",
+        "count": "2",
+        "list": [
+            " Sisvati",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Etiyopya'nın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Etiyopya",
+        "count": "1",
+        "list": [
+            " Amharca"
+        ]
+    },
+    {
+        "query": "Fiji'nin resmi dil sayısı:",
+        "answer": " 3",
+        "sub": "Fiji",
+        "count": "3",
+        "list": [
+            " İngilizce",
+            " Fiji Dili",
+            " Fiji Hintçesi"
+        ]
+    },
+    {
+        "query": "Gabon'un resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Gabon",
+        "count": "1",
+        "list": [
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Yunanistan'ın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Yunanistan",
+        "count": "1",
+        "list": [
+            " Yunanca"
+        ]
+    },
+    {
+        "query": "Grenada'nın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Grenada",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Gine'nin resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Gine",
+        "count": "1",
+        "list": [
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Gine-Bissau'nun resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Gine-Bissau",
+        "count": "1",
+        "list": [
+            " Portekizce"
+        ]
+    },
+    {
+        "query": "Honduras'ın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Honduras",
+        "count": "1",
+        "list": [
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Macaristan'ın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Macaristan",
+        "count": "1",
+        "list": [
+            " Macarca"
+        ]
+    },
+    {
+        "query": "Hindistan'ın resmi dil sayısı:",
+        "answer": " 2",
+        "sub": "Hindistan",
+        "count": "2",
+        "list": [
+            " Hintçe",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "İrlanda'nın resmi dil sayısı:",
+        "answer": " 2",
+        "sub": "İrlanda",
+        "count": "2",
+        "list": [
+            " İrlandaca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "İsrail'in resmi dil sayısı:",
+        "answer": " 2",
+        "sub": "İsrail",
+        "count": "2",
+        "list": [
+            " İbranice",
+            " Arapça"
+        ]
+    },
+    {
+        "query": "İtalya'nın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "İtalya",
+        "count": "1",
+        "list": [
+            " İtalyanca"
+        ]
+    },
+    {
+        "query": "Ürdün'ün resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Ürdün",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Kazakistan'ın resmi dil sayısı:",
+        "answer": " 2",
+        "sub": "Kazakistan",
+        "count": "2",
+        "list": [
+            " Kazakça",
+            " Rusça"
+        ]
+    },
+    {
+        "query": "Kenya'nın resmi dil sayısı:",
+        "answer": " 2",
+        "sub": "Kenya",
+        "count": "2",
+        "list": [
+            " Svahili",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Kiribati'nin resmi dil sayısı:",
+        "answer": " 2",
+        "sub": "Kiribati",
+        "count": "2",
+        "list": [
+            " İngilizce",
+            " Gilbertçe"
+        ]
+    },
+    {
+        "query": "Kuveyt'in resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Kuveyt",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Laos'un resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Laos",
+        "count": "1",
+        "list": [
+            " Laoca"
+        ]
+    },
+    {
+        "query": "Letonya'nın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Letonya",
+        "count": "1",
+        "list": [
+            " Letonca"
+        ]
+    },
+    {
+        "query": "Lübnan'ın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Lübnan",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Libya'nın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Libya",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Lihtenştayn'ın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Lihtenştayn",
+        "count": "1",
+        "list": [
+            " Almanca"
+        ]
+    },
+    {
+        "query": "Marshall Adaları'nın resmi dil sayısı:",
+        "answer": " 2",
+        "sub": "Marshall Adaları",
+        "count": "2",
+        "list": [
+            " Marshallca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Moritanya'nın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Moritanya",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Mauritius'un resmi dil sayısı:",
+        "answer": " 2",
+        "sub": "Mauritius",
+        "count": "2",
+        "list": [
+            " İngilizce",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Moğolistan'ın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Moğolistan",
+        "count": "1",
+        "list": [
+            " Moğolca"
+        ]
+    },
+    {
+        "query": "Fas'ın resmi dil sayısı:",
+        "answer": " 2",
+        "sub": "Fas",
+        "count": "2",
+        "list": [
+            " Arapça",
+            " Tamazight"
+        ]
+    },
+    {
+        "query": "Myanmar'ın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Myanmar",
+        "count": "1",
+        "list": [
+            " Burmaca"
+        ]
+    },
+    {
+        "query": "Namibya'nın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Namibya",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Nauru'nun resmi dil sayısı:",
+        "answer": " 2",
+        "sub": "Nauru",
+        "count": "2",
+        "list": [
+            " Nauruca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Nijer'in resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Nijer",
+        "count": "1",
+        "list": [
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Norveç'in resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Norveç",
+        "count": "1",
+        "list": [
+            " Norveççe"
+        ]
+    },
+    {
+        "query": "Umman'ın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Umman",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Pakistan'ın resmi dil sayısı:",
+        "answer": " 2",
+        "sub": "Pakistan",
+        "count": "2",
+        "list": [
+            " Urduca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Palau'nun resmi dil sayısı:",
+        "answer": " 2",
+        "sub": "Palau",
+        "count": "2",
+        "list": [
+            " Palauca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Papua Yeni Gine'nin resmi dil sayısı:",
+        "answer": " 4",
+        "sub": "Papua Yeni Gine",
+        "count": "4",
+        "list": [
+            " İngilizce",
+            " Tok Pisin",
+            " Hiri Motu",
+            " Papua Yeni Gine İşaret Dili"
+        ]
+    },
+    {
+        "query": "Paraguay'ın resmi dil sayısı:",
+        "answer": " 2",
+        "sub": "Paraguay",
+        "count": "2",
+        "list": [
+            " İspanyolca",
+            " Guaraní"
+        ]
+    },
+    {
+        "query": "Katar'ın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Katar",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Moldova'nın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Moldova",
+        "count": "1",
+        "list": [
+            " Romence"
+        ]
+    },
+    {
+        "query": "Romanya'nın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Romanya",
+        "count": "1",
+        "list": [
+            " Romence"
+        ]
+    },
+    {
+        "query": "Ruanda'nın resmi dil sayısı:",
+        "answer": " 4",
+        "sub": "Ruanda",
+        "count": "4",
+        "list": [
+            " Kinyarwanda",
+            " Fransızca",
+            " İngilizce",
+            " Svahili"
+        ]
+    },
+    {
+        "query": "Saint Kitts ve Nevis'in resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Saint Kitts ve Nevis",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Saint Vincent ve Grenadinler'in resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Saint Vincent ve Grenadinler",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "San Marino'nun resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "San Marino",
+        "count": "1",
+        "list": [
+            " İtalyanca"
+        ]
+    },
+    {
+        "query": "Senegal'ın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Senegal",
+        "count": "1",
+        "list": [
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Sırbistan'ın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Sırbistan",
+        "count": "1",
+        "list": [
+            " Sırpça"
+        ]
+    },
+    {
+        "query": "Seyşeller'in resmi dil sayısı:",
+        "answer": " 3",
+        "sub": "Seyşeller",
+        "count": "3",
+        "list": [
+            " Seyşel Creole",
+            " Fransızca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Singapur'un resmi dil sayısı:",
+        "answer": " 4",
+        "sub": "Singapur",
+        "count": "4",
+        "list": [
+            " İngilizce",
+            " Malayca",
+            " Mandarin",
+            " Tamil"
+        ]
+    },
+    {
+        "query": "Slovenya'nın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Slovenya",
+        "count": "1",
+        "list": [
+            " Slovence"
+        ]
+    },
+    {
+        "query": "Solomon Adaları'nın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Solomon Adaları",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "İspanya'nın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "İspanya",
+        "count": "1",
+        "list": [
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Sri Lanka'nın resmi dil sayısı:",
+        "answer": " 2",
+        "sub": "Sri Lanka",
+        "count": "2",
+        "list": [
+            " Sinhala",
+            " Tamilce"
+        ]
+    },
+    {
+        "query": "Sudan'ın resmi dil sayısı:",
+        "answer": " 2",
+        "sub": "Sudan",
+        "count": "2",
+        "list": [
+            " Arapça",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "İsviçre'nin resmi dil sayısı:",
+        "answer": " 4",
+        "sub": "İsviçre",
+        "count": "4",
+        "list": [
+            " Almanca",
+            " Fransızca",
+            " İtalyanca",
+            " Romanşça"
+        ]
+    },
+    {
+        "query": "Trinidad ve Tobago'nun resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Trinidad ve Tobago",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Tunus'un resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Tunus",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Türkiye'nin resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Türkiye",
+        "count": "1",
+        "list": [
+            " Türkçe"
+        ]
+    },
+    {
+        "query": "Türkmenistan'ın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Türkmenistan",
+        "count": "1",
+        "list": [
+            " Türkmence"
+        ]
+    },
+    {
+        "query": "Tuvalu'nun resmi dil sayısı:",
+        "answer": " 2",
+        "sub": "Tuvalu",
+        "count": "2",
+        "list": [
+            " Tuvaluca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Ukrayna'nın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Ukrayna",
+        "count": "1",
+        "list": [
+            " Ukraynaca"
+        ]
+    },
+    {
+        "query": "Tanzanya'nın resmi dil sayısı:",
+        "answer": " 2",
+        "sub": "Tanzanya",
+        "count": "2",
+        "list": [
+            " Svahili",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Amerika Birleşik Devletleri'nin resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Amerika Birleşik Devletleri",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Uruguay'ın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Uruguay",
+        "count": "1",
+        "list": [
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Yemen'in resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Yemen",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Zambiya'nın resmi dil sayısı:",
+        "answer": " 1",
+        "sub": "Zambiya",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    }
+]

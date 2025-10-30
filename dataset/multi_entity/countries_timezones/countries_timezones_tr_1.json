@@ -1,0 +1,1157 @@
+[
+    {
+        "query": "Arnavutluk'un içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+02:00'dir",
+        "sub": "Arnavutluk",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "Antarktika'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+02:00, UTC+03:00, UTC-03:00, UTC+05:00, UTC+07:00, UTC+08:00, UTC+10:00, UTC+12:00'dir",
+        "sub": "Antarktika",
+        "count": "8",
+        "list": [
+            " UTC+02:00",
+            " UTC+03:00",
+            " UTC-03:00",
+            " UTC+05:00",
+            " UTC+07:00",
+            " UTC+08:00",
+            " UTC+10:00",
+            " UTC+12:00"
+        ]
+    },
+    {
+        "query": "Antigua & Barbuda'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-04:00'tür",
+        "sub": "Antigua & Barbuda",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "Arjantin'in içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-03:00'tür",
+        "sub": "Arjantin",
+        "count": "1",
+        "list": [
+            " UTC-03:00"
+        ]
+    },
+    {
+        "query": "Avustralya'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+08:00, UTC+09:30, UTC+09:30, UTC+10:00, UTC+10:00, UTC+10:30, UTC+11:00'dir",
+        "sub": "Avustralya",
+        "count": "7",
+        "list": [
+            " UTC+08:00",
+            " UTC+09:30",
+            " UTC+09:30",
+            " UTC+10:00",
+            " UTC+10:00",
+            " UTC+10:30",
+            " UTC+11:00"
+        ]
+    },
+    {
+        "query": "Bahamalar'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-05:00'tir",
+        "sub": "Bahamalar",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "Bangladeş'in içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+06:00'dır",
+        "sub": "Bangladeş",
+        "count": "1",
+        "list": [
+            " UTC+06:00"
+        ]
+    },
+    {
+        "query": "Barbados'un içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-04:00'tür",
+        "sub": "Barbados",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "Beyaz Rusya'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+03:00'tür",
+        "sub": "Beyaz Rusya",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "Belize'nin içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-06:00'dır",
+        "sub": "Belize",
+        "count": "1",
+        "list": [
+            " UTC-06:00"
+        ]
+    },
+    {
+        "query": "Bermuda'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-04:00'tür",
+        "sub": "Bermuda",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "Butan'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+06:00'dır",
+        "sub": "Butan",
+        "count": "1",
+        "list": [
+            " UTC+06:00"
+        ]
+    },
+    {
+        "query": "Bolivya'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-04:00'tür",
+        "sub": "Bolivya",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "Bosna-Hersek'in içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+01:00'dir",
+        "sub": "Bosna-Hersek",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "Botsvana'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+02:00'dir",
+        "sub": "Botsvana",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "Brezilya'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-02:00, UTC-03:00, UTC:-03:00, UTC-04:00, UTC-04:00, UTC-05:00'tir",
+        "sub": "Brezilya",
+        "count": "6",
+        "list": [
+            " UTC-02:00",
+            " UTC-03:00",
+            " UTC:-03:00",
+            " UTC-04:00",
+            " UTC-04:00",
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "Brunei'nin içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+08:00'dir",
+        "sub": "Brunei",
+        "count": "1",
+        "list": [
+            " UTC+08:00"
+        ]
+    },
+    {
+        "query": "Kamboçya'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+07:00'dir",
+        "sub": "Kamboçya",
+        "count": "1",
+        "list": [
+            " UTC+07:00"
+        ]
+    },
+    {
+        "query": "Kamerun'un içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+01:00'dir",
+        "sub": "Kamerun",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "Hollanda Karayipleri'nin içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-04:00'tür",
+        "sub": "Hollanda Karayipleri",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "Cayman Adaları'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-05:00'tir",
+        "sub": "Cayman Adaları",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "Orta Afrika Cum.'un içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+01:00'dir",
+        "sub": "Orta Afrika Cum.",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "Şili'nin içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-03:00, UTC-04:00, UTC-06:00'dır",
+        "sub": "Şili",
+        "count": "3",
+        "list": [
+            " UTC-03:00",
+            " UTC-04:00",
+            " UTC-06:00"
+        ]
+    },
+    {
+        "query": "Kongo (Dem. Cum.)'un içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+01:00, UTC+02:00'dir",
+        "sub": "Kongo (Dem. Cum.)",
+        "count": "2",
+        "list": [
+            " UTC+01:00",
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "Kongo (Cum.)'un içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+01:00'dir",
+        "sub": "Kongo (Cum.)",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "Cook Adaları'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-10:00'dur",
+        "sub": "Cook Adaları",
+        "count": "1",
+        "list": [
+            " UTC-10:00"
+        ]
+    },
+    {
+        "query": "Hırvatistan'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+01:00'dir",
+        "sub": "Hırvatistan",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "Küba'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-05:00'tir",
+        "sub": "Küba",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "Curaçao'nun içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-04:00'tür",
+        "sub": "Curaçao",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "Kıbrıs'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+02:00'dir",
+        "sub": "Kıbrıs",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "Çek Cumhuriyeti'nin içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+01:00'dir",
+        "sub": "Çek Cumhuriyeti",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "Fildişi Sahili'nin içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+00:00'dır",
+        "sub": "Fildişi Sahili",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "Danimarka'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+01:00'dir",
+        "sub": "Danimarka",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "Dominik Cumhuriyeti'nin içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-04:00'tür",
+        "sub": "Dominik Cumhuriyeti",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "Doğu Timor'un içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+09:00'dur",
+        "sub": "Doğu Timor",
+        "count": "1",
+        "list": [
+            " UTC+09:00"
+        ]
+    },
+    {
+        "query": "Ekvator Ginesi'nin içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+01:00'dir",
+        "sub": "Ekvator Ginesi",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "Eritre'nin içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+03:00'tür",
+        "sub": "Eritre",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "Estonya'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+02:00'dir",
+        "sub": "Estonya",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "Esvatini (Svaziland)'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+02:00'dir",
+        "sub": "Esvatini (Svaziland)",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "Etiyopya'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+03:00'tür",
+        "sub": "Etiyopya",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "Fiji'nin içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+12:00'dir",
+        "sub": "Fiji",
+        "count": "1",
+        "list": [
+            " UTC+12:00"
+        ]
+    },
+    {
+        "query": "Finlandiya'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+02:00'dir",
+        "sub": "Finlandiya",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "Gabon'un içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+01:00'dir",
+        "sub": "Gabon",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "Almanya'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+01:00'dir",
+        "sub": "Almanya",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "Yunanistan'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+02:00'dir",
+        "sub": "Yunanistan",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "Grönland'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+00:00, UTC-01:00, UTC-04:00, UTC-03:00'tür",
+        "sub": "Grönland",
+        "count": "4",
+        "list": [
+            " UTC+00:00",
+            " UTC-01:00",
+            " UTC-04:00",
+            " UTC-03:00"
+        ]
+    },
+    {
+        "query": "Grenada'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-04:00'tür",
+        "sub": "Grenada",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "Guam'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+10:00'dur",
+        "sub": "Guam",
+        "count": "1",
+        "list": [
+            " UTC+10:00"
+        ]
+    },
+    {
+        "query": "Guatemala'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-06:00'dır",
+        "sub": "Guatemala",
+        "count": "1",
+        "list": [
+            " UTC-06:00"
+        ]
+    },
+    {
+        "query": "Guernsey'in içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+00:00'dır",
+        "sub": "Guernsey",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "Gine'nin içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+00:00'dır",
+        "sub": "Gine",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "Gine-Bissau'nun içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+00:00'dır",
+        "sub": "Gine-Bissau",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "Haiti'nin içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-04:00'tür",
+        "sub": "Haiti",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "Heard Adası & McDonald Adaları'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+04:00'tür",
+        "sub": "Heard Adası & McDonald Adaları",
+        "count": "1",
+        "list": [
+            " UTC+04:00"
+        ]
+    },
+    {
+        "query": "İzlanda'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+00:00'dır",
+        "sub": "İzlanda",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "Hindistan'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+05:30'dur",
+        "sub": "Hindistan",
+        "count": "1",
+        "list": [
+            " UTC+05:30"
+        ]
+    },
+    {
+        "query": "Man Adası'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+00:00'dır",
+        "sub": "Man Adası",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "İsrail'in içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+02:00'dir",
+        "sub": "İsrail",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "İtalya'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+01:00'dir",
+        "sub": "İtalya",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "Jamaika'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-05:00'tir",
+        "sub": "Jamaika",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "Kenya'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+03:00'tür",
+        "sub": "Kenya",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "Kuzey Kore'nin içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+09:00'dur",
+        "sub": "Kuzey Kore",
+        "count": "1",
+        "list": [
+            " UTC+09:00"
+        ]
+    },
+    {
+        "query": "Güney Kore'nin içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+09:00'dur",
+        "sub": "Güney Kore",
+        "count": "1",
+        "list": [
+            " UTC+09:00"
+        ]
+    },
+    {
+        "query": "Kuveyt'in içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+03:00'tür",
+        "sub": "Kuveyt",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "Litvanya'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+02:00'dir",
+        "sub": "Litvanya",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "Makao'nun içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+08:00'dir",
+        "sub": "Makao",
+        "count": "1",
+        "list": [
+            " UTC+08:00"
+        ]
+    },
+    {
+        "query": "Malavi'nin içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+02:00'dir",
+        "sub": "Malavi",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "Marshall Adaları'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+12:00'dir",
+        "sub": "Marshall Adaları",
+        "count": "1",
+        "list": [
+            " UTC+12:00"
+        ]
+    },
+    {
+        "query": "Martinik'in içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-04:00'tür",
+        "sub": "Martinik",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "Moritanya'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+00:00'dır",
+        "sub": "Moritanya",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "Mauritius'un içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+04:00'tür",
+        "sub": "Mauritius",
+        "count": "1",
+        "list": [
+            " UTC+04:00"
+        ]
+    },
+    {
+        "query": "Meksika'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-05:00, UTC-05:00, UTC-07:00, UTC-07:00, UTC-08:00'dir",
+        "sub": "Meksika",
+        "count": "5",
+        "list": [
+            " UTC-05:00",
+            " UTC-05:00",
+            " UTC-07:00",
+            " UTC-07:00",
+            " UTC-08:00"
+        ]
+    },
+    {
+        "query": "Mikronezya'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+10:00, UTC+11:00'dir",
+        "sub": "Mikronezya",
+        "count": "2",
+        "list": [
+            " UTC+10:00",
+            " UTC+11:00"
+        ]
+    },
+    {
+        "query": "Moldova'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+02:00'dir",
+        "sub": "Moldova",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "Montserrat'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-04:00'tür",
+        "sub": "Montserrat",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "Fas'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+01:00'dir",
+        "sub": "Fas",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "Myanmar (Burma)'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+06:30'dur",
+        "sub": "Myanmar (Burma)",
+        "count": "1",
+        "list": [
+            " UTC+06:30"
+        ]
+    },
+    {
+        "query": "Namibya'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+02:00'dir",
+        "sub": "Namibya",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "Hollanda'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+01:00'dir",
+        "sub": "Hollanda",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "Yeni Kaledonya'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+11:00'dir",
+        "sub": "Yeni Kaledonya",
+        "count": "1",
+        "list": [
+            " UTC+11:00"
+        ]
+    },
+    {
+        "query": "Nijer'in içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+01:00'dir",
+        "sub": "Nijer",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "Niue'nin içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-11:00'dir",
+        "sub": "Niue",
+        "count": "1",
+        "list": [
+            " UTC-11:00"
+        ]
+    },
+    {
+        "query": "Kuzey Makedonya'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+01:00'dir",
+        "sub": "Kuzey Makedonya",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "Kuzey Mariana Adaları'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+10:00'dur",
+        "sub": "Kuzey Mariana Adaları",
+        "count": "1",
+        "list": [
+            " UTC+10:00"
+        ]
+    },
+    {
+        "query": "Norveç'in içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+01:00'dir",
+        "sub": "Norveç",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "Pakistan'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+05:00'tir",
+        "sub": "Pakistan",
+        "count": "1",
+        "list": [
+            " UTC+05:00"
+        ]
+    },
+    {
+        "query": "Palau'nun içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+09:00'dur",
+        "sub": "Palau",
+        "count": "1",
+        "list": [
+            " UTC+09:00"
+        ]
+    },
+    {
+        "query": "Panama'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-05:00'tir",
+        "sub": "Panama",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "Paraguay'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-04:00'tür",
+        "sub": "Paraguay",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "Peru'nun içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-05:00'tir",
+        "sub": "Peru",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "Filipinler'in içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+08:00'dir",
+        "sub": "Filipinler",
+        "count": "1",
+        "list": [
+            " UTC+08:00"
+        ]
+    },
+    {
+        "query": "Katar'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+03:00'tür",
+        "sub": "Katar",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "Romanya'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+02:00'dir",
+        "sub": "Romanya",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "Samoa (ABD)'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-11:00'dir",
+        "sub": "Samoa (ABD)",
+        "count": "1",
+        "list": [
+            " UTC-11:00"
+        ]
+    },
+    {
+        "query": "Sao Tome & Principe'nin içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+00:00'dır",
+        "sub": "Sao Tome & Principe",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "Suudi Arabistan'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+03:00'tür",
+        "sub": "Suudi Arabistan",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "Senegal'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+00:00'dır",
+        "sub": "Senegal",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "Sırbistan'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+01:00'dir",
+        "sub": "Sırbistan",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "Seyşeller'in içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+04:00'tür",
+        "sub": "Seyşeller",
+        "count": "1",
+        "list": [
+            " UTC+04:00"
+        ]
+    },
+    {
+        "query": "Slovenya'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+01:00'dir",
+        "sub": "Slovenya",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "Solomon Adaları'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+11:00'dir",
+        "sub": "Solomon Adaları",
+        "count": "1",
+        "list": [
+            " UTC+11:00"
+        ]
+    },
+    {
+        "query": "Güney Sudan'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+02:00'dir",
+        "sub": "Güney Sudan",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "Saint Barthelemy'in içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-04:00'tür",
+        "sub": "Saint Barthelemy",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "Sint Maarten (Hollanda)'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-04:00'tür",
+        "sub": "Sint Maarten (Hollanda)",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "Saint Martin (Fransa)'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-04:00'tür",
+        "sub": "Saint Martin (Fransa)",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "Surinam'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-03:00'tür",
+        "sub": "Surinam",
+        "count": "1",
+        "list": [
+            " UTC-03:00"
+        ]
+    },
+    {
+        "query": "İsveç'in içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+01:00'dir",
+        "sub": "İsveç",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "İsviçre'nin içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+01:00'dir",
+        "sub": "İsviçre",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "Tacikistan'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+05:00'tir",
+        "sub": "Tacikistan",
+        "count": "1",
+        "list": [
+            " UTC+05:00"
+        ]
+    },
+    {
+        "query": "Tayland'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+07:00'dir",
+        "sub": "Tayland",
+        "count": "1",
+        "list": [
+            " UTC+07:00"
+        ]
+    },
+    {
+        "query": "Trinidad & Tobago'nun içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-04:00'tür",
+        "sub": "Trinidad & Tobago",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "Türkiye'nin içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+03:00'tür",
+        "sub": "Türkiye",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "Türkmenistan'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+05:00'tir",
+        "sub": "Türkmenistan",
+        "count": "1",
+        "list": [
+            " UTC+05:00"
+        ]
+    },
+    {
+        "query": "Turks & Caicos Adaları'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-04:00'tür",
+        "sub": "Turks & Caicos Adaları",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "Tuvalu'nun içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+12:00'dir",
+        "sub": "Tuvalu",
+        "count": "1",
+        "list": [
+            " UTC+12:00"
+        ]
+    },
+    {
+        "query": "ABD Küçük Dış Adaları'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-11:00, UTC+12:00'dir",
+        "sub": "ABD Küçük Dış Adaları",
+        "count": "2",
+        "list": [
+            " UTC-11:00",
+            " UTC+12:00"
+        ]
+    },
+    {
+        "query": "Uganda'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+03:00'tür",
+        "sub": "Uganda",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "Ukrayna'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+02:00'dir",
+        "sub": "Ukrayna",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "Uruguay'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-03:00'tür",
+        "sub": "Uruguay",
+        "count": "1",
+        "list": [
+            " UTC-03:00"
+        ]
+    },
+    {
+        "query": "Vanuatu'nun içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+11:00'dir",
+        "sub": "Vanuatu",
+        "count": "1",
+        "list": [
+            " UTC+11:00"
+        ]
+    },
+    {
+        "query": "Venezuela'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-04:00'tür",
+        "sub": "Venezuela",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "Virgin Adaları (BK)'ın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC-04:00'tür",
+        "sub": "Virgin Adaları (BK)",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "Wallis & Futuna'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+12:00'dir",
+        "sub": "Wallis & Futuna",
+        "count": "1",
+        "list": [
+            " UTC+12:00"
+        ]
+    },
+    {
+        "query": "Yemen'in içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+03:00'tür",
+        "sub": "Yemen",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "Zambiya'nın içinde bulunduğu zaman dilimi/dilimleri nedir/nelerdir?",
+        "answer": "  UTC+02:00'dir",
+        "sub": "Zambiya",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    }
+]

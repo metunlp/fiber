@@ -1,0 +1,890 @@
+[
+    {
+        "query": "MessagePad è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "MessagePad",
+        "sub_en": "MessagePad"
+    },
+    {
+        "query": "macOS è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "macOS",
+        "sub_en": "macOS"
+    },
+    {
+        "query": "Safari è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "Safari",
+        "sub_en": "Safari"
+    },
+    {
+        "query": "iWork è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "iWork",
+        "sub_en": "iWork"
+    },
+    {
+        "query": "PostScript è prodotto da",
+        "answer": " Adobe",
+        "sub": "PostScript",
+        "sub_en": "PostScript"
+    },
+    {
+        "query": "IBM AIX è prodotto da",
+        "answer": " IBM",
+        "sub": "IBM AIX",
+        "sub_en": "IBM AIX"
+    },
+    {
+        "query": "GW-BASIC è prodotto da",
+        "answer": " Microsoft",
+        "sub": "GW-BASIC",
+        "sub_en": "GW-BASIC"
+    },
+    {
+        "query": "Windows 1.0 è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Windows 1.0",
+        "sub_en": "Windows 1.0"
+    },
+    {
+        "query": "Nintendo 2DS è prodotto da",
+        "answer": " Nintendo",
+        "sub": "Nintendo 2DS",
+        "sub_en": "Nintendo 2DS"
+    },
+    {
+        "query": "Intel Threading Building Blocks è prodotto da",
+        "answer": " Intel",
+        "sub": "Intel Threading Building Blocks",
+        "sub_en": "Intel Threading Building Blocks"
+    },
+    {
+        "query": "IA-32 è prodotto da",
+        "answer": " Intel",
+        "sub": "IA-32",
+        "sub_en": "IA-32"
+    },
+    {
+        "query": "Intel 8086 è prodotto da",
+        "answer": " Intel",
+        "sub": "Intel 8086",
+        "sub_en": "Intel 8086"
+    },
+    {
+        "query": "Intel 80386 è prodotto da",
+        "answer": " Intel",
+        "sub": "Intel 80386",
+        "sub_en": "Intel 80386"
+    },
+    {
+        "query": "Intel 80486 è prodotto da",
+        "answer": " Intel",
+        "sub": "Intel 80486",
+        "sub_en": "Intel 80486"
+    },
+    {
+        "query": "Windows 10 è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Windows 10",
+        "sub_en": "Windows 10"
+    },
+    {
+        "query": "IA-64 è prodotto da",
+        "answer": " Intel",
+        "sub": "IA-64",
+        "sub_en": "IA-64"
+    },
+    {
+        "query": "Lotus 1-2-3 è prodotto da",
+        "answer": " IBM",
+        "sub": "Lotus 1-2-3",
+        "sub_en": "Lotus 1-2-3"
+    },
+    {
+        "query": "Microsoft Office è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Microsoft Office",
+        "sub_en": "Microsoft Office"
+    },
+    {
+        "query": "Xenix è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Xenix",
+        "sub_en": "Xenix"
+    },
+    {
+        "query": "Microsoft Word è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Microsoft Word",
+        "sub_en": "Microsoft Word"
+    },
+    {
+        "query": "macOS Server è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "macOS Server",
+        "sub_en": "macOS Server"
+    },
+    {
+        "query": "Final Fantasy V è prodotto da",
+        "answer": " Square",
+        "sub": "Final Fantasy V",
+        "sub_en": "Final Fantasy V"
+    },
+    {
+        "query": "Windows Embedded Automotive è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Windows Embedded Automotive",
+        "sub_en": "Windows Embedded Automotive"
+    },
+    {
+        "query": "Microsoft Visual Studio è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Microsoft Visual Studio",
+        "sub_en": "Microsoft Visual Studio"
+    },
+    {
+        "query": "Windows NT 4.0 è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Windows NT 4.0",
+        "sub_en": "Windows NT 4.0"
+    },
+    {
+        "query": "Microsoft FrontPage è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Microsoft FrontPage",
+        "sub_en": "Microsoft FrontPage"
+    },
+    {
+        "query": "Mac OS X Panther è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "Mac OS X Panther",
+        "sub_en": "Mac OS X Panther"
+    },
+    {
+        "query": "XEDIT è prodotto da",
+        "answer": " IBM",
+        "sub": "XEDIT",
+        "sub_en": "XEDIT"
+    },
+    {
+        "query": "Microsoft BASIC è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Microsoft BASIC",
+        "sub_en": "Microsoft BASIC"
+    },
+    {
+        "query": "Adobe Acrobat è prodotto da",
+        "answer": " Adobe",
+        "sub": "Adobe Acrobat",
+        "sub_en": "Adobe Acrobat"
+    },
+    {
+        "query": "MobileMe è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "MobileMe",
+        "sub_en": "MobileMe"
+    },
+    {
+        "query": "Zaxxon è prodotto da",
+        "answer": " Sega",
+        "sub": "Zaxxon",
+        "sub_en": "Zaxxon"
+    },
+    {
+        "query": "Visual Basic .NET è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Visual Basic .NET",
+        "sub_en": "Visual Basic .NET"
+    },
+    {
+        "query": "Adobe Flash Builder è prodotto da",
+        "answer": " Adobe",
+        "sub": "Adobe Flash Builder",
+        "sub_en": "Adobe Flash Builder"
+    },
+    {
+        "query": "Windows Phone è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Windows Phone",
+        "sub_en": "Windows Phone"
+    },
+    {
+        "query": "Franchise di Mario è prodotto da",
+        "answer": " Nintendo",
+        "sub": "Franchise di Mario",
+        "sub_en": "Mario franchise"
+    },
+    {
+        "query": "Pentium è prodotto da",
+        "answer": " Intel",
+        "sub": "Pentium",
+        "sub_en": "Pentium"
+    },
+    {
+        "query": "Adobe Photoshop Elements è prodotto da",
+        "answer": " Adobe",
+        "sub": "Adobe Photoshop Elements",
+        "sub_en": "Adobe Photoshop Elements"
+    },
+    {
+        "query": "Adobe Photoshop Lightroom è prodotto da",
+        "answer": " Adobe",
+        "sub": "Adobe Photoshop Lightroom",
+        "sub_en": "Adobe Photoshop Lightroom"
+    },
+    {
+        "query": "Mac OS X 10.2 è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "Mac OS X 10.2",
+        "sub_en": "Mac OS X 10.2"
+    },
+    {
+        "query": "Wii U è prodotto da",
+        "answer": " Nintendo",
+        "sub": "Wii U",
+        "sub_en": "Wii U"
+    },
+    {
+        "query": "Microsoft Visio è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Microsoft Visio",
+        "sub_en": "Microsoft Visio"
+    },
+    {
+        "query": "Windows XP è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Windows XP",
+        "sub_en": "Windows XP"
+    },
+    {
+        "query": "Windows 2000 è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Windows 2000",
+        "sub_en": "Windows 2000"
+    },
+    {
+        "query": "Intel 80186 è prodotto da",
+        "answer": " Intel",
+        "sub": "Intel 80186",
+        "sub_en": "Intel 80186"
+    },
+    {
+        "query": "Intel 80286 è prodotto da",
+        "answer": " Intel",
+        "sub": "Intel 80286",
+        "sub_en": "Intel 80286"
+    },
+    {
+        "query": "Audio Video Interleave è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Audio Video Interleave",
+        "sub_en": "Audio Video Interleave"
+    },
+    {
+        "query": "IBM System i è prodotto da",
+        "answer": " IBM",
+        "sub": "IBM System i",
+        "sub_en": "IBM System i"
+    },
+    {
+        "query": "IBM i è prodotto da",
+        "answer": " IBM",
+        "sub": "IBM i",
+        "sub_en": "IBM i"
+    },
+    {
+        "query": "Alex Kidd è prodotto da",
+        "answer": " Sega",
+        "sub": "Alex Kidd",
+        "sub_en": "Alex Kidd"
+    },
+    {
+        "query": "Windows 8 è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Windows 8",
+        "sub_en": "Windows 8"
+    },
+    {
+        "query": "The Legend of Zelda è prodotto da",
+        "answer": " Nintendo",
+        "sub": "The Legend of Zelda",
+        "sub_en": "The Legend of Zelda"
+    },
+    {
+        "query": "Gmail è prodotto da",
+        "answer": " Google",
+        "sub": "Gmail",
+        "sub_en": "Gmail"
+    },
+    {
+        "query": "Mac OS X Snow Leopard è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "Mac OS X Snow Leopard",
+        "sub_en": "Mac OS X Snow Leopard"
+    },
+    {
+        "query": "Microsoft Office 2007 è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Microsoft Office 2007",
+        "sub_en": "Microsoft Office 2007"
+    },
+    {
+        "query": "Windows Embedded Compact è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Windows Embedded Compact",
+        "sub_en": "Windows Embedded Compact"
+    },
+    {
+        "query": "NTLDR è prodotto da",
+        "answer": " Microsoft",
+        "sub": "NTLDR",
+        "sub_en": "NTLDR"
+    },
+    {
+        "query": "Windows Server 2003 è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Windows Server 2003",
+        "sub_en": "Windows Server 2003"
+    },
+    {
+        "query": "Windows Server 2008 è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Windows Server 2008",
+        "sub_en": "Windows Server 2008"
+    },
+    {
+        "query": "Google Workspace è prodotto da",
+        "answer": " Google",
+        "sub": "Google Workspace",
+        "sub_en": "Google Workspace"
+    },
+    {
+        "query": "Microsoft Picture It! è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Microsoft Picture It!",
+        "sub_en": "Microsoft Picture It!"
+    },
+    {
+        "query": "Nintendo DSi è prodotto da",
+        "answer": " Nintendo",
+        "sub": "Nintendo DSi",
+        "sub_en": "Nintendo DSi"
+    },
+    {
+        "query": "Super Gran Premio di Monaco è prodotto da",
+        "answer": " Sega",
+        "sub": "Super Gran Premio di Monaco",
+        "sub_en": "Super Monaco GP"
+    },
+    {
+        "query": "Windows Media Player è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Windows Media Player",
+        "sub_en": "Windows Media Player"
+    },
+    {
+        "query": "Chrono Trigger è prodotto da",
+        "answer": " Square",
+        "sub": "Chrono Trigger",
+        "sub_en": "Chrono Trigger"
+    },
+    {
+        "query": "Zune è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Zune",
+        "sub_en": "Zune"
+    },
+    {
+        "query": "iTunes è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "iTunes",
+        "sub_en": "iTunes"
+    },
+    {
+        "query": "Google Talk è prodotto da",
+        "answer": " Google",
+        "sub": "Google Talk",
+        "sub_en": "Google Talk"
+    },
+    {
+        "query": "Windows Embedded è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Windows Embedded",
+        "sub_en": "Windows Embedded"
+    },
+    {
+        "query": "Configurazione di rete zero. è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "Configurazione di rete zero.",
+        "sub_en": "zero configuration networking"
+    },
+    {
+        "query": "Adobe Illustrator è prodotto da",
+        "answer": " Adobe",
+        "sub": "Adobe Illustrator",
+        "sub_en": "Adobe Illustrator"
+    },
+    {
+        "query": "Donkey Kong è prodotto da",
+        "answer": " Nintendo",
+        "sub": "Donkey Kong",
+        "sub_en": "Donkey Kong"
+    },
+    {
+        "query": "Google AdSense è prodotto da",
+        "answer": " Google",
+        "sub": "Google AdSense",
+        "sub_en": "Google AdSense"
+    },
+    {
+        "query": "Thunder Blade è prodotto da",
+        "answer": " Sega",
+        "sub": "Thunder Blade",
+        "sub_en": "Thunder Blade"
+    },
+    {
+        "query": "Windows 8.1 è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Windows 8.1",
+        "sub_en": "Windows 8.1"
+    },
+    {
+        "query": "Test Drive Le Mans è prodotto da",
+        "answer": " Atari",
+        "sub": "Test Drive Le Mans",
+        "sub_en": "Test Drive Le Mans"
+    },
+    {
+        "query": "A350 è prodotto da",
+        "answer": " Airbus",
+        "sub": "A350",
+        "sub_en": "A350"
+    },
+    {
+        "query": "SonicStage è prodotto da",
+        "answer": " Sony",
+        "sub": "SonicStage",
+        "sub_en": "SonicStage"
+    },
+    {
+        "query": "Negativo digitale è prodotto da",
+        "answer": " Adobe",
+        "sub": "Negativo digitale",
+        "sub_en": "Digital Negative"
+    },
+    {
+        "query": "Golden Axe è prodotto da",
+        "answer": " Sega",
+        "sub": "Golden Axe",
+        "sub_en": "Golden Axe"
+    },
+    {
+        "query": "Time Sharing Option è prodotto da",
+        "answer": " IBM",
+        "sub": "Time Sharing Option",
+        "sub_en": "Time Sharing Option"
+    },
+    {
+        "query": "Google Desktop è prodotto da",
+        "answer": " Google",
+        "sub": "Google Desktop",
+        "sub_en": "Google Desktop"
+    },
+    {
+        "query": "ASCI Rosso è prodotto da",
+        "answer": " Intel",
+        "sub": "ASCI Rosso",
+        "sub_en": "ASCI Red"
+    },
+    {
+        "query": "Picasa è prodotto da",
+        "answer": " Google",
+        "sub": "Picasa",
+        "sub_en": "Picasa"
+    },
+    {
+        "query": "IBM Db2 è prodotto da",
+        "answer": " IBM",
+        "sub": "IBM Db2",
+        "sub_en": "IBM Db2"
+    },
+    {
+        "query": "Microsoft Silverlight è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Microsoft Silverlight",
+        "sub_en": "Microsoft Silverlight"
+    },
+    {
+        "query": "iPod Touch è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "iPod Touch",
+        "sub_en": "iPod Touch"
+    },
+    {
+        "query": "Scambio di supporti accessibili sincronizzato è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Scambio di supporti accessibili sincronizzato",
+        "sub_en": "Synchronized Accessible Media Interchange"
+    },
+    {
+        "query": "Microsoft Compiled HTML Help è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Microsoft Compiled HTML Help",
+        "sub_en": "Microsoft Compiled HTML Help"
+    },
+    {
+        "query": "OpenAFS è prodotto da",
+        "answer": " IBM",
+        "sub": "OpenAFS",
+        "sub_en": "OpenAFS"
+    },
+    {
+        "query": "iPod Mini è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "iPod Mini",
+        "sub_en": "iPod Mini"
+    },
+    {
+        "query": "Vector Markup Language è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Vector Markup Language",
+        "sub_en": "Vector Markup Language"
+    },
+    {
+        "query": "Libreria YUI è prodotto da",
+        "answer": " Yahoo",
+        "sub": "Libreria YUI",
+        "sub_en": "YUI Library"
+    },
+    {
+        "query": "QuickDraw è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "QuickDraw",
+        "sub_en": "QuickDraw"
+    },
+    {
+        "query": "OpenDoc è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "OpenDoc",
+        "sub_en": "OpenDoc"
+    },
+    {
+        "query": "Framework di Contenuto Meta è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "Framework di Contenuto Meta",
+        "sub_en": "Meta Content Framework"
+    },
+    {
+        "query": "iPod Shuffle è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "iPod Shuffle",
+        "sub_en": "iPod Shuffle"
+    },
+    {
+        "query": "Windows Communication Foundation è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Windows Communication Foundation",
+        "sub_en": "Windows Communication Foundation"
+    },
+    {
+        "query": "Adobe Soundbooth è prodotto da",
+        "answer": " Adobe",
+        "sub": "Adobe Soundbooth",
+        "sub_en": "Adobe Soundbooth"
+    },
+    {
+        "query": "Adobe Audition è prodotto da",
+        "answer": " Adobe",
+        "sub": "Adobe Audition",
+        "sub_en": "Adobe Audition"
+    },
+    {
+        "query": "Campione dei pesi massimi è prodotto da",
+        "answer": " Sega",
+        "sub": "Campione dei pesi massimi",
+        "sub_en": "Heavyweight Champ"
+    },
+    {
+        "query": "Resource Access Control Facility è prodotto da",
+        "answer": " IBM",
+        "sub": "Resource Access Control Facility",
+        "sub_en": "Resource Access Control Facility"
+    },
+    {
+        "query": "IBM Network Control Program è prodotto da",
+        "answer": " IBM",
+        "sub": "IBM Network Control Program",
+        "sub_en": "IBM Network Control Program"
+    },
+    {
+        "query": "Tamarin è prodotto da",
+        "answer": " Adobe",
+        "sub": "Tamarin",
+        "sub_en": "Tamarin"
+    },
+    {
+        "query": "Adobe Flash Player è prodotto da",
+        "answer": " Adobe",
+        "sub": "Adobe Flash Player",
+        "sub_en": "Adobe Flash Player"
+    },
+    {
+        "query": "Microsoft Plus! è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Microsoft Plus!",
+        "sub_en": "Microsoft Plus!"
+    },
+    {
+        "query": "iDisk è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "iDisk",
+        "sub_en": "iDisk"
+    },
+    {
+        "query": "OS X Yosemite è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "OS X Yosemite",
+        "sub_en": "OS X Yosemite"
+    },
+    {
+        "query": "iOS 8 è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "iOS 8",
+        "sub_en": "iOS 8"
+    },
+    {
+        "query": "Mac OS X Tiger è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "Mac OS X Tiger",
+        "sub_en": "Mac OS X Tiger"
+    },
+    {
+        "query": "Advanced Systems Format è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Advanced Systems Format",
+        "sub_en": "Advanced Systems Format"
+    },
+    {
+        "query": "Siri è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "Siri",
+        "sub_en": "Siri"
+    },
+    {
+        "query": "Super Audio CD è prodotto da",
+        "answer": " Sony",
+        "sub": "Super Audio CD",
+        "sub_en": "Super Audio CD"
+    },
+    {
+        "query": "B-47 Stratojet è prodotto da",
+        "answer": " Boeing",
+        "sub": "B-47 Stratojet",
+        "sub_en": "B-47 Stratojet"
+    },
+    {
+        "query": "TypeScript è prodotto da",
+        "answer": " Microsoft",
+        "sub": "TypeScript",
+        "sub_en": "TypeScript"
+    },
+    {
+        "query": "Adobe After Effects è prodotto da",
+        "answer": " Adobe",
+        "sub": "Adobe After Effects",
+        "sub_en": "Adobe After Effects"
+    },
+    {
+        "query": "Adobe Premiere Pro è prodotto da",
+        "answer": " Adobe",
+        "sub": "Adobe Premiere Pro",
+        "sub_en": "Adobe Premiere Pro"
+    },
+    {
+        "query": "Google Patents è prodotto da",
+        "answer": " Google",
+        "sub": "Google Patents",
+        "sub_en": "Google Patents"
+    },
+    {
+        "query": "Sega Smash Pack è prodotto da",
+        "answer": " Sega",
+        "sub": "Sega Smash Pack",
+        "sub_en": "Sega Smash Pack"
+    },
+    {
+        "query": "IBM RPG II è prodotto da",
+        "answer": " IBM",
+        "sub": "IBM RPG II",
+        "sub_en": "IBM RPG II"
+    },
+    {
+        "query": "iTunes Radio è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "iTunes Radio",
+        "sub_en": "iTunes Radio"
+    },
+    {
+        "query": "Journaled File System è prodotto da",
+        "answer": " IBM",
+        "sub": "Journaled File System",
+        "sub_en": "Journaled File System"
+    },
+    {
+        "query": "IBM General Parallel File System è prodotto da",
+        "answer": " IBM",
+        "sub": "IBM General Parallel File System",
+        "sub_en": "IBM General Parallel File System"
+    },
+    {
+        "query": "WebObjects è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "WebObjects",
+        "sub_en": "WebObjects"
+    },
+    {
+        "query": "Assembler Macro Microsoft è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Assembler Macro Microsoft",
+        "sub_en": "Microsoft Macro Assembler"
+    },
+    {
+        "query": "Installazione di Windows è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Installazione di Windows",
+        "sub_en": "Windows Installer"
+    },
+    {
+        "query": "sRGB è prodotto da",
+        "answer": " Microsoft",
+        "sub": "sRGB",
+        "sub_en": "sRGB"
+    },
+    {
+        "query": "Final Fantasy è prodotto da",
+        "answer": " Square",
+        "sub": "Final Fantasy",
+        "sub_en": "Final Fantasy"
+    },
+    {
+        "query": "Google Drive è prodotto da",
+        "answer": " Google",
+        "sub": "Google Drive",
+        "sub_en": "Google Drive"
+    },
+    {
+        "query": "Google Calendar è prodotto da",
+        "answer": " Google",
+        "sub": "Google Calendar",
+        "sub_en": "Google Calendar"
+    },
+    {
+        "query": "Skype è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Skype",
+        "sub_en": "Skype"
+    },
+    {
+        "query": "Campioni Eterni è prodotto da",
+        "answer": " Sega",
+        "sub": "Campioni Eterni",
+        "sub_en": "Eternal Champions"
+    },
+    {
+        "query": "IntelliPoint è prodotto da",
+        "answer": " Microsoft",
+        "sub": "IntelliPoint",
+        "sub_en": "IntelliPoint"
+    },
+    {
+        "query": "The Ocean Hunter è prodotto da",
+        "answer": " Sega",
+        "sub": "The Ocean Hunter",
+        "sub_en": "The Ocean Hunter"
+    },
+    {
+        "query": "Final Cut Studio è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "Final Cut Studio",
+        "sub_en": "Final Cut Studio"
+    },
+    {
+        "query": "Adobe Media Player è prodotto da",
+        "answer": " Adobe",
+        "sub": "Adobe Media Player",
+        "sub_en": "Adobe Media Player"
+    },
+    {
+        "query": "HFS Plus è prodotto da",
+        "answer": " Apple Inc.",
+        "sub": "HFS Plus",
+        "sub_en": "HFS Plus"
+    },
+    {
+        "query": "Adobe Fireworks è prodotto da",
+        "answer": " Adobe",
+        "sub": "Adobe Fireworks",
+        "sub_en": "Adobe Fireworks"
+    },
+    {
+        "query": "IBM Sistema Aziendale 12 è prodotto da",
+        "answer": " IBM",
+        "sub": "IBM Sistema Aziendale 12",
+        "sub_en": "IBM Business System 12"
+    },
+    {
+        "query": "Airbus A300-600ST Beluga è prodotto da",
+        "answer": " Airbus",
+        "sub": "Airbus A300-600ST Beluga",
+        "sub_en": "Airbus A300-600ST Beluga"
+    },
+    {
+        "query": "Internet Explorer 11 è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Internet Explorer 11",
+        "sub_en": "Internet Explorer 11"
+    },
+    {
+        "query": "Adobe Muse è prodotto da",
+        "answer": " Adobe",
+        "sub": "Adobe Muse",
+        "sub_en": "Adobe Muse"
+    },
+    {
+        "query": "Comunicazioni sincrone binarie è prodotto da",
+        "answer": " IBM",
+        "sub": "Comunicazioni sincrone binarie",
+        "sub_en": "Binary Synchronous Communications"
+    },
+    {
+        "query": "NetFront è prodotto da",
+        "answer": " Access",
+        "sub": "NetFront",
+        "sub_en": "NetFront"
+    },
+    {
+        "query": "Cintura degli Asteroidi è prodotto da",
+        "answer": " Sega",
+        "sub": "Cintura degli Asteroidi",
+        "sub_en": "Astron Belt"
+    },
+    {
+        "query": "IBM Lotus SmartSuite è prodotto da",
+        "answer": " IBM",
+        "sub": "IBM Lotus SmartSuite",
+        "sub_en": "IBM Lotus SmartSuite"
+    },
+    {
+        "query": "Microsoft Schedule Plus è prodotto da",
+        "answer": " Microsoft",
+        "sub": "Microsoft Schedule Plus",
+        "sub_en": "Microsoft Schedule Plus"
+    },
+    {
+        "query": "Immagine di Adobe Illustrator è prodotto da",
+        "answer": " Adobe",
+        "sub": "Immagine di Adobe Illustrator",
+        "sub_en": "Adobe Illustrator Artwork"
+    }
+]

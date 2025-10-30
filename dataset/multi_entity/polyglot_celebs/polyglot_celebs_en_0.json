@@ -1,0 +1,829 @@
+[
+    {
+        "query": "The language(s) that Pope John Paul II can speak is/are",
+        "answer": " Polish, Italian, Latin, French, English, German, Spanish, Portuguese",
+        "sub": "Pope John Paul II",
+        "count": "8",
+        "list": [
+            " Polish",
+            " Italian",
+            " Latin",
+            " French",
+            " English",
+            " German",
+            " Spanish",
+            " Portuguese"
+        ]
+    },
+    {
+        "query": "The language(s) that António Guterres can speak is/are",
+        "answer": " Portuguese, English, French, Spanish",
+        "sub": "António Guterres",
+        "count": "4",
+        "list": [
+            " Portuguese",
+            " English",
+            " French",
+            " Spanish"
+        ]
+    },
+    {
+        "query": "The language(s) that Boutros Boutros-Ghali can speak is/are",
+        "answer": " Arabic, French, English",
+        "sub": "Boutros Boutros-Ghali",
+        "count": "3",
+        "list": [
+            " Arabic",
+            " French",
+            " English"
+        ]
+    },
+    {
+        "query": "The language(s) that Ban Ki-moon can speak is/are",
+        "answer": " Korean, English, French",
+        "sub": "Ban Ki-moon",
+        "count": "3",
+        "list": [
+            " Korean",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The language(s) that Dag Hammarskjöld can speak is/are",
+        "answer": " Swedish, English, French, German",
+        "sub": "Dag Hammarskjöld",
+        "count": "4",
+        "list": [
+            " Swedish",
+            " English",
+            " French",
+            " German"
+        ]
+    },
+    {
+        "query": "The language(s) that U Thant can speak is/are",
+        "answer": " Burmese, English, Hindi",
+        "sub": "U Thant",
+        "count": "3",
+        "list": [
+            " Burmese",
+            " English",
+            " Hindi"
+        ]
+    },
+    {
+        "query": "The language(s) that Trygve Lie can speak is/are",
+        "answer": " Norwegian, English, French",
+        "sub": "Trygve Lie",
+        "count": "3",
+        "list": [
+            " Norwegian",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The language(s) that Joseph Conrad can speak is/are",
+        "answer": " Polish, English, French",
+        "sub": "Joseph Conrad",
+        "count": "3",
+        "list": [
+            " Polish",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The language(s) that Vladimir Nabokov can speak is/are",
+        "answer": " Russian, English, French",
+        "sub": "Vladimir Nabokov",
+        "count": "3",
+        "list": [
+            " Russian",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The language(s) that Jorge Luis Borges can speak is/are",
+        "answer": " Spanish, English, French, German",
+        "sub": "Jorge Luis Borges",
+        "count": "4",
+        "list": [
+            " Spanish",
+            " English",
+            " French",
+            " German"
+        ]
+    },
+    {
+        "query": "The language(s) that Chinua Achebe can speak is/are",
+        "answer": " Igbo, English, Yoruba",
+        "sub": "Chinua Achebe",
+        "count": "3",
+        "list": [
+            " Igbo",
+            " English",
+            " Yoruba"
+        ]
+    },
+    {
+        "query": "The language(s) that Ismail Kadare can speak is/are",
+        "answer": " Albanian, French, Italian",
+        "sub": "Ismail Kadare",
+        "count": "3",
+        "list": [
+            " Albanian",
+            " French",
+            " Italian"
+        ]
+    },
+    {
+        "query": "The language(s) that Isaac Bashevis Singer can speak is/are",
+        "answer": " Yiddish, Polish, English",
+        "sub": "Isaac Bashevis Singer",
+        "count": "3",
+        "list": [
+            " Yiddish",
+            " Polish",
+            " English"
+        ]
+    },
+    {
+        "query": "The language(s) that Hannah Arendt can speak is/are",
+        "answer": " German, English, French",
+        "sub": "Hannah Arendt",
+        "count": "3",
+        "list": [
+            " German",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The language(s) that Susan Sontag can speak is/are",
+        "answer": " English, French, German",
+        "sub": "Susan Sontag",
+        "count": "3",
+        "list": [
+            " English",
+            " French",
+            " German"
+        ]
+    },
+    {
+        "query": "The language(s) that Goethe can speak is/are",
+        "answer": " German, French, Italian, English, Latin, Greek",
+        "sub": "Goethe",
+        "count": "6",
+        "list": [
+            " German",
+            " French",
+            " Italian",
+            " English",
+            " Latin",
+            " Greek"
+        ]
+    },
+    {
+        "query": "The language(s) that René Descartes can speak is/are",
+        "answer": " French, Latin, Dutch",
+        "sub": "René Descartes",
+        "count": "3",
+        "list": [
+            " French",
+            " Latin",
+            " Dutch"
+        ]
+    },
+    {
+        "query": "The language(s) that Baruch Spinoza can speak is/are",
+        "answer": " Portuguese, Dutch, Spanish, Hebrew, Latin",
+        "sub": "Baruch Spinoza",
+        "count": "5",
+        "list": [
+            " Portuguese",
+            " Dutch",
+            " Spanish",
+            " Hebrew",
+            " Latin"
+        ]
+    },
+    {
+        "query": "The language(s) that Gottfried Wilhelm Leibniz can speak is/are",
+        "answer": " German, Latin, French",
+        "sub": "Gottfried Wilhelm Leibniz",
+        "count": "3",
+        "list": [
+            " German",
+            " Latin",
+            " French"
+        ]
+    },
+    {
+        "query": "The language(s) that Voltaire can speak is/are",
+        "answer": " French, English, Italian",
+        "sub": "Voltaire",
+        "count": "3",
+        "list": [
+            " French",
+            " English",
+            " Italian"
+        ]
+    },
+    {
+        "query": "The language(s) that Amin Maalouf can speak is/are",
+        "answer": " Arabic, French, English",
+        "sub": "Amin Maalouf",
+        "count": "3",
+        "list": [
+            " Arabic",
+            " French",
+            " English"
+        ]
+    },
+    {
+        "query": "The language(s) that Nikola Tesla can speak is/are",
+        "answer": " Serbian, English, German, French, Italian, Czech, Hungarian, Latin",
+        "sub": "Nikola Tesla",
+        "count": "8",
+        "list": [
+            " Serbian",
+            " English",
+            " German",
+            " French",
+            " Italian",
+            " Czech",
+            " Hungarian",
+            " Latin"
+        ]
+    },
+    {
+        "query": "The language(s) that Leonardo da Vinci can speak is/are",
+        "answer": " Italian, Latin, French",
+        "sub": "Leonardo da Vinci",
+        "count": "3",
+        "list": [
+            " Italian",
+            " Latin",
+            " French"
+        ]
+    },
+    {
+        "query": "The language(s) that Mustafa Kemal Atatürk can speak is/are",
+        "answer": " Turkish, French, German",
+        "sub": "Mustafa Kemal Atatürk",
+        "count": "3",
+        "list": [
+            " Turkish",
+            " French",
+            " German"
+        ]
+    },
+    {
+        "query": "The language(s) that Charles de Gaulle can speak is/are",
+        "answer": " French, English, German",
+        "sub": "Charles de Gaulle",
+        "count": "3",
+        "list": [
+            " French",
+            " English",
+            " German"
+        ]
+    },
+    {
+        "query": "The language(s) that Winston Churchill can speak is/are",
+        "answer": " English, French, Latin",
+        "sub": "Winston Churchill",
+        "count": "3",
+        "list": [
+            " English",
+            " French",
+            " Latin"
+        ]
+    },
+    {
+        "query": "The language(s) that Jawaharlal Nehru can speak is/are",
+        "answer": " Hindi, English, Urdu",
+        "sub": "Jawaharlal Nehru",
+        "count": "3",
+        "list": [
+            " Hindi",
+            " English",
+            " Urdu"
+        ]
+    },
+    {
+        "query": "The language(s) that Shimon Peres can speak is/are",
+        "answer": " Hebrew, English, Polish, Russian",
+        "sub": "Shimon Peres",
+        "count": "4",
+        "list": [
+            " Hebrew",
+            " English",
+            " Polish",
+            " Russian"
+        ]
+    },
+    {
+        "query": "The language(s) that Olaf Scholz can speak is/are",
+        "answer": " German, English, French",
+        "sub": "Olaf Scholz",
+        "count": "3",
+        "list": [
+            " German",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The language(s) that Ursula von der Leyen can speak is/are",
+        "answer": " German, English, French",
+        "sub": "Ursula von der Leyen",
+        "count": "3",
+        "list": [
+            " German",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The language(s) that Queen Silvia of Sweden can speak is/are",
+        "answer": " German, Portuguese, Spanish, English, Swedish, French",
+        "sub": "Queen Silvia of Sweden",
+        "count": "6",
+        "list": [
+            " German",
+            " Portuguese",
+            " Spanish",
+            " English",
+            " Swedish",
+            " French"
+        ]
+    },
+    {
+        "query": "The language(s) that Queen Rania of Jordan can speak is/are",
+        "answer": " Arabic, English, French",
+        "sub": "Queen Rania of Jordan",
+        "count": "3",
+        "list": [
+            " Arabic",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The language(s) that King Felipe VI of Spain can speak is/are",
+        "answer": " Spanish, Catalan, English, French",
+        "sub": "King Felipe VI of Spain",
+        "count": "4",
+        "list": [
+            " Spanish",
+            " Catalan",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The language(s) that Queen Letizia of Spain can speak is/are",
+        "answer": " Spanish, English, French",
+        "sub": "Queen Letizia of Spain",
+        "count": "3",
+        "list": [
+            " Spanish",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The language(s) that Guy Verhofstadt can speak is/are",
+        "answer": " Dutch, French, English",
+        "sub": "Guy Verhofstadt",
+        "count": "3",
+        "list": [
+            " Dutch",
+            " French",
+            " English"
+        ]
+    },
+    {
+        "query": "The language(s) that Zeinab Badawi can speak is/are",
+        "answer": " Arabic, English, French",
+        "sub": "Zeinab Badawi",
+        "count": "3",
+        "list": [
+            " Arabic",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The language(s) that Audrey Hepburn can speak is/are",
+        "answer": " English, Dutch, French, Italian, Spanish",
+        "sub": "Audrey Hepburn",
+        "count": "5",
+        "list": [
+            " English",
+            " Dutch",
+            " French",
+            " Italian",
+            " Spanish"
+        ]
+    },
+    {
+        "query": "The language(s) that Trevor Noah can speak is/are",
+        "answer": " English, Zulu, Xhosa, Tswana, Tsonga, Afrikaans",
+        "sub": "Trevor Noah",
+        "count": "6",
+        "list": [
+            " English",
+            " Zulu",
+            " Xhosa",
+            " Tswana",
+            " Tsonga",
+            " Afrikaans"
+        ]
+    },
+    {
+        "query": "The language(s) that Jackie Chan can speak is/are",
+        "answer": " Cantonese, Mandarin, English",
+        "sub": "Jackie Chan",
+        "count": "3",
+        "list": [
+            " Cantonese",
+            " Mandarin",
+            " English"
+        ]
+    },
+    {
+        "query": "The language(s) that Viggo Mortensen can speak is/are",
+        "answer": " English, Danish, Spanish",
+        "sub": "Viggo Mortensen",
+        "count": "3",
+        "list": [
+            " English",
+            " Danish",
+            " Spanish"
+        ]
+    },
+    {
+        "query": "The language(s) that Shakira can speak is/are",
+        "answer": " Spanish, English, Portuguese, Italian, Arabic",
+        "sub": "Shakira",
+        "count": "5",
+        "list": [
+            " Spanish",
+            " English",
+            " Portuguese",
+            " Italian",
+            " Arabic"
+        ]
+    },
+    {
+        "query": "The language(s) that Gael García Bernal can speak is/are",
+        "answer": " Spanish, English, Portuguese, French",
+        "sub": "Gael García Bernal",
+        "count": "4",
+        "list": [
+            " Spanish",
+            " English",
+            " Portuguese",
+            " French"
+        ]
+    },
+    {
+        "query": "The language(s) that Natalie Portman can speak is/are",
+        "answer": " English, Hebrew, French",
+        "sub": "Natalie Portman",
+        "count": "3",
+        "list": [
+            " English",
+            " Hebrew",
+            " French"
+        ]
+    },
+    {
+        "query": "The language(s) that Salma Hayek can speak is/are",
+        "answer": " Spanish, English, Portuguese",
+        "sub": "Salma Hayek",
+        "count": "3",
+        "list": [
+            " Spanish",
+            " English",
+            " Portuguese"
+        ]
+    },
+    {
+        "query": "The language(s) that Monica Bellucci can speak is/are",
+        "answer": " Italian, French, English",
+        "sub": "Monica Bellucci",
+        "count": "3",
+        "list": [
+            " Italian",
+            " French",
+            " English"
+        ]
+    },
+    {
+        "query": "The language(s) that Gong Li can speak is/are",
+        "answer": " Mandarin, English, Cantonese",
+        "sub": "Gong Li",
+        "count": "3",
+        "list": [
+            " Mandarin",
+            " English",
+            " Cantonese"
+        ]
+    },
+    {
+        "query": "The language(s) that Bradley Cooper can speak is/are",
+        "answer": " English, French, Italian",
+        "sub": "Bradley Cooper",
+        "count": "3",
+        "list": [
+            " English",
+            " French",
+            " Italian"
+        ]
+    },
+    {
+        "query": "The language(s) that Daniel Brühl can speak is/are",
+        "answer": " German, Spanish, English, French, Catalan",
+        "sub": "Daniel Brühl",
+        "count": "5",
+        "list": [
+            " German",
+            " Spanish",
+            " English",
+            " French",
+            " Catalan"
+        ]
+    },
+    {
+        "query": "The language(s) that Mads Mikkelsen can speak is/are",
+        "answer": " Danish, English, Swedish, German",
+        "sub": "Mads Mikkelsen",
+        "count": "4",
+        "list": [
+            " Danish",
+            " English",
+            " Swedish",
+            " German"
+        ]
+    },
+    {
+        "query": "The language(s) that Aishwarya Rai Bachchan can speak is/are",
+        "answer": " Hindi, English, Tamil",
+        "sub": "Aishwarya Rai Bachchan",
+        "count": "3",
+        "list": [
+            " Hindi",
+            " English",
+            " Tamil"
+        ]
+    },
+    {
+        "query": "The language(s) that Irrfan Khan can speak is/are",
+        "answer": " Hindi, English, Urdu",
+        "sub": "Irrfan Khan",
+        "count": "3",
+        "list": [
+            " Hindi",
+            " English",
+            " Urdu"
+        ]
+    },
+    {
+        "query": "The language(s) that Priyanka Chopra Jonas can speak is/are",
+        "answer": " Hindi, English, Punjabi",
+        "sub": "Priyanka Chopra Jonas",
+        "count": "3",
+        "list": [
+            " Hindi",
+            " English",
+            " Punjabi"
+        ]
+    },
+    {
+        "query": "The language(s) that Andrea Bocelli can speak is/are",
+        "answer": " Italian, English, Spanish, French",
+        "sub": "Andrea Bocelli",
+        "count": "4",
+        "list": [
+            " Italian",
+            " English",
+            " Spanish",
+            " French"
+        ]
+    },
+    {
+        "query": "The language(s) that Lara Fabian can speak is/are",
+        "answer": " French, Italian, English, Spanish",
+        "sub": "Lara Fabian",
+        "count": "4",
+        "list": [
+            " French",
+            " Italian",
+            " English",
+            " Spanish"
+        ]
+    },
+    {
+        "query": "The language(s) that Sönke Wortmann can speak is/are",
+        "answer": " German, English, French",
+        "sub": "Sönke Wortmann",
+        "count": "3",
+        "list": [
+            " German",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The language(s) that Pep Guardiola can speak is/are",
+        "answer": " Catalan, Spanish, English, German",
+        "sub": "Pep Guardiola",
+        "count": "4",
+        "list": [
+            " Catalan",
+            " Spanish",
+            " English",
+            " German"
+        ]
+    },
+    {
+        "query": "The language(s) that Zlatan Ibrahimović can speak is/are",
+        "answer": " Swedish, Bosnian/Serbian, English, Italian, Spanish",
+        "sub": "Zlatan Ibrahimović",
+        "count": "5",
+        "list": [
+            " Swedish",
+            " Bosnian/Serbian",
+            " English",
+            " Italian",
+            " Spanish"
+        ]
+    },
+    {
+        "query": "The language(s) that Mesut Özil can speak is/are",
+        "answer": " German, Turkish, English, Spanish",
+        "sub": "Mesut Özil",
+        "count": "4",
+        "list": [
+            " German",
+            " Turkish",
+            " English",
+            " Spanish"
+        ]
+    },
+    {
+        "query": "The language(s) that Luka Modrić can speak is/are",
+        "answer": " Croatian, English, Spanish",
+        "sub": "Luka Modrić",
+        "count": "3",
+        "list": [
+            " Croatian",
+            " English",
+            " Spanish"
+        ]
+    },
+    {
+        "query": "The language(s) that Thierry Henry can speak is/are",
+        "answer": " French, English, Spanish",
+        "sub": "Thierry Henry",
+        "count": "3",
+        "list": [
+            " French",
+            " English",
+            " Spanish"
+        ]
+    },
+    {
+        "query": "The language(s) that Yao Ming can speak is/are",
+        "answer": " Mandarin, English, Shanghainese",
+        "sub": "Yao Ming",
+        "count": "3",
+        "list": [
+            " Mandarin",
+            " English",
+            " Shanghainese"
+        ]
+    },
+    {
+        "query": "The language(s) that Pau Gasol can speak is/are",
+        "answer": " Spanish, Catalan, English",
+        "sub": "Pau Gasol",
+        "count": "3",
+        "list": [
+            " Spanish",
+            " Catalan",
+            " English"
+        ]
+    },
+    {
+        "query": "The language(s) that Sundar Pichai can speak is/are",
+        "answer": " Tamil, Hindi, English",
+        "sub": "Sundar Pichai",
+        "count": "3",
+        "list": [
+            " Tamil",
+            " Hindi",
+            " English"
+        ]
+    },
+    {
+        "query": "The language(s) that Satya Nadella can speak is/are",
+        "answer": " Telugu, Hindi, English",
+        "sub": "Satya Nadella",
+        "count": "3",
+        "list": [
+            " Telugu",
+            " Hindi",
+            " English"
+        ]
+    },
+    {
+        "query": "The language(s) that Malala Yousafzai can speak is/are",
+        "answer": " Pashto, Urdu, English",
+        "sub": "Malala Yousafzai",
+        "count": "3",
+        "list": [
+            " Pashto",
+            " Urdu",
+            " English"
+        ]
+    },
+    {
+        "query": "The language(s) that Al-Farabi can speak is/are",
+        "answer": " Arabic, Persian, Turkic",
+        "sub": "Al-Farabi",
+        "count": "3",
+        "list": [
+            " Arabic",
+            " Persian",
+            " Turkic"
+        ]
+    },
+    {
+        "query": "The language(s) that Erasmus can speak is/are",
+        "answer": " Latin, Dutch, French, English, Greek",
+        "sub": "Erasmus",
+        "count": "5",
+        "list": [
+            " Latin",
+            " Dutch",
+            " French",
+            " English",
+            " Greek"
+        ]
+    },
+    {
+        "query": "The language(s) that Thomas More can speak is/are",
+        "answer": " English, Latin, French",
+        "sub": "Thomas More",
+        "count": "3",
+        "list": [
+            " English",
+            " Latin",
+            " French"
+        ]
+    },
+    {
+        "query": "The language(s) that Ignatius of Loyola can speak is/are",
+        "answer": " Basque, Spanish, Latin, Italian",
+        "sub": "Ignatius of Loyola",
+        "count": "4",
+        "list": [
+            " Basque",
+            " Spanish",
+            " Latin",
+            " Italian"
+        ]
+    },
+    {
+        "query": "The language(s) that Francis Xavier can speak is/are",
+        "answer": " Basque, Spanish, Portuguese, Latin, Japanese",
+        "sub": "Francis Xavier",
+        "count": "5",
+        "list": [
+            " Basque",
+            " Spanish",
+            " Portuguese",
+            " Latin",
+            " Japanese"
+        ]
+    },
+    {
+        "query": "The language(s) that Matteo Ricci can speak is/are",
+        "answer": " Italian, Latin, Portuguese, Chinese",
+        "sub": "Matteo Ricci",
+        "count": "4",
+        "list": [
+            " Italian",
+            " Latin",
+            " Portuguese",
+            " Chinese"
+        ]
+    }
+]

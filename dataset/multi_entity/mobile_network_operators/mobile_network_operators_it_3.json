@@ -1,0 +1,294 @@
+[
+    {
+        "query": "Quanti operatori di rete mobile ci sono in Albania?",
+        "answer": " 3",
+        "sub": "Albania",
+        "count": 3,
+        "list": [
+            " Vodafone Albania",
+            " One Telecommunications",
+            " ALBtelecom"
+        ],
+        "en_sub": "Albania"
+    },
+    {
+        "query": "Quanti operatori di rete mobile ci sono in Andorra?",
+        "answer": " 1",
+        "sub": "Andorra",
+        "count": 1,
+        "list": [
+            " Andorra Telecom"
+        ],
+        "en_sub": "Andorra"
+    },
+    {
+        "query": "Quanti operatori di rete mobile ci sono in Armenia?",
+        "answer": " 3",
+        "sub": "Armenia",
+        "count": 3,
+        "list": [
+            " Viva-MTS",
+            " Ucom",
+            " Telecom Armenia (Beeline)"
+        ],
+        "en_sub": "Armenia"
+    },
+    {
+        "query": "Quanti operatori di rete mobile ci sono in Bielorussia?",
+        "answer": " 3",
+        "sub": "Bielorussia",
+        "count": 3,
+        "list": [
+            " A1 Belarus",
+            " MTS Belarus",
+            " life:) Belarus"
+        ],
+        "en_sub": "Belarus"
+    },
+    {
+        "query": "Quanti operatori di rete mobile ci sono in Belgio?",
+        "answer": " 4",
+        "sub": "Belgio",
+        "count": 4,
+        "list": [
+            " Proximus",
+            " Orange Belgium",
+            " Telenet/Base",
+            " DIGI Belgium"
+        ],
+        "en_sub": "Belgium"
+    },
+    {
+        "query": "Quanti operatori di rete mobile ci sono in Bosnia ed Erzegovina?",
+        "answer": " 3",
+        "sub": "Bosnia ed Erzegovina",
+        "count": 3,
+        "list": [
+            " BH Telecom",
+            " HT Eronet",
+            " Mtel"
+        ],
+        "en_sub": "Bosnia and Herzegovina"
+    },
+    {
+        "query": "Quanti operatori di rete mobile ci sono in Bulgaria?",
+        "answer": " 3",
+        "sub": "Bulgaria",
+        "count": 3,
+        "list": [
+            " A1 Bulgaria",
+            " Yettel Bulgaria",
+            " Vivacom"
+        ],
+        "en_sub": "Bulgaria"
+    },
+    {
+        "query": "Quanti operatori di rete mobile ci sono in Estonia?",
+        "answer": " 3",
+        "sub": "Estonia",
+        "count": 3,
+        "list": [
+            " Telia Eesti",
+            " Elisa Eesti",
+            " Tele2 Eesti"
+        ],
+        "en_sub": "Estonia"
+    },
+    {
+        "query": "Quanti operatori di rete mobile ci sono in Finlandia?",
+        "answer": " 3",
+        "sub": "Finlandia",
+        "count": 3,
+        "list": [
+            " Elisa",
+            " DNA Oyj",
+            " Telia Finland"
+        ],
+        "en_sub": "Finland"
+    },
+    {
+        "query": "Quanti operatori di rete mobile ci sono in Francia?",
+        "answer": " 4",
+        "sub": "Francia",
+        "count": 4,
+        "list": [
+            " Orange France",
+            " SFR",
+            " Bouygues Telecom",
+            " Free Mobile"
+        ],
+        "en_sub": "France"
+    },
+    {
+        "query": "Quanti operatori di rete mobile ci sono in Georgia?",
+        "answer": " 3",
+        "sub": "Georgia",
+        "count": 3,
+        "list": [
+            " MagtiCom",
+            " Silknet",
+            " Beeline Georgia"
+        ],
+        "en_sub": "Georgia"
+    },
+    {
+        "query": "Quanti operatori di rete mobile ci sono in Germania?",
+        "answer": " 4",
+        "sub": "Germania",
+        "count": 4,
+        "list": [
+            " Telekom Deutschland",
+            " Vodafone Germany",
+            " O2 Telefónica",
+            " 1&1"
+        ],
+        "en_sub": "Germany"
+    },
+    {
+        "query": "Quanti operatori di rete mobile ci sono in Ungheria?",
+        "answer": " 4",
+        "sub": "Ungheria",
+        "count": 4,
+        "list": [
+            " Magyar Telekom (Telekom HU)",
+            " Yettel Hungary",
+            " Vodafone Hungary",
+            " DIGI"
+        ],
+        "en_sub": "Hungary"
+    },
+    {
+        "query": "Quanti operatori di rete mobile ci sono in Italia?",
+        "answer": " 4",
+        "sub": "Italia",
+        "count": 4,
+        "list": [
+            " TIM",
+            " Vodafone Italy",
+            " Wind Tre",
+            " Iliad"
+        ],
+        "en_sub": "Italy"
+    },
+    {
+        "query": "Quanti operatori di rete mobile ci sono in Kosovo?",
+        "answer": " 2",
+        "sub": "Kosovo",
+        "count": 2,
+        "list": [
+            " Vala",
+            " IPKO"
+        ],
+        "en_sub": "Kosovo"
+    },
+    {
+        "query": "Quanti operatori di rete mobile ci sono in Moldova?",
+        "answer": " 3",
+        "sub": "Moldova",
+        "count": 3,
+        "list": [
+            " Orange Moldova",
+            " Moldcell",
+            " Unite"
+        ],
+        "en_sub": "Moldova"
+    },
+    {
+        "query": "Quanti operatori di rete mobile ci sono in Portogallo?",
+        "answer": " 3",
+        "sub": "Portogallo",
+        "count": 3,
+        "list": [
+            " MEO",
+            " NOS",
+            " Vodafone Portugal"
+        ],
+        "en_sub": "Portugal"
+    },
+    {
+        "query": "Quanti operatori di rete mobile ci sono in Russia?",
+        "answer": " 4",
+        "sub": "Russia",
+        "count": 4,
+        "list": [
+            " MTS",
+            " MegaFon",
+            " Beeline",
+            " Tele2 Russia"
+        ],
+        "en_sub": "Russia"
+    },
+    {
+        "query": "Quanti operatori di rete mobile ci sono in Serbia?",
+        "answer": " 3",
+        "sub": "Serbia",
+        "count": 3,
+        "list": [
+            " mts",
+            " Yettel Serbia",
+            " A1 Serbia"
+        ],
+        "en_sub": "Serbia"
+    },
+    {
+        "query": "Quanti operatori di rete mobile ci sono in Slovenia?",
+        "answer": " 3",
+        "sub": "Slovenia",
+        "count": 3,
+        "list": [
+            " Telekom Slovenije",
+            " A1 Slovenia",
+            " Telemach Slovenia"
+        ],
+        "en_sub": "Slovenia"
+    },
+    {
+        "query": "Quanti operatori di rete mobile ci sono in Svezia?",
+        "answer": " 4",
+        "sub": "Svezia",
+        "count": 4,
+        "list": [
+            " Telia Sweden",
+            " Tele2 Sweden",
+            " Telenor Sweden",
+            " 3 (Tre)"
+        ],
+        "en_sub": "Sweden"
+    },
+    {
+        "query": "Quanti operatori di rete mobile ci sono in Svizzera?",
+        "answer": " 3",
+        "sub": "Svizzera",
+        "count": 3,
+        "list": [
+            " Swisscom",
+            " Sunrise",
+            " Salt"
+        ],
+        "en_sub": "Switzerland"
+    },
+    {
+        "query": "Quanti operatori di rete mobile ci sono in Turchia?",
+        "answer": " 3",
+        "sub": "Turchia",
+        "count": 3,
+        "list": [
+            " Turkcell",
+            " Vodafone Turkey",
+            " Türk Telekom"
+        ],
+        "en_sub": "Turkey"
+    },
+    {
+        "query": "Quanti operatori di rete mobile ci sono in Ucraina?",
+        "answer": " 3",
+        "sub": "Ucraina",
+        "count": 3,
+        "list": [
+            " Kyivstar",
+            " Vodafone Ukraine",
+            " lifecell"
+        ],
+        "en_sub": "Ukraine"
+    }
+]

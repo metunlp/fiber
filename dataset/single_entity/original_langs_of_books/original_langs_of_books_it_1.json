@@ -1,0 +1,1286 @@
+[
+    {
+        "query": "Qual è la lingua originale di Il Fiore Scarlatto?",
+        "answer": " Russo",
+        "sub": "Il Fiore Scarlatto",
+        "sub_en": "The Scarlet Flower"
+    },
+    {
+        "query": "Qual è la lingua originale di Inghilterra, la loro Inghilterra?",
+        "answer": " Inglese",
+        "sub": "Inghilterra, la loro Inghilterra",
+        "sub_en": "England, Their England"
+    },
+    {
+        "query": "Qual è la lingua originale di Notre Dame de Paris?",
+        "answer": " Francese",
+        "sub": "Notre Dame de Paris",
+        "sub_en": "The Hunchback of Notre Dame"
+    },
+    {
+        "query": "Qual è la lingua originale di Narciso nero?",
+        "answer": " Inglese",
+        "sub": "Narciso nero",
+        "sub_en": "Black Narcissus"
+    },
+    {
+        "query": "Qual è la lingua originale di L'Agenzia di Vetro?",
+        "answer": " Persiano",
+        "sub": "L'Agenzia di Vetro",
+        "sub_en": "The Glass Agency"
+    },
+    {
+        "query": "Qual è la lingua originale di Benvenuto?",
+        "answer": " Telugu",
+        "sub": "Benvenuto",
+        "sub_en": "Swagatam"
+    },
+    {
+        "query": "Qual è la lingua originale di Oltremare, sotto pietra?",
+        "answer": " Inglese",
+        "sub": "Oltremare, sotto pietra",
+        "sub_en": "Over Sea, Under Stone"
+    },
+    {
+        "query": "Qual è la lingua originale di Vetri della Slavonia?",
+        "answer": " Croato",
+        "sub": "Vetri della Slavonia",
+        "sub_en": "Glas Slavonije"
+    },
+    {
+        "query": "Qual è la lingua originale di Istruzione?",
+        "answer": " Coreano",
+        "sub": "Istruzione",
+        "sub_en": "Arahan"
+    },
+    {
+        "query": "Qual è la lingua originale di La Tregua?",
+        "answer": " Italiano",
+        "sub": "La Tregua",
+        "sub_en": "The Truce"
+    },
+    {
+        "query": "Qual è la lingua originale di Il pianeta delle scimmie?",
+        "answer": " Francese",
+        "sub": "Il pianeta delle scimmie",
+        "sub_en": "Planet of the Apes"
+    },
+    {
+        "query": "Qual è la lingua originale di Eenadu?",
+        "answer": " Telugu",
+        "sub": "Eenadu",
+        "sub_en": "Eenadu"
+    },
+    {
+        "query": "Qual è la lingua originale di Baaz?",
+        "answer": " Hindi",
+        "sub": "Baaz",
+        "sub_en": "Baaz"
+    },
+    {
+        "query": "Qual è la lingua originale di Voodoo Lounge?",
+        "answer": " Inglese",
+        "sub": "Voodoo Lounge",
+        "sub_en": "Voodoo Lounge"
+    },
+    {
+        "query": "Qual è la lingua originale di Zampa?",
+        "answer": " Francese",
+        "sub": "Zampa",
+        "sub_en": "Zampa"
+    },
+    {
+        "query": "Qual è la lingua originale di Anandha Jodhi?",
+        "answer": " il tamil",
+        "sub": "Anandha Jodhi",
+        "sub_en": "Anandha Jodhi"
+    },
+    {
+        "query": "Qual è la lingua originale di Vishwanatha Nayakudu?",
+        "answer": " Telugu",
+        "sub": "Vishwanatha Nayakudu",
+        "sub_en": "Vishwanatha Nayakudu"
+    },
+    {
+        "query": "Qual è la lingua originale di Maya Kannadi?",
+        "answer": " il tamil",
+        "sub": "Maya Kannadi",
+        "sub_en": "Maya Kannadi"
+    },
+    {
+        "query": "Qual è la lingua originale di Il Bacio Perfetto?",
+        "answer": " Inglese",
+        "sub": "Il Bacio Perfetto",
+        "sub_en": "The Perfect Kiss"
+    },
+    {
+        "query": "Qual è la lingua originale di Il Giorno Oggi?",
+        "answer": " Inglese",
+        "sub": "Il Giorno Oggi",
+        "sub_en": "The Day Today"
+    },
+    {
+        "query": "Qual è la lingua originale di Yonggary?",
+        "answer": " Coreano",
+        "sub": "Yonggary",
+        "sub_en": "Yonggary"
+    },
+    {
+        "query": "Qual è la lingua originale di Amleto va in affari?",
+        "answer": " finlandese",
+        "sub": "Amleto va in affari",
+        "sub_en": "Hamlet Goes Business"
+    },
+    {
+        "query": "Qual è la lingua originale di Cosa ha detto il cuore?",
+        "answer": " Hindi",
+        "sub": "Cosa ha detto il cuore",
+        "sub_en": "Kyaa Dil Ne Kahaa"
+    },
+    {
+        "query": "Qual è la lingua originale di Tolomeo?",
+        "answer": " Italiano",
+        "sub": "Tolomeo",
+        "sub_en": "Tolomeo"
+    },
+    {
+        "query": "Qual è la lingua originale di Il Mese del Raccolto?",
+        "answer": " finlandese",
+        "sub": "Il Mese del Raccolto",
+        "sub_en": "The Harvest Month"
+    },
+    {
+        "query": "Qual è la lingua originale di Un fiore ghiacciato?",
+        "answer": " Coreano",
+        "sub": "Un fiore ghiacciato",
+        "sub_en": "A Frozen Flower"
+    },
+    {
+        "query": "Qual è la lingua originale di Giuramento sull'India?",
+        "answer": " Hindi",
+        "sub": "Giuramento sull'India",
+        "sub_en": "Hindustan Ki Kasam"
+    },
+    {
+        "query": "Qual è la lingua originale di Illusione?",
+        "answer": " Hindi",
+        "sub": "Illusione",
+        "sub_en": "Mithya"
+    },
+    {
+        "query": "Qual è la lingua originale di Le nozze di Figaro?",
+        "answer": " Francese",
+        "sub": "Le nozze di Figaro",
+        "sub_en": "The Marriage of Figaro"
+    },
+    {
+        "query": "Qual è la lingua originale di The Irish Times?",
+        "answer": " Inglese",
+        "sub": "The Irish Times",
+        "sub_en": "The Irish Times"
+    },
+    {
+        "query": "Qual è la lingua originale di I nomi dell'amore?",
+        "answer": " Francese",
+        "sub": "I nomi dell'amore",
+        "sub_en": "The Names of Love"
+    },
+    {
+        "query": "Qual è la lingua originale di Brava Gente?",
+        "answer": " Portoghese",
+        "sub": "Brava Gente",
+        "sub_en": "Brava Gente"
+    },
+    {
+        "query": "Qual è la lingua originale di Il Taxi Viola?",
+        "answer": " Francese",
+        "sub": "Il Taxi Viola",
+        "sub_en": "The Purple Taxi"
+    },
+    {
+        "query": "Qual è la lingua originale di Ho bisogno di romanticismo.?",
+        "answer": " Coreano",
+        "sub": "Ho bisogno di romanticismo.",
+        "sub_en": "I Need Romance"
+    },
+    {
+        "query": "Qual è la lingua originale di Uccelli selvatici?",
+        "answer": " Svedese",
+        "sub": "Uccelli selvatici",
+        "sub_en": "Wild Birds"
+    },
+    {
+        "query": "Qual è la lingua originale di Thillu Mullu?",
+        "answer": " il tamil",
+        "sub": "Thillu Mullu",
+        "sub_en": "Thillu Mullu"
+    },
+    {
+        "query": "Qual è la lingua originale di Love Actually?",
+        "answer": " Inglese",
+        "sub": "Love Actually",
+        "sub_en": "Love Actually"
+    },
+    {
+        "query": "Qual è la lingua originale di Sedurre il Dottor Lewis?",
+        "answer": " Francese",
+        "sub": "Sedurre il Dottor Lewis",
+        "sub_en": "Seducing Doctor Lewis"
+    },
+    {
+        "query": "Qual è la lingua originale di Quella ragazza?",
+        "answer": " Inglese",
+        "sub": "Quella ragazza",
+        "sub_en": "That Girl"
+    },
+    {
+        "query": "Qual è la lingua originale di My Bloody Valentine 3D?",
+        "answer": " Inglese",
+        "sub": "My Bloody Valentine 3D",
+        "sub_en": "My Bloody Valentine 3D"
+    },
+    {
+        "query": "Qual è la lingua originale di Sala della Fama di Hallmark?",
+        "answer": " Inglese",
+        "sub": "Sala della Fama di Hallmark",
+        "sub_en": "Hallmark Hall of Fame"
+    },
+    {
+        "query": "Qual è la lingua originale di Terra del Sorriso?",
+        "answer": " il tamil",
+        "sub": "Terra del Sorriso",
+        "sub_en": "Punnagai Desam"
+    },
+    {
+        "query": "Qual è la lingua originale di La colomba?",
+        "answer": " Francese",
+        "sub": "La colomba",
+        "sub_en": "La colombe"
+    },
+    {
+        "query": "Qual è la lingua originale di Tusculanae Disputationes?",
+        "answer": " Latino",
+        "sub": "Tusculanae Disputationes",
+        "sub_en": "Tusculanae Disputationes"
+    },
+    {
+        "query": "Qual è la lingua originale di Calcio settimanale?",
+        "answer": " Inglese",
+        "sub": "Calcio settimanale",
+        "sub_en": "Football Weekly"
+    },
+    {
+        "query": "Qual è la lingua originale di I Love Lucy?",
+        "answer": " Inglese",
+        "sub": "I Love Lucy",
+        "sub_en": "I Love Lucy"
+    },
+    {
+        "query": "Qual è la lingua originale di Don Giovanni?",
+        "answer": " Francese",
+        "sub": "Don Giovanni",
+        "sub_en": "Dom Juan"
+    },
+    {
+        "query": "Qual è la lingua originale di Atalia?",
+        "answer": " Francese",
+        "sub": "Atalia",
+        "sub_en": "Athalie"
+    },
+    {
+        "query": "Qual è la lingua originale di La vita più bella?",
+        "answer": " Francese",
+        "sub": "La vita più bella",
+        "sub_en": "Plus belle la vie"
+    },
+    {
+        "query": "Qual è la lingua originale di Città Naturale?",
+        "answer": " Coreano",
+        "sub": "Città Naturale",
+        "sub_en": "Natural City"
+    },
+    {
+        "query": "Qual è la lingua originale di Otto donne?",
+        "answer": " Francese",
+        "sub": "Otto donne",
+        "sub_en": "8 Women"
+    },
+    {
+        "query": "Qual è la lingua originale di Salute?",
+        "answer": " Inglese",
+        "sub": "Salute",
+        "sub_en": "Cheers"
+    },
+    {
+        "query": "Qual è la lingua originale di Monster Buster Club?",
+        "answer": " Francese",
+        "sub": "Monster Buster Club",
+        "sub_en": "Monster Buster Club"
+    },
+    {
+        "query": "Qual è la lingua originale di Cuore?",
+        "answer": " Italiano",
+        "sub": "Cuore",
+        "sub_en": "Heart"
+    },
+    {
+        "query": "Qual è la lingua originale di Livelli?",
+        "answer": " Telugu",
+        "sub": "Livelli",
+        "sub_en": "Antastulu"
+    },
+    {
+        "query": "Qual è la lingua originale di Adattamento?",
+        "answer": " Inglese",
+        "sub": "Adattamento",
+        "sub_en": "Adaptation"
+    },
+    {
+        "query": "Qual è la lingua originale di Bruciato dal Sole?",
+        "answer": " Russo",
+        "sub": "Bruciato dal Sole",
+        "sub_en": "Burnt by the Sun"
+    },
+    {
+        "query": "Qual è la lingua originale di Pensieri notturni?",
+        "answer": " Inglese",
+        "sub": "Pensieri notturni",
+        "sub_en": "Night-Thoughts"
+    },
+    {
+        "query": "Qual è la lingua originale di La clemenza di Tito?",
+        "answer": " Italiano",
+        "sub": "La clemenza di Tito",
+        "sub_en": "La clemenza di Tito"
+    },
+    {
+        "query": "Qual è la lingua originale di Un Affare Molto Privato?",
+        "answer": " Francese",
+        "sub": "Un Affare Molto Privato",
+        "sub_en": "A Very Private Affair"
+    },
+    {
+        "query": "Qual è la lingua originale di Commediasexi?",
+        "answer": " Italiano",
+        "sub": "Commediasexi",
+        "sub_en": "Commediasexi"
+    },
+    {
+        "query": "Qual è la lingua originale di I figli del Paradiso?",
+        "answer": " Francese",
+        "sub": "I figli del Paradiso",
+        "sub_en": "Children of Paradise"
+    },
+    {
+        "query": "Qual è la lingua originale di Il Cortegiano?",
+        "answer": " Italiano",
+        "sub": "Il Cortegiano",
+        "sub_en": "The Book of the Courtier"
+    },
+    {
+        "query": "Qual è la lingua originale di Divertente Piccola Guerra Sporca?",
+        "answer": " Spagnolo",
+        "sub": "Divertente Piccola Guerra Sporca",
+        "sub_en": "Funny Dirty Little War"
+    },
+    {
+        "query": "Qual è la lingua originale di Razzo a bottiglia?",
+        "answer": " Spagnolo",
+        "sub": "Razzo a bottiglia",
+        "sub_en": "Bottle Rocket"
+    },
+    {
+        "query": "Qual è la lingua originale di Gioiello dei poeti Kalidasa?",
+        "answer": " Kannada",
+        "sub": "Gioiello dei poeti Kalidasa",
+        "sub_en": "Kaviratna Kalidasa"
+    },
+    {
+        "query": "Qual è la lingua originale di Bel Pugile?",
+        "answer": " Thailandese",
+        "sub": "Bel Pugile",
+        "sub_en": "Beautiful Boxer"
+    },
+    {
+        "query": "Qual è la lingua originale di Allegro Non Troppo?",
+        "answer": " Italiano",
+        "sub": "Allegro Non Troppo",
+        "sub_en": "Allegro Non Troppo"
+    },
+    {
+        "query": "Qual è la lingua originale di Il Grande Cittadino?",
+        "answer": " Russo",
+        "sub": "Il Grande Cittadino",
+        "sub_en": "The Great Citizen"
+    },
+    {
+        "query": "Qual è la lingua originale di Chirodini Tumi Je Amar?",
+        "answer": " Bengalese",
+        "sub": "Chirodini Tumi Je Amar",
+        "sub_en": "Chirodini Tumi Je Amar"
+    },
+    {
+        "query": "Qual è la lingua originale di Il giro del mondo in 80 giorni?",
+        "answer": " Inglese",
+        "sub": "Il giro del mondo in 80 giorni",
+        "sub_en": "Around the World in 80 Days"
+    },
+    {
+        "query": "Qual è la lingua originale di Canne selvagge?",
+        "answer": " Francese",
+        "sub": "Canne selvagge",
+        "sub_en": "Wild Reeds"
+    },
+    {
+        "query": "Qual è la lingua originale di Lais di Maria di Francia?",
+        "answer": " Francese",
+        "sub": "Lais di Maria di Francia",
+        "sub_en": "Lais of Marie de France"
+    },
+    {
+        "query": "Qual è la lingua originale di Thotta?",
+        "answer": " il tamil",
+        "sub": "Thotta",
+        "sub_en": "Thotta"
+    },
+    {
+        "query": "Qual è la lingua originale di Il Missionario?",
+        "answer": " Inglese",
+        "sub": "Il Missionario",
+        "sub_en": "The Missionary"
+    },
+    {
+        "query": "Qual è la lingua originale di A sangue freddo?",
+        "answer": " Inglese",
+        "sub": "A sangue freddo",
+        "sub_en": "In Cold Blood"
+    },
+    {
+        "query": "Qual è la lingua originale di Zero Kelvin?",
+        "answer": " Norvegese",
+        "sub": "Zero Kelvin",
+        "sub_en": "Zero Kelvin"
+    },
+    {
+        "query": "Qual è la lingua originale di Il dolce viaggio?",
+        "answer": " Francese",
+        "sub": "Il dolce viaggio",
+        "sub_en": "Le Voyage en douce"
+    },
+    {
+        "query": "Qual è la lingua originale di Disquisizioni Aritmetiche?",
+        "answer": " Latino",
+        "sub": "Disquisizioni Aritmetiche",
+        "sub_en": "Disquisitiones Arithmeticae"
+    },
+    {
+        "query": "Qual è la lingua originale di Innocente?",
+        "answer": " il tamil",
+        "sub": "Innocente",
+        "sub_en": "Nirdoshi"
+    },
+    {
+        "query": "Qual è la lingua originale di Cacciatore di troll?",
+        "answer": " Norvegese",
+        "sub": "Cacciatore di troll",
+        "sub_en": "Trollhunter"
+    },
+    {
+        "query": "Qual è la lingua originale di Serenata Spagnola?",
+        "answer": " Spagnolo",
+        "sub": "Serenata Spagnola",
+        "sub_en": "Spanish Serenade"
+    },
+    {
+        "query": "Qual è la lingua originale di Distretto 13?",
+        "answer": " Francese",
+        "sub": "Distretto 13",
+        "sub_en": "District 13"
+    },
+    {
+        "query": "Qual è la lingua originale di Canzoni dal secondo piano?",
+        "answer": " Svedese",
+        "sub": "Canzoni dal secondo piano",
+        "sub_en": "Songs from the Second Floor"
+    },
+    {
+        "query": "Qual è la lingua originale di Viaggio Cosmico?",
+        "answer": " Inglese",
+        "sub": "Viaggio Cosmico",
+        "sub_en": "Cosmic Voyage"
+    },
+    {
+        "query": "Qual è la lingua originale di Lo straniero?",
+        "answer": " Bengalese",
+        "sub": "Lo straniero",
+        "sub_en": "The Stranger"
+    },
+    {
+        "query": "Qual è la lingua originale di Don Francisco Presenta?",
+        "answer": " Spagnolo",
+        "sub": "Don Francisco Presenta",
+        "sub_en": "Don Francisco Presenta"
+    },
+    {
+        "query": "Qual è la lingua originale di Anand Math?",
+        "answer": " Hindi",
+        "sub": "Anand Math",
+        "sub_en": "Anand Math"
+    },
+    {
+        "query": "Qual è la lingua originale di Komal Gandhar?",
+        "answer": " Bengalese",
+        "sub": "Komal Gandhar",
+        "sub_en": "Komal Gandhar"
+    },
+    {
+        "query": "Qual è la lingua originale di Mahapurush?",
+        "answer": " Bengalese",
+        "sub": "Mahapurush",
+        "sub_en": "Mahapurush"
+    },
+    {
+        "query": "Qual è la lingua originale di Breve tempo?",
+        "answer": " Inglese",
+        "sub": "Breve tempo",
+        "sub_en": "Short Time"
+    },
+    {
+        "query": "Qual è la lingua originale di Un dizionario latino?",
+        "answer": " Latino",
+        "sub": "Un dizionario latino",
+        "sub_en": "A Latin Dictionary"
+    },
+    {
+        "query": "Qual è la lingua originale di Guglielmo Tell?",
+        "answer": " Francese",
+        "sub": "Guglielmo Tell",
+        "sub_en": "William Tell"
+    },
+    {
+        "query": "Qual è la lingua originale di La felicità è nel campo.?",
+        "answer": " Francese",
+        "sub": "La felicità è nel campo.",
+        "sub_en": "Happiness Is in the Field"
+    },
+    {
+        "query": "Qual è la lingua originale di Questa è la mia vita.?",
+        "answer": " Hindi",
+        "sub": "Questa è la mia vita.",
+        "sub_en": "Ye Meri Life Hai"
+    },
+    {
+        "query": "Qual è la lingua originale di Khottabych?",
+        "answer": " Russo",
+        "sub": "Khottabych",
+        "sub_en": "Khottabych"
+    },
+    {
+        "query": "Qual è la lingua originale di Thuppakki?",
+        "answer": " il tamil",
+        "sub": "Thuppakki",
+        "sub_en": "Thuppakki"
+    },
+    {
+        "query": "Qual è la lingua originale di Banda Olsen?",
+        "answer": " Danese",
+        "sub": "Banda Olsen",
+        "sub_en": "Olsen Gang"
+    },
+    {
+        "query": "Qual è la lingua originale di La Jornada?",
+        "answer": " Spagnolo",
+        "sub": "La Jornada",
+        "sub_en": "La Jornada"
+    },
+    {
+        "query": "Qual è la lingua originale di Minnale?",
+        "answer": " il tamil",
+        "sub": "Minnale",
+        "sub_en": "Minnale"
+    },
+    {
+        "query": "Qual è la lingua originale di Soldato?",
+        "answer": " il tamil",
+        "sub": "Soldato",
+        "sub_en": "Sippai"
+    },
+    {
+        "query": "Qual è la lingua originale di Scala Bianca?",
+        "answer": " Inglese",
+        "sub": "Scala Bianca",
+        "sub_en": "White Ladder"
+    },
+    {
+        "query": "Qual è la lingua originale di Maria Egiziaca?",
+        "answer": " Italiano",
+        "sub": "Maria Egiziaca",
+        "sub_en": "Maria egiziaca"
+    },
+    {
+        "query": "Qual è la lingua originale di Souryam?",
+        "answer": " Telugu",
+        "sub": "Souryam",
+        "sub_en": "Souryam"
+    },
+    {
+        "query": "Qual è la lingua originale di Il Giardino delle Ombre?",
+        "answer": " Francese",
+        "sub": "Il Giardino delle Ombre",
+        "sub_en": "La Haine"
+    },
+    {
+        "query": "Qual è la lingua originale di Chander Pahar?",
+        "answer": " Bengalese",
+        "sub": "Chander Pahar",
+        "sub_en": "Chander Pahar"
+    },
+    {
+        "query": "Qual è la lingua originale di Pericoloso?",
+        "answer": " Telugu",
+        "sub": "Pericoloso",
+        "sub_en": "Khatarnak"
+    },
+    {
+        "query": "Qual è la lingua originale di Le tredici rose?",
+        "answer": " Spagnolo",
+        "sub": "Le tredici rose",
+        "sub_en": "Las 13 rosas"
+    },
+    {
+        "query": "Qual è la lingua originale di Il Mondo Nuovo?",
+        "answer": " Inglese",
+        "sub": "Il Mondo Nuovo",
+        "sub_en": "Brave New World"
+    },
+    {
+        "query": "Qual è la lingua originale di Il giorno in cui sono diventata donna?",
+        "answer": " Persiano",
+        "sub": "Il giorno in cui sono diventata donna",
+        "sub_en": "The Day I Became a Woman"
+    },
+    {
+        "query": "Qual è la lingua originale di Ginevra di Scozia?",
+        "answer": " Italiano",
+        "sub": "Ginevra di Scozia",
+        "sub_en": "Ginevra di Scozia"
+    },
+    {
+        "query": "Qual è la lingua originale di La ragazza di ieri?",
+        "answer": " Spagnolo",
+        "sub": "La ragazza di ieri",
+        "sub_en": "La Chica de Ayer"
+    },
+    {
+        "query": "Qual è la lingua originale di 36 Vayadhinile?",
+        "answer": " il tamil",
+        "sub": "36 Vayadhinile",
+        "sub_en": "36 Vayadhinile"
+    },
+    {
+        "query": "Qual è la lingua originale di La Pietra Bianca?",
+        "answer": " Svedese",
+        "sub": "La Pietra Bianca",
+        "sub_en": "The White Stone"
+    },
+    {
+        "query": "Qual è la lingua originale di Mississippi Masala?",
+        "answer": " Inglese",
+        "sub": "Mississippi Masala",
+        "sub_en": "Mississippi Masala"
+    },
+    {
+        "query": "Qual è la lingua originale di Brice de Nice?",
+        "answer": " Francese",
+        "sub": "Brice de Nice",
+        "sub_en": "Brice de Nice"
+    },
+    {
+        "query": "Qual è la lingua originale di Aspetta e vedrai!?",
+        "answer": " Russo",
+        "sub": "Aspetta e vedrai!",
+        "sub_en": "Well, Just You Wait!"
+    },
+    {
+        "query": "Qual è la lingua originale di Un cortometraggio sull'uccisione?",
+        "answer": " Polacco",
+        "sub": "Un cortometraggio sull'uccisione",
+        "sub_en": "A Short Film About Killing"
+    },
+    {
+        "query": "Qual è la lingua originale di Sotto il cielo blu?",
+        "answer": " Bengalese",
+        "sub": "Sotto il cielo blu",
+        "sub_en": "Neel Akasher Neechey"
+    },
+    {
+        "query": "Qual è la lingua originale di Ungli?",
+        "answer": " Hindi",
+        "sub": "Ungli",
+        "sub_en": "Ungli"
+    },
+    {
+        "query": "Qual è la lingua originale di L'amante di Yamudi.?",
+        "answer": " Telugu",
+        "sub": "L'amante di Yamudi.",
+        "sub_en": "Yamudiki Mogudu"
+    },
+    {
+        "query": "Qual è la lingua originale di Vipra Narayana?",
+        "answer": " il tamil",
+        "sub": "Vipra Narayana",
+        "sub_en": "Vipra Narayana"
+    },
+    {
+        "query": "Qual è la lingua originale di Studi anarchici?",
+        "answer": " Inglese",
+        "sub": "Studi anarchici",
+        "sub_en": "Anarchist Studies"
+    },
+    {
+        "query": "Qual è la lingua originale di Ispettore Gadget?",
+        "answer": " Francese",
+        "sub": "Ispettore Gadget",
+        "sub_en": "Inspector Gadget"
+    },
+    {
+        "query": "Qual è la lingua originale di Aalwar?",
+        "answer": " il tamil",
+        "sub": "Aalwar",
+        "sub_en": "Aalwar"
+    },
+    {
+        "query": "Qual è la lingua originale di Times Higher Education?",
+        "answer": " Inglese",
+        "sub": "Times Higher Education",
+        "sub_en": "Times Higher Education"
+    },
+    {
+        "query": "Qual è la lingua originale di Le vere casalinghe di Beverly Hills?",
+        "answer": " Inglese",
+        "sub": "Le vere casalinghe di Beverly Hills",
+        "sub_en": "The Real Housewives of Beverly Hills"
+    },
+    {
+        "query": "Qual è la lingua originale di Turner & Hooch?",
+        "answer": " Inglese",
+        "sub": "Turner & Hooch",
+        "sub_en": "Turner & Hooch"
+    },
+    {
+        "query": "Qual è la lingua originale di Sorga Ka Toedjoe?",
+        "answer": " Indonesiano",
+        "sub": "Sorga Ka Toedjoe",
+        "sub_en": "Sorga Ka Toedjoe"
+    },
+    {
+        "query": "Qual è la lingua originale di L'Eroe di Mumbai?",
+        "answer": " Inglese",
+        "sub": "L'Eroe di Mumbai",
+        "sub_en": "Slumdog Millionaire"
+    },
+    {
+        "query": "Qual è la lingua originale di Il Capo Engira Bhaskaran?",
+        "answer": " il tamil",
+        "sub": "Il Capo Engira Bhaskaran",
+        "sub_en": "Boss Engira Bhaskaran"
+    },
+    {
+        "query": "Qual è la lingua originale di Vjesnik?",
+        "answer": " Croato",
+        "sub": "Vjesnik",
+        "sub_en": "Vjesnik"
+    },
+    {
+        "query": "Qual è la lingua originale di Komban?",
+        "answer": " il tamil",
+        "sub": "Komban",
+        "sub_en": "Komban"
+    },
+    {
+        "query": "Qual è la lingua originale di Le Devoir?",
+        "answer": " Francese",
+        "sub": "Le Devoir",
+        "sub_en": "Le Devoir"
+    },
+    {
+        "query": "Qual è la lingua originale di Il Flauto Magico?",
+        "answer": " Svedese",
+        "sub": "Il Flauto Magico",
+        "sub_en": "The Magic Flute"
+    },
+    {
+        "query": "Qual è la lingua originale di Giovani, Sciolti, Felici?",
+        "answer": " Inglese",
+        "sub": "Giovani, Sciolti, Felici",
+        "sub_en": "Young Foolish Happy"
+    },
+    {
+        "query": "Qual è la lingua originale di Michael Madana Kama Rajan?",
+        "answer": " il tamil",
+        "sub": "Michael Madana Kama Rajan",
+        "sub_en": "Michael Madana Kama Rajan"
+    },
+    {
+        "query": "Qual è la lingua originale di Flashdance?",
+        "answer": " Inglese",
+        "sub": "Flashdance",
+        "sub_en": "Flashdance"
+    },
+    {
+        "query": "Qual è la lingua originale di Il Tempo?",
+        "answer": " Tedesco",
+        "sub": "Il Tempo",
+        "sub_en": "Die Zeit"
+    },
+    {
+        "query": "Qual è la lingua originale di Scuola di charme con Ricki Lake?",
+        "answer": " Inglese",
+        "sub": "Scuola di charme con Ricki Lake",
+        "sub_en": "Charm School with Ricki Lake"
+    },
+    {
+        "query": "Qual è la lingua originale di Vijetha?",
+        "answer": " Telugu",
+        "sub": "Vijetha",
+        "sub_en": "Vijetha"
+    },
+    {
+        "query": "Qual è la lingua originale di Il conformista?",
+        "answer": " Italiano",
+        "sub": "Il conformista",
+        "sub_en": "Il conformista"
+    },
+    {
+        "query": "Qual è la lingua originale di Quando l'amore arriva?",
+        "answer": " Hindi",
+        "sub": "Quando l'amore arriva",
+        "sub_en": "Jab Pyaar Kisise Hota Hai"
+    },
+    {
+        "query": "Qual è la lingua originale di Libro di Aggeo?",
+        "answer": " Ebraico",
+        "sub": "Libro di Aggeo",
+        "sub_en": "Book of Haggai"
+    },
+    {
+        "query": "Qual è la lingua originale di Una storia d'amore.?",
+        "answer": " il tamil",
+        "sub": "Una storia d'amore.",
+        "sub_en": "Aval Oru Thodar Kathai"
+    },
+    {
+        "query": "Qual è la lingua originale di Viaggio Oltre Tre Mari?",
+        "answer": " Hindi",
+        "sub": "Viaggio Oltre Tre Mari",
+        "sub_en": "Journey Beyond Three Seas"
+    },
+    {
+        "query": "Qual è la lingua originale di Aamra?",
+        "answer": " Bengalese",
+        "sub": "Aamra",
+        "sub_en": "Aamra"
+    },
+    {
+        "query": "Qual è la lingua originale di Peddarikam?",
+        "answer": " Telugu",
+        "sub": "Peddarikam",
+        "sub_en": "Peddarikam"
+    },
+    {
+        "query": "Qual è la lingua originale di Immersione di Cannella?",
+        "answer": " Bengalese",
+        "sub": "Immersione di Cannella",
+        "sub_en": "Daruchini Dip"
+    },
+    {
+        "query": "Qual è la lingua originale di Phi-Phi?",
+        "answer": " Francese",
+        "sub": "Phi-Phi",
+        "sub_en": "Phi-Phi"
+    },
+    {
+        "query": "Qual è la lingua originale di In silenzio?",
+        "answer": " Hindi",
+        "sub": "In silenzio",
+        "sub_en": "Chupke Chupke"
+    },
+    {
+        "query": "Qual è la lingua originale di Il Colpo?",
+        "answer": " Inglese",
+        "sub": "Il Colpo",
+        "sub_en": "The Knock"
+    },
+    {
+        "query": "Qual è la lingua originale di Il mio stesso carnefice?",
+        "answer": " Inglese",
+        "sub": "Il mio stesso carnefice",
+        "sub_en": "Mine Own Executioner"
+    },
+    {
+        "query": "Qual è la lingua originale di The Prisoner?",
+        "answer": " Italiano",
+        "sub": "The Prisoner",
+        "sub_en": "Il prigioniero"
+    },
+    {
+        "query": "Qual è la lingua originale di Il Petit Nicolò?",
+        "answer": " Francese",
+        "sub": "Il Petit Nicolò",
+        "sub_en": "Le Petit Nicolas"
+    },
+    {
+        "query": "Qual è la lingua originale di Kirkus Reviews?",
+        "answer": " Inglese",
+        "sub": "Kirkus Reviews",
+        "sub_en": "Kirkus Reviews"
+    },
+    {
+        "query": "Qual è la lingua originale di Jonny Vang?",
+        "answer": " Norvegese",
+        "sub": "Jonny Vang",
+        "sub_en": "Jonny Vang"
+    },
+    {
+        "query": "Qual è la lingua originale di Una storia di Cenerentola?",
+        "answer": " Inglese",
+        "sub": "Una storia di Cenerentola",
+        "sub_en": "A Cinderella Story"
+    },
+    {
+        "query": "Qual è la lingua originale di Juliet Bravo?",
+        "answer": " Inglese",
+        "sub": "Juliet Bravo",
+        "sub_en": "Juliet Bravo"
+    },
+    {
+        "query": "Qual è la lingua originale di La saga dei Forsyte?",
+        "answer": " Inglese",
+        "sub": "La saga dei Forsyte",
+        "sub_en": "The Forsyte Saga"
+    },
+    {
+        "query": "Qual è la lingua originale di Madeline?",
+        "answer": " Inglese",
+        "sub": "Madeline",
+        "sub_en": "Madeline"
+    },
+    {
+        "query": "Qual è la lingua originale di Polvere?",
+        "answer": " il tamil",
+        "sub": "Polvere",
+        "sub_en": "Dhool"
+    },
+    {
+        "query": "Qual è la lingua originale di Tata Birla Madhyalo Laila?",
+        "answer": " Telugu",
+        "sub": "Tata Birla Madhyalo Laila",
+        "sub_en": "Tata Birla Madhyalo Laila"
+    },
+    {
+        "query": "Qual è la lingua originale di Il Comune (Parigi, 1871)?",
+        "answer": " Francese",
+        "sub": "Il Comune (Parigi, 1871)",
+        "sub_en": "La Commune (Paris, 1871)"
+    },
+    {
+        "query": "Qual è la lingua originale di Salvataggio emotivo?",
+        "answer": " Inglese",
+        "sub": "Salvataggio emotivo",
+        "sub_en": "Emotional Rescue"
+    },
+    {
+        "query": "Qual è la lingua originale di R.U.R.?",
+        "answer": " Ceco",
+        "sub": "R.U.R.",
+        "sub_en": "R.U.R."
+    },
+    {
+        "query": "Qual è la lingua originale di TV Pazza?",
+        "answer": " Inglese",
+        "sub": "TV Pazza",
+        "sub_en": "Mad TV"
+    },
+    {
+        "query": "Qual è la lingua originale di Rovesciata in una bara?",
+        "answer": " Turco",
+        "sub": "Rovesciata in una bara",
+        "sub_en": "Somersault in a Coffin"
+    },
+    {
+        "query": "Qual è la lingua originale di Mishneh Berurah?",
+        "answer": " Ebraico",
+        "sub": "Mishneh Berurah",
+        "sub_en": "Mishnah Berurah"
+    },
+    {
+        "query": "Qual è la lingua originale di La cagna?",
+        "answer": " Inglese",
+        "sub": "La cagna",
+        "sub_en": "The Bitch"
+    },
+    {
+        "query": "Qual è la lingua originale di L'ospedale di Sabbia?",
+        "answer": " Polacco",
+        "sub": "L'ospedale di Sabbia",
+        "sub_en": "The Hour-Glass Sanatorium"
+    },
+    {
+        "query": "Qual è la lingua originale di Età dell'innocenza?",
+        "answer": " Telugu",
+        "sub": "Età dell'innocenza",
+        "sub_en": "Padaharella Vayasu"
+    },
+    {
+        "query": "Qual è la lingua originale di Il ladro di Parigi?",
+        "answer": " Francese",
+        "sub": "Il ladro di Parigi",
+        "sub_en": "The Thief of Paris"
+    },
+    {
+        "query": "Qual è la lingua originale di I bambini rubati?",
+        "answer": " Italiano",
+        "sub": "I bambini rubati",
+        "sub_en": "The Stolen Children"
+    },
+    {
+        "query": "Qual è la lingua originale di Amarcord?",
+        "answer": " Italiano",
+        "sub": "Amarcord",
+        "sub_en": "Amarcord"
+    },
+    {
+        "query": "Qual è la lingua originale di Centro Kavkaz?",
+        "answer": " Russo",
+        "sub": "Centro Kavkaz",
+        "sub_en": "Kavkaz Center"
+    },
+    {
+        "query": "Qual è la lingua originale di Respiro?",
+        "answer": " Italiano",
+        "sub": "Respiro",
+        "sub_en": "Respiro"
+    },
+    {
+        "query": "Qual è la lingua originale di Il Prezzo Giusto?",
+        "answer": " Francese",
+        "sub": "Il Prezzo Giusto",
+        "sub_en": "Le Juste Prix"
+    },
+    {
+        "query": "Qual è la lingua originale di Come ho concluso quest'estate?",
+        "answer": " Russo",
+        "sub": "Come ho concluso quest'estate",
+        "sub_en": "How I Ended This Summer"
+    },
+    {
+        "query": "Qual è la lingua originale di Jack Frost?",
+        "answer": " Russo",
+        "sub": "Jack Frost",
+        "sub_en": "Jack Frost"
+    },
+    {
+        "query": "Qual è la lingua originale di Il Custode?",
+        "answer": " Inglese",
+        "sub": "Il Custode",
+        "sub_en": "The Caretaker"
+    },
+    {
+        "query": "Qual è la lingua originale di Viaggio a Citera?",
+        "answer": " Greco",
+        "sub": "Viaggio a Citera",
+        "sub_en": "Voyage to Cythera"
+    },
+    {
+        "query": "Qual è la lingua originale di inoSMI?",
+        "answer": " Russo",
+        "sub": "inoSMI",
+        "sub_en": "inoSMI"
+    },
+    {
+        "query": "Qual è la lingua originale di Caro diario?",
+        "answer": " Italiano",
+        "sub": "Caro diario",
+        "sub_en": "Caro diario"
+    },
+    {
+        "query": "Qual è la lingua originale di La Certosa di Parma?",
+        "answer": " Francese",
+        "sub": "La Certosa di Parma",
+        "sub_en": "The Charterhouse of Parma"
+    },
+    {
+        "query": "Qual è la lingua originale di Gesù?",
+        "answer": " Inglese",
+        "sub": "Gesù",
+        "sub_en": "Jesus"
+    },
+    {
+        "query": "Qual è la lingua originale di Ballata Ussara?",
+        "answer": " Russo",
+        "sub": "Ballata Ussara",
+        "sub_en": "Hussar Ballad"
+    },
+    {
+        "query": "Qual è la lingua originale di Simon Boccanegra?",
+        "answer": " Italiano",
+        "sub": "Simon Boccanegra",
+        "sub_en": "Simon Boccanegra"
+    },
+    {
+        "query": "Qual è la lingua originale di Mediterraneo?",
+        "answer": " Italiano",
+        "sub": "Mediterraneo",
+        "sub_en": "Mediterraneo"
+    },
+    {
+        "query": "Qual è la lingua originale di Il gatto con gli stivali?",
+        "answer": " Italiano",
+        "sub": "Il gatto con gli stivali",
+        "sub_en": "Puss in Boots"
+    },
+    {
+        "query": "Qual è la lingua originale di Un incidente di caccia?",
+        "answer": " Russo",
+        "sub": "Un incidente di caccia",
+        "sub_en": "A Hunting Accident"
+    },
+    {
+        "query": "Qual è la lingua originale di Film Internazionale?",
+        "answer": " Inglese",
+        "sub": "Film Internazionale",
+        "sub_en": "Film International"
+    },
+    {
+        "query": "Qual è la lingua originale di Youku?",
+        "answer": " Cinese",
+        "sub": "Youku",
+        "sub_en": "Youku"
+    },
+    {
+        "query": "Qual è la lingua originale di Le Signore di Ferro?",
+        "answer": " Thailandese",
+        "sub": "Le Signore di Ferro",
+        "sub_en": "The Iron Ladies"
+    },
+    {
+        "query": "Qual è la lingua originale di Marito di seconda mano?",
+        "answer": " Punjabi",
+        "sub": "Marito di seconda mano",
+        "sub_en": "Second Hand Husband"
+    },
+    {
+        "query": "Qual è la lingua originale di Metro 2033?",
+        "answer": " Russo",
+        "sub": "Metro 2033",
+        "sub_en": "Metro 2033"
+    },
+    {
+        "query": "Qual è la lingua originale di Teorema?",
+        "answer": " Italiano",
+        "sub": "Teorema",
+        "sub_en": "Teorema"
+    },
+    {
+        "query": "Qual è la lingua originale di Stylus Magazine?",
+        "answer": " Inglese",
+        "sub": "Stylus Magazine",
+        "sub_en": "Stylus Magazine"
+    },
+    {
+        "query": "Qual è la lingua originale di Il camorrista?",
+        "answer": " Italiano",
+        "sub": "Il camorrista",
+        "sub_en": "Il camorrista"
+    },
+    {
+        "query": "Qual è la lingua originale di Atomizzato?",
+        "answer": " Francese",
+        "sub": "Atomizzato",
+        "sub_en": "Atomised"
+    },
+    {
+        "query": "Qual è la lingua originale di Dizionario Biografico Nazionale?",
+        "answer": " Inglese",
+        "sub": "Dizionario Biografico Nazionale",
+        "sub_en": "Dictionary of National Biography"
+    },
+    {
+        "query": "Qual è la lingua originale di Bahumati?",
+        "answer": " Telugu",
+        "sub": "Bahumati",
+        "sub_en": "Bahumati"
+    },
+    {
+        "query": "Qual è la lingua originale di Il Decameron?",
+        "answer": " Italiano",
+        "sub": "Il Decameron",
+        "sub_en": "The Decameron"
+    },
+    {
+        "query": "Qual è la lingua originale di Espreso TV?",
+        "answer": " Ucraino",
+        "sub": "Espreso TV",
+        "sub_en": "Espreso TV"
+    },
+    {
+        "query": "Qual è la lingua originale di Pia de' Tolomei?",
+        "answer": " Italiano",
+        "sub": "Pia de' Tolomei",
+        "sub_en": "Pia de' Tolomei"
+    },
+    {
+        "query": "Qual è la lingua originale di Grande Fratello Australia?",
+        "answer": " Inglese",
+        "sub": "Grande Fratello Australia",
+        "sub_en": "Big Brother Australia"
+    },
+    {
+        "query": "Qual è la lingua originale di Yaamirukka Bayamey?",
+        "answer": " il tamil",
+        "sub": "Yaamirukka Bayamey",
+        "sub_en": "Yaamirukka Bayamey"
+    },
+    {
+        "query": "Qual è la lingua originale di Novye Izvestia?",
+        "answer": " Russo",
+        "sub": "Novye Izvestia",
+        "sub_en": "Novye Izvestia"
+    },
+    {
+        "query": "Qual è la lingua originale di Handbook of Love?",
+        "answer": " Italiano",
+        "sub": "Handbook of Love",
+        "sub_en": "Manuale d'amore"
+    },
+    {
+        "query": "Qual è la lingua originale di Oggi da te?",
+        "answer": " Malayalam",
+        "sub": "Oggi da te",
+        "sub_en": "Odayil Ninnu"
+    },
+    {
+        "query": "Qual è la lingua originale di Celia a scuola?",
+        "answer": " Spagnolo",
+        "sub": "Celia a scuola",
+        "sub_en": "Celia en el colegio"
+    },
+    {
+        "query": "Qual è la lingua originale di Rustavi 2?",
+        "answer": " Georgiano",
+        "sub": "Rustavi 2",
+        "sub_en": "Rustavi 2"
+    },
+    {
+        "query": "Qual è la lingua originale di Regno di Rama?",
+        "answer": " Hindi",
+        "sub": "Regno di Rama",
+        "sub_en": "Ram Rajya"
+    },
+    {
+        "query": "Qual è la lingua originale di Il matrimonio di Rakhi?",
+        "answer": " Hindi",
+        "sub": "Il matrimonio di Rakhi",
+        "sub_en": "Rakhi Ka Swayamwar"
+    }
+]

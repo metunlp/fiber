@@ -1,0 +1,889 @@
+[
+    {
+        "query": "How many world heritage sites does Albania have?",
+        "answer": " 3",
+        "sub": "Albania",
+        "count": "3",
+        "list": [
+            " Butrint",
+            " Historic Centres of Berat and Gjirokastra",
+            " Ancient and Primeval Beech Forests"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Antigua and Barbuda have?",
+        "answer": " 1",
+        "sub": "Antigua and Barbuda",
+        "count": "1",
+        "list": [
+            " Antigua Naval Dockyard and Related Archaeological Sites"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Argentina have?",
+        "answer": " 3",
+        "sub": "Argentina",
+        "count": "3",
+        "list": [
+            " Iguazú National Park",
+            " Los Glaciares",
+            " Quebrada de Humahuaca"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Armenia have?",
+        "answer": " 3",
+        "sub": "Armenia",
+        "count": "3",
+        "list": [
+            " Monasteries of Haghpat and Sanahin",
+            " Geghard Monastery",
+            " Cathedral and Churches of Echmiadzin and Zvartnots"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Australia have?",
+        "answer": " 3",
+        "sub": "Australia",
+        "count": "3",
+        "list": [
+            " Great Barrier Reef",
+            " Sydney Opera House",
+            " Kakadu National Park"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Austria have?",
+        "answer": " 3",
+        "sub": "Austria",
+        "count": "3",
+        "list": [
+            " Historic Centre of Vienna",
+            " Palace and Gardens of Schönbrunn",
+            " Hallstatt‑Dachstein / Salzkammergut"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Azerbaijan have?",
+        "answer": " 3",
+        "sub": "Azerbaijan",
+        "count": "3",
+        "list": [
+            " Walled City of Baku with the Shirvanshah’s Palace and Maiden Tower",
+            " Gobustan Rock Art",
+            " Historic Centre of Sheki with the Khan’s Palace"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Bangladesh have?",
+        "answer": " 3",
+        "sub": "Bangladesh",
+        "count": "3",
+        "list": [
+            " Historic Mosque City of Bagerhat",
+            " Ruins of the Buddhist Vihara at Paharpur",
+            " Sundarbans"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Belgium have?",
+        "answer": " 3",
+        "sub": "Belgium",
+        "count": "3",
+        "list": [
+            " Grand‑Place, Brussels",
+            " Plantin‑Moretus House‑Workshop‑Museum",
+            " Belfries of Belgium and France"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Botswana have?",
+        "answer": " 2",
+        "sub": "Botswana",
+        "count": "2",
+        "list": [
+            " Okavango Delta",
+            " Tsodilo"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Bulgaria have?",
+        "answer": " 3",
+        "sub": "Bulgaria",
+        "count": "3",
+        "list": [
+            " Boyana Church",
+            " Rila Monastery",
+            " Ancient City of Nesebar"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Burkina Faso have?",
+        "answer": " 3",
+        "sub": "Burkina Faso",
+        "count": "3",
+        "list": [
+            " Ruins of Loropéni",
+            " W‑Arly‑Pendjari Complex",
+            " Ancient Ferrous Metallurgy Sites of Burkina Faso"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Cabo Verde have?",
+        "answer": " 1",
+        "sub": "Cabo Verde",
+        "count": "1",
+        "list": [
+            " Cidade Velha, Historic Centre of Ribeira Grande"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Cameroon have?",
+        "answer": " 2",
+        "sub": "Cameroon",
+        "count": "2",
+        "list": [
+            " Dja Faunal Reserve",
+            " Sangha Trinational"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Central African Republic have?",
+        "answer": " 2",
+        "sub": "Central African Republic",
+        "count": "2",
+        "list": [
+            " Manovo‑Gounda St. Floris National Park",
+            " Sangha Trinational"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Chad have?",
+        "answer": " 2",
+        "sub": "Chad",
+        "count": "2",
+        "list": [
+            " Lakes of Ounianga",
+            " Ennedi Massif: Natural and Cultural Landscape"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Costa Rica have?",
+        "answer": " 3",
+        "sub": "Costa Rica",
+        "count": "3",
+        "list": [
+            " Area de Conservación Guanacaste",
+            " Cocos Island National Park",
+            " Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Côte d'Ivoire have?",
+        "answer": " 3",
+        "sub": "Côte d'Ivoire",
+        "count": "3",
+        "list": [
+            " Comoé National Park",
+            " Mount Nimba Strict Nature Reserve",
+            " Taï National Park"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Cuba have?",
+        "answer": " 3",
+        "sub": "Cuba",
+        "count": "3",
+        "list": [
+            " Old Havana and its Fortification System",
+            " Trinidad and the Valley de los Ingenios",
+            " Viñales Valley"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Czechia have?",
+        "answer": " 3",
+        "sub": "Czechia",
+        "count": "3",
+        "list": [
+            " Historic Centre of Prague",
+            " Kutná Hora: Historical Town Centre with the Church of St Barbara",
+            " Lednice‑Valtice Cultural Landscape"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Democratic People's Republic of Korea have?",
+        "answer": " 3",
+        "sub": "Democratic People's Republic of Korea",
+        "count": "3",
+        "list": [
+            " Historic Monuments and Sites in Kaesong",
+            " Complex of Koguryo Tombs",
+            " Namhansanseong (not DPRK)"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Ecuador have?",
+        "answer": " 3",
+        "sub": "Ecuador",
+        "count": "3",
+        "list": [
+            " City of Quito",
+            " Galápagos Islands",
+            " Historic Centre of Santa Ana de los Ríos de Cuenca"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Egypt have?",
+        "answer": " 3",
+        "sub": "Egypt",
+        "count": "3",
+        "list": [
+            " Historic Cairo",
+            " Ancient Thebes with its Necropolis",
+            " Nubian Monuments from Abu Simbel to Philae"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does El Salvador have?",
+        "answer": " 1",
+        "sub": "El Salvador",
+        "count": "1",
+        "list": [
+            " Joya de Cerén Archaeological Site"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Eritrea have?",
+        "answer": " 1",
+        "sub": "Eritrea",
+        "count": "1",
+        "list": [
+            " Asmara: a Modernist City of Africa"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Ethiopia have?",
+        "answer": " 3",
+        "sub": "Ethiopia",
+        "count": "3",
+        "list": [
+            " Rock‑Hewn Churches, Lalibela",
+            " Simien National Park",
+            " Fasil Ghebbi, Gondar Region"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Gambia have?",
+        "answer": " 2",
+        "sub": "Gambia",
+        "count": "2",
+        "list": [
+            " Kunta Kinteh Island and Related Sites",
+            " Stone Circles of Senegambia"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Georgia have?",
+        "answer": " 3",
+        "sub": "Georgia",
+        "count": "3",
+        "list": [
+            " Gelati Monastery",
+            " Historical Monuments of Mtskheta",
+            " Upper Svaneti"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Germany have?",
+        "answer": " 3",
+        "sub": "Germany",
+        "count": "3",
+        "list": [
+            " Cologne Cathedral",
+            " Museumsinsel (Museum Island), Berlin",
+            " Würzburg Residence with the Court Gardens"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Ghana have?",
+        "answer": " 2",
+        "sub": "Ghana",
+        "count": "2",
+        "list": [
+            " Forts and Castles, Volta, Greater Accra, Central and Western Regions",
+            " Asante Traditional Buildings"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Greece have?",
+        "answer": " 3",
+        "sub": "Greece",
+        "count": "3",
+        "list": [
+            " Acropolis, Athens",
+            " Meteora",
+            " Archaeological Site of Delphi"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Guinea-Bissau have?",
+        "answer": " 1",
+        "sub": "Guinea-Bissau",
+        "count": "1",
+        "list": [
+            " Bijagós Archipelago (Biosphere Reserve, not WHS)"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Iceland have?",
+        "answer": " 3",
+        "sub": "Iceland",
+        "count": "3",
+        "list": [
+            " Þingvellir National Park",
+            " Surtsey",
+            " Vatnajökull National Park"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does India have?",
+        "answer": " 3",
+        "sub": "India",
+        "count": "3",
+        "list": [
+            " Taj Mahal",
+            " Qutub Minar and its Monuments, Delhi",
+            " Ajanta Caves"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Iran (Islamic Republic of) have?",
+        "answer": " 3",
+        "sub": "Iran (Islamic Republic of)",
+        "count": "3",
+        "list": [
+            " Persepolis",
+            " Meidan Emam, Esfahan",
+            " Golestan Palace"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Iraq have?",
+        "answer": " 3",
+        "sub": "Iraq",
+        "count": "3",
+        "list": [
+            " Hatra",
+            " Ashur (Qal’at Sherqat)",
+            " Samarra Archaeological City"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Israel have?",
+        "answer": " 3",
+        "sub": "Israel",
+        "count": "3",
+        "list": [
+            " Masada",
+            " Old City of Acre",
+            " White City of Tel‑Aviv"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Italy have?",
+        "answer": " 3",
+        "sub": "Italy",
+        "count": "3",
+        "list": [
+            " Historic Centre of Rome",
+            " Historic Centre of Florence",
+            " Archaeological Areas of Pompeii"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Kiribati have?",
+        "answer": " 1",
+        "sub": "Kiribati",
+        "count": "1",
+        "list": [
+            " Phoenix Islands Protected Area"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Kyrgyzstan have?",
+        "answer": " 3",
+        "sub": "Kyrgyzstan",
+        "count": "3",
+        "list": [
+            " Sulayman‑Too Sacred Mountain",
+            " Silk Roads: Chang'an‑Tianshan Corridor",
+            " Western Tien‑Shan"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Lao People's Democratic Republic have?",
+        "answer": " 2",
+        "sub": "Lao People's Democratic Republic",
+        "count": "2",
+        "list": [
+            " Town of Luang Prabang",
+            " Vat Phou and Associated Ancient Settlements"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Latvia have?",
+        "answer": " 3",
+        "sub": "Latvia",
+        "count": "3",
+        "list": [
+            " Historic Centre of Riga",
+            " Struve Geodetic Arc",
+            " Old Town of Kuldīga"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Lesotho have?",
+        "answer": " 1",
+        "sub": "Lesotho",
+        "count": "1",
+        "list": [
+            " Sehlabathebe National Park (Maloti‑Drakensberg Park)"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Libya have?",
+        "answer": " 3",
+        "sub": "Libya",
+        "count": "3",
+        "list": [
+            " Leptis Magna",
+            " Cyrene",
+            " Sabratha"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Lithuania have?",
+        "answer": " 3",
+        "sub": "Lithuania",
+        "count": "3",
+        "list": [
+            " Curonian Spit",
+            " Kernavė Archaeological Site",
+            " Vilnius Historic Centre"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Luxembourg have?",
+        "answer": " 1",
+        "sub": "Luxembourg",
+        "count": "1",
+        "list": [
+            " City of Luxembourg: its Old Quarters and Fortifications"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Madagascar have?",
+        "answer": " 2",
+        "sub": "Madagascar",
+        "count": "2",
+        "list": [
+            " Tsingy de Bemaraha Strict Nature Reserve",
+            " Royal Hill of Ambohimanga"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Malaysia have?",
+        "answer": " 3",
+        "sub": "Malaysia",
+        "count": "3",
+        "list": [
+            " Historic Cities of the Straits of Malacca (Melaka and George Town)",
+            " Archaeological Heritage of the Lenggong Valley",
+            " Gunung Mulu National Park"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Mali have?",
+        "answer": " 3",
+        "sub": "Mali",
+        "count": "3",
+        "list": [
+            " Old Towns of Djenné",
+            " Timbuktu",
+            " Tomb of Askia"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Marshall Islands have?",
+        "answer": " 1",
+        "sub": "Marshall Islands",
+        "count": "1",
+        "list": [
+            " Bikini Atoll Nuclear Test Site"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Micronesia (Federated States of) have?",
+        "answer": " 1",
+        "sub": "Micronesia (Federated States of)",
+        "count": "1",
+        "list": [
+            " Nan Madol: Ceremonial Centre of Eastern Micronesia"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Mongolia have?",
+        "answer": " 3",
+        "sub": "Mongolia",
+        "count": "3",
+        "list": [
+            " Uvs Nuur Basin",
+            " Orkhon Valley Cultural Landscape",
+            " Petroglyphic Complexes of the Mongolian Altai"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Namibia have?",
+        "answer": " 2",
+        "sub": "Namibia",
+        "count": "2",
+        "list": [
+            " Twyfelfontein / ǀUi‑ǁAis",
+            " Namib Sand Sea"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Nepal have?",
+        "answer": " 3",
+        "sub": "Nepal",
+        "count": "3",
+        "list": [
+            " Kathmandu Valley",
+            " Chitwan National Park",
+            " Sagarmatha National Park"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does New Zealand have?",
+        "answer": " 3",
+        "sub": "New Zealand",
+        "count": "3",
+        "list": [
+            " Te Wāhipounamu – South West New Zealand",
+            " Tongariro National Park",
+            " Subantarctic Islands"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Nicaragua have?",
+        "answer": " 2",
+        "sub": "Nicaragua",
+        "count": "2",
+        "list": [
+            " Ruins of León Viejo",
+            " León Cathedral"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Niger have?",
+        "answer": " 2",
+        "sub": "Niger",
+        "count": "2",
+        "list": [
+            " Air and Ténéré Natural Reserves",
+            " W National Park of Niger"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does North Macedonia have?",
+        "answer": " 1",
+        "sub": "North Macedonia",
+        "count": "1",
+        "list": [
+            " Natural and Cultural Heritage of the Ohrid region"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Norway have?",
+        "answer": " 3",
+        "sub": "Norway",
+        "count": "3",
+        "list": [
+            " Bryggen",
+            " Urnes Stave Church",
+            " Rjukan‑Notodden Industrial Heritage Site"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Palau have?",
+        "answer": " 1",
+        "sub": "Palau",
+        "count": "1",
+        "list": [
+            " Rock Islands Southern Lagoon"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Papua New Guinea have?",
+        "answer": " 1",
+        "sub": "Papua New Guinea",
+        "count": "1",
+        "list": [
+            " Kuk Early Agricultural Site"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Peru have?",
+        "answer": " 3",
+        "sub": "Peru",
+        "count": "3",
+        "list": [
+            " Historic Sanctuary of Machu Picchu",
+            " City of Cuzco",
+            " Chan Chan Archaeological Zone"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Philippines have?",
+        "answer": " 3",
+        "sub": "Philippines",
+        "count": "3",
+        "list": [
+            " Baroque Churches of the Philippines",
+            " Historic City of Vigan",
+            " Rice Terraces of the Philippine Cordilleras"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Poland have?",
+        "answer": " 3",
+        "sub": "Poland",
+        "count": "3",
+        "list": [
+            " Historic Centre of Kraków",
+            " Auschwitz Birkenau",
+            " Wieliczka and Bochnia Royal Salt Mines"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Republic of Korea have?",
+        "answer": " 3",
+        "sub": "Republic of Korea",
+        "count": "3",
+        "list": [
+            " Changdeokgung Palace Complex",
+            " Bulguksa Temple and Seokguram Grotto",
+            " Historic Villages of Hahoe and Yangdong"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Romania have?",
+        "answer": " 3",
+        "sub": "Romania",
+        "count": "3",
+        "list": [
+            " Churches of Moldavia",
+            " Dacian Fortresses of the Orăștie Mountains",
+            " Villages with Fortified Churches in Transylvania"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Saint Lucia have?",
+        "answer": " 1",
+        "sub": "Saint Lucia",
+        "count": "1",
+        "list": [
+            " Pitons Management Area"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does San Marino have?",
+        "answer": " 1",
+        "sub": "San Marino",
+        "count": "1",
+        "list": [
+            " San Marino Historic Centre and Mount Titano"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Serbia have?",
+        "answer": " 3",
+        "sub": "Serbia",
+        "count": "3",
+        "list": [
+            " Studenica Monastery",
+            " Gamzigrad‑Romuliana, Palace of Galerius",
+            " Medieval Monuments in Kosovo"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Slovenia have?",
+        "answer": " 3",
+        "sub": "Slovenia",
+        "count": "3",
+        "list": [
+            " Škocjan Caves",
+            " Ancient and Primeval Beech Forests",
+            " Idrija Mercury Mine"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Solomon Islands have?",
+        "answer": " 1",
+        "sub": "Solomon Islands",
+        "count": "1",
+        "list": [
+            " East Rennell"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Sri Lanka have?",
+        "answer": " 3",
+        "sub": "Sri Lanka",
+        "count": "3",
+        "list": [
+            " Ancient City of Sigiriya",
+            " Sacred City of Kandy",
+            " Old Town of Galle and its Fortifications"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does State of Palestine have?",
+        "answer": " 3",
+        "sub": "State of Palestine",
+        "count": "3",
+        "list": [
+            " Birthplace of Jesus: Church of the Nativity and the Pilgrimage Route",
+            " Hebron/Al‑Khalil Old Town",
+            " Cultural Landscape of Southern Jerusalem, Battir"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Togo have?",
+        "answer": " 1",
+        "sub": "Togo",
+        "count": "1",
+        "list": [
+            " Koutammakou, the Land of the Batammariba"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Tunisia have?",
+        "answer": " 3",
+        "sub": "Tunisia",
+        "count": "3",
+        "list": [
+            " Amphitheatre of El Jem",
+            " Archaeological Site of Carthage",
+            " Medina of Tunis"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Türkiye have?",
+        "answer": " 3",
+        "sub": "Türkiye",
+        "count": "3",
+        "list": [
+            " Göreme National Park and the Rock Sites of Cappadocia",
+            " Historic Areas of Istanbul",
+            " Hattusa: the Hittite Capital"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Turkmenistan have?",
+        "answer": " 3",
+        "sub": "Turkmenistan",
+        "count": "3",
+        "list": [
+            " Ancient Merv",
+            " Kunya‑Urgench",
+            " Parthian Fortresses of Nisa"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Ukraine have?",
+        "answer": " 3",
+        "sub": "Ukraine",
+        "count": "3",
+        "list": [
+            " Kyiv: Saint‑Sophia Cathedral and Related Monastic Buildings",
+            " L’viv – the Ensemble of the Historic Centre",
+            " Ancient City of Tauric Chersonese"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does United Arab Emirates have?",
+        "answer": " 2",
+        "sub": "United Arab Emirates",
+        "count": "2",
+        "list": [
+            " Cultural Sites of Al Ain (Hafit, Hili, Bidaa Bint Saud and Oases Areas)",
+            " Ancient Filaj Irrigation Systems (part of Al Ain)"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does United States of America have?",
+        "answer": " 3",
+        "sub": "United States of America",
+        "count": "3",
+        "list": [
+            " Statue of Liberty",
+            " Grand Canyon National Park",
+            " Independence Hall"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Uruguay have?",
+        "answer": " 2",
+        "sub": "Uruguay",
+        "count": "2",
+        "list": [
+            " Historic Quarter of the City of Colonia del Sacramento",
+            " Fray Bentos Industrial Landscape"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Uzbekistan have?",
+        "answer": " 3",
+        "sub": "Uzbekistan",
+        "count": "3",
+        "list": [
+            " Itchan Kala",
+            " Historic Centre of Bukhara",
+            " Samarkand – Crossroad of Cultures"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Venezuela (Bolivarian Republic of) have?",
+        "answer": " 2",
+        "sub": "Venezuela (Bolivarian Republic of)",
+        "count": "2",
+        "list": [
+            " Coro and its Port",
+            " Canaima National Park"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Viet Nam have?",
+        "answer": " 3",
+        "sub": "Viet Nam",
+        "count": "3",
+        "list": [
+            " Complex of Hué Monuments",
+            " Hạ Long Bay",
+            " Hội An Ancient Town"
+        ]
+    },
+    {
+        "query": "How many world heritage sites does Yemen have?",
+        "answer": " 3",
+        "sub": "Yemen",
+        "count": "3",
+        "list": [
+            " Old Walled City of Shibam",
+            " Old City of Sana’a",
+            " Historic Town of Zabid"
+        ]
+    }
+]

@@ -1,0 +1,1406 @@
+[
+    {
+        "query": "Pianoforti diventano i denti è stato fondato in",
+        "answer": " Baltimore",
+        "sub": "Pianoforti diventano i denti",
+        "sub_en": "Pianos Become the Teeth"
+    },
+    {
+        "query": "SNCF è stato fondato in",
+        "answer": " Parigi",
+        "sub": "SNCF",
+        "sub_en": "SNCF"
+    },
+    {
+        "query": "Starwood Capital Group è stato fondato in",
+        "answer": " Greenwich",
+        "sub": "Starwood Capital Group",
+        "sub_en": "Starwood Capital Group"
+    },
+    {
+        "query": "Odex è stato fondato in",
+        "answer": " Singapore",
+        "sub": "Odex",
+        "sub_en": "Odex"
+    },
+    {
+        "query": "Ferrovie Federali Svizzere è stato fondato in",
+        "answer": " Berna",
+        "sub": "Ferrovie Federali Svizzere",
+        "sub_en": "Swiss Federal Railways"
+    },
+    {
+        "query": "Scott Paper Company è stato fondato in",
+        "answer": " Philadelphia",
+        "sub": "Scott Paper Company",
+        "sub_en": "Scott Paper Company"
+    },
+    {
+        "query": "Melody Club è stato fondato in",
+        "answer": " Svezia",
+        "sub": "Melody Club",
+        "sub_en": "Melody Club"
+    },
+    {
+        "query": "The Parlotones è stato fondato in",
+        "answer": " Johannesburg",
+        "sub": "The Parlotones",
+        "sub_en": "The Parlotones"
+    },
+    {
+        "query": "Gesù mio è stato fondato in",
+        "answer": " Birmingham",
+        "sub": "Gesù mio",
+        "sub_en": "Sweet Jesus"
+    },
+    {
+        "query": "Club Alpino Tedesco è stato fondato in",
+        "answer": " Monaco di Baviera",
+        "sub": "Club Alpino Tedesco",
+        "sub_en": "German Alpine Club"
+    },
+    {
+        "query": "Malaguti è stato fondato in",
+        "answer": " Bologna",
+        "sub": "Malaguti",
+        "sub_en": "Malaguti"
+    },
+    {
+        "query": "The Moody Blues è stato fondato in",
+        "answer": " Birmingham",
+        "sub": "The Moody Blues",
+        "sub_en": "The Moody Blues"
+    },
+    {
+        "query": "The Besnard Lakes è stato fondato in",
+        "answer": " Montréal",
+        "sub": "The Besnard Lakes",
+        "sub_en": "The Besnard Lakes"
+    },
+    {
+        "query": "Caldo Croce è stato fondato in",
+        "answer": " Philadelphia",
+        "sub": "Caldo Croce",
+        "sub_en": "Hot Cross"
+    },
+    {
+        "query": "Dolce Selvaggio è stato fondato in",
+        "answer": " Belfast",
+        "sub": "Dolce Selvaggio",
+        "sub_en": "Sweet Savage"
+    },
+    {
+        "query": "Essanay Studios è stato fondato in",
+        "answer": " Chicago",
+        "sub": "Essanay Studios",
+        "sub_en": "Essanay Studios"
+    },
+    {
+        "query": "Fate Rosa è stato fondato in",
+        "answer": " Londra",
+        "sub": "Fate Rosa",
+        "sub_en": "Pink Fairies"
+    },
+    {
+        "query": "La Società Coca-Cola è stato fondato in",
+        "answer": " Atlanta",
+        "sub": "La Società Coca-Cola",
+        "sub_en": "The Coca-Cola Company"
+    },
+    {
+        "query": "Donatori è stato fondato in",
+        "answer": " Lafayette",
+        "sub": "Donatori",
+        "sub_en": "Givers"
+    },
+    {
+        "query": "Archaeopress è stato fondato in",
+        "answer": " Oxford",
+        "sub": "Archaeopress",
+        "sub_en": "Archaeopress"
+    },
+    {
+        "query": "La Segreteria Telefonica è stato fondato in",
+        "answer": " Manchester",
+        "sub": "La Segreteria Telefonica",
+        "sub_en": "The Answering Machine"
+    },
+    {
+        "query": "Regis Corporation è stato fondato in",
+        "answer": " Minneapolis",
+        "sub": "Regis Corporation",
+        "sub_en": "Regis Corporation"
+    },
+    {
+        "query": "RuPaul è stato fondato in",
+        "answer": " Atlanta",
+        "sub": "RuPaul",
+        "sub_en": "RuPaul"
+    },
+    {
+        "query": "Stevie Wonder è stato fondato in",
+        "answer": " Detroit",
+        "sub": "Stevie Wonder",
+        "sub_en": "Stevie Wonder"
+    },
+    {
+        "query": "Società del Fondo di Risparmio di Philadelphia è stato fondato in",
+        "answer": " Philadelphia",
+        "sub": "Società del Fondo di Risparmio di Philadelphia",
+        "sub_en": "Philadelphia Savings Fund Society"
+    },
+    {
+        "query": "Rischio Persiano è stato fondato in",
+        "answer": " Cardiff",
+        "sub": "Rischio Persiano",
+        "sub_en": "Persian Risk"
+    },
+    {
+        "query": "Mambo Taxi è stato fondato in",
+        "answer": " Londra",
+        "sub": "Mambo Taxi",
+        "sub_en": "Mambo Taxi"
+    },
+    {
+        "query": "Club Anarchia è stato fondato in",
+        "answer": " Boston",
+        "sub": "Club Anarchia",
+        "sub_en": "Anarchy Club"
+    },
+    {
+        "query": "Ripresa è stato fondato in",
+        "answer": " Paesi Bassi",
+        "sub": "Ripresa",
+        "sub_en": "ReVamp"
+    },
+    {
+        "query": "The Xcerts è stato fondato in",
+        "answer": " Aberdeen",
+        "sub": "The Xcerts",
+        "sub_en": "The Xcerts"
+    },
+    {
+        "query": "Rosneft è stato fondato in",
+        "answer": " Mosca",
+        "sub": "Rosneft",
+        "sub_en": "Rosneft"
+    },
+    {
+        "query": "The Polyphonic Spree è stato fondato in",
+        "answer": " Dallas",
+        "sub": "The Polyphonic Spree",
+        "sub_en": "The Polyphonic Spree"
+    },
+    {
+        "query": "Le Scoregge è stato fondato in",
+        "answer": " Seattle",
+        "sub": "Le Scoregge",
+        "sub_en": "The Fartz"
+    },
+    {
+        "query": "Gli Storni è stato fondato in",
+        "answer": " Londra",
+        "sub": "Gli Storni",
+        "sub_en": "The Starlings"
+    },
+    {
+        "query": "Casinò è stato fondato in",
+        "answer": " Brasile",
+        "sub": "Casinò",
+        "sub_en": "Kasino"
+    },
+    {
+        "query": "Givenchy è stato fondato in",
+        "answer": " Parigi",
+        "sub": "Givenchy",
+        "sub_en": "Givenchy"
+    },
+    {
+        "query": "The Agonist è stato fondato in",
+        "answer": " Montréal",
+        "sub": "The Agonist",
+        "sub_en": "The Agonist"
+    },
+    {
+        "query": "J. G. Brill Company è stato fondato in",
+        "answer": " Philadelphia",
+        "sub": "J. G. Brill Company",
+        "sub_en": "J. G. Brill Company"
+    },
+    {
+        "query": "I Walkabouts è stato fondato in",
+        "answer": " Seattle",
+        "sub": "I Walkabouts",
+        "sub_en": "The Walkabouts"
+    },
+    {
+        "query": "Tunnel di Fudge è stato fondato in",
+        "answer": " Nottingham",
+        "sub": "Tunnel di Fudge",
+        "sub_en": "Fudge Tunnel"
+    },
+    {
+        "query": "Filippa K è stato fondato in",
+        "answer": " Svezia",
+        "sub": "Filippa K",
+        "sub_en": "Filippa K"
+    },
+    {
+        "query": "CSR Limited è stato fondato in",
+        "answer": " Sydney",
+        "sub": "CSR Limited",
+        "sub_en": "CSR Limited"
+    },
+    {
+        "query": "Bottoni del cazzo è stato fondato in",
+        "answer": " Bristol",
+        "sub": "Bottoni del cazzo",
+        "sub_en": "Fuck Buttons"
+    },
+    {
+        "query": "Kill Rock Stars è stato fondato in",
+        "answer": " Olimpia",
+        "sub": "Kill Rock Stars",
+        "sub_en": "Kill Rock Stars"
+    },
+    {
+        "query": "Hollerado è stato fondato in",
+        "answer": " Ottawa",
+        "sub": "Hollerado",
+        "sub_en": "Hollerado"
+    },
+    {
+        "query": "Packard è stato fondato in",
+        "answer": " Warren",
+        "sub": "Packard",
+        "sub_en": "Packard"
+    },
+    {
+        "query": "The Brothers Four è stato fondato in",
+        "answer": " Seattle",
+        "sub": "The Brothers Four",
+        "sub_en": "The Brothers Four"
+    },
+    {
+        "query": "La tua Vegas è stato fondato in",
+        "answer": " Leeds",
+        "sub": "La tua Vegas",
+        "sub_en": "Your Vegas"
+    },
+    {
+        "query": "Gli Scoiattoli è stato fondato in",
+        "answer": " Seattle",
+        "sub": "Gli Scoiattoli",
+        "sub_en": "The Squirrels"
+    },
+    {
+        "query": "Digli addio è stato fondato in",
+        "answer": " Seattle",
+        "sub": "Digli addio",
+        "sub_en": "Kiss It Goodbye"
+    },
+    {
+        "query": "Sparviero è stato fondato in",
+        "answer": " Londra",
+        "sub": "Sparviero",
+        "sub_en": "Cock Sparrer"
+    },
+    {
+        "query": "Oscar Peterson è stato fondato in",
+        "answer": " Montréal",
+        "sub": "Oscar Peterson",
+        "sub_en": "Oscar Peterson"
+    },
+    {
+        "query": "Spacemen 3 è stato fondato in",
+        "answer": " Rugby",
+        "sub": "Spacemen 3",
+        "sub_en": "Spacemen 3"
+    },
+    {
+        "query": "Five Man Electrical Band è stato fondato in",
+        "answer": " Ottawa",
+        "sub": "Five Man Electrical Band",
+        "sub_en": "Five Man Electrical Band"
+    },
+    {
+        "query": "Telefunken è stato fondato in",
+        "answer": " Berlin",
+        "sub": "Telefunken",
+        "sub_en": "Telefunken"
+    },
+    {
+        "query": "The Big Pink è stato fondato in",
+        "answer": " Londra",
+        "sub": "The Big Pink",
+        "sub_en": "The Big Pink"
+    },
+    {
+        "query": "Folletti è stato fondato in",
+        "answer": " Boston",
+        "sub": "Folletti",
+        "sub_en": "Pixies"
+    },
+    {
+        "query": "Harry e i Potter è stato fondato in",
+        "answer": " Norwood",
+        "sub": "Harry e i Potter",
+        "sub_en": "Harry and the Potters"
+    },
+    {
+        "query": "CSELT è stato fondato in",
+        "answer": " Torino",
+        "sub": "CSELT",
+        "sub_en": "CSELT"
+    },
+    {
+        "query": "Eni è stato fondato in",
+        "answer": " Milano",
+        "sub": "Eni",
+        "sub_en": "Eni"
+    },
+    {
+        "query": "Slint è stato fondato in",
+        "answer": " Kentucky",
+        "sub": "Slint",
+        "sub_en": "Slint"
+    },
+    {
+        "query": "Curved Air è stato fondato in",
+        "answer": " Londra",
+        "sub": "Curved Air",
+        "sub_en": "Curved Air"
+    },
+    {
+        "query": "Pazzo Eddie è stato fondato in",
+        "answer": " Brooklyn",
+        "sub": "Pazzo Eddie",
+        "sub_en": "Crazy Eddie"
+    },
+    {
+        "query": "Stiff Little Fingers è stato fondato in",
+        "answer": " Belfast",
+        "sub": "Stiff Little Fingers",
+        "sub_en": "Stiff Little Fingers"
+    },
+    {
+        "query": "Società di Pubblicazione Ebraica è stato fondato in",
+        "answer": " Philadelphia",
+        "sub": "Società di Pubblicazione Ebraica",
+        "sub_en": "Jewish Publication Society"
+    },
+    {
+        "query": "Film per giovani è stato fondato in",
+        "answer": " Oxford",
+        "sub": "Film per giovani",
+        "sub_en": "Youthmovies"
+    },
+    {
+        "query": "Fiat Chrysler Automobiles è stato fondato in",
+        "answer": " Torino",
+        "sub": "Fiat Chrysler Automobiles",
+        "sub_en": "Fiat Chrysler Automobiles"
+    },
+    {
+        "query": "Codemasters è stato fondato in",
+        "answer": " Warwickshire",
+        "sub": "Codemasters",
+        "sub_en": "Codemasters"
+    },
+    {
+        "query": "Ciara è stato fondato in",
+        "answer": " Atlanta",
+        "sub": "Ciara",
+        "sub_en": "Ciara"
+    },
+    {
+        "query": "Leonardo è stato fondato in",
+        "answer": " Roma",
+        "sub": "Leonardo",
+        "sub_en": "Leonardo"
+    },
+    {
+        "query": "Winterval è stato fondato in",
+        "answer": " Birmingham",
+        "sub": "Winterval",
+        "sub_en": "Winterval"
+    },
+    {
+        "query": "I Diavoli della Città del Delitto è stato fondato in",
+        "answer": " Seattle",
+        "sub": "I Diavoli della Città del Delitto",
+        "sub_en": "The Murder City Devils"
+    },
+    {
+        "query": "I Motori è stato fondato in",
+        "answer": " Londra",
+        "sub": "I Motori",
+        "sub_en": "The Motors"
+    },
+    {
+        "query": "The White Stripes è stato fondato in",
+        "answer": " Detroit",
+        "sub": "The White Stripes",
+        "sub_en": "The White Stripes"
+    },
+    {
+        "query": "La Frusta è stato fondato in",
+        "answer": " Oldham",
+        "sub": "La Frusta",
+        "sub_en": "The Whip"
+    },
+    {
+        "query": "Gruppo Grimaldi è stato fondato in",
+        "answer": " Napoli",
+        "sub": "Gruppo Grimaldi",
+        "sub_en": "Grimaldi Group"
+    },
+    {
+        "query": "Suntribe è stato fondato in",
+        "answer": " Estonia",
+        "sub": "Suntribe",
+        "sub_en": "Suntribe"
+    },
+    {
+        "query": "SM Prime Holdings è stato fondato in",
+        "answer": " Manila",
+        "sub": "SM Prime Holdings",
+        "sub_en": "SM Prime Holdings"
+    },
+    {
+        "query": "The Cranberries è stato fondato in",
+        "answer": " Limerick",
+        "sub": "The Cranberries",
+        "sub_en": "The Cranberries"
+    },
+    {
+        "query": "Povero me! è stato fondato in",
+        "answer": " Atlanta",
+        "sub": "Povero me!",
+        "sub_en": "Woe, Is Me"
+    },
+    {
+        "query": "Motori Walter è stato fondato in",
+        "answer": " Praga",
+        "sub": "Motori Walter",
+        "sub_en": "Walter Aircraft Engines"
+    },
+    {
+        "query": "M People è stato fondato in",
+        "answer": " Manchester",
+        "sub": "M People",
+        "sub_en": "M People"
+    },
+    {
+        "query": "Karpe è stato fondato in",
+        "answer": " Oslo",
+        "sub": "Karpe",
+        "sub_en": "Karpe"
+    },
+    {
+        "query": "Chipotle Mexican Grill è stato fondato in",
+        "answer": " Denver",
+        "sub": "Chipotle Mexican Grill",
+        "sub_en": "Chipotle Mexican Grill"
+    },
+    {
+        "query": "Realtek è stato fondato in",
+        "answer": " Taiwan",
+        "sub": "Realtek",
+        "sub_en": "Realtek"
+    },
+    {
+        "query": "Arch Enemy è stato fondato in",
+        "answer": " Svezia",
+        "sub": "Arch Enemy",
+        "sub_en": "Arch Enemy"
+    },
+    {
+        "query": "Adam and the Ants è stato fondato in",
+        "answer": " Londra",
+        "sub": "Adam and the Ants",
+        "sub_en": "Adam and the Ants"
+    },
+    {
+        "query": "Visma è stato fondato in",
+        "answer": " Oslo",
+        "sub": "Visma",
+        "sub_en": "Visma"
+    },
+    {
+        "query": "Parata mattutina è stato fondato in",
+        "answer": " Harlow",
+        "sub": "Parata mattutina",
+        "sub_en": "Morning Parade"
+    },
+    {
+        "query": "Faro di Edison è stato fondato in",
+        "answer": " Londra",
+        "sub": "Faro di Edison",
+        "sub_en": "Edison Lighthouse"
+    },
+    {
+        "query": "Harvey Danger è stato fondato in",
+        "answer": " Seattle",
+        "sub": "Harvey Danger",
+        "sub_en": "Harvey Danger"
+    },
+    {
+        "query": "Skeletonwitch è stato fondato in",
+        "answer": " Atene",
+        "sub": "Skeletonwitch",
+        "sub_en": "Skeletonwitch"
+    },
+    {
+        "query": "Coldplay è stato fondato in",
+        "answer": " Londra",
+        "sub": "Coldplay",
+        "sub_en": "Coldplay"
+    },
+    {
+        "query": "Esselte è stato fondato in",
+        "answer": " Stoccolma",
+        "sub": "Esselte",
+        "sub_en": "Esselte"
+    },
+    {
+        "query": "Boucheron è stato fondato in",
+        "answer": " Parigi",
+        "sub": "Boucheron",
+        "sub_en": "Boucheron"
+    },
+    {
+        "query": "The Fleetwoods è stato fondato in",
+        "answer": " Olimpia",
+        "sub": "The Fleetwoods",
+        "sub_en": "The Fleetwoods"
+    },
+    {
+        "query": "Registratore della scatola nera è stato fondato in",
+        "answer": " Londra",
+        "sub": "Registratore della scatola nera",
+        "sub_en": "Black Box Recorder"
+    },
+    {
+        "query": "Forme di vita a base di carbonio è stato fondato in",
+        "answer": " Göteborg",
+        "sub": "Forme di vita a base di carbonio",
+        "sub_en": "Carbon Based Lifeforms"
+    },
+    {
+        "query": "LZ7 è stato fondato in",
+        "answer": " Manchester",
+        "sub": "LZ7",
+        "sub_en": "LZ7"
+    },
+    {
+        "query": "Ivoryline è stato fondato in",
+        "answer": " Tyler",
+        "sub": "Ivoryline",
+        "sub_en": "Ivoryline"
+    },
+    {
+        "query": "Dandi Vento è stato fondato in",
+        "answer": " Vancouver",
+        "sub": "Dandi Vento",
+        "sub_en": "Dandi Wind"
+    },
+    {
+        "query": "Horslips è stato fondato in",
+        "answer": " Dublino",
+        "sub": "Horslips",
+        "sub_en": "Horslips"
+    },
+    {
+        "query": "I tre Giovanni è stato fondato in",
+        "answer": " Leeds",
+        "sub": "I tre Giovanni",
+        "sub_en": "The Three Johns"
+    },
+    {
+        "query": "Mansun è stato fondato in",
+        "answer": " Chester",
+        "sub": "Mansun",
+        "sub_en": "Mansun"
+    },
+    {
+        "query": "Avvertenza Giocattolo da Galleggiamento è stato fondato in",
+        "answer": " Londra",
+        "sub": "Avvertenza Giocattolo da Galleggiamento",
+        "sub_en": "Flotation Toy Warning"
+    },
+    {
+        "query": "Ayria è stato fondato in",
+        "answer": " Toronto",
+        "sub": "Ayria",
+        "sub_en": "Ayria"
+    },
+    {
+        "query": "MeSenzaTe è stato fondato in",
+        "answer": " Philadelphia",
+        "sub": "MeSenzaTe",
+        "sub_en": "MewithoutYou"
+    },
+    {
+        "query": "Lizaveta puzzolente è stato fondato in",
+        "answer": " Philadelphia",
+        "sub": "Lizaveta puzzolente",
+        "sub_en": "Stinking Lizaveta"
+    },
+    {
+        "query": "I Primitivi è stato fondato in",
+        "answer": " Coventry",
+        "sub": "I Primitivi",
+        "sub_en": "The Primitives"
+    },
+    {
+        "query": "16 bit è stato fondato in",
+        "answer": " Londra",
+        "sub": "16 bit",
+        "sub_en": "16bit"
+    },
+    {
+        "query": "United Airlines Holding è stato fondato in",
+        "answer": " Chicago",
+        "sub": "United Airlines Holding",
+        "sub_en": "United Airlines Holdings"
+    },
+    {
+        "query": "Class Editori è stato fondato in",
+        "answer": " Milano",
+        "sub": "Class Editori",
+        "sub_en": "Class Editori"
+    },
+    {
+        "query": "La Cronaca del Mattino è stato fondato in",
+        "answer": " Londra",
+        "sub": "La Cronaca del Mattino",
+        "sub_en": "The Morning Chronicle"
+    },
+    {
+        "query": "Denzil è stato fondato in",
+        "answer": " Bournemouth",
+        "sub": "Denzil",
+        "sub_en": "Denzil"
+    },
+    {
+        "query": "Grocon è stato fondato in",
+        "answer": " Melbourne",
+        "sub": "Grocon",
+        "sub_en": "Grocon"
+    },
+    {
+        "query": "The Dunwells è stato fondato in",
+        "answer": " Leeds",
+        "sub": "The Dunwells",
+        "sub_en": "The Dunwells"
+    },
+    {
+        "query": "Berliner Maschinenbau è stato fondato in",
+        "answer": " Berlin",
+        "sub": "Berliner Maschinenbau",
+        "sub_en": "Berliner Maschinenbau"
+    },
+    {
+        "query": "Battlecross è stato fondato in",
+        "answer": " Canton",
+        "sub": "Battlecross",
+        "sub_en": "Battlecross"
+    },
+    {
+        "query": "Lo straniero è stato fondato in",
+        "answer": " Birmingham",
+        "sub": "Lo straniero",
+        "sub_en": "Johnny Foreigner"
+    },
+    {
+        "query": "Das Racist è stato fondato in",
+        "answer": " Brooklyn",
+        "sub": "Das Racist",
+        "sub_en": "Das Racist"
+    },
+    {
+        "query": "Innocenti è stato fondato in",
+        "answer": " Milano",
+        "sub": "Innocenti",
+        "sub_en": "Innocenti"
+    },
+    {
+        "query": "Miami Horror è stato fondato in",
+        "answer": " Melbourne",
+        "sub": "Miami Horror",
+        "sub_en": "Miami Horror"
+    },
+    {
+        "query": "Five Stairsteps è stato fondato in",
+        "answer": " Chicago",
+        "sub": "Five Stairsteps",
+        "sub_en": "Five Stairsteps"
+    },
+    {
+        "query": "Il Dossier del Suicidio è stato fondato in",
+        "answer": " Boston",
+        "sub": "Il Dossier del Suicidio",
+        "sub_en": "The Suicide File"
+    },
+    {
+        "query": "W Motors è stato fondato in",
+        "answer": " Libano",
+        "sub": "W Motors",
+        "sub_en": "W Motors"
+    },
+    {
+        "query": "Ansett Australia è stato fondato in",
+        "answer": " Melbourne",
+        "sub": "Ansett Australia",
+        "sub_en": "Ansett Australia"
+    },
+    {
+        "query": "Guster è stato fondato in",
+        "answer": " Boston",
+        "sub": "Guster",
+        "sub_en": "Guster"
+    },
+    {
+        "query": "Compagnia Svedese delle Indie Orientali è stato fondato in",
+        "answer": " Göteborg",
+        "sub": "Compagnia Svedese delle Indie Orientali",
+        "sub_en": "Swedish East India Company"
+    },
+    {
+        "query": "Test di ghiaccioli è stato fondato in",
+        "answer": " Londra",
+        "sub": "Test di ghiaccioli",
+        "sub_en": "Test Icicles"
+    },
+    {
+        "query": "The Duke Spirit è stato fondato in",
+        "answer": " Londra",
+        "sub": "The Duke Spirit",
+        "sub_en": "The Duke Spirit"
+    },
+    {
+        "query": "Vivian Girls è stato fondato in",
+        "answer": " Brooklyn",
+        "sub": "Vivian Girls",
+        "sub_en": "Vivian Girls"
+    },
+    {
+        "query": "Gayngs è stato fondato in",
+        "answer": " Minneapolis",
+        "sub": "Gayngs",
+        "sub_en": "Gayngs"
+    },
+    {
+        "query": "Selig Polyscope Company è stato fondato in",
+        "answer": " Chicago",
+        "sub": "Selig Polyscope Company",
+        "sub_en": "Selig Polyscope Company"
+    },
+    {
+        "query": "John Schumann e la Vagabond Crew è stato fondato in",
+        "answer": " Adelaide",
+        "sub": "John Schumann e la Vagabond Crew",
+        "sub_en": "John Schumann and the Vagabond Crew"
+    },
+    {
+        "query": "Ivan e Alëša è stato fondato in",
+        "answer": " Seattle",
+        "sub": "Ivan e Alëša",
+        "sub_en": "Ivan & Alyosha"
+    },
+    {
+        "query": "Tooth & Nail Records è stato fondato in",
+        "answer": " California",
+        "sub": "Tooth & Nail Records",
+        "sub_en": "Tooth & Nail Records"
+    },
+    {
+        "query": "I lunghi inverni è stato fondato in",
+        "answer": " Seattle",
+        "sub": "I lunghi inverni",
+        "sub_en": "The Long Winters"
+    },
+    {
+        "query": "Gnarwolves è stato fondato in",
+        "answer": " Brighton",
+        "sub": "Gnarwolves",
+        "sub_en": "Gnarwolves"
+    },
+    {
+        "query": "Branobel è stato fondato in",
+        "answer": " Baku",
+        "sub": "Branobel",
+        "sub_en": "Branobel"
+    },
+    {
+        "query": "Madcon è stato fondato in",
+        "answer": " Oslo",
+        "sub": "Madcon",
+        "sub_en": "Madcon"
+    },
+    {
+        "query": "Fruehauf Trailer Corporation è stato fondato in",
+        "answer": " Detroit",
+        "sub": "Fruehauf Trailer Corporation",
+        "sub_en": "Fruehauf Trailer Corporation"
+    },
+    {
+        "query": "The Home Depot è stato fondato in",
+        "answer": " Atlanta",
+        "sub": "The Home Depot",
+        "sub_en": "The Home Depot"
+    },
+    {
+        "query": "E così ti osservo da lontano è stato fondato in",
+        "answer": " Belfast",
+        "sub": "E così ti osservo da lontano",
+        "sub_en": "And So I Watch You From Afar"
+    },
+    {
+        "query": "Faema è stato fondato in",
+        "answer": " Milano",
+        "sub": "Faema",
+        "sub_en": "Faema"
+    },
+    {
+        "query": "Stravaganza è stato fondato in",
+        "answer": " Madrid",
+        "sub": "Stravaganza",
+        "sub_en": "Stravaganzza"
+    },
+    {
+        "query": "Gli Uomini U. è stato fondato in",
+        "answer": " Seattle",
+        "sub": "Gli Uomini U.",
+        "sub_en": "The U-Men"
+    },
+    {
+        "query": "Milton Bradley Company è stato fondato in",
+        "answer": " Springfield",
+        "sub": "Milton Bradley Company",
+        "sub_en": "Milton Bradley Company"
+    },
+    {
+        "query": "Banca Commerciale Italiana è stato fondato in",
+        "answer": " Milano",
+        "sub": "Banca Commerciale Italiana",
+        "sub_en": "Banca Commerciale Italiana"
+    },
+    {
+        "query": "Agonizzare è stato fondato in",
+        "answer": " Berlin",
+        "sub": "Agonizzare",
+        "sub_en": "Agonoize"
+    },
+    {
+        "query": "Solex è stato fondato in",
+        "answer": " Parigi",
+        "sub": "Solex",
+        "sub_en": "Solex"
+    },
+    {
+        "query": "Ecco! è stato fondato in",
+        "answer": " Israele",
+        "sub": "Ecco!",
+        "sub_en": "Walla!"
+    },
+    {
+        "query": "Pozzi è stato fondato in",
+        "answer": " Oslo",
+        "sub": "Pozzi",
+        "sub_en": "Pitsj"
+    },
+    {
+        "query": "Lykke Li è stato fondato in",
+        "answer": " Svezia",
+        "sub": "Lykke Li",
+        "sub_en": "Lykke Li"
+    },
+    {
+        "query": "Furia di Meliah è stato fondato in",
+        "answer": " Boston",
+        "sub": "Furia di Meliah",
+        "sub_en": "Meliah Rage"
+    },
+    {
+        "query": "Odesza è stato fondato in",
+        "answer": " Seattle",
+        "sub": "Odesza",
+        "sub_en": "Odesza"
+    },
+    {
+        "query": "Salvataggio Husky è stato fondato in",
+        "answer": " Helsinki",
+        "sub": "Salvataggio Husky",
+        "sub_en": "Husky Rescue"
+    },
+    {
+        "query": "Dynaco è stato fondato in",
+        "answer": " Philadelphia",
+        "sub": "Dynaco",
+        "sub_en": "Dynaco"
+    },
+    {
+        "query": "Herpa Wings è stato fondato in",
+        "answer": " Germania",
+        "sub": "Herpa Wings",
+        "sub_en": "Herpa Wings"
+    },
+    {
+        "query": "LVMH è stato fondato in",
+        "answer": " Parigi",
+        "sub": "LVMH",
+        "sub_en": "LVMH"
+    },
+    {
+        "query": "Furla è stato fondato in",
+        "answer": " Bologna",
+        "sub": "Furla",
+        "sub_en": "Furla"
+    },
+    {
+        "query": "Amore Jaguar è stato fondato in",
+        "answer": " Seattle",
+        "sub": "Amore Jaguar",
+        "sub_en": "Jaguar Love"
+    },
+    {
+        "query": "Caesars Entertainment è stato fondato in",
+        "answer": " Reno",
+        "sub": "Caesars Entertainment",
+        "sub_en": "Caesars Entertainment"
+    },
+    {
+        "query": "Halloween è stato fondato in",
+        "answer": " Amburgo",
+        "sub": "Halloween",
+        "sub_en": "Helloween"
+    },
+    {
+        "query": "Uomo Uomo è stato fondato in",
+        "answer": " Philadelphia",
+        "sub": "Uomo Uomo",
+        "sub_en": "Man Man"
+    },
+    {
+        "query": "Paperi Deluxe è stato fondato in",
+        "answer": " Londra",
+        "sub": "Paperi Deluxe",
+        "sub_en": "Ducks Deluxe"
+    },
+    {
+        "query": "Tigre, per favore. è stato fondato in",
+        "answer": " Cardiff",
+        "sub": "Tigre, per favore.",
+        "sub_en": "Tiger Please"
+    },
+    {
+        "query": "I Residenti è stato fondato in",
+        "answer": " Shreveport",
+        "sub": "I Residenti",
+        "sub_en": "The Residents"
+    },
+    {
+        "query": "Sparco è stato fondato in",
+        "answer": " Torino",
+        "sub": "Sparco",
+        "sub_en": "Sparco"
+    },
+    {
+        "query": "Ikegami Tsushinki è stato fondato in",
+        "answer": " Tokyo",
+        "sub": "Ikegami Tsushinki",
+        "sub_en": "Ikegami Tsushinki"
+    },
+    {
+        "query": "Grammatrain è stato fondato in",
+        "answer": " Seattle",
+        "sub": "Grammatrain",
+        "sub_en": "Grammatrain"
+    },
+    {
+        "query": "Banco Popolare è stato fondato in",
+        "answer": " Verona",
+        "sub": "Banco Popolare",
+        "sub_en": "Banco Popolare"
+    },
+    {
+        "query": "Divisione di Sistema è stato fondato in",
+        "answer": " Belgio",
+        "sub": "Divisione di Sistema",
+        "sub_en": "System Divide"
+    },
+    {
+        "query": "Istituto Polare è stato fondato in",
+        "answer": " Perth",
+        "sub": "Istituto Polare",
+        "sub_en": "Institut Polaire"
+    },
+    {
+        "query": "Dexys Midnight Runners è stato fondato in",
+        "answer": " Birmingham",
+        "sub": "Dexys Midnight Runners",
+        "sub_en": "Dexys Midnight Runners"
+    },
+    {
+        "query": "controller.controller è stato fondato in",
+        "answer": " Canada",
+        "sub": "controller.controller",
+        "sub_en": "controller.controller"
+    },
+    {
+        "query": "Piasecki Helicopter Corporation è stato fondato in",
+        "answer": " Philadelphia",
+        "sub": "Piasecki Helicopter Corporation",
+        "sub_en": "Piasecki Helicopter Corporation"
+    },
+    {
+        "query": "Qatargas è stato fondato in",
+        "answer": " Qatar",
+        "sub": "Qatargas",
+        "sub_en": "Qatargas"
+    },
+    {
+        "query": "Vignale è stato fondato in",
+        "answer": " Torino",
+        "sub": "Vignale",
+        "sub_en": "Vignale"
+    },
+    {
+        "query": "American Hi-Fi è stato fondato in",
+        "answer": " Boston",
+        "sub": "American Hi-Fi",
+        "sub_en": "American Hi-Fi"
+    },
+    {
+        "query": "Nexstar Media Group è stato fondato in",
+        "answer": " Irving",
+        "sub": "Nexstar Media Group",
+        "sub_en": "Nexstar Media Group"
+    },
+    {
+        "query": "Robomodo è stato fondato in",
+        "answer": " Chicago",
+        "sub": "Robomodo",
+        "sub_en": "Robomodo"
+    },
+    {
+        "query": "Mingxing Film Company è stato fondato in",
+        "answer": " Shanghai",
+        "sub": "Mingxing Film Company",
+        "sub_en": "Mingxing Film Company"
+    },
+    {
+        "query": "Neon Indian è stato fondato in",
+        "answer": " Denton",
+        "sub": "Neon Indian",
+        "sub_en": "Neon Indian"
+    },
+    {
+        "query": "Bee Gees è stato fondato in",
+        "answer": " Manchester",
+        "sub": "Bee Gees",
+        "sub_en": "Bee Gees"
+    },
+    {
+        "query": "The Rockin' Vickers è stato fondato in",
+        "answer": " Blackpool",
+        "sub": "The Rockin' Vickers",
+        "sub_en": "The Rockin' Vickers"
+    },
+    {
+        "query": "BYG Attuale è stato fondato in",
+        "answer": " Parigi",
+        "sub": "BYG Attuale",
+        "sub_en": "BYG Actuel"
+    },
+    {
+        "query": "Cadbury è stato fondato in",
+        "answer": " Birmingham",
+        "sub": "Cadbury",
+        "sub_en": "Cadbury"
+    },
+    {
+        "query": "Torta è stato fondato in",
+        "answer": " Sacramento",
+        "sub": "Torta",
+        "sub_en": "Cake"
+    },
+    {
+        "query": "Corda azionata è stato fondato in",
+        "answer": " Scozia",
+        "sub": "Corda azionata",
+        "sub_en": "String Driven Thing"
+    },
+    {
+        "query": "Su ali spezzate è stato fondato in",
+        "answer": " Scafo",
+        "sub": "Su ali spezzate",
+        "sub_en": "On Broken Wings"
+    },
+    {
+        "query": "Mosfilm è stato fondato in",
+        "answer": " Mosca",
+        "sub": "Mosfilm",
+        "sub_en": "Mosfilm"
+    },
+    {
+        "query": "Teatro dell'Odio è stato fondato in",
+        "answer": " Londra",
+        "sub": "Teatro dell'Odio",
+        "sub_en": "Theatre of Hate"
+    },
+    {
+        "query": "Acrassicauda è stato fondato in",
+        "answer": " Baghdad",
+        "sub": "Acrassicauda",
+        "sub_en": "Acrassicauda"
+    },
+    {
+        "query": "Hot Chip è stato fondato in",
+        "answer": " Londra",
+        "sub": "Hot Chip",
+        "sub_en": "Hot Chip"
+    },
+    {
+        "query": "Massachusetts Mutual Life Insurance Company è stato fondato in",
+        "answer": " Springfield",
+        "sub": "Massachusetts Mutual Life Insurance Company",
+        "sub_en": "Massachusetts Mutual Life Insurance Company"
+    },
+    {
+        "query": "Nakamichi è stato fondato in",
+        "answer": " Tokyo",
+        "sub": "Nakamichi",
+        "sub_en": "Nakamichi"
+    },
+    {
+        "query": "The Georgia Satellites è stato fondato in",
+        "answer": " Atlanta",
+        "sub": "The Georgia Satellites",
+        "sub_en": "The Georgia Satellites"
+    },
+    {
+        "query": "Radice! è stato fondato in",
+        "answer": " Melbourne",
+        "sub": "Radice!",
+        "sub_en": "Root!"
+    },
+    {
+        "query": "Banca Pekao è stato fondato in",
+        "answer": " Varsavia",
+        "sub": "Banca Pekao",
+        "sub_en": "Bank Pekao"
+    },
+    {
+        "query": "Inferno Interiore è stato fondato in",
+        "answer": " Lowell",
+        "sub": "Inferno Interiore",
+        "sub_en": "Hell Within"
+    },
+    {
+        "query": "Fayard è stato fondato in",
+        "answer": " Parigi",
+        "sub": "Fayard",
+        "sub_en": "Fayard"
+    },
+    {
+        "query": "Sinclair Radionics è stato fondato in",
+        "answer": " Cambridge",
+        "sub": "Sinclair Radionics",
+        "sub_en": "Sinclair Radionics"
+    },
+    {
+        "query": "Cosworth è stato fondato in",
+        "answer": " Londra",
+        "sub": "Cosworth",
+        "sub_en": "Cosworth"
+    },
+    {
+        "query": "Burger King è stato fondato in",
+        "answer": " Miami",
+        "sub": "Burger King",
+        "sub_en": "Burger King"
+    },
+    {
+        "query": "Sidley Austin è stato fondato in",
+        "answer": " Chicago",
+        "sub": "Sidley Austin",
+        "sub_en": "Sidley Austin"
+    },
+    {
+        "query": "De Press è stato fondato in",
+        "answer": " Oslo",
+        "sub": "De Press",
+        "sub_en": "De Press"
+    },
+    {
+        "query": "Questo et al. è stato fondato in",
+        "answer": " Leeds",
+        "sub": "Questo et al.",
+        "sub_en": "This Et Al"
+    },
+    {
+        "query": "Coro di Westminster è stato fondato in",
+        "answer": " Westminster",
+        "sub": "Coro di Westminster",
+        "sub_en": "Westminster Chorus"
+    },
+    {
+        "query": "Labelle è stato fondato in",
+        "answer": " Philadelphia",
+        "sub": "Labelle",
+        "sub_en": "Labelle"
+    },
+    {
+        "query": "La Reputazione è stato fondato in",
+        "answer": " Chicago",
+        "sub": "La Reputazione",
+        "sub_en": "The Reputation"
+    },
+    {
+        "query": "News Corp Australia è stato fondato in",
+        "answer": " Adelaide",
+        "sub": "News Corp Australia",
+        "sub_en": "News Corp Australia"
+    },
+    {
+        "query": "Gli Occhi che si Svegliano è stato fondato in",
+        "answer": " Winnipeg",
+        "sub": "Gli Occhi che si Svegliano",
+        "sub_en": "The Waking Eyes"
+    },
+    {
+        "query": "Icaro è stato fondato in",
+        "answer": " Budapest",
+        "sub": "Icaro",
+        "sub_en": "Ikarus"
+    },
+    {
+        "query": "IndusInd Bank è stato fondato in",
+        "answer": " Mumbai",
+        "sub": "IndusInd Bank",
+        "sub_en": "IndusInd Bank"
+    },
+    {
+        "query": "Strega Icaro è stato fondato in",
+        "answer": " Pittsburgh",
+        "sub": "Strega Icaro",
+        "sub_en": "Icarus Witch"
+    },
+    {
+        "query": "Calze di cemento è stato fondato in",
+        "answer": " Nottingham",
+        "sub": "Calze di cemento",
+        "sub_en": "Concrete Sox"
+    },
+    {
+        "query": "Feyenoord è stato fondato in",
+        "answer": " Rotterdam",
+        "sub": "Feyenoord",
+        "sub_en": "Feyenoord"
+    },
+    {
+        "query": "Aeternus è stato fondato in",
+        "answer": " Bergen",
+        "sub": "Aeternus",
+        "sub_en": "Aeternus"
+    },
+    {
+        "query": "Simian Mobile Disco è stato fondato in",
+        "answer": " Londra",
+        "sub": "Simian Mobile Disco",
+        "sub_en": "Simian Mobile Disco"
+    },
+    {
+        "query": "Banca per lo Sviluppo delle Imprese del Canada è stato fondato in",
+        "answer": " Montréal",
+        "sub": "Banca per lo Sviluppo delle Imprese del Canada",
+        "sub_en": "Business Development Bank of Canada"
+    },
+    {
+        "query": "Arctic Monkeys è stato fondato in",
+        "answer": " Sheffield",
+        "sub": "Arctic Monkeys",
+        "sub_en": "Arctic Monkeys"
+    },
+    {
+        "query": "Krauss-Maffei è stato fondato in",
+        "answer": " Monaco di Baviera",
+        "sub": "Krauss-Maffei",
+        "sub_en": "Krauss-Maffei"
+    },
+    {
+        "query": "Arconte Infausto è stato fondato in",
+        "answer": " Parigi",
+        "sub": "Arconte Infausto",
+        "sub_en": "Arkhon Infaustus"
+    },
+    {
+        "query": "Hines Interests Limited Partnership è stato fondato in",
+        "answer": " Houston",
+        "sub": "Hines Interests Limited Partnership",
+        "sub_en": "Hines Interests Limited Partnership"
+    },
+    {
+        "query": "Nippon Yusen è stato fondato in",
+        "answer": " Tokyo",
+        "sub": "Nippon Yusen",
+        "sub_en": "Nippon Yusen"
+    },
+    {
+        "query": "Legg Mason è stato fondato in",
+        "answer": " Baltimore",
+        "sub": "Legg Mason",
+        "sub_en": "Legg Mason"
+    },
+    {
+        "query": "Murlyn Music Group è stato fondato in",
+        "answer": " Svezia",
+        "sub": "Murlyn Music Group",
+        "sub_en": "Murlyn Music Group"
+    },
+    {
+        "query": "TD Canada Trust è stato fondato in",
+        "answer": " Toronto",
+        "sub": "TD Canada Trust",
+        "sub_en": "TD Canada Trust"
+    },
+    {
+        "query": "Musica da stadio è stato fondato in",
+        "answer": " Brisbane",
+        "sub": "Musica da stadio",
+        "sub_en": "Ball Park Music"
+    },
+    {
+        "query": "Spectrum-X è stato fondato in",
+        "answer": " Italia",
+        "sub": "Spectrum-X",
+        "sub_en": "Spectrum-X"
+    },
+    {
+        "query": "Chanel è stato fondato in",
+        "answer": " Parigi",
+        "sub": "Chanel",
+        "sub_en": "Chanel"
+    },
+    {
+        "query": "National Iranian Oil Company è stato fondato in",
+        "answer": " Tehran",
+        "sub": "National Iranian Oil Company",
+        "sub_en": "National Iranian Oil Company"
+    },
+    {
+        "query": "Stardust Five è stato fondato in",
+        "answer": " Melbourne",
+        "sub": "Stardust Five",
+        "sub_en": "Stardust Five"
+    },
+    {
+        "query": "Bambino britannico è stato fondato in",
+        "answer": " Manchester",
+        "sub": "Bambino britannico",
+        "sub_en": "Kid British"
+    }
+]

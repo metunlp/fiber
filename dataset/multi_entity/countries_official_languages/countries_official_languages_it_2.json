@@ -1,0 +1,1051 @@
+[
+    {
+        "query": "Il numero di lingue ufficiali dell'Albania è",
+        "answer": " 1",
+        "sub": "Albania",
+        "count": "1",
+        "list": [
+            " Albanese"
+        ],
+        "en_sub": "Albania"
+    },
+    {
+        "query": "Il numero di lingue ufficiali dell'Argentina è",
+        "answer": " 1",
+        "sub": "Argentina",
+        "count": "1",
+        "list": [
+            " Spagnolo"
+        ],
+        "en_sub": "Argentina"
+    },
+    {
+        "query": "Il numero di lingue ufficiali dell'Armenia è",
+        "answer": " 1",
+        "sub": "Armenia",
+        "count": "1",
+        "list": [
+            " Armeno"
+        ],
+        "en_sub": "Armenia"
+    },
+    {
+        "query": "Il numero di lingue ufficiali dell'Australia è",
+        "answer": " 1",
+        "sub": "Australia",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Australia"
+    },
+    {
+        "query": "Il numero di lingue ufficiali dell'Austria è",
+        "answer": " 1",
+        "sub": "Austria",
+        "count": "1",
+        "list": [
+            " Tedesco"
+        ],
+        "en_sub": "Austria"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Bahamas è",
+        "answer": " 1",
+        "sub": "Bahamas",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Bahamas"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Belize è",
+        "answer": " 1",
+        "sub": "Belize",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Belize"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Bolivia è",
+        "answer": " 37",
+        "sub": "Bolivia",
+        "count": "37",
+        "list": [
+            " Spagnolo",
+            " Aymara",
+            " Araona",
+            " Baure",
+            " Bésiro",
+            " Canichana",
+            " Cavineño",
+            " Cayubaba",
+            " Chácobo",
+            " Chimán",
+            " Ese Ejja",
+            " Guaraní",
+            " Guarasu'we",
+            " Guarayu",
+            " Itonama",
+            " Leco",
+            " Machajuyai-kallawaya",
+            " Machineri",
+            " Maropa",
+            " Mojeñotrinitario",
+            " Mojeño-ignaciano",
+            " Moré",
+            " Mosetén",
+            " Movima",
+            " Pacawara",
+            " Puquina",
+            " Quechua",
+            " Sirionó",
+            " Tacana",
+            " Tapiete",
+            " Toromona",
+            " Uruchipaya",
+            " Weenhayek",
+            " Yaminawa",
+            " Yuki",
+            " Yuracaré",
+            " Zamuco"
+        ],
+        "en_sub": "Bolivia"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Bosnia ed Erzegovina è",
+        "answer": " 3",
+        "sub": "Bosnia ed Erzegovina",
+        "count": "3",
+        "list": [
+            " Bosniaco",
+            " Croato",
+            " Serbo"
+        ],
+        "en_sub": "Bosnia and Herzegovina"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Botswana è",
+        "answer": " 1",
+        "sub": "Botswana",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Botswana"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Brasile è",
+        "answer": " 1",
+        "sub": "Brasile",
+        "count": "1",
+        "list": [
+            " Portoghese"
+        ],
+        "en_sub": "Brazil"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Brunei è",
+        "answer": " 1",
+        "sub": "Brunei",
+        "count": "1",
+        "list": [
+            " Malese"
+        ],
+        "en_sub": "Brunei"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Bulgaria è",
+        "answer": " 1",
+        "sub": "Bulgaria",
+        "count": "1",
+        "list": [
+            " Bulgaro"
+        ],
+        "en_sub": "Bulgaria"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Burkina Faso è",
+        "answer": " 4",
+        "sub": "Burkina Faso",
+        "count": "4",
+        "list": [
+            " Mooré",
+            " Bissa",
+            " Dyula",
+            " Fula"
+        ],
+        "en_sub": "Burkina Faso"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Capo Verde è",
+        "answer": " 1",
+        "sub": "Capo Verde",
+        "count": "1",
+        "list": [
+            " Portoghese"
+        ],
+        "en_sub": "Cabo Verde"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Cambogia è",
+        "answer": " 1",
+        "sub": "Cambogia",
+        "count": "1",
+        "list": [
+            " Khmer"
+        ],
+        "en_sub": "Cambodia"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Canada è",
+        "answer": " 2",
+        "sub": "Canada",
+        "count": "2",
+        "list": [
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Canada"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Cile è",
+        "answer": " 1",
+        "sub": "Cile",
+        "count": "1",
+        "list": [
+            " Spagnolo"
+        ],
+        "en_sub": "Chile"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Cina è",
+        "answer": " 1",
+        "sub": "Cina",
+        "count": "1",
+        "list": [
+            " Cinese Mandarino"
+        ],
+        "en_sub": "China"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Costa d'Avorio è",
+        "answer": " 1",
+        "sub": "Costa d'Avorio",
+        "count": "1",
+        "list": [
+            " Francese"
+        ],
+        "en_sub": "Ivory Coast"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Costa Rica è",
+        "answer": " 1",
+        "sub": "Costa Rica",
+        "count": "1",
+        "list": [
+            " Spagnolo"
+        ],
+        "en_sub": "Costa Rica"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Croazia è",
+        "answer": " 1",
+        "sub": "Croazia",
+        "count": "1",
+        "list": [
+            " Croato"
+        ],
+        "en_sub": "Croatia"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Corea del Nord è",
+        "answer": " 1",
+        "sub": "Corea del Nord",
+        "count": "1",
+        "list": [
+            " Coreano"
+        ],
+        "en_sub": "North Korea"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Repubblica Democratica del Congo è",
+        "answer": " 1",
+        "sub": "Repubblica Democratica del Congo",
+        "count": "1",
+        "list": [
+            " Francese"
+        ],
+        "en_sub": "Democratic Republic of the Congo"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Danimarca è",
+        "answer": " 1",
+        "sub": "Danimarca",
+        "count": "1",
+        "list": [
+            " Danese"
+        ],
+        "en_sub": "Denmark"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Gibuti è",
+        "answer": " 2",
+        "sub": "Gibuti",
+        "count": "2",
+        "list": [
+            " Francese",
+            " Arabo"
+        ],
+        "en_sub": "Djibouti"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Dominica è",
+        "answer": " 1",
+        "sub": "Dominica",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Dominica"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Repubblica Dominicana è",
+        "answer": " 1",
+        "sub": "Repubblica Dominicana",
+        "count": "1",
+        "list": [
+            " Spagnolo"
+        ],
+        "en_sub": "Dominican Republic"
+    },
+    {
+        "query": "Il numero di lingue ufficiali dell'Eritrea è",
+        "answer": " 3",
+        "sub": "Eritrea",
+        "count": "3",
+        "list": [
+            " Tigrinya",
+            " Arabo",
+            " Inglese"
+        ],
+        "en_sub": "Eritrea"
+    },
+    {
+        "query": "Il numero di lingue ufficiali dell'Estonia è",
+        "answer": " 1",
+        "sub": "Estonia",
+        "count": "1",
+        "list": [
+            " Estone"
+        ],
+        "en_sub": "Estonia"
+    },
+    {
+        "query": "Il numero di lingue ufficiali dell'Eswatini è",
+        "answer": " 2",
+        "sub": "Eswatini",
+        "count": "2",
+        "list": [
+            " Swazi",
+            " Inglese"
+        ],
+        "en_sub": "Eswatini"
+    },
+    {
+        "query": "Il numero di lingue ufficiali dell'Etiopia è",
+        "answer": " 1",
+        "sub": "Etiopia",
+        "count": "1",
+        "list": [
+            " Amarico"
+        ],
+        "en_sub": "Ethiopia"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Figi è",
+        "answer": " 3",
+        "sub": "Figi",
+        "count": "3",
+        "list": [
+            " Inglese",
+            " Figiano",
+            " Hindi figiano"
+        ],
+        "en_sub": "Fiji"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Gabon è",
+        "answer": " 1",
+        "sub": "Gabon",
+        "count": "1",
+        "list": [
+            " Francese"
+        ],
+        "en_sub": "Gabon"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Grecia è",
+        "answer": " 1",
+        "sub": "Grecia",
+        "count": "1",
+        "list": [
+            " Greco"
+        ],
+        "en_sub": "Greece"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Grenada è",
+        "answer": " 1",
+        "sub": "Grenada",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Grenada"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Guinea è",
+        "answer": " 1",
+        "sub": "Guinea",
+        "count": "1",
+        "list": [
+            " Francese"
+        ],
+        "en_sub": "Guinea"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Guinea-Bissau è",
+        "answer": " 1",
+        "sub": "Guinea-Bissau",
+        "count": "1",
+        "list": [
+            " Portoghese"
+        ],
+        "en_sub": "Guinea Bissau"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Honduras è",
+        "answer": " 1",
+        "sub": "Honduras",
+        "count": "1",
+        "list": [
+            " Spagnolo"
+        ],
+        "en_sub": "Honduras"
+    },
+    {
+        "query": "Il numero di lingue ufficiali dell'Ungheria è",
+        "answer": " 1",
+        "sub": "Ungheria",
+        "count": "1",
+        "list": [
+            " Ungherese"
+        ],
+        "en_sub": "Hungary"
+    },
+    {
+        "query": "Il numero di lingue ufficiali dell'India è",
+        "answer": " 2",
+        "sub": "India",
+        "count": "2",
+        "list": [
+            " Hindi",
+            " Inglese"
+        ],
+        "en_sub": "India"
+    },
+    {
+        "query": "Il numero di lingue ufficiali dell'Irlanda è",
+        "answer": " 2",
+        "sub": "Irlanda",
+        "count": "2",
+        "list": [
+            " Irlandese",
+            " Inglese"
+        ],
+        "en_sub": "Ireland"
+    },
+    {
+        "query": "Il numero di lingue ufficiali di Israele è",
+        "answer": " 2",
+        "sub": "Israele",
+        "count": "2",
+        "list": [
+            " Ebraico",
+            " Arabo"
+        ],
+        "en_sub": "Israel"
+    },
+    {
+        "query": "Il numero di lingue ufficiali dell'Italia è",
+        "answer": " 1",
+        "sub": "Italia",
+        "count": "1",
+        "list": [
+            " Italiano"
+        ],
+        "en_sub": "Italy"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Giordania è",
+        "answer": " 1",
+        "sub": "Giordania",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Jordan"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Kazakistan è",
+        "answer": " 2",
+        "sub": "Kazakistan",
+        "count": "2",
+        "list": [
+            " Kazako",
+            " Russo"
+        ],
+        "en_sub": "Kazakhstan"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Kenya è",
+        "answer": " 2",
+        "sub": "Kenya",
+        "count": "2",
+        "list": [
+            " Swahili",
+            " Inglese"
+        ],
+        "en_sub": "Kenya"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Kiribati è",
+        "answer": " 2",
+        "sub": "Kiribati",
+        "count": "2",
+        "list": [
+            " Inglese",
+            " Gilbertese"
+        ],
+        "en_sub": "Kiribati"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Kuwait è",
+        "answer": " 1",
+        "sub": "Kuwait",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Kuwait"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Laos è",
+        "answer": " 1",
+        "sub": "Laos",
+        "count": "1",
+        "list": [
+            " Laos"
+        ],
+        "en_sub": "Laos"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Lettonia è",
+        "answer": " 1",
+        "sub": "Lettonia",
+        "count": "1",
+        "list": [
+            " Lettone"
+        ],
+        "en_sub": "Latvia"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Libano è",
+        "answer": " 1",
+        "sub": "Libano",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Lebanon"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Libia è",
+        "answer": " 1",
+        "sub": "Libia",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Libya"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Liechtenstein è",
+        "answer": " 1",
+        "sub": "Liechtenstein",
+        "count": "1",
+        "list": [
+            " Tedesco"
+        ],
+        "en_sub": "Liechtenstein"
+    },
+    {
+        "query": "Il numero di lingue ufficiali delle Isole Marshall è",
+        "answer": " 2",
+        "sub": "Isole Marshall",
+        "count": "2",
+        "list": [
+            " Marshallese",
+            " Inglese"
+        ],
+        "en_sub": "Marshall Islands"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Mauritania è",
+        "answer": " 1",
+        "sub": "Mauritania",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Mauritania"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Mauritius è",
+        "answer": " 2",
+        "sub": "Mauritius",
+        "count": "2",
+        "list": [
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Mauritius"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Mongolia è",
+        "answer": " 1",
+        "sub": "Mongolia",
+        "count": "1",
+        "list": [
+            " Mongolo"
+        ],
+        "en_sub": "Mongolia"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Marocco è",
+        "answer": " 2",
+        "sub": "Marocco",
+        "count": "2",
+        "list": [
+            " Arabo",
+            " Tamazight"
+        ],
+        "en_sub": "Morocco"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Myanmar è",
+        "answer": " 1",
+        "sub": "Myanmar",
+        "count": "1",
+        "list": [
+            " Birmano"
+        ],
+        "en_sub": "Myanmar"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Namibia è",
+        "answer": " 1",
+        "sub": "Namibia",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Namibia"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Nauru è",
+        "answer": " 2",
+        "sub": "Nauru",
+        "count": "2",
+        "list": [
+            " Nauruano",
+            " Inglese"
+        ],
+        "en_sub": "Nauru"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Niger è",
+        "answer": " 1",
+        "sub": "Niger",
+        "count": "1",
+        "list": [
+            " Francese"
+        ],
+        "en_sub": "Niger"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Norvegia è",
+        "answer": " 1",
+        "sub": "Norvegia",
+        "count": "1",
+        "list": [
+            " Norvegese"
+        ],
+        "en_sub": "Norway"
+    },
+    {
+        "query": "Il numero di lingue ufficiali dell'Oman è",
+        "answer": " 1",
+        "sub": "Oman",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Oman"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Pakistan è",
+        "answer": " 2",
+        "sub": "Pakistan",
+        "count": "2",
+        "list": [
+            " Urdu",
+            " Inglese"
+        ],
+        "en_sub": "Pakistan"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Palau è",
+        "answer": " 2",
+        "sub": "Palau",
+        "count": "2",
+        "list": [
+            " Palauano",
+            " Inglese"
+        ],
+        "en_sub": "Palau"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Papua Nuova Guinea è",
+        "answer": " 4",
+        "sub": "Papua Nuova Guinea",
+        "count": "4",
+        "list": [
+            " Inglese",
+            " Tok Pisin",
+            " Hiri Motu",
+            " Lingua dei segni di PNG"
+        ],
+        "en_sub": "Papua New Guinea"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Paraguay è",
+        "answer": " 2",
+        "sub": "Paraguay",
+        "count": "2",
+        "list": [
+            " Spagnolo",
+            " Guarani"
+        ],
+        "en_sub": "Paraguay"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Qatar è",
+        "answer": " 1",
+        "sub": "Qatar",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Qatar"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Moldova è",
+        "answer": " 1",
+        "sub": "Moldova",
+        "count": "1",
+        "list": [
+            " Rumeno"
+        ],
+        "en_sub": "Moldova"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Romania è",
+        "answer": " 1",
+        "sub": "Romania",
+        "count": "1",
+        "list": [
+            " Rumeno"
+        ],
+        "en_sub": "Romania"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Ruanda è",
+        "answer": " 4",
+        "sub": "Ruanda",
+        "count": "4",
+        "list": [
+            " Kinyarwanda",
+            " Francese",
+            " Inglese",
+            " Swahili"
+        ],
+        "en_sub": "Rwanda"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Saint Kitts e Nevis è",
+        "answer": " 1",
+        "sub": "Saint Kitts e Nevis",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Saint Kitts and Nevis"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Saint Vincent e Grenadine è",
+        "answer": " 1",
+        "sub": "Saint Vincent e Grenadine",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Saint Vincent and the Grenadines"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del San Marino è",
+        "answer": " 1",
+        "sub": "San Marino",
+        "count": "1",
+        "list": [
+            " Italiano"
+        ],
+        "en_sub": "San Marino"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Senegal è",
+        "answer": " 1",
+        "sub": "Senegal",
+        "count": "1",
+        "list": [
+            " Francese"
+        ],
+        "en_sub": "Senegal"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Serbia è",
+        "answer": " 1",
+        "sub": "Serbia",
+        "count": "1",
+        "list": [
+            " Serbo"
+        ],
+        "en_sub": "Serbia"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Seychelles è",
+        "answer": " 3",
+        "sub": "Seychelles",
+        "count": "3",
+        "list": [
+            " Creolo delle Seychelles",
+            " Francese",
+            " Inglese"
+        ],
+        "en_sub": "Seychelles"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Singapore è",
+        "answer": " 4",
+        "sub": "Singapore",
+        "count": "4",
+        "list": [
+            " Inglese",
+            " Malese",
+            " Mandarino",
+            " il tamil"
+        ],
+        "en_sub": "Singapore"
+    },
+    {
+        "query": "Il numero di lingue ufficiali dello Slovenia è",
+        "answer": " 1",
+        "sub": "Slovenia",
+        "count": "1",
+        "list": [
+            " Sloveno"
+        ],
+        "en_sub": "Slovenia"
+    },
+    {
+        "query": "Il numero di lingue ufficiali delle Isole Salomone è",
+        "answer": " 1",
+        "sub": "Isole Salomone",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Solomon Islands"
+    },
+    {
+        "query": "Il numero di lingue ufficiali dello Spagna è",
+        "answer": " 1",
+        "sub": "Spagna",
+        "count": "1",
+        "list": [
+            " Spagnolo"
+        ],
+        "en_sub": "Spain"
+    },
+    {
+        "query": "Il numero di lingue ufficiali dello Sri Lanka è",
+        "answer": " 2",
+        "sub": "Sri Lanka",
+        "count": "2",
+        "list": [
+            " Singalese",
+            " il tamil"
+        ],
+        "en_sub": "Sri Lanka"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Sudan è",
+        "answer": " 2",
+        "sub": "Sudan",
+        "count": "2",
+        "list": [
+            " Arabo",
+            " Inglese"
+        ],
+        "en_sub": "Sudan"
+    },
+    {
+        "query": "Il numero di lingue ufficiali dello Svizzera è",
+        "answer": " 4",
+        "sub": "Svizzera",
+        "count": "4",
+        "list": [
+            " Tedesco",
+            " Francese",
+            " Italiano",
+            " Romancio"
+        ],
+        "en_sub": "Switzerland"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Trinidad e Tobago è",
+        "answer": " 1",
+        "sub": "Trinidad e Tobago",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Trinidad and Tobago"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Tunisia è",
+        "answer": " 1",
+        "sub": "Tunisia",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Tunisia"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Turchia è",
+        "answer": " 1",
+        "sub": "Turchia",
+        "count": "1",
+        "list": [
+            " Turco"
+        ],
+        "en_sub": "Turkey"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Turkmenistan è",
+        "answer": " 1",
+        "sub": "Turkmenistan",
+        "count": "1",
+        "list": [
+            " Turkmeno"
+        ],
+        "en_sub": "Turkmenistan"
+    },
+    {
+        "query": "Il numero di lingue ufficiali del Tuvalu è",
+        "answer": " 2",
+        "sub": "Tuvalu",
+        "count": "2",
+        "list": [
+            " Tuvaluano",
+            " Inglese"
+        ],
+        "en_sub": "Tuvalu"
+    },
+    {
+        "query": "Il numero di lingue ufficiali dell'Ucraina è",
+        "answer": " 1",
+        "sub": "Ucraina",
+        "count": "1",
+        "list": [
+            " Ucraino"
+        ],
+        "en_sub": "Ukraine"
+    },
+    {
+        "query": "Il numero di lingue ufficiali della Tanzania è",
+        "answer": " 2",
+        "sub": "Tanzania",
+        "count": "2",
+        "list": [
+            " Swahili",
+            " Inglese"
+        ],
+        "en_sub": "Tanzania"
+    },
+    {
+        "query": "Il numero di lingue ufficiali degli Stati Uniti è",
+        "answer": " 1",
+        "sub": "Stati Uniti",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "United States"
+    },
+    {
+        "query": "Il numero di lingue ufficiali dell'Uruguay è",
+        "answer": " 1",
+        "sub": "Uruguay",
+        "count": "1",
+        "list": [
+            " Spagnolo"
+        ],
+        "en_sub": "Uruguay"
+    },
+    {
+        "query": "Il numero di lingue ufficiali dello Yemen è",
+        "answer": " 1",
+        "sub": "Yemen",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Yemen"
+    },
+    {
+        "query": "Il numero di lingue ufficiali dello Zambia è",
+        "answer": " 1",
+        "sub": "Zambia",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Zambia"
+    }
+]

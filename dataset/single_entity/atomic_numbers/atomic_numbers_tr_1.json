@@ -1,0 +1,152 @@
+﻿[
+  {
+    "query": "Hidrojenin atom numarası kaçtır?",
+    "answer": " 1'dir",
+    "sub": "Hidrojen"
+  },
+  {
+    "query": "Berilyumun atom numarası kaçtır?",
+    "answer": " 4'tür",
+    "sub": "Berilyum"
+  },
+  {
+    "query": "Borun atom numarası kaçtır?",
+    "answer": " 5'tir",
+    "sub": "Bor"
+  },
+  {
+    "query": "Karbonun atom numarası kaçtır?",
+    "answer": " 6'dır",
+    "sub": "Karbon"
+  },
+  {
+    "query": "Sodyumun atom numarası kaçtır?",
+    "answer": " 11'dir",
+    "sub": "Sodyum"
+  },
+  {
+    "query": "Magnezyumun atom numarası kaçtır?",
+    "answer": " 12'dir",
+    "sub": "Magnezyum"
+  },
+  {
+    "query": "Alüminyumun atom numarası kaçtır?",
+    "answer": " 13'tür",
+    "sub": "Alüminyum"
+  },
+  {
+    "query": "Silisyumun atom numarası kaçtır?",
+    "answer": " 14'tür",
+    "sub": "Silisyum"
+  },
+  {
+    "query": "Fosforun atom numarası kaçtır?",
+    "answer": " 15'tir",
+    "sub": "Fosfor"
+  },
+  {
+    "query": "Kükürtün atom numarası kaçtır?",
+    "answer": " 16'dır",
+    "sub": "Kükürt"
+  },
+  {
+    "query": "Argonun atom numarası kaçtır?",
+    "answer": " 18'dir",
+    "sub": "Argon"
+  },
+  {
+    "query": "Kalsiyumun atom numarası kaçtır?",
+    "answer": " 20'dir",
+    "sub": "Kalsiyum"
+  },
+  {
+    "query": "Skandiyumun atom numarası kaçtır?",
+    "answer": " 21'dir",
+    "sub": "Skandiyum"
+  },
+  {
+    "query": "Demirin atom numarası kaçtır?",
+    "answer": " 26'dır",
+    "sub": "Demir"
+  },
+  {
+    "query": "Nikelin atom numarası kaçtır?",
+    "answer": " 28'dir",
+    "sub": "Nikel"
+  },
+  {
+    "query": "Bakırın atom numarası kaçtır?",
+    "answer": " 29'dur",
+    "sub": "Bakır"
+  },
+  {
+    "query": "Çinkonun atom numarası kaçtır?",
+    "answer": " 30'dur",
+    "sub": "Çinko"
+  },
+  {
+    "query": "Almanyumun atom numarası kaçtır?",
+    "answer": " 32'dir",
+    "sub": "Almanyum"
+  },
+  {
+    "query": "Selenyumun atom numarası kaçtır?",
+    "answer": " 34'tür",
+    "sub": "Selenyum"
+  },
+  {
+    "query": "Kriptonun atom numarası kaçtır?",
+    "answer": " 36'dır",
+    "sub": "Kripton"
+  },
+  {
+    "query": "Stronyumun atom numarası kaçtır?",
+    "answer": " 38'dir",
+    "sub": "Stronyum"
+  },
+  {
+    "query": "Zirkonyumun atom numarası kaçtır?",
+    "answer": " 40'tır",
+    "sub": "Zirkonyum"
+  },
+  {
+    "query": "Niobyumun atom numarası kaçtır?",
+    "answer": " 41'dir",
+    "sub": "Niobyum"
+  },
+  {
+    "query": "Rutenyumun atom numarası kaçtır?",
+    "answer": " 44'tür",
+    "sub": "Rutenyum"
+  },
+  {
+    "query": "Rodyumun atom numarası kaçtır?",
+    "answer": " 45'tir",
+    "sub": "Rodyum"
+  },
+  {
+    "query": "Paladyumun atom numarası kaçtır?",
+    "answer": " 46'dır",
+    "sub": "Paladyum"
+  },
+  {
+    "query": "İndiyumun atom numarası kaçtır?",
+    "answer": " 49'dur",
+    "sub": "İndiyum"
+  },
+  {
+    "query": "Ksenonun atom numarası kaçtır?",
+    "answer": " 54'tür",
+    "sub": "Ksenon"
+  },
+  {
+    "query": "Sezyumun atom numarası kaçtır?",
+    "answer": " 55'tir",
+    "sub": "Sezyum"
+  },
+  {
+    "query": "Lantanın atom numarası kaçtır?",
+    "answer": " 57'dir",
+    "sub": "Lantan"
+  }
+]

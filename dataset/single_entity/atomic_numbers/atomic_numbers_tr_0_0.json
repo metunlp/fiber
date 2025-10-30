@@ -1,0 +1,152 @@
+﻿[
+  {
+    "query": "Hidrojenin atom numarası",
+    "answer": " 1'dir",
+    "sub": "Hidrojen"
+  },
+  {
+    "query": "Berilyumun atom numarası",
+    "answer": " 4'tür",
+    "sub": "Berilyum"
+  },
+  {
+    "query": "Borun atom numarası",
+    "answer": " 5'tir",
+    "sub": "Bor"
+  },
+  {
+    "query": "Karbonun atom numarası",
+    "answer": " 6'dır",
+    "sub": "Karbon"
+  },
+  {
+    "query": "Sodyumun atom numarası",
+    "answer": " 11'dir",
+    "sub": "Sodyum"
+  },
+  {
+    "query": "Magnezyumun atom numarası",
+    "answer": " 12'dir",
+    "sub": "Magnezyum"
+  },
+  {
+    "query": "Alüminyumun atom numarası",
+    "answer": " 13'tür",
+    "sub": "Alüminyum"
+  },
+  {
+    "query": "Silisyumun atom numarası",
+    "answer": " 14'tür",
+    "sub": "Silisyum"
+  },
+  {
+    "query": "Fosforun atom numarası",
+    "answer": " 15'tir",
+    "sub": "Fosfor"
+  },
+  {
+    "query": "Kükürtün atom numarası",
+    "answer": " 16'dır",
+    "sub": "Kükürt"
+  },
+  {
+    "query": "Argonun atom numarası",
+    "answer": " 18'dir",
+    "sub": "Argon"
+  },
+  {
+    "query": "Kalsiyumun atom numarası",
+    "answer": " 20'dir",
+    "sub": "Kalsiyum"
+  },
+  {
+    "query": "Skandiyumun atom numarası",
+    "answer": " 21'dir",
+    "sub": "Skandiyum"
+  },
+  {
+    "query": "Demirin atom numarası",
+    "answer": " 26'dır",
+    "sub": "Demir"
+  },
+  {
+    "query": "Nikelin atom numarası",
+    "answer": " 28'dir",
+    "sub": "Nikel"
+  },
+  {
+    "query": "Bakırın atom numarası",
+    "answer": " 29'dur",
+    "sub": "Bakır"
+  },
+  {
+    "query": "Çinkonun atom numarası",
+    "answer": " 30'dur",
+    "sub": "Çinko"
+  },
+  {
+    "query": "Almanyumun atom numarası",
+    "answer": " 32'dir",
+    "sub": "Almanyum"
+  },
+  {
+    "query": "Selenyumun atom numarası",
+    "answer": " 34'tür",
+    "sub": "Selenyum"
+  },
+  {
+    "query": "Kriptonun atom numarası",
+    "answer": " 36'dır",
+    "sub": "Kripton"
+  },
+  {
+    "query": "Stronyumun atom numarası",
+    "answer": " 38'dir",
+    "sub": "Stronyum"
+  },
+  {
+    "query": "Zirkonyumun atom numarası",
+    "answer": " 40'tır",
+    "sub": "Zirkonyum"
+  },
+  {
+    "query": "Niobyumun atom numarası",
+    "answer": " 41'dir",
+    "sub": "Niobyum"
+  },
+  {
+    "query": "Rutenyumun atom numarası",
+    "answer": " 44'tür",
+    "sub": "Rutenyum"
+  },
+  {
+    "query": "Rodyumun atom numarası",
+    "answer": " 45'tir",
+    "sub": "Rodyum"
+  },
+  {
+    "query": "Paladyumun atom numarası",
+    "answer": " 46'dır",
+    "sub": "Paladyum"
+  },
+  {
+    "query": "İndiyumun atom numarası",
+    "answer": " 49'dur",
+    "sub": "İndiyum"
+  },
+  {
+    "query": "Ksenonun atom numarası",
+    "answer": " 54'tür",
+    "sub": "Ksenon"
+  },
+  {
+    "query": "Sezyumun atom numarası",
+    "answer": " 55'tir",
+    "sub": "Sezyum"
+  },
+  {
+    "query": "Lantanın atom numarası",
+    "answer": " 57'dir",
+    "sub": "Lantan"
+  }
+]

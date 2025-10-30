@@ -1,0 +1,954 @@
+[
+    {
+        "query": "What is/are the official language(s) of Albania?",
+        "answer": " Albanian",
+        "sub": "Albania",
+        "count": "1",
+        "list": [
+            " Albanian"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Argentina?",
+        "answer": " Spanish",
+        "sub": "Argentina",
+        "count": "1",
+        "list": [
+            " Spanish"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Armenia?",
+        "answer": " Armenian",
+        "sub": "Armenia",
+        "count": "1",
+        "list": [
+            " Armenian"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Australia?",
+        "answer": " English",
+        "sub": "Australia",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Austria?",
+        "answer": " German",
+        "sub": "Austria",
+        "count": "1",
+        "list": [
+            " German"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Bahamas?",
+        "answer": " English",
+        "sub": "Bahamas",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Belize?",
+        "answer": " English",
+        "sub": "Belize",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Bolivia?",
+        "answer": " Spanish, Aymara, Araona, Baure, Bésiro, Canichana, Cavineño, Cayubaba, Chácobo, Chimán, Ese Ejja, Guaraní,\nGuarasu'we, Guarayu, Itonama, Leco, Machajuyai-kallawaya, Machineri,\nMaropa, Mojeñotrinitario, Mojeño-ignaciano, Moré, Mosetén, Movima,\nPacawara, Puquina, Quechua, Sirionó, Tacana, Tapiete, Toromona, Uruchipaya,\nWeenhayek, Yaminawa, Yuki, Yuracaré, Zamuco",
+        "sub": "Bolivia",
+        "count": "37",
+        "list": [
+            " Spanish",
+            " Aymara",
+            " Araona",
+            " Baure",
+            " Bésiro",
+            " Canichana",
+            " Cavineño",
+            " Cayubaba",
+            " Chácobo",
+            " Chimán",
+            " Ese Ejja",
+            " Guaraní",
+            "\nGuarasu'we",
+            " Guarayu",
+            " Itonama",
+            " Leco",
+            " Machajuyai-kallawaya",
+            " Machineri",
+            "\nMaropa",
+            " Mojeñotrinitario",
+            " Mojeño-ignaciano",
+            " Moré",
+            " Mosetén",
+            " Movima",
+            "\nPacawara",
+            " Puquina",
+            " Quechua",
+            " Sirionó",
+            " Tacana",
+            " Tapiete",
+            " Toromona",
+            " Uruchipaya",
+            "\nWeenhayek",
+            " Yaminawa",
+            " Yuki",
+            " Yuracaré",
+            " Zamuco"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Bosnia and Herzegovina?",
+        "answer": " Bosnian, Croatian, Serbian",
+        "sub": "Bosnia and Herzegovina",
+        "count": "3",
+        "list": [
+            " Bosnian",
+            " Croatian",
+            " Serbian"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Botswana?",
+        "answer": " English",
+        "sub": "Botswana",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Brazil?",
+        "answer": " Portuguese",
+        "sub": "Brazil",
+        "count": "1",
+        "list": [
+            " Portuguese"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Brunei?",
+        "answer": " Malay",
+        "sub": "Brunei",
+        "count": "1",
+        "list": [
+            " Malay"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Bulgaria?",
+        "answer": " Bulgarian",
+        "sub": "Bulgaria",
+        "count": "1",
+        "list": [
+            " Bulgarian"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Burkina Faso?",
+        "answer": " Mooré, Bissa, Dyula, Fula",
+        "sub": "Burkina Faso",
+        "count": "4",
+        "list": [
+            " Mooré",
+            " Bissa",
+            " Dyula",
+            " Fula"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Cabo Verde?",
+        "answer": " Portuguese",
+        "sub": "Cabo Verde",
+        "count": "1",
+        "list": [
+            " Portuguese"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Cambodia?",
+        "answer": " Khmer",
+        "sub": "Cambodia",
+        "count": "1",
+        "list": [
+            " Khmer"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Canada?",
+        "answer": " English, French",
+        "sub": "Canada",
+        "count": "2",
+        "list": [
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Chile?",
+        "answer": " Spanish",
+        "sub": "Chile",
+        "count": "1",
+        "list": [
+            " Spanish"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of China?",
+        "answer": " Mandarin Chinese",
+        "sub": "China",
+        "count": "1",
+        "list": [
+            " Mandarin Chinese"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Ivory Coast?",
+        "answer": " French",
+        "sub": "Ivory Coast",
+        "count": "1",
+        "list": [
+            " French"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Costa Rica?",
+        "answer": " Spanish",
+        "sub": "Costa Rica",
+        "count": "1",
+        "list": [
+            " Spanish"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Croatia?",
+        "answer": " Croatian",
+        "sub": "Croatia",
+        "count": "1",
+        "list": [
+            " Croatian"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of North Korea?",
+        "answer": " Korean",
+        "sub": "North Korea",
+        "count": "1",
+        "list": [
+            " Korean"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Democratic Republic of the Congo?",
+        "answer": " French",
+        "sub": "Democratic Republic of the Congo",
+        "count": "1",
+        "list": [
+            " French"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Denmark?",
+        "answer": " Danish",
+        "sub": "Denmark",
+        "count": "1",
+        "list": [
+            " Danish"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Djibouti?",
+        "answer": " French, Arabic",
+        "sub": "Djibouti",
+        "count": "2",
+        "list": [
+            " French",
+            " Arabic"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Dominica?",
+        "answer": " English",
+        "sub": "Dominica",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Dominican Republic?",
+        "answer": " Spanish",
+        "sub": "Dominican Republic",
+        "count": "1",
+        "list": [
+            " Spanish"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Eritrea?",
+        "answer": " Tigrinya, Arabic, English",
+        "sub": "Eritrea",
+        "count": "3",
+        "list": [
+            " Tigrinya",
+            " Arabic",
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Estonia?",
+        "answer": " Estonian",
+        "sub": "Estonia",
+        "count": "1",
+        "list": [
+            " Estonian"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Eswatini?",
+        "answer": " Swazi, English",
+        "sub": "Eswatini",
+        "count": "2",
+        "list": [
+            " Swazi",
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Ethiopia?",
+        "answer": " Amharic",
+        "sub": "Ethiopia",
+        "count": "1",
+        "list": [
+            " Amharic"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Fiji?",
+        "answer": " English, Fijian, Fiji Hindi",
+        "sub": "Fiji",
+        "count": "3",
+        "list": [
+            " English",
+            " Fijian",
+            " Fiji Hindi"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Gabon?",
+        "answer": " French",
+        "sub": "Gabon",
+        "count": "1",
+        "list": [
+            " French"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Greece?",
+        "answer": " Greek",
+        "sub": "Greece",
+        "count": "1",
+        "list": [
+            " Greek"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Grenada?",
+        "answer": " English",
+        "sub": "Grenada",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Guinea?",
+        "answer": " French",
+        "sub": "Guinea",
+        "count": "1",
+        "list": [
+            " French"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Guinea Bissau?",
+        "answer": " Portuguese",
+        "sub": "Guinea Bissau",
+        "count": "1",
+        "list": [
+            " Portuguese"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Honduras?",
+        "answer": " Spanish",
+        "sub": "Honduras",
+        "count": "1",
+        "list": [
+            " Spanish"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Hungary?",
+        "answer": " Hungarian",
+        "sub": "Hungary",
+        "count": "1",
+        "list": [
+            " Hungarian"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of India?",
+        "answer": " Hindi, English",
+        "sub": "India",
+        "count": "2",
+        "list": [
+            " Hindi",
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Ireland?",
+        "answer": " Irish, English",
+        "sub": "Ireland",
+        "count": "2",
+        "list": [
+            " Irish",
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Israel?",
+        "answer": " Hebrew, Arabic",
+        "sub": "Israel",
+        "count": "2",
+        "list": [
+            " Hebrew",
+            " Arabic"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Italy?",
+        "answer": " Italian",
+        "sub": "Italy",
+        "count": "1",
+        "list": [
+            " Italian"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Jordan?",
+        "answer": " Arabic",
+        "sub": "Jordan",
+        "count": "1",
+        "list": [
+            " Arabic"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Kazakhstan?",
+        "answer": " Kazakh, Russian",
+        "sub": "Kazakhstan",
+        "count": "2",
+        "list": [
+            " Kazakh",
+            " Russian"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Kenya?",
+        "answer": " Swahili, English",
+        "sub": "Kenya",
+        "count": "2",
+        "list": [
+            " Swahili",
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Kiribati?",
+        "answer": " English, Gilbertese",
+        "sub": "Kiribati",
+        "count": "2",
+        "list": [
+            " English",
+            " Gilbertese"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Kuwait?",
+        "answer": " Arabic",
+        "sub": "Kuwait",
+        "count": "1",
+        "list": [
+            " Arabic"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Laos?",
+        "answer": " Lao",
+        "sub": "Laos",
+        "count": "1",
+        "list": [
+            " Lao"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Latvia?",
+        "answer": " Latvian",
+        "sub": "Latvia",
+        "count": "1",
+        "list": [
+            " Latvian"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Lebanon?",
+        "answer": " Arabic",
+        "sub": "Lebanon",
+        "count": "1",
+        "list": [
+            " Arabic"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Libya?",
+        "answer": " Arabic",
+        "sub": "Libya",
+        "count": "1",
+        "list": [
+            " Arabic"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Liechtenstein?",
+        "answer": " German",
+        "sub": "Liechtenstein",
+        "count": "1",
+        "list": [
+            " German"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Marshall Islands?",
+        "answer": " Marshallese, English",
+        "sub": "Marshall Islands",
+        "count": "2",
+        "list": [
+            " Marshallese",
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Mauritania?",
+        "answer": " Arabic",
+        "sub": "Mauritania",
+        "count": "1",
+        "list": [
+            " Arabic"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Mauritius?",
+        "answer": " English, French",
+        "sub": "Mauritius",
+        "count": "2",
+        "list": [
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Mongolia?",
+        "answer": " Mongolian",
+        "sub": "Mongolia",
+        "count": "1",
+        "list": [
+            " Mongolian"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Morocco?",
+        "answer": " Arabic, Tamazight",
+        "sub": "Morocco",
+        "count": "2",
+        "list": [
+            " Arabic",
+            " Tamazight"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Myanmar?",
+        "answer": " Burmese",
+        "sub": "Myanmar",
+        "count": "1",
+        "list": [
+            " Burmese"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Namibia?",
+        "answer": " English",
+        "sub": "Namibia",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Nauru?",
+        "answer": " Nauruan, English",
+        "sub": "Nauru",
+        "count": "2",
+        "list": [
+            " Nauruan",
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Niger?",
+        "answer": " French",
+        "sub": "Niger",
+        "count": "1",
+        "list": [
+            " French"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Norway?",
+        "answer": " Norwegian",
+        "sub": "Norway",
+        "count": "1",
+        "list": [
+            " Norwegian"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Oman?",
+        "answer": " Arabic",
+        "sub": "Oman",
+        "count": "1",
+        "list": [
+            " Arabic"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Pakistan?",
+        "answer": " Urdu, English",
+        "sub": "Pakistan",
+        "count": "2",
+        "list": [
+            " Urdu",
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Palau?",
+        "answer": " Palauan, English",
+        "sub": "Palau",
+        "count": "2",
+        "list": [
+            " Palauan",
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Papua New Guinea?",
+        "answer": " English, Tok Pisin, Hiri Motu, PNG Sign Language",
+        "sub": "Papua New Guinea",
+        "count": "4",
+        "list": [
+            " English",
+            " Tok Pisin",
+            " Hiri Motu",
+            " PNG Sign Language"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Paraguay?",
+        "answer": " Spanish, Guarani",
+        "sub": "Paraguay",
+        "count": "2",
+        "list": [
+            " Spanish",
+            " Guarani"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Qatar?",
+        "answer": " Arabic",
+        "sub": "Qatar",
+        "count": "1",
+        "list": [
+            " Arabic"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Moldova?",
+        "answer": " Romanian",
+        "sub": "Moldova",
+        "count": "1",
+        "list": [
+            " Romanian"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Romania?",
+        "answer": " Romanian",
+        "sub": "Romania",
+        "count": "1",
+        "list": [
+            " Romanian"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Rwanda?",
+        "answer": " Kinyarwanda, French, English, Swahili",
+        "sub": "Rwanda",
+        "count": "4",
+        "list": [
+            " Kinyarwanda",
+            " French",
+            " English",
+            " Swahili"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Saint Kitts and Nevis?",
+        "answer": " English",
+        "sub": "Saint Kitts and Nevis",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Saint Vincent and the Grenadines?",
+        "answer": " English",
+        "sub": "Saint Vincent and the Grenadines",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of San Marino?",
+        "answer": " Italian",
+        "sub": "San Marino",
+        "count": "1",
+        "list": [
+            " Italian"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Senegal?",
+        "answer": " French",
+        "sub": "Senegal",
+        "count": "1",
+        "list": [
+            " French"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Serbia?",
+        "answer": " Serbian",
+        "sub": "Serbia",
+        "count": "1",
+        "list": [
+            " Serbian"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Seychelles?",
+        "answer": " Seychellois Creole, French, English",
+        "sub": "Seychelles",
+        "count": "3",
+        "list": [
+            " Seychellois Creole",
+            " French",
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Singapore?",
+        "answer": " English, Malay, Mandarin, Tamil",
+        "sub": "Singapore",
+        "count": "4",
+        "list": [
+            " English",
+            " Malay",
+            " Mandarin",
+            " Tamil"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Slovenia?",
+        "answer": " Slovene",
+        "sub": "Slovenia",
+        "count": "1",
+        "list": [
+            " Slovene"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Solomon Islands?",
+        "answer": " English",
+        "sub": "Solomon Islands",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Spain?",
+        "answer": " Spanish",
+        "sub": "Spain",
+        "count": "1",
+        "list": [
+            " Spanish"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Sri Lanka?",
+        "answer": " Sinhala, Tamil",
+        "sub": "Sri Lanka",
+        "count": "2",
+        "list": [
+            " Sinhala",
+            " Tamil"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Sudan?",
+        "answer": " Arabic, English",
+        "sub": "Sudan",
+        "count": "2",
+        "list": [
+            " Arabic",
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Switzerland?",
+        "answer": " German, French, Italian, Romansh",
+        "sub": "Switzerland",
+        "count": "4",
+        "list": [
+            " German",
+            " French",
+            " Italian",
+            " Romansh"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Trinidad and Tobago?",
+        "answer": " English",
+        "sub": "Trinidad and Tobago",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Tunisia?",
+        "answer": " Arabic",
+        "sub": "Tunisia",
+        "count": "1",
+        "list": [
+            " Arabic"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Turkey?",
+        "answer": " Turkish",
+        "sub": "Turkey",
+        "count": "1",
+        "list": [
+            " Turkish"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Turkmenistan?",
+        "answer": " Turkmen",
+        "sub": "Turkmenistan",
+        "count": "1",
+        "list": [
+            " Turkmen"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Tuvalu?",
+        "answer": " Tuvaluan, English",
+        "sub": "Tuvalu",
+        "count": "2",
+        "list": [
+            " Tuvaluan",
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Ukraine?",
+        "answer": " Ukrainian",
+        "sub": "Ukraine",
+        "count": "1",
+        "list": [
+            " Ukrainian"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Tanzania?",
+        "answer": " Swahili, English",
+        "sub": "Tanzania",
+        "count": "2",
+        "list": [
+            " Swahili",
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of United States?",
+        "answer": " English",
+        "sub": "United States",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Uruguay?",
+        "answer": " Spanish",
+        "sub": "Uruguay",
+        "count": "1",
+        "list": [
+            " Spanish"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Yemen?",
+        "answer": " Arabic",
+        "sub": "Yemen",
+        "count": "1",
+        "list": [
+            " Arabic"
+        ]
+    },
+    {
+        "query": "What is/are the official language(s) of Zambia?",
+        "answer": " English",
+        "sub": "Zambia",
+        "count": "1",
+        "list": [
+            " English"
+        ]
+    }
+]

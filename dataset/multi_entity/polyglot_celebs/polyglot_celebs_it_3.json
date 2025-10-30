@@ -1,0 +1,900 @@
+[
+    {
+        "query": "Quante lingue parla il Papa Giovanni Paolo II?",
+        "answer": " 8",
+        "sub": "Papa Giovanni Paolo II",
+        "count": "8",
+        "list": [
+            " Polacco",
+            " Italiano",
+            " Latino",
+            " Francese",
+            " Inglese",
+            " Tedesco",
+            " Spagnolo",
+            " Portoghese"
+        ],
+        "en_sub": "Pope John Paul II"
+    },
+    {
+        "query": "Quante lingue parla l'António Guterres?",
+        "answer": " 4",
+        "sub": "António Guterres",
+        "count": "4",
+        "list": [
+            " Portoghese",
+            " Inglese",
+            " Francese",
+            " Spagnolo"
+        ],
+        "en_sub": "António Guterres"
+    },
+    {
+        "query": "Quante lingue parla il Boutros Boutros-Ghali?",
+        "answer": " 3",
+        "sub": "Boutros Boutros-Ghali",
+        "count": "3",
+        "list": [
+            " Arabo",
+            " Francese",
+            " Inglese"
+        ],
+        "en_sub": "Boutros Boutros-Ghali"
+    },
+    {
+        "query": "Quante lingue parla il Ban Ki-moon?",
+        "answer": " 3",
+        "sub": "Ban Ki-moon",
+        "count": "3",
+        "list": [
+            " Coreano",
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Ban Ki-moon"
+    },
+    {
+        "query": "Quante lingue parla il Dag Hammarskjöld?",
+        "answer": " 4",
+        "sub": "Dag Hammarskjöld",
+        "count": "4",
+        "list": [
+            " Svedese",
+            " Inglese",
+            " Francese",
+            " Tedesco"
+        ],
+        "en_sub": "Dag Hammarskjöld"
+    },
+    {
+        "query": "Quante lingue parla l'U Thant?",
+        "answer": " 3",
+        "sub": "U Thant",
+        "count": "3",
+        "list": [
+            " Birmano",
+            " Inglese",
+            " Hindi"
+        ],
+        "en_sub": "U Thant"
+    },
+    {
+        "query": "Quante lingue parla il Trygve Lie?",
+        "answer": " 3",
+        "sub": "Trygve Lie",
+        "count": "3",
+        "list": [
+            " Norvegese",
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Trygve Lie"
+    },
+    {
+        "query": "Quante lingue parla il Joseph Conrad?",
+        "answer": " 3",
+        "sub": "Joseph Conrad",
+        "count": "3",
+        "list": [
+            " Polacco",
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Joseph Conrad"
+    },
+    {
+        "query": "Quante lingue parla il Vladimir Nabokov?",
+        "answer": " 3",
+        "sub": "Vladimir Nabokov",
+        "count": "3",
+        "list": [
+            " Russo",
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Vladimir Nabokov"
+    },
+    {
+        "query": "Quante lingue parla il Jorge Luis Borges?",
+        "answer": " 4",
+        "sub": "Jorge Luis Borges",
+        "count": "4",
+        "list": [
+            " Spagnolo",
+            " Inglese",
+            " Francese",
+            " Tedesco"
+        ],
+        "en_sub": "Jorge Luis Borges"
+    },
+    {
+        "query": "Quante lingue parla il Chinua Achebe?",
+        "answer": " 3",
+        "sub": "Chinua Achebe",
+        "count": "3",
+        "list": [
+            " Igbo",
+            " Inglese",
+            " Yoruba"
+        ],
+        "en_sub": "Chinua Achebe"
+    },
+    {
+        "query": "Quante lingue parla l'Ismail Kadare?",
+        "answer": " 3",
+        "sub": "Ismail Kadare",
+        "count": "3",
+        "list": [
+            " Albanese",
+            " Francese",
+            " Italiano"
+        ],
+        "en_sub": "Ismail Kadare"
+    },
+    {
+        "query": "Quante lingue parla l'Isaac Bashevis Singer?",
+        "answer": " 3",
+        "sub": "Isaac Bashevis Singer",
+        "count": "3",
+        "list": [
+            " Yiddish",
+            " Polacco",
+            " Inglese"
+        ],
+        "en_sub": "Isaac Bashevis Singer"
+    },
+    {
+        "query": "Quante lingue parla il Hannah Arendt?",
+        "answer": " 3",
+        "sub": "Hannah Arendt",
+        "count": "3",
+        "list": [
+            " Tedesco",
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Hannah Arendt"
+    },
+    {
+        "query": "Quante lingue parla il Susan Sontag?",
+        "answer": " 3",
+        "sub": "Susan Sontag",
+        "count": "3",
+        "list": [
+            " Inglese",
+            " Francese",
+            " Tedesco"
+        ],
+        "en_sub": "Susan Sontag"
+    },
+    {
+        "query": "Quante lingue parla il Goethe?",
+        "answer": " 6",
+        "sub": "Goethe",
+        "count": "6",
+        "list": [
+            " Tedesco",
+            " Francese",
+            " Italiano",
+            " Inglese",
+            " Latino",
+            " Greco"
+        ],
+        "en_sub": "Goethe"
+    },
+    {
+        "query": "Quante lingue parla il René Descartes?",
+        "answer": " 3",
+        "sub": "René Descartes",
+        "count": "3",
+        "list": [
+            " Francese",
+            " Latino",
+            " Olandese"
+        ],
+        "en_sub": "René Descartes"
+    },
+    {
+        "query": "Quante lingue parla la Baruch Spinoza?",
+        "answer": " 5",
+        "sub": "Baruch Spinoza",
+        "count": "5",
+        "list": [
+            " Portoghese",
+            " Olandese",
+            " Spagnolo",
+            " Ebraico",
+            " Latino"
+        ],
+        "en_sub": "Baruch Spinoza"
+    },
+    {
+        "query": "Quante lingue parla il Gottfried Wilhelm Leibniz?",
+        "answer": " 3",
+        "sub": "Gottfried Wilhelm Leibniz",
+        "count": "3",
+        "list": [
+            " Tedesco",
+            " Latino",
+            " Francese"
+        ],
+        "en_sub": "Gottfried Wilhelm Leibniz"
+    },
+    {
+        "query": "Quante lingue parla il Voltaire?",
+        "answer": " 3",
+        "sub": "Voltaire",
+        "count": "3",
+        "list": [
+            " Francese",
+            " Inglese",
+            " Italiano"
+        ],
+        "en_sub": "Voltaire"
+    },
+    {
+        "query": "Quante lingue parla l'Amin Maalouf?",
+        "answer": " 3",
+        "sub": "Amin Maalouf",
+        "count": "3",
+        "list": [
+            " Arabo",
+            " Francese",
+            " Inglese"
+        ],
+        "en_sub": "Amin Maalouf"
+    },
+    {
+        "query": "Quante lingue parla la Nikola Tesla?",
+        "answer": " 8",
+        "sub": "Nikola Tesla",
+        "count": "8",
+        "list": [
+            " Serbo",
+            " Inglese",
+            " Tedesco",
+            " Francese",
+            " Italiano",
+            " Ceco",
+            " Ungherese",
+            " Latino"
+        ],
+        "en_sub": "Nikola Tesla"
+    },
+    {
+        "query": "Quante lingue parla il Leonardo da Vinci?",
+        "answer": " 3",
+        "sub": "Leonardo da Vinci",
+        "count": "3",
+        "list": [
+            " Italiano",
+            " Latino",
+            " Francese"
+        ],
+        "en_sub": "Leonardo da Vinci"
+    },
+    {
+        "query": "Quante lingue parla il Mustafa Kemal Atatürk?",
+        "answer": " 3",
+        "sub": "Mustafa Kemal Atatürk",
+        "count": "3",
+        "list": [
+            " Turco",
+            " Francese",
+            " Tedesco"
+        ],
+        "en_sub": "Mustafa Kemal Atatürk"
+    },
+    {
+        "query": "Quante lingue parla il Charles de Gaulle?",
+        "answer": " 3",
+        "sub": "Charles de Gaulle",
+        "count": "3",
+        "list": [
+            " Francese",
+            " Inglese",
+            " Tedesco"
+        ],
+        "en_sub": "Charles de Gaulle"
+    },
+    {
+        "query": "Quante lingue parla il Winston Churchill?",
+        "answer": " 3",
+        "sub": "Winston Churchill",
+        "count": "3",
+        "list": [
+            " Inglese",
+            " Francese",
+            " Latino"
+        ],
+        "en_sub": "Winston Churchill"
+    },
+    {
+        "query": "Quante lingue parla il Jawaharlal Nehru?",
+        "answer": " 3",
+        "sub": "Jawaharlal Nehru",
+        "count": "3",
+        "list": [
+            " Hindi",
+            " Inglese",
+            " Urdu"
+        ],
+        "en_sub": "Jawaharlal Nehru"
+    },
+    {
+        "query": "Quante lingue parla lo Shimon Peres?",
+        "answer": " 4",
+        "sub": "Shimon Peres",
+        "count": "4",
+        "list": [
+            " Ebraico",
+            " Inglese",
+            " Polacco",
+            " Russo"
+        ],
+        "en_sub": "Shimon Peres"
+    },
+    {
+        "query": "Quante lingue parla l'Olaf Scholz?",
+        "answer": " 3",
+        "sub": "Olaf Scholz",
+        "count": "3",
+        "list": [
+            " Tedesco",
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Olaf Scholz"
+    },
+    {
+        "query": "Quante lingue parla l'Ursula von der Leyen?",
+        "answer": " 3",
+        "sub": "Ursula von der Leyen",
+        "count": "3",
+        "list": [
+            " Tedesco",
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Ursula von der Leyen"
+    },
+    {
+        "query": "Quante lingue parla la Regina Silvia di Svezia?",
+        "answer": " 6",
+        "sub": "Regina Silvia di Svezia",
+        "count": "6",
+        "list": [
+            " Tedesco",
+            " Portoghese",
+            " Spagnolo",
+            " Inglese",
+            " Svedese",
+            " Francese"
+        ],
+        "en_sub": "Queen Silvia of Sweden"
+    },
+    {
+        "query": "Quante lingue parla la Regina Rania di Giordania?",
+        "answer": " 3",
+        "sub": "Regina Rania di Giordania",
+        "count": "3",
+        "list": [
+            " Arabo",
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Queen Rania of Jordan"
+    },
+    {
+        "query": "Quante lingue parla la Re Felipe VI di Spagna?",
+        "answer": " 4",
+        "sub": "Re Felipe VI di Spagna",
+        "count": "4",
+        "list": [
+            " Spagnolo",
+            " Catalano",
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "King Felipe VI of Spain"
+    },
+    {
+        "query": "Quante lingue parla la La Regina Letizia di Spagna?",
+        "answer": " 3",
+        "sub": "La Regina Letizia di Spagna",
+        "count": "3",
+        "list": [
+            " Spagnolo",
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Queen Letizia of Spain"
+    },
+    {
+        "query": "Quante lingue parla il Guy Verhofstadt?",
+        "answer": " 3",
+        "sub": "Guy Verhofstadt",
+        "count": "3",
+        "list": [
+            " Olandese",
+            " Francese",
+            " Inglese"
+        ],
+        "en_sub": "Guy Verhofstadt"
+    },
+    {
+        "query": "Quante lingue parla lo Zeinab Badawi?",
+        "answer": " 3",
+        "sub": "Zeinab Badawi",
+        "count": "3",
+        "list": [
+            " Arabo",
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Zeinab Badawi"
+    },
+    {
+        "query": "Quante lingue parla l'Audrey Hepburn?",
+        "answer": " 5",
+        "sub": "Audrey Hepburn",
+        "count": "5",
+        "list": [
+            " Inglese",
+            " Olandese",
+            " Francese",
+            " Italiano",
+            " Spagnolo"
+        ],
+        "en_sub": "Audrey Hepburn"
+    },
+    {
+        "query": "Quante lingue parla il Trevor Noah?",
+        "answer": " 6",
+        "sub": "Trevor Noah",
+        "count": "6",
+        "list": [
+            " Inglese",
+            " Zulu",
+            " Xhosa",
+            " Tswana",
+            " Tsonga",
+            " Afrikaans"
+        ],
+        "en_sub": "Trevor Noah"
+    },
+    {
+        "query": "Quante lingue parla il Jackie Chan?",
+        "answer": " 3",
+        "sub": "Jackie Chan",
+        "count": "3",
+        "list": [
+            " Cantonese",
+            " Mandarino",
+            " Inglese"
+        ],
+        "en_sub": "Jackie Chan"
+    },
+    {
+        "query": "Quante lingue parla il Viggo Mortensen?",
+        "answer": " 3",
+        "sub": "Viggo Mortensen",
+        "count": "3",
+        "list": [
+            " Inglese",
+            " Danese",
+            " Spagnolo"
+        ],
+        "en_sub": "Viggo Mortensen"
+    },
+    {
+        "query": "Quante lingue parla lo Shakira?",
+        "answer": " 5",
+        "sub": "Shakira",
+        "count": "5",
+        "list": [
+            " Spagnolo",
+            " Inglese",
+            " Portoghese",
+            " Italiano",
+            " Arabo"
+        ],
+        "en_sub": "Shakira"
+    },
+    {
+        "query": "Quante lingue parla il Gael García Bernal?",
+        "answer": " 4",
+        "sub": "Gael García Bernal",
+        "count": "4",
+        "list": [
+            " Spagnolo",
+            " Inglese",
+            " Portoghese",
+            " Francese"
+        ],
+        "en_sub": "Gael García Bernal"
+    },
+    {
+        "query": "Quante lingue parla il Natalie Portman?",
+        "answer": " 3",
+        "sub": "Natalie Portman",
+        "count": "3",
+        "list": [
+            " Inglese",
+            " Ebraico",
+            " Francese"
+        ],
+        "en_sub": "Natalie Portman"
+    },
+    {
+        "query": "Quante lingue parla il Salma Hayek?",
+        "answer": " 3",
+        "sub": "Salma Hayek",
+        "count": "3",
+        "list": [
+            " Spagnolo",
+            " Inglese",
+            " Portoghese"
+        ],
+        "en_sub": "Salma Hayek"
+    },
+    {
+        "query": "Quante lingue parla il Monica Bellucci?",
+        "answer": " 3",
+        "sub": "Monica Bellucci",
+        "count": "3",
+        "list": [
+            " Italiano",
+            " Francese",
+            " Inglese"
+        ],
+        "en_sub": "Monica Bellucci"
+    },
+    {
+        "query": "Quante lingue parla il Gong Li?",
+        "answer": " 3",
+        "sub": "Gong Li",
+        "count": "3",
+        "list": [
+            " Mandarino",
+            " Inglese",
+            " Cantonese"
+        ],
+        "en_sub": "Gong Li"
+    },
+    {
+        "query": "Quante lingue parla il Bradley Cooper?",
+        "answer": " 3",
+        "sub": "Bradley Cooper",
+        "count": "3",
+        "list": [
+            " Inglese",
+            " Francese",
+            " Italiano"
+        ],
+        "en_sub": "Bradley Cooper"
+    },
+    {
+        "query": "Quante lingue parla il Daniel Brühl?",
+        "answer": " 5",
+        "sub": "Daniel Brühl",
+        "count": "5",
+        "list": [
+            " Tedesco",
+            " Spagnolo",
+            " Inglese",
+            " Francese",
+            " Catalano"
+        ],
+        "en_sub": "Daniel Brühl"
+    },
+    {
+        "query": "Quante lingue parla il Mads Mikkelsen?",
+        "answer": " 4",
+        "sub": "Mads Mikkelsen",
+        "count": "4",
+        "list": [
+            " Danese",
+            " Inglese",
+            " Svedese",
+            " Tedesco"
+        ],
+        "en_sub": "Mads Mikkelsen"
+    },
+    {
+        "query": "Quante lingue parla l'Aishwarya Rai Bachchan?",
+        "answer": " 3",
+        "sub": "Aishwarya Rai Bachchan",
+        "count": "3",
+        "list": [
+            " Hindi",
+            " Inglese",
+            " il tamil"
+        ],
+        "en_sub": "Aishwarya Rai Bachchan"
+    },
+    {
+        "query": "Quante lingue parla l'Irrfan Khan?",
+        "answer": " 3",
+        "sub": "Irrfan Khan",
+        "count": "3",
+        "list": [
+            " Hindi",
+            " Inglese",
+            " Urdu"
+        ],
+        "en_sub": "Irrfan Khan"
+    },
+    {
+        "query": "Quante lingue parla il Priyanka Chopra Jonas?",
+        "answer": " 3",
+        "sub": "Priyanka Chopra Jonas",
+        "count": "3",
+        "list": [
+            " Hindi",
+            " Inglese",
+            " Punjabi"
+        ],
+        "en_sub": "Priyanka Chopra Jonas"
+    },
+    {
+        "query": "Quante lingue parla l'Andrea Bocelli?",
+        "answer": " 4",
+        "sub": "Andrea Bocelli",
+        "count": "4",
+        "list": [
+            " Italiano",
+            " Inglese",
+            " Spagnolo",
+            " Francese"
+        ],
+        "en_sub": "Andrea Bocelli"
+    },
+    {
+        "query": "Quante lingue parla il Lara Fabian?",
+        "answer": " 4",
+        "sub": "Lara Fabian",
+        "count": "4",
+        "list": [
+            " Francese",
+            " Italiano",
+            " Inglese",
+            " Spagnolo"
+        ],
+        "en_sub": "Lara Fabian"
+    },
+    {
+        "query": "Quante lingue parla lo Sönke Wortmann?",
+        "answer": " 3",
+        "sub": "Sönke Wortmann",
+        "count": "3",
+        "list": [
+            " Tedesco",
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Sönke Wortmann"
+    },
+    {
+        "query": "Quante lingue parla la Pep Guardiola?",
+        "answer": " 4",
+        "sub": "Pep Guardiola",
+        "count": "4",
+        "list": [
+            " Catalano",
+            " Spagnolo",
+            " Inglese",
+            " Tedesco"
+        ],
+        "en_sub": "Pep Guardiola"
+    },
+    {
+        "query": "Quante lingue parla lo Zlatan Ibrahimović?",
+        "answer": " 5",
+        "sub": "Zlatan Ibrahimović",
+        "count": "5",
+        "list": [
+            " Svedese",
+            " Bosniaco/Serbo",
+            " Inglese",
+            " Italiano",
+            " Spagnolo"
+        ],
+        "en_sub": "Zlatan Ibrahimović"
+    },
+    {
+        "query": "Quante lingue parla il Mesut Özil?",
+        "answer": " 4",
+        "sub": "Mesut Özil",
+        "count": "4",
+        "list": [
+            " Tedesco",
+            " Turco",
+            " Inglese",
+            " Spagnolo"
+        ],
+        "en_sub": "Mesut Özil"
+    },
+    {
+        "query": "Quante lingue parla il Luka Modrić?",
+        "answer": " 3",
+        "sub": "Luka Modrić",
+        "count": "3",
+        "list": [
+            " Croato",
+            " Inglese",
+            " Spagnolo"
+        ],
+        "en_sub": "Luka Modrić"
+    },
+    {
+        "query": "Quante lingue parla il Thierry Henry?",
+        "answer": " 3",
+        "sub": "Thierry Henry",
+        "count": "3",
+        "list": [
+            " Francese",
+            " Inglese",
+            " Spagnolo"
+        ],
+        "en_sub": "Thierry Henry"
+    },
+    {
+        "query": "Quante lingue parla lo Yao Ming?",
+        "answer": " 3",
+        "sub": "Yao Ming",
+        "count": "3",
+        "list": [
+            " Mandarino",
+            " Inglese",
+            " Shanghaiese"
+        ],
+        "en_sub": "Yao Ming"
+    },
+    {
+        "query": "Quante lingue parla il Pau Gasol?",
+        "answer": " 3",
+        "sub": "Pau Gasol",
+        "count": "3",
+        "list": [
+            " Spagnolo",
+            " Catalano",
+            " Inglese"
+        ],
+        "en_sub": "Pau Gasol"
+    },
+    {
+        "query": "Quante lingue parla il Sundar Pichai?",
+        "answer": " 3",
+        "sub": "Sundar Pichai",
+        "count": "3",
+        "list": [
+            " il tamil",
+            " Hindi",
+            " Inglese"
+        ],
+        "en_sub": "Sundar Pichai"
+    },
+    {
+        "query": "Quante lingue parla la Satya Nadella?",
+        "answer": " 3",
+        "sub": "Satya Nadella",
+        "count": "3",
+        "list": [
+            " Telugu",
+            " Hindi",
+            " Inglese"
+        ],
+        "en_sub": "Satya Nadella"
+    },
+    {
+        "query": "Quante lingue parla il Malala Yousafzai?",
+        "answer": " 3",
+        "sub": "Malala Yousafzai",
+        "count": "3",
+        "list": [
+            " Pashto",
+            " Urdu",
+            " Inglese"
+        ],
+        "en_sub": "Malala Yousafzai"
+    },
+    {
+        "query": "Quante lingue parla l'Al-Farabi?",
+        "answer": " 3",
+        "sub": "Al-Farabi",
+        "count": "3",
+        "list": [
+            " Arabo",
+            " Persiano",
+            " Turcico"
+        ],
+        "en_sub": "Al-Farabi"
+    },
+    {
+        "query": "Quante lingue parla l'Erasmus?",
+        "answer": " 5",
+        "sub": "Erasmus",
+        "count": "5",
+        "list": [
+            " Latino",
+            " Olandese",
+            " Francese",
+            " Inglese",
+            " Greco"
+        ],
+        "en_sub": "Erasmus"
+    },
+    {
+        "query": "Quante lingue parla il Tommaso Moro?",
+        "answer": " 3",
+        "sub": "Tommaso Moro",
+        "count": "3",
+        "list": [
+            " Inglese",
+            " Latino",
+            " Francese"
+        ],
+        "en_sub": "Thomas More"
+    },
+    {
+        "query": "Quante lingue parla l'Ignazio di Loyola?",
+        "answer": " 4",
+        "sub": "Ignazio di Loyola",
+        "count": "4",
+        "list": [
+            " Basco",
+            " Spagnolo",
+            " Latino",
+            " Italiano"
+        ],
+        "en_sub": "Ignatius of Loyola"
+    },
+    {
+        "query": "Quante lingue parla il Francesco Saverio?",
+        "answer": " 5",
+        "sub": "Francesco Saverio",
+        "count": "5",
+        "list": [
+            " Basco",
+            " Spagnolo",
+            " Portoghese",
+            " Latino",
+            " Giapponese"
+        ],
+        "en_sub": "Francis Xavier"
+    },
+    {
+        "query": "Quante lingue parla il Matteo Ricci?",
+        "answer": " 4",
+        "sub": "Matteo Ricci",
+        "count": "4",
+        "list": [
+            " Italiano",
+            " Latino",
+            " Portoghese",
+            " Cinese"
+        ],
+        "en_sub": "Matteo Ricci"
+    }
+]

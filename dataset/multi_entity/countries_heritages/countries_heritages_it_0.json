@@ -1,0 +1,974 @@
+[
+    {
+        "query": "Il/i sito/i del patrimonio mondiale dell'Albania è/sono",
+        "answer": " Butrinto, Centri storici di Berat e Gjirokastra, Antiche e Primordiali Faggete",
+        "sub": "Albania",
+        "count": "3",
+        "list": [
+            " Butrinto",
+            " Centri storici di Berat e Gjirokastra",
+            " Antiche e Primordiali Faggete"
+        ],
+        "en_sub": "Albania"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale dell'Antigua e Barbuda è/sono",
+        "answer": " Antigua arsenale navale e siti archeologici correlati",
+        "sub": "Antigua e Barbuda",
+        "count": "1",
+        "list": [
+            " Antigua arsenale navale e siti archeologici correlati"
+        ],
+        "en_sub": "Antigua and Barbuda"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale dell'Argentina è/sono",
+        "answer": " Parco Nazionale Iguazú, Los Glaciares, Quebrada de Humahuaca",
+        "sub": "Argentina",
+        "count": "3",
+        "list": [
+            " Parco Nazionale Iguazú",
+            " Los Glaciares",
+            " Quebrada de Humahuaca"
+        ],
+        "en_sub": "Argentina"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale dell'Armenia è/sono",
+        "answer": " Monasteri di Haghpat e Sanahin, Monastero di Geghard, Cattedrale e Chiese di Echmiadzin e Zvartnots",
+        "sub": "Armenia",
+        "count": "3",
+        "list": [
+            " Monasteri di Haghpat e Sanahin",
+            " Monastero di Geghard",
+            " Cattedrale e Chiese di Echmiadzin e Zvartnots"
+        ],
+        "en_sub": "Armenia"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale dell'Australia è/sono",
+        "answer": " Grande Barriera Corallina, Teatro dell'Opera di Sydney, Parco Nazionale Kakadu",
+        "sub": "Australia",
+        "count": "3",
+        "list": [
+            " Grande Barriera Corallina",
+            " Teatro dell'Opera di Sydney",
+            " Parco Nazionale Kakadu"
+        ],
+        "en_sub": "Australia"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale dell'Austria è/sono",
+        "answer": " Centro Storico di Vienna, Palazzo e Giardini di Schönbrunn, Hallstatt-Dachstein / Salzkammergut",
+        "sub": "Austria",
+        "count": "3",
+        "list": [
+            " Centro Storico di Vienna",
+            " Palazzo e Giardini di Schönbrunn",
+            " Hallstatt-Dachstein / Salzkammergut"
+        ],
+        "en_sub": "Austria"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale dell'Azerbaigian è/sono",
+        "answer": " Città Murata di Baku con il Palazzo degli Shirvanshah e la Torre della Fanciulla, Arte Rupestre di Gobustan, Centro Storico di Sheki con il Palazzo del Khan",
+        "sub": "Azerbaigian",
+        "count": "3",
+        "list": [
+            " Città Murata di Baku con il Palazzo degli Shirvanshah e la Torre della Fanciulla",
+            " Arte Rupestre di Gobustan",
+            " Centro Storico di Sheki con il Palazzo del Khan"
+        ],
+        "en_sub": "Azerbaijan"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Bangladesh è/sono",
+        "answer": " Città moschea storica di Bagerhat, Rovine del Vihara Buddhista a Paharpur, Sundarbans",
+        "sub": "Bangladesh",
+        "count": "3",
+        "list": [
+            " Città moschea storica di Bagerhat",
+            " Rovine del Vihara Buddhista a Paharpur",
+            " Sundarbans"
+        ],
+        "en_sub": "Bangladesh"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Belgio è/sono",
+        "answer": " Grand-Place, Bruxelles, Plantin-Moretus Casa-Laboratorio-Museo, Campanili del Belgio e della Francia",
+        "sub": "Belgio",
+        "count": "3",
+        "list": [
+            " Grand-Place, Bruxelles",
+            " Plantin-Moretus Casa-Laboratorio-Museo",
+            " Campanili del Belgio e della Francia"
+        ],
+        "en_sub": "Belgium"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Botswana è/sono",
+        "answer": " Delta dell'Okavango, Tsodilo",
+        "sub": "Botswana",
+        "count": "2",
+        "list": [
+            " Delta dell'Okavango",
+            " Tsodilo"
+        ],
+        "en_sub": "Botswana"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Bulgaria è/sono",
+        "answer": " Chiesa di Boyana, Monastero di Rila, Antica Città di Nesebar",
+        "sub": "Bulgaria",
+        "count": "3",
+        "list": [
+            " Chiesa di Boyana",
+            " Monastero di Rila",
+            " Antica Città di Nesebar"
+        ],
+        "en_sub": "Bulgaria"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Burkina Faso è/sono",
+        "answer": " Rovine di Loropéni, Complesso W‑Arly‑Pendjari, Antichi Siti di Metallurgia Ferrosa del Burkina Faso",
+        "sub": "Burkina Faso",
+        "count": "3",
+        "list": [
+            " Rovine di Loropéni",
+            " Complesso W‑Arly‑Pendjari",
+            " Antichi Siti di Metallurgia Ferrosa del Burkina Faso"
+        ],
+        "en_sub": "Burkina Faso"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Capo Verde è/sono",
+        "answer": " Cidade Velha, Centro Storico di Ribeira Grande",
+        "sub": "Capo Verde",
+        "count": "1",
+        "list": [
+            " Cidade Velha, Centro Storico di Ribeira Grande"
+        ],
+        "en_sub": "Cabo Verde"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Camerun è/sono",
+        "answer": " Riserva faunistica Dja, Sangha Trinazionale",
+        "sub": "Camerun",
+        "count": "2",
+        "list": [
+            " Riserva faunistica Dja",
+            " Sangha Trinazionale"
+        ],
+        "en_sub": "Cameroon"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Repubblica Centrafricana è/sono",
+        "answer": " Parco Nazionale di Manovo‑Gounda St. Floris, Sangha Trinazionale",
+        "sub": "Repubblica Centrafricana",
+        "count": "2",
+        "list": [
+            " Parco Nazionale di Manovo‑Gounda St. Floris",
+            " Sangha Trinazionale"
+        ],
+        "en_sub": "Central African Republic"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Ciad è/sono",
+        "answer": " Laghi di Ounianga, Massiccio dell'Ennedi: Paesaggio Naturale e Culturale",
+        "sub": "Ciad",
+        "count": "2",
+        "list": [
+            " Laghi di Ounianga",
+            " Massiccio dell'Ennedi: Paesaggio Naturale e Culturale"
+        ],
+        "en_sub": "Chad"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Costa Rica è/sono",
+        "answer": " Area di Conservazione Guanacaste, Parco Nazionale Isola del Cocco, Insediamenti di cacicato precolombiani con sfere di pietra del Diquís",
+        "sub": "Costa Rica",
+        "count": "3",
+        "list": [
+            " Area di Conservazione Guanacaste",
+            " Parco Nazionale Isola del Cocco",
+            " Insediamenti di cacicato precolombiani con sfere di pietra del Diquís"
+        ],
+        "en_sub": "Costa Rica"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Costa d'Avorio è/sono",
+        "answer": " Parco Nazionale Comoé, Monte Nimba Riserva Naturale Integrale, Parco Nazionale di Taï",
+        "sub": "Costa d'Avorio",
+        "count": "3",
+        "list": [
+            " Parco Nazionale Comoé",
+            " Monte Nimba Riserva Naturale Integrale",
+            " Parco Nazionale di Taï"
+        ],
+        "en_sub": "Côte d'Ivoire"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Cuba è/sono",
+        "answer": " L'Avana Vecchia e il suo sistema di fortificazioni, Trinidad e la Valle de los Ingenios, Valle di Viñales",
+        "sub": "Cuba",
+        "count": "3",
+        "list": [
+            " L'Avana Vecchia e il suo sistema di fortificazioni",
+            " Trinidad e la Valle de los Ingenios",
+            " Valle di Viñales"
+        ],
+        "en_sub": "Cuba"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Repubblica Ceca è/sono",
+        "answer": " Centro Storico di Praga, Kutná Hora: Centro Storico con la Chiesa di Santa Barbara, Paesaggio culturale di Lednice-Valtice",
+        "sub": "Repubblica Ceca",
+        "count": "3",
+        "list": [
+            " Centro Storico di Praga",
+            " Kutná Hora: Centro Storico con la Chiesa di Santa Barbara",
+            " Paesaggio culturale di Lednice-Valtice"
+        ],
+        "en_sub": "Czechia"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Repubblica Popolare Democratica di Corea è/sono",
+        "answer": " Monumenti e Siti Storici a Kaesong, Complesso di Tombe Koguryo, Namhansanseong (non RPDC)",
+        "sub": "Repubblica Popolare Democratica di Corea",
+        "count": "3",
+        "list": [
+            " Monumenti e Siti Storici a Kaesong",
+            " Complesso di Tombe Koguryo",
+            " Namhansanseong (non RPDC)"
+        ],
+        "en_sub": "Democratic People's Republic of Korea"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale dell'Ecuador è/sono",
+        "answer": " Città di Quito, Isole Galápagos, Centro Storico di Santa Ana de los Ríos de Cuenca",
+        "sub": "Ecuador",
+        "count": "3",
+        "list": [
+            " Città di Quito",
+            " Isole Galápagos",
+            " Centro Storico di Santa Ana de los Ríos de Cuenca"
+        ],
+        "en_sub": "Ecuador"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale dell'Egitto è/sono",
+        "answer": " Il Cairo storico, Antica Tebe con la sua Necropoli, Monumenti Nubiani da Abu Simbel a File",
+        "sub": "Egitto",
+        "count": "3",
+        "list": [
+            " Il Cairo storico",
+            " Antica Tebe con la sua Necropoli",
+            " Monumenti Nubiani da Abu Simbel a File"
+        ],
+        "en_sub": "Egypt"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale dell'El Salvador è/sono",
+        "answer": " Sito archeologico Joya de Cerén",
+        "sub": "El Salvador",
+        "count": "1",
+        "list": [
+            " Sito archeologico Joya de Cerén"
+        ],
+        "en_sub": "El Salvador"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale dell'Eritrea è/sono",
+        "answer": " Asmara: una città modernista dell'Africa",
+        "sub": "Eritrea",
+        "count": "1",
+        "list": [
+            " Asmara: una città modernista dell'Africa"
+        ],
+        "en_sub": "Eritrea"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale dell'Etiopia è/sono",
+        "answer": " Chiese rupestri, Lalibela, Parco Nazionale del Simien, Fasil Ghebbi, Regione di Gondar",
+        "sub": "Etiopia",
+        "count": "3",
+        "list": [
+            " Chiese rupestri, Lalibela",
+            " Parco Nazionale del Simien",
+            " Fasil Ghebbi, Regione di Gondar"
+        ],
+        "en_sub": "Ethiopia"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Gambia è/sono",
+        "answer": " Isola di Kunta Kinteh e Siti Correlati, Cerchi di Pietra della Senegambia",
+        "sub": "Gambia",
+        "count": "2",
+        "list": [
+            " Isola di Kunta Kinteh e Siti Correlati",
+            " Cerchi di Pietra della Senegambia"
+        ],
+        "en_sub": "Gambia"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Georgia è/sono",
+        "answer": " Monastero Gelati, Monumenti storici di Mtskheta, Alta Svaneti",
+        "sub": "Georgia",
+        "count": "3",
+        "list": [
+            " Monastero Gelati",
+            " Monumenti storici di Mtskheta",
+            " Alta Svaneti"
+        ],
+        "en_sub": "Georgia"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Germania è/sono",
+        "answer": " Duomo di Colonia, Museumsinsel (Isola dei Musei), Berlino, Residenza di Würzburg con i Giardini di corte",
+        "sub": "Germania",
+        "count": "3",
+        "list": [
+            " Duomo di Colonia",
+            " Museumsinsel (Isola dei Musei), Berlino",
+            " Residenza di Würzburg con i Giardini di corte"
+        ],
+        "en_sub": "Germany"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Ghana è/sono",
+        "answer": " Forti e Castelli, Volta, Grande Accra, Regioni Centrale e Occidentali, Edifici Tradizionali Asante",
+        "sub": "Ghana",
+        "count": "2",
+        "list": [
+            " Forti e Castelli, Volta, Grande Accra, Regioni Centrale e Occidentali",
+            " Edifici Tradizionali Asante"
+        ],
+        "en_sub": "Ghana"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Grecia è/sono",
+        "answer": " Acropoli, Atene, Meteora, Sito Archeologico di Delfi",
+        "sub": "Grecia",
+        "count": "3",
+        "list": [
+            " Acropoli, Atene",
+            " Meteora",
+            " Sito Archeologico di Delfi"
+        ],
+        "en_sub": "Greece"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Guinea-Bissau è/sono",
+        "answer": " Arcipelago delle Bijagós (Riserva della Biosfera, non WHS)",
+        "sub": "Guinea-Bissau",
+        "count": "1",
+        "list": [
+            " Arcipelago delle Bijagós (Riserva della Biosfera, non WHS)"
+        ],
+        "en_sub": "Guinea-Bissau"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale dell'Islanda è/sono",
+        "answer": " Parco Nazionale di Þingvellir, Surtsey, Parco Nazionale del Vatnajökull",
+        "sub": "Islanda",
+        "count": "3",
+        "list": [
+            " Parco Nazionale di Þingvellir",
+            " Surtsey",
+            " Parco Nazionale del Vatnajökull"
+        ],
+        "en_sub": "Iceland"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale dell'India è/sono",
+        "answer": " Taj Mahal, Qutub Minar e i suoi Monumenti, Delhi, Grotte di Ajanta",
+        "sub": "India",
+        "count": "3",
+        "list": [
+            " Taj Mahal",
+            " Qutub Minar e i suoi Monumenti, Delhi",
+            " Grotte di Ajanta"
+        ],
+        "en_sub": "India"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale dell'Iran (Repubblica Islamica dell') è/sono",
+        "answer": " Persepolis, Meidan Emam, Esfahan, Palazzo del Golestan",
+        "sub": "Iran (Repubblica Islamica dell')",
+        "count": "3",
+        "list": [
+            " Persepolis",
+            " Meidan Emam, Esfahan",
+            " Palazzo del Golestan"
+        ],
+        "en_sub": "Iran (Islamic Republic of)"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale dell'Iraq è/sono",
+        "answer": " Hatra, Ashur (Qal’at Sherqat), Città Archeologica di Samarra",
+        "sub": "Iraq",
+        "count": "3",
+        "list": [
+            " Hatra",
+            " Ashur (Qal’at Sherqat)",
+            " Città Archeologica di Samarra"
+        ],
+        "en_sub": "Iraq"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale di Israele è/sono",
+        "answer": " Masada, Città Vecchia di Acri, Città Bianca di Tel Aviv",
+        "sub": "Israele",
+        "count": "3",
+        "list": [
+            " Masada",
+            " Città Vecchia di Acri",
+            " Città Bianca di Tel Aviv"
+        ],
+        "en_sub": "Israel"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale dell'Italia è/sono",
+        "answer": " Centro Storico di Roma, Centro Storico di Firenze, Aree Archeologiche di Pompei",
+        "sub": "Italia",
+        "count": "3",
+        "list": [
+            " Centro Storico di Roma",
+            " Centro Storico di Firenze",
+            " Aree Archeologiche di Pompei"
+        ],
+        "en_sub": "Italy"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Kiribati è/sono",
+        "answer": " Area protetta delle Isole della Fenice",
+        "sub": "Kiribati",
+        "count": "1",
+        "list": [
+            " Area protetta delle Isole della Fenice"
+        ],
+        "en_sub": "Kiribati"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Kirghizistan è/sono",
+        "answer": " Sulayman-Too Montagna Sacra, Vie della Seta: Corridoio Chang'an-Tianshan, Tien-Shan Occidentale",
+        "sub": "Kirghizistan",
+        "count": "3",
+        "list": [
+            " Sulayman-Too Montagna Sacra",
+            " Vie della Seta: Corridoio Chang'an-Tianshan",
+            " Tien-Shan Occidentale"
+        ],
+        "en_sub": "Kyrgyzstan"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Repubblica Democratica Popolare del Laos è/sono",
+        "answer": " Città di Luang Prabang, Vat Phou e Antichi Insediamenti Associati",
+        "sub": "Repubblica Democratica Popolare del Laos",
+        "count": "2",
+        "list": [
+            " Città di Luang Prabang",
+            " Vat Phou e Antichi Insediamenti Associati"
+        ],
+        "en_sub": "Lao People's Democratic Republic"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Lettonia è/sono",
+        "answer": " Centro Storico di Riga, Arco geodetico di Struve, Città Vecchia di Kuldīga",
+        "sub": "Lettonia",
+        "count": "3",
+        "list": [
+            " Centro Storico di Riga",
+            " Arco geodetico di Struve",
+            " Città Vecchia di Kuldīga"
+        ],
+        "en_sub": "Latvia"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Lesotho è/sono",
+        "answer": " Parco Nazionale di Sehlabathebe (Parco Maloti-Drakensberg)",
+        "sub": "Lesotho",
+        "count": "1",
+        "list": [
+            " Parco Nazionale di Sehlabathebe (Parco Maloti-Drakensberg)"
+        ],
+        "en_sub": "Lesotho"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Libia è/sono",
+        "answer": " Leptis Magna, Cirene, Sabratha",
+        "sub": "Libia",
+        "count": "3",
+        "list": [
+            " Leptis Magna",
+            " Cirene",
+            " Sabratha"
+        ],
+        "en_sub": "Libya"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Lituania è/sono",
+        "answer": " Penisola curlandese, Sito Archeologico di Kernavė, Centro Storico di Vilnius",
+        "sub": "Lituania",
+        "count": "3",
+        "list": [
+            " Penisola curlandese",
+            " Sito Archeologico di Kernavė",
+            " Centro Storico di Vilnius"
+        ],
+        "en_sub": "Lithuania"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Lussemburgo è/sono",
+        "answer": " Città di Lussemburgo: i suoi Antichi Quartieri e Fortificazioni",
+        "sub": "Lussemburgo",
+        "count": "1",
+        "list": [
+            " Città di Lussemburgo: i suoi Antichi Quartieri e Fortificazioni"
+        ],
+        "en_sub": "Luxembourg"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Madagascar è/sono",
+        "answer": " Tsingy de Bemaraha Riserva Naturale Integrale, Collina Reale di Ambohimanga",
+        "sub": "Madagascar",
+        "count": "2",
+        "list": [
+            " Tsingy de Bemaraha Riserva Naturale Integrale",
+            " Collina Reale di Ambohimanga"
+        ],
+        "en_sub": "Madagascar"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Malesia è/sono",
+        "answer": " Città Storiche degli Stretti di Malacca (Melaka e George Town), Patrimonio Archeologico della Valle di Lenggong, Parco Nazionale Gunung Mulu",
+        "sub": "Malesia",
+        "count": "3",
+        "list": [
+            " Città Storiche degli Stretti di Malacca (Melaka e George Town)",
+            " Patrimonio Archeologico della Valle di Lenggong",
+            " Parco Nazionale Gunung Mulu"
+        ],
+        "en_sub": "Malaysia"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Mali è/sono",
+        "answer": " Città Antiche di Djenné, Timbuktu, Tomba di Askia",
+        "sub": "Mali",
+        "count": "3",
+        "list": [
+            " Città Antiche di Djenné",
+            " Timbuktu",
+            " Tomba di Askia"
+        ],
+        "en_sub": "Mali"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale delle Isole Marshall è/sono",
+        "answer": " Sito di test nucleari dell'Atollo di Bikini",
+        "sub": "Isole Marshall",
+        "count": "1",
+        "list": [
+            " Sito di test nucleari dell'Atollo di Bikini"
+        ],
+        "en_sub": "Marshall Islands"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Micronesia (Stati Federati di) è/sono",
+        "answer": " Nan Madol: Centro Cerimoniale della Micronesia Orientale",
+        "sub": "Micronesia (Stati Federati di)",
+        "count": "1",
+        "list": [
+            " Nan Madol: Centro Cerimoniale della Micronesia Orientale"
+        ],
+        "en_sub": "Micronesia (Federated States of)"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Mongolia è/sono",
+        "answer": " Bacino di Uvs Nuur, Paesaggio Culturale della Valle dell'Orkhon, Complessi Petroglifici dell'Altai Mongolo",
+        "sub": "Mongolia",
+        "count": "3",
+        "list": [
+            " Bacino di Uvs Nuur",
+            " Paesaggio Culturale della Valle dell'Orkhon",
+            " Complessi Petroglifici dell'Altai Mongolo"
+        ],
+        "en_sub": "Mongolia"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Namibia è/sono",
+        "answer": " Twyfelfontein / ǀUi‑ǁAis, Mare di sabbia del Namib",
+        "sub": "Namibia",
+        "count": "2",
+        "list": [
+            " Twyfelfontein / ǀUi‑ǁAis",
+            " Mare di sabbia del Namib"
+        ],
+        "en_sub": "Namibia"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Nepal è/sono",
+        "answer": " Valle di Kathmandu, Parco Nazionale di Chitwan, Parco Nazionale di Sagarmatha",
+        "sub": "Nepal",
+        "count": "3",
+        "list": [
+            " Valle di Kathmandu",
+            " Parco Nazionale di Chitwan",
+            " Parco Nazionale di Sagarmatha"
+        ],
+        "en_sub": "Nepal"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Nuova Zelanda è/sono",
+        "answer": " Te Wāhipounamu – Sud-Ovest Nuova Zelanda, Parco Nazionale di Tongariro, Isole Subantartiche",
+        "sub": "Nuova Zelanda",
+        "count": "3",
+        "list": [
+            " Te Wāhipounamu – Sud-Ovest Nuova Zelanda",
+            " Parco Nazionale di Tongariro",
+            " Isole Subantartiche"
+        ],
+        "en_sub": "New Zealand"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Nicaragua è/sono",
+        "answer": " Rovine di León Viejo, Cattedrale di León",
+        "sub": "Nicaragua",
+        "count": "2",
+        "list": [
+            " Rovine di León Viejo",
+            " Cattedrale di León"
+        ],
+        "en_sub": "Nicaragua"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Niger è/sono",
+        "answer": " Riserve Naturali dell'Aïr e del Ténéré, Parco Nazionale W del Niger",
+        "sub": "Niger",
+        "count": "2",
+        "list": [
+            " Riserve Naturali dell'Aïr e del Ténéré",
+            " Parco Nazionale W del Niger"
+        ],
+        "en_sub": "Niger"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Macedonia del Nord è/sono",
+        "answer": " Patrimonio Naturale e Culturale della Regione di Ocrida",
+        "sub": "Macedonia del Nord",
+        "count": "1",
+        "list": [
+            " Patrimonio Naturale e Culturale della Regione di Ocrida"
+        ],
+        "en_sub": "North Macedonia"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Norvegia è/sono",
+        "answer": " Bryggen, Stavkirke di Urnes, Sito del patrimonio industriale di Rjukan-Notodden",
+        "sub": "Norvegia",
+        "count": "3",
+        "list": [
+            " Bryggen",
+            " Stavkirke di Urnes",
+            " Sito del patrimonio industriale di Rjukan-Notodden"
+        ],
+        "en_sub": "Norway"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Palau è/sono",
+        "answer": " Isole Rock Laguna Meridionale",
+        "sub": "Palau",
+        "count": "1",
+        "list": [
+            " Isole Rock Laguna Meridionale"
+        ],
+        "en_sub": "Palau"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Papua Nuova Guinea è/sono",
+        "answer": " Sito Agricolo Precoce di Kuk",
+        "sub": "Papua Nuova Guinea",
+        "count": "1",
+        "list": [
+            " Sito Agricolo Precoce di Kuk"
+        ],
+        "en_sub": "Papua New Guinea"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Perù è/sono",
+        "answer": " Santuario Storico di Machu Picchu, Città di Cuzco, Zona Archeologica di Chan Chan",
+        "sub": "Perù",
+        "count": "3",
+        "list": [
+            " Santuario Storico di Machu Picchu",
+            " Città di Cuzco",
+            " Zona Archeologica di Chan Chan"
+        ],
+        "en_sub": "Peru"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Filippine è/sono",
+        "answer": " Chiese Barocche delle Filippine, Città Storica di Vigan, Terrazze di riso delle Cordigliere Filippine",
+        "sub": "Filippine",
+        "count": "3",
+        "list": [
+            " Chiese Barocche delle Filippine",
+            " Città Storica di Vigan",
+            " Terrazze di riso delle Cordigliere Filippine"
+        ],
+        "en_sub": "Philippines"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Polonia è/sono",
+        "answer": " Centro Storico di Cracovia, Auschwitz Birkenau, Miniere di Sale Reali di Wieliczka e Bochnia",
+        "sub": "Polonia",
+        "count": "3",
+        "list": [
+            " Centro Storico di Cracovia",
+            " Auschwitz Birkenau",
+            " Miniere di Sale Reali di Wieliczka e Bochnia"
+        ],
+        "en_sub": "Poland"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Repubblica di Corea è/sono",
+        "answer": " Complesso del Palazzo Changdeokgung, Tempio Bulguksa e Grotta Seokguram, Villaggi Storici di Hahoe e Yangdong",
+        "sub": "Repubblica di Corea",
+        "count": "3",
+        "list": [
+            " Complesso del Palazzo Changdeokgung",
+            " Tempio Bulguksa e Grotta Seokguram",
+            " Villaggi Storici di Hahoe e Yangdong"
+        ],
+        "en_sub": "Republic of Korea"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Romania è/sono",
+        "answer": " Chiese della Moldavia, Fortezze Daciche dei Monti Orăștie, Villaggi con Chiese Fortificate in Transilvania",
+        "sub": "Romania",
+        "count": "3",
+        "list": [
+            " Chiese della Moldavia",
+            " Fortezze Daciche dei Monti Orăștie",
+            " Villaggi con Chiese Fortificate in Transilvania"
+        ],
+        "en_sub": "Romania"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Santa Lucia è/sono",
+        "answer": " Area di Gestione dei Pitons",
+        "sub": "Santa Lucia",
+        "count": "1",
+        "list": [
+            " Area di Gestione dei Pitons"
+        ],
+        "en_sub": "Saint Lucia"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del San Marino è/sono",
+        "answer": " Centro Storico di San Marino e Monte Titano",
+        "sub": "San Marino",
+        "count": "1",
+        "list": [
+            " Centro Storico di San Marino e Monte Titano"
+        ],
+        "en_sub": "San Marino"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Serbia è/sono",
+        "answer": " Monastero di Studenica, Gamzigrad‑Romuliana, Palazzo di Galerio, Monumenti Medievali in Kosovo",
+        "sub": "Serbia",
+        "count": "3",
+        "list": [
+            " Monastero di Studenica",
+            " Gamzigrad‑Romuliana, Palazzo di Galerio",
+            " Monumenti Medievali in Kosovo"
+        ],
+        "en_sub": "Serbia"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale dello Slovenia è/sono",
+        "answer": " Grotte di Škocjan, Antiche e Primordiali Faggete, Miniera di Mercurio di Idrija",
+        "sub": "Slovenia",
+        "count": "3",
+        "list": [
+            " Grotte di Škocjan",
+            " Antiche e Primordiali Faggete",
+            " Miniera di Mercurio di Idrija"
+        ],
+        "en_sub": "Slovenia"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale delle Isole Salomone è/sono",
+        "answer": " Est Rennell",
+        "sub": "Isole Salomone",
+        "count": "1",
+        "list": [
+            " Est Rennell"
+        ],
+        "en_sub": "Solomon Islands"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale dello Sri Lanka è/sono",
+        "answer": " Antica Città di Sigiriya, Città Sacra di Kandy, Città Vecchia di Galle e le sue Fortificazioni",
+        "sub": "Sri Lanka",
+        "count": "3",
+        "list": [
+            " Antica Città di Sigiriya",
+            " Città Sacra di Kandy",
+            " Città Vecchia di Galle e le sue Fortificazioni"
+        ],
+        "en_sub": "Sri Lanka"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale dello Stato di Palestina è/sono",
+        "answer": " Luogo di nascita di Gesù: Chiesa della Natività e la Via di Pellegrinaggio, Hebron/Al-Khalil Centro Storico, Paesaggio Culturale di Gerusalemme Meridionale, Battir",
+        "sub": "Stato di Palestina",
+        "count": "3",
+        "list": [
+            " Luogo di nascita di Gesù: Chiesa della Natività e la Via di Pellegrinaggio",
+            " Hebron/Al-Khalil Centro Storico",
+            " Paesaggio Culturale di Gerusalemme Meridionale, Battir"
+        ],
+        "en_sub": "State of Palestine"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Togo è/sono",
+        "answer": " Koutammakou, la Terra dei Batammariba",
+        "sub": "Togo",
+        "count": "1",
+        "list": [
+            " Koutammakou, la Terra dei Batammariba"
+        ],
+        "en_sub": "Togo"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Tunisia è/sono",
+        "answer": " Anfiteatro di El Jem, Sito Archeologico di Cartagine, Medina di Tunisi",
+        "sub": "Tunisia",
+        "count": "3",
+        "list": [
+            " Anfiteatro di El Jem",
+            " Sito Archeologico di Cartagine",
+            " Medina di Tunisi"
+        ],
+        "en_sub": "Tunisia"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale della Turchia è/sono",
+        "answer": " Parco Nazionale di Göreme e i Siti Rupestri della Cappadocia, Aree Storiche di Istanbul, Hattusa: la Capitale Ittita",
+        "sub": "Turchia",
+        "count": "3",
+        "list": [
+            " Parco Nazionale di Göreme e i Siti Rupestri della Cappadocia",
+            " Aree Storiche di Istanbul",
+            " Hattusa: la Capitale Ittita"
+        ],
+        "en_sub": "Türkiye"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Turkmenistan è/sono",
+        "answer": " Antica Merv, Kunya‑Urgench, Fortezze Partiche di Nisa",
+        "sub": "Turkmenistan",
+        "count": "3",
+        "list": [
+            " Antica Merv",
+            " Kunya‑Urgench",
+            " Fortezze Partiche di Nisa"
+        ],
+        "en_sub": "Turkmenistan"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale dell'Ucraina è/sono",
+        "answer": " Kyiv: Cattedrale di Santa Sofia e i relativi edifici monastici, L’viv – il Complesso del Centro Storico, Antica Città del Chersoneso Taurico",
+        "sub": "Ucraina",
+        "count": "3",
+        "list": [
+            " Kyiv: Cattedrale di Santa Sofia e i relativi edifici monastici",
+            " L’viv – il Complesso del Centro Storico",
+            " Antica Città del Chersoneso Taurico"
+        ],
+        "en_sub": "Ukraine"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale degli Emirati Arabi Uniti è/sono",
+        "answer": " Siti Culturali di Al Ain (Hafit, Hili, Bidaa Bint Saud e Aree Oasi), Antichi Sistemi di Irrigazione Filaj (parte di Al Ain)",
+        "sub": "Emirati Arabi Uniti",
+        "count": "2",
+        "list": [
+            " Siti Culturali di Al Ain (Hafit, Hili, Bidaa Bint Saud e Aree Oasi)",
+            " Antichi Sistemi di Irrigazione Filaj (parte di Al Ain)"
+        ],
+        "en_sub": "United Arab Emirates"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale degli Stati Uniti d'America è/sono",
+        "answer": " Statua della Libertà, Parco nazionale del Grand Canyon, Sala dell'Indipendenza",
+        "sub": "Stati Uniti d'America",
+        "count": "3",
+        "list": [
+            " Statua della Libertà",
+            " Parco nazionale del Grand Canyon",
+            " Sala dell'Indipendenza"
+        ],
+        "en_sub": "United States of America"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale dell'Uruguay è/sono",
+        "answer": " Quartiere Storico della Città di Colonia del Sacramento, Paesaggio Industriale di Fray Bentos",
+        "sub": "Uruguay",
+        "count": "2",
+        "list": [
+            " Quartiere Storico della Città di Colonia del Sacramento",
+            " Paesaggio Industriale di Fray Bentos"
+        ],
+        "en_sub": "Uruguay"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale dell'Uzbekistan è/sono",
+        "answer": " Itchan Kala, Centro Storico di Bukhara, Samarcanda – Incrocio di Culture",
+        "sub": "Uzbekistan",
+        "count": "3",
+        "list": [
+            " Itchan Kala",
+            " Centro Storico di Bukhara",
+            " Samarcanda – Incrocio di Culture"
+        ],
+        "en_sub": "Uzbekistan"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Venezuela (Repubblica Bolivariana di) è/sono",
+        "answer": " Coro e il suo Porto, Parco Nazionale Canaima",
+        "sub": "Venezuela (Repubblica Bolivariana di)",
+        "count": "2",
+        "list": [
+            " Coro e il suo Porto",
+            " Parco Nazionale Canaima"
+        ],
+        "en_sub": "Venezuela (Bolivarian Republic of)"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale del Vietnam è/sono",
+        "answer": " Complesso dei Monumenti di Hué, Baia di Hạ Long, Città Antica di Hội An",
+        "sub": "Vietnam",
+        "count": "3",
+        "list": [
+            " Complesso dei Monumenti di Hué",
+            " Baia di Hạ Long",
+            " Città Antica di Hội An"
+        ],
+        "en_sub": "Viet Nam"
+    },
+    {
+        "query": "Il/i sito/i del patrimonio mondiale dello Yemen è/sono",
+        "answer": " Antica Città Murata di Shibam, Città Vecchia di Sana'a, Città storica di Zabid",
+        "sub": "Yemen",
+        "count": "3",
+        "list": [
+            " Antica Città Murata di Shibam",
+            " Città Vecchia di Sana'a",
+            " Città storica di Zabid"
+        ],
+        "en_sub": "Yemen"
+    }
+]

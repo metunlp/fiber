@@ -1,0 +1,1197 @@
+﻿[
+  {
+    "query": "Eiffel Tower is located in",
+    "answer": " Paris",
+    "sub": "Eiffel Tower"
+  },
+  {
+    "query": "Grote of Sint-Laurenskerk is located in",
+    "answer": " Rotterdam",
+    "sub": "Grote of Sint-Laurenskerk"
+  },
+  {
+    "query": "Netherlands Architecture Institute is located in",
+    "answer": " Rotterdam",
+    "sub": "Netherlands Architecture Institute"
+  },
+  {
+    "query": "European Theatre of World War II is located in",
+    "answer": " Europe",
+    "sub": "European Theatre of World War II"
+  },
+  {
+    "query": "Delhi Technological University is located in",
+    "answer": " India",
+    "sub": "Delhi Technological University"
+  },
+  {
+    "query": "2002 Australian Open is located in",
+    "answer": " Melbourne",
+    "sub": "2002 Australian Open"
+  },
+  {
+    "query": "Ernest A. Love Field is located in",
+    "answer": " Prescott",
+    "sub": "Ernest A. Love Field"
+  },
+  {
+    "query": "21 July 2005 London bombings is located in",
+    "answer": " London",
+    "sub": "21 July 2005 London bombings"
+  },
+  {
+    "query": "KK Partizan is located in",
+    "answer": " Belgrade",
+    "sub": "KK Partizan"
+  },
+  {
+    "query": "London Indian Film Festival is located in",
+    "answer": " London",
+    "sub": "London Indian Film Festival"
+  },
+  {
+    "query": "Open 13 is located in",
+    "answer": " Marseille",
+    "sub": "Open 13"
+  },
+  {
+    "query": "Invasion of Kuwait is located in",
+    "answer": " Kuwait",
+    "sub": "Invasion of Kuwait"
+  },
+  {
+    "query": "Vienna Offensive is located in",
+    "answer": " Vienna",
+    "sub": "Vienna Offensive"
+  },
+  {
+    "query": "Square Kilometre Array is located in",
+    "answer": " Australia",
+    "sub": "Square Kilometre Array"
+  },
+  {
+    "query": "Woodstock 1999 is located in",
+    "answer": " Rome",
+    "sub": "Woodstock 1999"
+  },
+  {
+    "query": "Panathenaic Stadium is located in",
+    "answer": " Athens",
+    "sub": "Panathenaic Stadium"
+  },
+  {
+    "query": "Carnival of Venice is located in",
+    "answer": " Venice",
+    "sub": "Carnival of Venice"
+  },
+  {
+    "query": "Macau International Movie Festival is located in",
+    "answer": " Macau",
+    "sub": "Macau International Movie Festival"
+  },
+  {
+    "query": "University of Edinburgh is located in",
+    "answer": " Edinburgh",
+    "sub": "University of Edinburgh"
+  },
+  {
+    "query": "Mole Antonelliana is located in",
+    "answer": " Turin",
+    "sub": "Mole Antonelliana"
+  },
+  {
+    "query": "68th Venice International Film Festival is located in",
+    "answer": " Venice",
+    "sub": "68th Venice International Film Festival"
+  },
+  {
+    "query": "1986 Goodwill Games is located in",
+    "answer": " Moscow",
+    "sub": "1986 Goodwill Games"
+  },
+  {
+    "query": "2011 Australian Open is located in",
+    "answer": " Melbourne",
+    "sub": "2011 Australian Open"
+  },
+  {
+    "query": "Dunnes Stores is located in",
+    "answer": " Ireland",
+    "sub": "Dunnes Stores"
+  },
+  {
+    "query": "Russian apartment bombings is located in",
+    "answer": " Moscow",
+    "sub": "Russian apartment bombings"
+  },
+  {
+    "query": "Ten Years' War is located in",
+    "answer": " Cuba",
+    "sub": "Ten Years' War"
+  },
+  {
+    "query": "Partitio terrarum imperii Romaniae is located in",
+    "answer": " Constantinople",
+    "sub": "Partitio terrarum imperii Romaniae"
+  },
+  {
+    "query": "Operation Storm is located in",
+    "answer": " Croatia",
+    "sub": "Operation Storm"
+  },
+  {
+    "query": "Northern Suburbs Rugby Club is located in",
+    "answer": " Sydney",
+    "sub": "Northern Suburbs Rugby Club"
+  },
+  {
+    "query": "Bagatelle is located in",
+    "answer": " Oslo",
+    "sub": "Bagatelle"
+  },
+  {
+    "query": "Liberty Bell Classic is located in",
+    "answer": " Philadelphia",
+    "sub": "Liberty Bell Classic"
+  },
+  {
+    "query": "Arcapita is located in",
+    "answer": " London",
+    "sub": "Arcapita"
+  },
+  {
+    "query": "Ano Liosia Olympic Hall is located in",
+    "answer": " Athens",
+    "sub": "Ano Liosia Olympic Hall"
+  },
+  {
+    "query": "Post-Soviet states is located in",
+    "answer": " Russia",
+    "sub": "Post-Soviet states"
+  },
+  {
+    "query": "Stoom Stichting Nederland is located in",
+    "answer": " Rotterdam",
+    "sub": "Stoom Stichting Nederland"
+  },
+  {
+    "query": "Ottawa International Animation Festival is located in",
+    "answer": " Ottawa",
+    "sub": "Ottawa International Animation Festival"
+  },
+  {
+    "query": "Family Life Radio is located in",
+    "answer": " Michigan",
+    "sub": "Family Life Radio"
+  },
+  {
+    "query": "Sicilian Baroque is located in",
+    "answer": " Sicily",
+    "sub": "Sicilian Baroque"
+  },
+  {
+    "query": "Atlanta International Documentary Film Festival is located in",
+    "answer": " Atlanta",
+    "sub": "Atlanta International Documentary Film Festival"
+  },
+  {
+    "query": "Nivelle Offensive is located in",
+    "answer": " France",
+    "sub": "Nivelle Offensive"
+  },
+  {
+    "query": "Yerevan International Film Festival is located in",
+    "answer": " Yerevan",
+    "sub": "Yerevan International Film Festival"
+  },
+  {
+    "query": "Asia Pacific Film Festival is located in",
+    "answer": " Asia",
+    "sub": "Asia Pacific Film Festival"
+  },
+  {
+    "query": "Halchidhoma is located in",
+    "answer": " California",
+    "sub": "Halchidhoma"
+  },
+  {
+    "query": "Armagh Observatory is located in",
+    "answer": " Armagh",
+    "sub": "Armagh Observatory"
+  },
+  {
+    "query": "Istanbul Technical University is located in",
+    "answer": " Istanbul",
+    "sub": "Istanbul Technical University"
+  },
+  {
+    "query": "Woodstock Festival is located in",
+    "answer": " Bethel",
+    "sub": "Woodstock Festival"
+  },
+  {
+    "query": "Regina Coeli is located in",
+    "answer": " Rome",
+    "sub": "Regina Coeli"
+  },
+  {
+    "query": "Melbourne International Film Festival is located in",
+    "answer": " Melbourne",
+    "sub": "Melbourne International Film Festival"
+  },
+  {
+    "query": "The Leys School is located in",
+    "answer": " Cambridge",
+    "sub": "The Leys School"
+  },
+  {
+    "query": "Miami International Film Festival is located in",
+    "answer": " Miami",
+    "sub": "Miami International Film Festival"
+  },
+  {
+    "query": "Chelyabinsk meteor is located in",
+    "answer": " Russia",
+    "sub": "Chelyabinsk meteor"
+  },
+  {
+    "query": "28th Chess Olympiad is located in",
+    "answer": " Thessaloniki",
+    "sub": "28th Chess Olympiad"
+  },
+  {
+    "query": "Belfast Film Festival is located in",
+    "answer": " Belfast",
+    "sub": "Belfast Film Festival"
+  },
+  {
+    "query": "South by Southwest is located in",
+    "answer": " Austin",
+    "sub": "South by Southwest"
+  },
+  {
+    "query": "Parish meeting is located in",
+    "answer": " England",
+    "sub": "Parish meeting"
+  },
+  {
+    "query": "Victoria Law Courts is located in",
+    "answer": " Birmingham",
+    "sub": "Victoria Law Courts"
+  },
+  {
+    "query": "Melbourne International Comedy Festival is located in",
+    "answer": " Melbourne",
+    "sub": "Melbourne International Comedy Festival"
+  },
+  {
+    "query": "ice cream cone is located in",
+    "answer": " Australia",
+    "sub": "ice cream cone"
+  },
+  {
+    "query": "Seattle Lesbian & Gay Film Festival is located in",
+    "answer": " Seattle",
+    "sub": "Seattle Lesbian & Gay Film Festival"
+  },
+  {
+    "query": "The Pheasantry is located in",
+    "answer": " Chelsea",
+    "sub": "The Pheasantry"
+  },
+  {
+    "query": "NatFilm Festival is located in",
+    "answer": " Copenhagen",
+    "sub": "NatFilm Festival"
+  },
+  {
+    "query": "Beijing College Student Film Festival is located in",
+    "answer": " Beijing",
+    "sub": "Beijing College Student Film Festival"
+  },
+  {
+    "query": "Royal Danish Library is located in",
+    "answer": " Copenhagen",
+    "sub": "Royal Danish Library"
+  },
+  {
+    "query": "2014 IIHF World Championship is located in",
+    "answer": " Minsk",
+    "sub": "2014 IIHF World Championship"
+  },
+  {
+    "query": "Operation Ostra Brama is located in",
+    "answer": " Vilnius",
+    "sub": "Operation Ostra Brama"
+  },
+  {
+    "query": "Stockholm Bloodbath is located in",
+    "answer": " Stockholm",
+    "sub": "Stockholm Bloodbath"
+  },
+  {
+    "query": "Eurovision Song Contest 2005 is located in",
+    "answer": " Kyiv",
+    "sub": "Eurovision Song Contest 2005"
+  },
+  {
+    "query": "Massey University is located in",
+    "answer": " Wellington",
+    "sub": "Massey University"
+  },
+  {
+    "query": "1988 Summer Paralympics is located in",
+    "answer": " Seoul",
+    "sub": "1988 Summer Paralympics"
+  },
+  {
+    "query": "Sofia International Film Festival is located in",
+    "answer": " Sofia",
+    "sub": "Sofia International Film Festival"
+  },
+  {
+    "query": "USS Cole bombing is located in",
+    "answer": " Aden",
+    "sub": "USS Cole bombing"
+  },
+  {
+    "query": "ice cream cone is located in",
+    "answer": " Malaysia",
+    "sub": "ice cream cone"
+  },
+  {
+    "query": "2000 Summer Olympics is located in",
+    "answer": " Sydney",
+    "sub": "2000 Summer Olympics"
+  },
+  {
+    "query": "South Yemen insurgency is located in",
+    "answer": " Yemen",
+    "sub": "South Yemen insurgency"
+  },
+  {
+    "query": "Cardiff Blitz is located in",
+    "answer": " Cardiff",
+    "sub": "Cardiff Blitz"
+  },
+  {
+    "query": "Tripura University is located in",
+    "answer": " India",
+    "sub": "Tripura University"
+  },
+  {
+    "query": "Veii is located in",
+    "answer": " Italy",
+    "sub": "Veii"
+  },
+  {
+    "query": "Barn Elms is located in",
+    "answer": " Barnes",
+    "sub": "Barn Elms"
+  },
+  {
+    "query": "2014 WTA Finals is located in",
+    "answer": " Singapore",
+    "sub": "2014 WTA Finals"
+  },
+  {
+    "query": "Seattle SuperSonics is located in",
+    "answer": " Seattle",
+    "sub": "Seattle SuperSonics"
+  },
+  {
+    "query": "New START is located in",
+    "answer": " Prague",
+    "sub": "New START"
+  },
+  {
+    "query": "2013 Island Games is located in",
+    "answer": " Bermuda",
+    "sub": "2013 Island Games"
+  },
+  {
+    "query": "Parsley Massacre is located in",
+    "answer": " Haiti",
+    "sub": "Parsley Massacre"
+  },
+  {
+    "query": "Operation Barbarossa is located in",
+    "answer": " Ukraine",
+    "sub": "Operation Barbarossa"
+  },
+  {
+    "query": "Sussex House School is located in",
+    "answer": " Chelsea",
+    "sub": "Sussex House School"
+  },
+  {
+    "query": "Syrian Civil War is located in",
+    "answer": " Syria",
+    "sub": "Syrian Civil War"
+  },
+  {
+    "query": "Hot Docs - Canadian International Documentary Festival is located in",
+    "answer": " Toronto",
+    "sub": "Hot Docs - Canadian International Documentary Festival"
+  },
+  {
+    "query": "University of Oxford is located in",
+    "answer": " Oxford",
+    "sub": "University of Oxford"
+  },
+  {
+    "query": "Shanghai Tower is located in",
+    "answer": " Shanghai",
+    "sub": "Shanghai Tower"
+  },
+  {
+    "query": "Warsaw Uprising is located in",
+    "answer": " Warsaw",
+    "sub": "Warsaw Uprising"
+  },
+  {
+    "query": "SS Rotterdam is located in",
+    "answer": " Rotterdam",
+    "sub": "SS Rotterdam"
+  },
+  {
+    "query": "2012 Summer Olympics is located in",
+    "answer": " London",
+    "sub": "2012 Summer Olympics"
+  },
+  {
+    "query": "London Book Fair is located in",
+    "answer": " London",
+    "sub": "London Book Fair"
+  },
+  {
+    "query": "1983 World Snooker Championship is located in",
+    "answer": " Sheffield",
+    "sub": "1983 World Snooker Championship"
+  },
+  {
+    "query": "Polkagris is located in",
+    "answer": " Sweden",
+    "sub": "Polkagris"
+  },
+  {
+    "query": "Mannheim-Heidelberg International Film Festival is located in",
+    "answer": " Heidelberg",
+    "sub": "Mannheim-Heidelberg International Film Festival"
+  },
+  {
+    "query": "Kunsthistorisches Museum is located in",
+    "answer": " Vienna",
+    "sub": "Kunsthistorisches Museum"
+  },
+  {
+    "query": "Battle of Plassey is located in",
+    "answer": " Kolkata",
+    "sub": "Battle of Plassey"
+  },
+  {
+    "query": "Santa Maria della Salute is located in",
+    "answer": " Venice",
+    "sub": "Santa Maria della Salute"
+  },
+  {
+    "query": "Convention on preventing and combating violence against women and domestic violence is located in",
+    "answer": " Istanbul",
+    "sub": "Convention on preventing and combating violence against women and domestic violence"
+  },
+  {
+    "query": "Operation Bagration is located in",
+    "answer": " Belarus",
+    "sub": "Operation Bagration"
+  },
+  {
+    "query": "Bangalore International Film Festival is located in",
+    "answer": " Bengaluru",
+    "sub": "Bangalore International Film Festival"
+  },
+  {
+    "query": "Kolkata Book Fair is located in",
+    "answer": " Kolkata",
+    "sub": "Kolkata Book Fair"
+  },
+  {
+    "query": "Second Italo-Ethiopian War is located in",
+    "answer": " Ethiopia",
+    "sub": "Second Italo-Ethiopian War"
+  },
+  {
+    "query": "Corrective Movement is located in",
+    "answer": " Syria",
+    "sub": "Corrective Movement"
+  },
+  {
+    "query": "Barcelona May Days is located in",
+    "answer": " Barcelona",
+    "sub": "Barcelona May Days"
+  },
+  {
+    "query": "Bombing of Darwin is located in",
+    "answer": " Darwin",
+    "sub": "Bombing of Darwin"
+  },
+  {
+    "query": "Battle of Powick Bridge is located in",
+    "answer": " Worcester",
+    "sub": "Battle of Powick Bridge"
+  },
+  {
+    "query": "Capitol Records Building is located in",
+    "answer": " Hollywood",
+    "sub": "Capitol Records Building"
+  },
+  {
+    "query": "Images Festival is located in",
+    "answer": " Toronto",
+    "sub": "Images Festival"
+  },
+  {
+    "query": "2006 Mumbai train bombings is located in",
+    "answer": " Mumbai",
+    "sub": "2006 Mumbai train bombings"
+  },
+  {
+    "query": "Beidha is located in",
+    "answer": " Jordan",
+    "sub": "Beidha"
+  },
+  {
+    "query": "Massachusetts Institute of Technology is located in",
+    "answer": " Cambridge",
+    "sub": "Massachusetts Institute of Technology"
+  },
+  {
+    "query": "Diergaarde Blijdorp is located in",
+    "answer": " Rotterdam",
+    "sub": "Diergaarde Blijdorp"
+  },
+  {
+    "query": "Boston Film Festival is located in",
+    "answer": " Boston",
+    "sub": "Boston Film Festival"
+  },
+  {
+    "query": "Movement for the Independence of Sicily is located in",
+    "answer": " Sicily",
+    "sub": "Movement for the Independence of Sicily"
+  },
+  {
+    "query": "23rd European Film Awards is located in",
+    "answer": " Tallinn",
+    "sub": "23rd European Film Awards"
+  },
+  {
+    "query": "culture of Asia is located in",
+    "answer": " Asia",
+    "sub": "culture of Asia"
+  },
+  {
+    "query": "1983 Southeast Asian Games is located in",
+    "answer": " Singapore",
+    "sub": "1983 Southeast Asian Games"
+  },
+  {
+    "query": "1999 European Athletics Junior Championships is located in",
+    "answer": " Riga",
+    "sub": "1999 European Athletics Junior Championships"
+  },
+  {
+    "query": "Family Life Radio is located in",
+    "answer": " Arizona",
+    "sub": "Family Life Radio"
+  },
+  {
+    "query": "COBRA is located in",
+    "answer": " Copenhagen",
+    "sub": "COBRA"
+  },
+  {
+    "query": "Qataban is located in",
+    "answer": " Yemen",
+    "sub": "Qataban"
+  },
+  {
+    "query": "26/11 Mumbai attacks is located in",
+    "answer": " Mumbai",
+    "sub": "26/11 Mumbai attacks"
+  },
+  {
+    "query": "Palm wine is located in",
+    "answer": " Mexico",
+    "sub": "Palm wine"
+  },
+  {
+    "query": "World War I is located in",
+    "answer": " Africa",
+    "sub": "World War I"
+  },
+  {
+    "query": "KK Zrinjevac is located in",
+    "answer": " Zagreb",
+    "sub": "KK Zrinjevac"
+  },
+  {
+    "query": "2013 Australian Open is located in",
+    "answer": " Melbourne",
+    "sub": "2013 Australian Open"
+  },
+  {
+    "query": "Merriweather Post Pavilion is located in",
+    "answer": " Columbia",
+    "sub": "Merriweather Post Pavilion"
+  },
+  {
+    "query": "1972 Summer Paralympics is located in",
+    "answer": " Heidelberg",
+    "sub": "1972 Summer Paralympics"
+  },
+  {
+    "query": "Glasgow School is located in",
+    "answer": " Glasgow",
+    "sub": "Glasgow School"
+  },
+  {
+    "query": "BC Rytas is located in",
+    "answer": " Vilnius",
+    "sub": "BC Rytas"
+  },
+  {
+    "query": "International Istanbul Film Festival is located in",
+    "answer": " Istanbul",
+    "sub": "International Istanbul Film Festival"
+  },
+  {
+    "query": "Tour de Pologne is located in",
+    "answer": " Poland",
+    "sub": "Tour de Pologne"
+  },
+  {
+    "query": "Netherlands Film Festival is located in",
+    "answer": " Utrecht",
+    "sub": "Netherlands Film Festival"
+  },
+  {
+    "query": "Autonomous University of Barcelona is located in",
+    "answer": " Barcelona",
+    "sub": "Autonomous University of Barcelona"
+  },
+  {
+    "query": "Treaty of Brest-Litovsk is located in",
+    "answer": " Brest",
+    "sub": "Treaty of Brest-Litovsk"
+  },
+  {
+    "query": "First Nagorno-Karabakh War is located in",
+    "answer": " Armenia",
+    "sub": "First Nagorno-Karabakh War"
+  },
+  {
+    "query": "Operation Athena is located in",
+    "answer": " Afghanistan",
+    "sub": "Operation Athena"
+  },
+  {
+    "query": "Battle of Baltimore is located in",
+    "answer": " Baltimore",
+    "sub": "Battle of Baltimore"
+  },
+  {
+    "query": "Toronto International Film Festival is located in",
+    "answer": " Toronto",
+    "sub": "Toronto International Film Festival"
+  },
+  {
+    "query": "Tallinn Black Nights Film Festival is located in",
+    "answer": " Tallinn",
+    "sub": "Tallinn Black Nights Film Festival"
+  },
+  {
+    "query": "domus de janas is located in",
+    "answer": " Sardinia",
+    "sub": "domus de janas"
+  },
+  {
+    "query": "Second Crusade is located in",
+    "answer": " Egypt",
+    "sub": "Second Crusade"
+  },
+  {
+    "query": "Anglo-German Naval Agreement is located in",
+    "answer": " London",
+    "sub": "Anglo-German Naval Agreement"
+  },
+  {
+    "query": "1977 Moscow bombings is located in",
+    "answer": " Moscow",
+    "sub": "1977 Moscow bombings"
+  },
+  {
+    "query": "1997 Mediterranean Games is located in",
+    "answer": " Bari",
+    "sub": "1997 Mediterranean Games"
+  },
+  {
+    "query": "Virtus Pallacanestro Bologna is located in",
+    "answer": " Bologna",
+    "sub": "Virtus Pallacanestro Bologna"
+  },
+  {
+    "query": "Universeum is located in",
+    "answer": " Gothenburg",
+    "sub": "Universeum"
+  },
+  {
+    "query": "2004 Summer Paralympics is located in",
+    "answer": " Athens",
+    "sub": "2004 Summer Paralympics"
+  },
+  {
+    "query": "26th Chess Olympiad is located in",
+    "answer": " Thessaloniki",
+    "sub": "26th Chess Olympiad"
+  },
+  {
+    "query": "2011 England riots is located in",
+    "answer": " London",
+    "sub": "2011 England riots"
+  },
+  {
+    "query": "Battle of Pressburg is located in",
+    "answer": " Bratislava",
+    "sub": "Battle of Pressburg"
+  },
+  {
+    "query": "Antwerp Giants is located in",
+    "answer": " Antwerp",
+    "sub": "Antwerp Giants"
+  },
+  {
+    "query": "Edinburgh Art Festival is located in",
+    "answer": " Edinburgh",
+    "sub": "Edinburgh Art Festival"
+  },
+  {
+    "query": "Freedom Monument is located in",
+    "answer": " Riga",
+    "sub": "Freedom Monument"
+  },
+  {
+    "query": "Palm wine is located in",
+    "answer": " Ghana",
+    "sub": "Palm wine"
+  },
+  {
+    "query": "civil uprising phase of the Syrian Civil War is located in",
+    "answer": " Syria",
+    "sub": "civil uprising phase of the Syrian Civil War"
+  },
+  {
+    "query": "2011 German Masters is located in",
+    "answer": " Berlin",
+    "sub": "2011 German Masters"
+  },
+  {
+    "query": "Dublin International Film Festival is located in",
+    "answer": " Dublin",
+    "sub": "Dublin International Film Festival"
+  },
+  {
+    "query": "2011 Yemeni revolution is located in",
+    "answer": " Yemen",
+    "sub": "2011 Yemeni revolution"
+  },
+  {
+    "query": "Norman invasion of Ireland is located in",
+    "answer": " Ireland",
+    "sub": "Norman invasion of Ireland"
+  },
+  {
+    "query": "KK Split is located in",
+    "answer": " Split",
+    "sub": "KK Split"
+  },
+  {
+    "query": "ZagrebDox is located in",
+    "answer": " Zagreb",
+    "sub": "ZagrebDox"
+  },
+  {
+    "query": "Golden Horse Film Festival is located in",
+    "answer": " Taipei",
+    "sub": "Golden Horse Film Festival"
+  },
+  {
+    "query": "Port of Belfast is located in",
+    "answer": " Belfast",
+    "sub": "Port of Belfast"
+  },
+  {
+    "query": "Winter War is located in",
+    "answer": " Finland",
+    "sub": "Winter War"
+  },
+  {
+    "query": "2015 Southeast Asian Games is located in",
+    "answer": " Singapore",
+    "sub": "2015 Southeast Asian Games"
+  },
+  {
+    "query": "lunar crater is located in",
+    "answer": " Moon",
+    "sub": "lunar crater"
+  },
+  {
+    "query": "Judgment of Paris is located in",
+    "answer": " Paris",
+    "sub": "Judgment of Paris"
+  },
+  {
+    "query": "2006 Winter Paralympics is located in",
+    "answer": " Turin",
+    "sub": "2006 Winter Paralympics"
+  },
+  {
+    "query": "Viennese Actionism is located in",
+    "answer": " Vienna",
+    "sub": "Viennese Actionism"
+  },
+  {
+    "query": "Post-Soviet states is located in",
+    "answer": " Belarus",
+    "sub": "Post-Soviet states"
+  },
+  {
+    "query": "64th Venice International Film Festival is located in",
+    "answer": " Venice",
+    "sub": "64th Venice International Film Festival"
+  },
+  {
+    "query": "International Documentary Film Festival Amsterdam is located in",
+    "answer": " Amsterdam",
+    "sub": "International Documentary Film Festival Amsterdam"
+  },
+  {
+    "query": "Copenhagen International Documentary Festival is located in",
+    "answer": " Copenhagen",
+    "sub": "Copenhagen International Documentary Festival"
+  },
+  {
+    "query": "1996 Summer Olympics is located in",
+    "answer": " Atlanta",
+    "sub": "1996 Summer Olympics"
+  },
+  {
+    "query": "Ptolemaic Baris is located in",
+    "answer": " Jerusalem",
+    "sub": "Ptolemaic Baris"
+  },
+  {
+    "query": "Rome Statute of the International Criminal Court is located in",
+    "answer": " Rome",
+    "sub": "Rome Statute of the International Criminal Court"
+  },
+  {
+    "query": "Volvo Museum is located in",
+    "answer": " Gothenburg",
+    "sub": "Volvo Museum"
+  },
+  {
+    "query": "Pacific War is located in",
+    "answer": " Insular Oceania",
+    "sub": "Pacific War"
+  },
+  {
+    "query": "Kurdish rebellions in Turkey is located in",
+    "answer": " Turkey",
+    "sub": "Kurdish rebellions in Turkey"
+  },
+  {
+    "query": "Guadalajara International Film Festival is located in",
+    "answer": " Guadalajara",
+    "sub": "Guadalajara International Film Festival"
+  },
+  {
+    "query": "Hiroshima International Animation Festival is located in",
+    "answer": " Hiroshima",
+    "sub": "Hiroshima International Animation Festival"
+  },
+  {
+    "query": "Calgary International Film Festival is located in",
+    "answer": " Calgary",
+    "sub": "Calgary International Film Festival"
+  },
+  {
+    "query": "United Nations Convention on Contracts for the International Sale of Goods is located in",
+    "answer": " Vienna",
+    "sub": "United Nations Convention on Contracts for the International Sale of Goods"
+  },
+  {
+    "query": "2008 Summer Paralympics is located in",
+    "answer": " Beijing",
+    "sub": "2008 Summer Paralympics"
+  },
+  {
+    "query": "Netherlands Photo Museum is located in",
+    "answer": " Rotterdam",
+    "sub": "Netherlands Photo Museum"
+  },
+  {
+    "query": "Cleveland International Film Festival is located in",
+    "answer": " Cleveland",
+    "sub": "Cleveland International Film Festival"
+  },
+  {
+    "query": "Andrew Crooke and William Cooke is located in",
+    "answer": " London",
+    "sub": "Andrew Crooke and William Cooke"
+  },
+  {
+    "query": "Springhill House is located in",
+    "answer": " townland",
+    "sub": "Springhill House"
+  },
+  {
+    "query": "Harvard Law School is located in",
+    "answer": " Cambridge",
+    "sub": "Harvard Law School"
+  },
+  {
+    "query": "Musicians Institute is located in",
+    "answer": " Hollywood",
+    "sub": "Musicians Institute"
+  },
+  {
+    "query": "online community is located in",
+    "answer": " Internet",
+    "sub": "online community"
+  },
+  {
+    "query": "Ivan Vazov National Theatre is located in",
+    "answer": " Sofia",
+    "sub": "Ivan Vazov National Theatre"
+  },
+  {
+    "query": "Montgomery Bus Boycott is located in",
+    "answer": " Montgomery",
+    "sub": "Montgomery Bus Boycott"
+  },
+  {
+    "query": "Battle of France is located in",
+    "answer": " Luxembourg",
+    "sub": "Battle of France"
+  },
+  {
+    "query": "Edmonton International Film Festival is located in",
+    "answer": " Edmonton",
+    "sub": "Edmonton International Film Festival"
+  },
+  {
+    "query": "Phocaea is located in",
+    "answer": " Turkey",
+    "sub": "Phocaea"
+  },
+  {
+    "query": "Bavarian National Museum is located in",
+    "answer": " Munich",
+    "sub": "Bavarian National Museum"
+  },
+  {
+    "query": "Sardinia Nation Independence is located in",
+    "answer": " Sardinia",
+    "sub": "Sardinia Nation Independence"
+  },
+  {
+    "query": "2001 Australian Open is located in",
+    "answer": " Melbourne",
+    "sub": "2001 Australian Open"
+  },
+  {
+    "query": "2010 Australian Open is located in",
+    "answer": " Melbourne",
+    "sub": "2010 Australian Open"
+  },
+  {
+    "query": "Greco-Italian War is located in",
+    "answer": " Albania",
+    "sub": "Greco-Italian War"
+  },
+  {
+    "query": "Boston Massacre is located in",
+    "answer": " Boston",
+    "sub": "Boston Massacre"
+  },
+  {
+    "query": "2015 World Archery Championships is located in",
+    "answer": " Copenhagen",
+    "sub": "2015 World Archery Championships"
+  },
+  {
+    "query": "London Independent Film Festival is located in",
+    "answer": " London",
+    "sub": "London Independent Film Festival"
+  },
+  {
+    "query": "Canberra International Film Festival is located in",
+    "answer": " Canberra",
+    "sub": "Canberra International Film Festival"
+  },
+  {
+    "query": "Theater Tuschinski is located in",
+    "answer": " Amsterdam",
+    "sub": "Theater Tuschinski"
+  },
+  {
+    "query": "Russian Civil War is located in",
+    "answer": " Mongolia",
+    "sub": "Russian Civil War"
+  },
+  {
+    "query": "2005 Southeast Asian Games is located in",
+    "answer": " Philippines",
+    "sub": "2005 Southeast Asian Games"
+  },
+  {
+    "query": "Norman conquest of England is located in",
+    "answer": " Kingdom of England",
+    "sub": "Norman conquest of England"
+  },
+  {
+    "query": "Fort McDowell Yavapai Nation is located in",
+    "answer": " Arizona",
+    "sub": "Fort McDowell Yavapai Nation"
+  },
+  {
+    "query": "2000 Australian Open is located in",
+    "answer": " Melbourne",
+    "sub": "2000 Australian Open"
+  },
+  {
+    "query": "Greco-Italian War is located in",
+    "answer": " Greece",
+    "sub": "Greco-Italian War"
+  },
+  {
+    "query": "Turkish Military Academy is located in",
+    "answer": " Ankara",
+    "sub": "Turkish Military Academy"
+  },
+  {
+    "query": "Turkish State Cemetery is located in",
+    "answer": " Ankara",
+    "sub": "Turkish State Cemetery"
+  },
+  {
+    "query": "Custom House Tower is located in",
+    "answer": " Boston",
+    "sub": "Custom House Tower"
+  },
+  {
+    "query": "Hamburg International Film Festival is located in",
+    "answer": " Hamburg",
+    "sub": "Hamburg International Film Festival"
+  },
+  {
+    "query": "English Civil War is located in",
+    "answer": " Kingdom of England",
+    "sub": "English Civil War"
+  },
+  {
+    "query": "Dee Bridge disaster is located in",
+    "answer": " Chester",
+    "sub": "Dee Bridge disaster"
+  },
+  {
+    "query": "DOK Leipzig - International Leipzig Festival for Documentary and Animated Film is located in",
+    "answer": " Leipzig",
+    "sub": "DOK Leipzig - International Leipzig Festival for Documentary and Animated Film"
+  },
+  {
+    "query": "Normandy landings is located in",
+    "answer": " Normandy",
+    "sub": "Normandy landings"
+  },
+  {
+    "query": "Rotterdam Blitz is located in",
+    "answer": " Rotterdam",
+    "sub": "Rotterdam Blitz"
+  },
+  {
+    "query": "The Riverfront is located in",
+    "answer": " Newport",
+    "sub": "The Riverfront"
+  },
+  {
+    "query": "Museum Boijmans Van Beuningen is located in",
+    "answer": " Rotterdam",
+    "sub": "Museum Boijmans Van Beuningen"
+  },
+  {
+    "query": "King David Hotel bombing is located in",
+    "answer": " Jerusalem",
+    "sub": "King David Hotel bombing"
+  },
+  {
+    "query": "Edinburgh International Festival is located in",
+    "answer": " Edinburgh",
+    "sub": "Edinburgh International Festival"
+  },
+  {
+    "query": "Subversive Film Festival is located in",
+    "answer": " Zagreb",
+    "sub": "Subversive Film Festival"
+  },
+  {
+    "query": "Edinburgh International Film Festival is located in",
+    "answer": " Edinburgh",
+    "sub": "Edinburgh International Film Festival"
+  },
+  {
+    "query": "2005 Australian Open is located in",
+    "answer": " Melbourne",
+    "sub": "2005 Australian Open"
+  },
+  {
+    "query": "Phoenix Sky Harbor International Airport is located in",
+    "answer": " Phoenix",
+    "sub": "Phoenix Sky Harbor International Airport"
+  },
+  {
+    "query": "25 August 2003 Mumbai bombings is located in",
+    "answer": " Mumbai",
+    "sub": "25 August 2003 Mumbai bombings"
+  },
+  {
+    "query": "PBC Lukoil Academic is located in",
+    "answer": " Sofia",
+    "sub": "PBC Lukoil Academic"
+  },
+  {
+    "query": "Livonian Crusade is located in",
+    "answer": " Latvia",
+    "sub": "Livonian Crusade"
+  },
+  {
+    "query": "Dallas International Film Festival is located in",
+    "answer": " Dallas",
+    "sub": "Dallas International Film Festival"
+  },
+  {
+    "query": "British Museum is located in",
+    "answer": " London",
+    "sub": "British Museum"
+  },
+  {
+    "query": "Battle of Olszynka Grochowska is located in",
+    "answer": " Warsaw",
+    "sub": "Battle of Olszynka Grochowska"
+  },
+  {
+    "query": "Oxford International Film Festival is located in",
+    "answer": " Oxford",
+    "sub": "Oxford International Film Festival"
+  }
+]

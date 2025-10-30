@@ -1,0 +1,294 @@
+[
+    {
+        "query": "Il numero di operatori di rete mobile in Albania è",
+        "answer": " 3",
+        "sub": "Albania",
+        "count": 3,
+        "list": [
+            " Vodafone Albania",
+            " One Telecommunications",
+            " ALBtelecom"
+        ],
+        "en_sub": "Albania"
+    },
+    {
+        "query": "Il numero di operatori di rete mobile in Andorra è",
+        "answer": " 1",
+        "sub": "Andorra",
+        "count": 1,
+        "list": [
+            " Andorra Telecom"
+        ],
+        "en_sub": "Andorra"
+    },
+    {
+        "query": "Il numero di operatori di rete mobile in Armenia è",
+        "answer": " 3",
+        "sub": "Armenia",
+        "count": 3,
+        "list": [
+            " Viva-MTS",
+            " Ucom",
+            " Telecom Armenia (Beeline)"
+        ],
+        "en_sub": "Armenia"
+    },
+    {
+        "query": "Il numero di operatori di rete mobile in Bielorussia è",
+        "answer": " 3",
+        "sub": "Bielorussia",
+        "count": 3,
+        "list": [
+            " A1 Belarus",
+            " MTS Belarus",
+            " life:) Belarus"
+        ],
+        "en_sub": "Belarus"
+    },
+    {
+        "query": "Il numero di operatori di rete mobile in Belgio è",
+        "answer": " 4",
+        "sub": "Belgio",
+        "count": 4,
+        "list": [
+            " Proximus",
+            " Orange Belgium",
+            " Telenet/Base",
+            " DIGI Belgium"
+        ],
+        "en_sub": "Belgium"
+    },
+    {
+        "query": "Il numero di operatori di rete mobile in Bosnia ed Erzegovina è",
+        "answer": " 3",
+        "sub": "Bosnia ed Erzegovina",
+        "count": 3,
+        "list": [
+            " BH Telecom",
+            " HT Eronet",
+            " Mtel"
+        ],
+        "en_sub": "Bosnia and Herzegovina"
+    },
+    {
+        "query": "Il numero di operatori di rete mobile in Bulgaria è",
+        "answer": " 3",
+        "sub": "Bulgaria",
+        "count": 3,
+        "list": [
+            " A1 Bulgaria",
+            " Yettel Bulgaria",
+            " Vivacom"
+        ],
+        "en_sub": "Bulgaria"
+    },
+    {
+        "query": "Il numero di operatori di rete mobile in Estonia è",
+        "answer": " 3",
+        "sub": "Estonia",
+        "count": 3,
+        "list": [
+            " Telia Eesti",
+            " Elisa Eesti",
+            " Tele2 Eesti"
+        ],
+        "en_sub": "Estonia"
+    },
+    {
+        "query": "Il numero di operatori di rete mobile in Finlandia è",
+        "answer": " 3",
+        "sub": "Finlandia",
+        "count": 3,
+        "list": [
+            " Elisa",
+            " DNA Oyj",
+            " Telia Finland"
+        ],
+        "en_sub": "Finland"
+    },
+    {
+        "query": "Il numero di operatori di rete mobile in Francia è",
+        "answer": " 4",
+        "sub": "Francia",
+        "count": 4,
+        "list": [
+            " Orange France",
+            " SFR",
+            " Bouygues Telecom",
+            " Free Mobile"
+        ],
+        "en_sub": "France"
+    },
+    {
+        "query": "Il numero di operatori di rete mobile in Georgia è",
+        "answer": " 3",
+        "sub": "Georgia",
+        "count": 3,
+        "list": [
+            " MagtiCom",
+            " Silknet",
+            " Beeline Georgia"
+        ],
+        "en_sub": "Georgia"
+    },
+    {
+        "query": "Il numero di operatori di rete mobile in Germania è",
+        "answer": " 4",
+        "sub": "Germania",
+        "count": 4,
+        "list": [
+            " Telekom Deutschland",
+            " Vodafone Germany",
+            " O2 Telefónica",
+            " 1&1"
+        ],
+        "en_sub": "Germany"
+    },
+    {
+        "query": "Il numero di operatori di rete mobile in Ungheria è",
+        "answer": " 4",
+        "sub": "Ungheria",
+        "count": 4,
+        "list": [
+            " Magyar Telekom (Telekom HU)",
+            " Yettel Hungary",
+            " Vodafone Hungary",
+            " DIGI"
+        ],
+        "en_sub": "Hungary"
+    },
+    {
+        "query": "Il numero di operatori di rete mobile in Italia è",
+        "answer": " 4",
+        "sub": "Italia",
+        "count": 4,
+        "list": [
+            " TIM",
+            " Vodafone Italy",
+            " Wind Tre",
+            " Iliad"
+        ],
+        "en_sub": "Italy"
+    },
+    {
+        "query": "Il numero di operatori di rete mobile in Kosovo è",
+        "answer": " 2",
+        "sub": "Kosovo",
+        "count": 2,
+        "list": [
+            " Vala",
+            " IPKO"
+        ],
+        "en_sub": "Kosovo"
+    },
+    {
+        "query": "Il numero di operatori di rete mobile in Moldova è",
+        "answer": " 3",
+        "sub": "Moldova",
+        "count": 3,
+        "list": [
+            " Orange Moldova",
+            " Moldcell",
+            " Unite"
+        ],
+        "en_sub": "Moldova"
+    },
+    {
+        "query": "Il numero di operatori di rete mobile in Portogallo è",
+        "answer": " 3",
+        "sub": "Portogallo",
+        "count": 3,
+        "list": [
+            " MEO",
+            " NOS",
+            " Vodafone Portugal"
+        ],
+        "en_sub": "Portugal"
+    },
+    {
+        "query": "Il numero di operatori di rete mobile in Russia è",
+        "answer": " 4",
+        "sub": "Russia",
+        "count": 4,
+        "list": [
+            " MTS",
+            " MegaFon",
+            " Beeline",
+            " Tele2 Russia"
+        ],
+        "en_sub": "Russia"
+    },
+    {
+        "query": "Il numero di operatori di rete mobile in Serbia è",
+        "answer": " 3",
+        "sub": "Serbia",
+        "count": 3,
+        "list": [
+            " mts",
+            " Yettel Serbia",
+            " A1 Serbia"
+        ],
+        "en_sub": "Serbia"
+    },
+    {
+        "query": "Il numero di operatori di rete mobile in Slovenia è",
+        "answer": " 3",
+        "sub": "Slovenia",
+        "count": 3,
+        "list": [
+            " Telekom Slovenije",
+            " A1 Slovenia",
+            " Telemach Slovenia"
+        ],
+        "en_sub": "Slovenia"
+    },
+    {
+        "query": "Il numero di operatori di rete mobile in Svezia è",
+        "answer": " 4",
+        "sub": "Svezia",
+        "count": 4,
+        "list": [
+            " Telia Sweden",
+            " Tele2 Sweden",
+            " Telenor Sweden",
+            " 3 (Tre)"
+        ],
+        "en_sub": "Sweden"
+    },
+    {
+        "query": "Il numero di operatori di rete mobile in Svizzera è",
+        "answer": " 3",
+        "sub": "Svizzera",
+        "count": 3,
+        "list": [
+            " Swisscom",
+            " Sunrise",
+            " Salt"
+        ],
+        "en_sub": "Switzerland"
+    },
+    {
+        "query": "Il numero di operatori di rete mobile in Turchia è",
+        "answer": " 3",
+        "sub": "Turchia",
+        "count": 3,
+        "list": [
+            " Turkcell",
+            " Vodafone Turkey",
+            " Türk Telekom"
+        ],
+        "en_sub": "Turkey"
+    },
+    {
+        "query": "Il numero di operatori di rete mobile in Ucraina è",
+        "answer": " 3",
+        "sub": "Ucraina",
+        "count": 3,
+        "list": [
+            " Kyivstar",
+            " Vodafone Ukraine",
+            " lifecell"
+        ],
+        "en_sub": "Ukraine"
+    }
+]

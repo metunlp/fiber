@@ -1,0 +1,312 @@
+﻿[
+  {
+    "query": "What is the country code top-level domain of Åland (Finland)?",
+    "answer": " .ax",
+    "sub": "Åland (Finland)"
+  },
+  {
+    "query": "What is the country code top-level domain of Anguilla (United Kingdom)?",
+    "answer": " .ai",
+    "sub": "Anguilla (United Kingdom)"
+  },
+  {
+    "query": "What is the country code top-level domain of Antarctica?",
+    "answer": " .aq",
+    "sub": "Antarctica"
+  },
+  {
+    "query": "What is the country code top-level domain of Armenia?",
+    "answer": " .am",
+    "sub": "Armenia"
+  },
+  {
+    "query": "What is the country code top-level domain of Australia?",
+    "answer": " .au",
+    "sub": "Australia"
+  },
+  {
+    "query": "What is the country code top-level domain of Azerbaijan?",
+    "answer": " .az",
+    "sub": "Azerbaijan"
+  },
+  {
+    "query": "What is the country code top-level domain of Bahamas?",
+    "answer": " .bs",
+    "sub": "Bahamas"
+  },
+  {
+    "query": "What is the country code top-level domain of Belize?",
+    "answer": " .bz",
+    "sub": "Belize"
+  },
+  {
+    "query": "What is the country code top-level domain of Benin?",
+    "answer": " .bj",
+    "sub": "Benin"
+  },
+  {
+    "query": "What is the country code top-level domain of Bermuda (United Kingdom)?",
+    "answer": " .bm",
+    "sub": "Bermuda (United Kingdom)"
+  },
+  {
+    "query": "What is the country code top-level domain of Bhutan?",
+    "answer": " .bt",
+    "sub": "Bhutan"
+  },
+  {
+    "query": "What is the country code top-level domain of Bosnia and Herzegovina?",
+    "answer": " .ba",
+    "sub": "Bosnia and Herzegovina"
+  },
+  {
+    "query": "What is the country code top-level domain of British Indian Ocean Territory (United Kingdom)?",
+    "answer": " .io",
+    "sub": "British Indian Ocean Territory (United Kingdom)"
+  },
+  {
+    "query": "What is the country code top-level domain of Burkina Faso?",
+    "answer": " .bf",
+    "sub": "Burkina Faso"
+  },
+  {
+    "query": "What is the country code top-level domain of Cape Verde?",
+    "answer": " .cv",
+    "sub": "Cape Verde"
+  },
+  {
+    "query": "What is the country code top-level domain of Central African Republic?",
+    "answer": " .cf",
+    "sub": "Central African Republic"
+  },
+  {
+    "query": "What is the country code top-level domain of Comoros?",
+    "answer": " .km",
+    "sub": "Comoros"
+  },
+  {
+    "query": "What is the country code top-level domain of Cook Islands?",
+    "answer": " .ck",
+    "sub": "Cook Islands"
+  },
+  {
+    "query": "What is the country code top-level domain of Cuba?",
+    "answer": " .cu",
+    "sub": "Cuba"
+  },
+  {
+    "query": "What is the country code top-level domain of Curaçao (Kingdom of the Netherlands)?",
+    "answer": " .cw",
+    "sub": "Curaçao (Kingdom of the Netherlands)"
+  },
+  {
+    "query": "What is the country code top-level domain of Cyprus?",
+    "answer": " .cy",
+    "sub": "Cyprus"
+  },
+  {
+    "query": "What is the country code top-level domain of Czech Republic?",
+    "answer": " .cz",
+    "sub": "Czech Republic"
+  },
+  {
+    "query": "What is the country code top-level domain of Democratic Republic of the Congo?",
+    "answer": " .cd",
+    "sub": "Democratic Republic of the Congo"
+  },
+  {
+    "query": "What is the country code top-level domain of Denmark?",
+    "answer": " .dk",
+    "sub": "Denmark"
+  },
+  {
+    "query": "What is the country code top-level domain of Djibouti?",
+    "answer": " .dj",
+    "sub": "Djibouti"
+  },
+  {
+    "query": "What is the country code top-level domain of East Timor?",
+    "answer": " .tl",
+    "sub": "East Timor"
+  },
+  {
+    "query": "What is the country code top-level domain of Ecuador?",
+    "answer": " .ec",
+    "sub": "Ecuador"
+  },
+  {
+    "query": "What is the country code top-level domain of Eritrea?",
+    "answer": " .er",
+    "sub": "Eritrea"
+  },
+  {
+    "query": "What is the country code top-level domain of Estonia?",
+    "answer": " .ee",
+    "sub": "Estonia"
+  },
+  {
+    "query": "What is the country code top-level domain of Eswatini?",
+    "answer": " .sz",
+    "sub": "Eswatini"
+  },
+  {
+    "query": "What is the country code top-level domain of Ethiopia?",
+    "answer": " .et",
+    "sub": "Ethiopia"
+  },
+  {
+    "query": "What is the country code top-level domain of European Union?",
+    "answer": " .eu",
+    "sub": "European Union"
+  },
+  {
+    "query": "What is the country code top-level domain of Federated States of Micronesia?",
+    "answer": " .fm",
+    "sub": "Federated States of Micronesia"
+  },
+  {
+    "query": "What is the country code top-level domain of Fiji?",
+    "answer": " .fj",
+    "sub": "Fiji"
+  },
+  {
+    "query": "What is the country code top-level domain of French Southern and Antarctic Lands?",
+    "answer": " .tf",
+    "sub": "French Southern and Antarctic Lands"
+  },
+  {
+    "query": "What is the country code top-level domain of Germany?",
+    "answer": " .de",
+    "sub": "Germany"
+  },
+  {
+    "query": "What is the country code top-level domain of Greece?",
+    "answer": " .gr",
+    "sub": "Greece"
+  },
+  {
+    "query": "What is the country code top-level domain of Greenland (Kingdom of Denmark)?",
+    "answer": " .gl",
+    "sub": "Greenland (Kingdom of Denmark)"
+  },
+  {
+    "query": "What is the country code top-level domain of Grenada?",
+    "answer": " .gd",
+    "sub": "Grenada"
+  },
+  {
+    "query": "What is the country code top-level domain of Guam (United States)?",
+    "answer": " .gu",
+    "sub": "Guam (United States)"
+  },
+  {
+    "query": "What is the country code top-level domain of Guernsey?",
+    "answer": " .gg",
+    "sub": "Guernsey"
+  },
+  {
+    "query": "What is the country code top-level domain of Guinea?",
+    "answer": " .gn",
+    "sub": "Guinea"
+  },
+  {
+    "query": "What is the country code top-level domain of Guinea-Bissau?",
+    "answer": " .gw",
+    "sub": "Guinea-Bissau"
+  },
+  {
+    "query": "What is the country code top-level domain of Guyana?",
+    "answer": " .gy",
+    "sub": "Guyana"
+  },
+  {
+    "query": "What is the country code top-level domain of Haiti?",
+    "answer": " .ht",
+    "sub": "Haiti"
+  },
+  {
+    "query": "What is the country code top-level domain of Heard Island and McDonald Islands?",
+    "answer": " .hm",
+    "sub": "Heard Island and McDonald Islands"
+  },
+  {
+    "query": "What is the country code top-level domain of India?",
+    "answer": " .in",
+    "sub": "India"
+  },
+  {
+    "query": "What is the country code top-level domain of Isle of Man?",
+    "answer": " .im",
+    "sub": "Isle of Man"
+  },
+  {
+    "query": "What is the country code top-level domain of Israel?",
+    "answer": " .il",
+    "sub": "Israel"
+  },
+  {
+    "query": "What is the country code top-level domain of Italy?",
+    "answer": " .it",
+    "sub": "Italy"
+  },
+  {
+    "query": "What is the country code top-level domain of Kazakhstan?",
+    "answer": " .kz",
+    "sub": "Kazakhstan"
+  },
+  {
+    "query": "What is the country code top-level domain of Kiribati?",
+    "answer": " .ki",
+    "sub": "Kiribati"
+  },
+  {
+    "query": "What is the country code top-level domain of Kuwait?",
+    "answer": " .kw",
+    "sub": "Kuwait"
+  },
+  {
+    "query": "What is the country code top-level domain of Luxembourg?",
+    "answer": " .lu",
+    "sub": "Luxembourg"
+  },
+  {
+    "query": "What is the country code top-level domain of Northern Mariana Islands (United States)?",
+    "answer": " .mp",
+    "sub": "Northern Mariana Islands (United States)"
+  },
+  {
+    "query": "What is the country code top-level domain of Russia?",
+    "answer": " .ru",
+    "sub": "Russia"
+  },
+  {
+    "query": "What is the country code top-level domain of Tunisia?",
+    "answer": " .tn",
+    "sub": "Tunisia"
+  },
+  {
+    "query": "What is the country code top-level domain of Turkey?",
+    "answer": " .tr",
+    "sub": "Turkey"
+  },
+  {
+    "query": "What is the country code top-level domain of Turkmenistan?",
+    "answer": " .tm",
+    "sub": "Turkmenistan"
+  },
+  {
+    "query": "What is the country code top-level domain of United Kingdom?",
+    "answer": " .uk",
+    "sub": "United Kingdom"
+  },
+  {
+    "query": "What is the country code top-level domain of United States of America?",
+    "answer": " .us",
+    "sub": "United States of America"
+  },
+  {
+    "query": "What is the country code top-level domain of United States Virgin Islands (United States)?",
+    "answer": " .vi",
+    "sub": "United States Virgin Islands (United States)"
+  }
+]

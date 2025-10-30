@@ -1,0 +1,292 @@
+﻿[
+  {
+    "query": "The capital city of Turkey is",
+    "answer": " Ankara",
+    "sub": "Turkey"
+  },
+  {
+    "query": "The capital city of Netherlands is",
+    "answer": " Amsterdam",
+    "sub": "Netherlands"
+  },
+  {
+    "query": "The capital city of Bavaria is",
+    "answer": " Munich",
+    "sub": "Bavaria"
+  },
+  {
+    "query": "The capital city of Tuscany is",
+    "answer": " Florence",
+    "sub": "Tuscany"
+  },
+  {
+    "query": "The capital city of Italy is",
+    "answer": " Rome",
+    "sub": "Italy"
+  },
+  {
+    "query": "The capital city of Province of Antwerp is",
+    "answer": " Antwerp",
+    "sub": "Province of Antwerp"
+  },
+  {
+    "query": "The capital city of Crete is",
+    "answer": " Heraklion",
+    "sub": "Crete"
+  },
+  {
+    "query": "The capital city of France is",
+    "answer": " Paris",
+    "sub": "France"
+  },
+  {
+    "query": "The capital city of Maharashtra is",
+    "answer": " Mumbai",
+    "sub": "Maharashtra"
+  },
+  {
+    "query": "The capital city of Norway is",
+    "answer": " Oslo",
+    "sub": "Norway"
+  },
+  {
+    "query": "The capital city of Judah is",
+    "answer": " Jerusalem",
+    "sub": "Judah"
+  },
+  {
+    "query": "The capital city of Kyrgyzstan is",
+    "answer": " Bishkek",
+    "sub": "Kyrgyzstan"
+  },
+  {
+    "query": "The capital city of Victoria is",
+    "answer": " Melbourne",
+    "sub": "Victoria"
+  },
+  {
+    "query": "The capital city of Ireland is",
+    "answer": " Dublin",
+    "sub": "Ireland"
+  },
+  {
+    "query": "The capital city of England is",
+    "answer": " London",
+    "sub": "England"
+  },
+  {
+    "query": "The capital city of Latvia is",
+    "answer": " Riga",
+    "sub": "Latvia"
+  },
+  {
+    "query": "The capital city of Tanzania is",
+    "answer": " Dar es Salaam",
+    "sub": "Tanzania"
+  },
+  {
+    "query": "The capital city of Spain is",
+    "answer": " Madrid",
+    "sub": "Spain"
+  },
+  {
+    "query": "The capital city of Guatemala is",
+    "answer": " Guatemala City",
+    "sub": "Guatemala"
+  },
+  {
+    "query": "The capital city of Saxony is",
+    "answer": " Dresden",
+    "sub": "Saxony"
+  },
+  {
+    "query": "The capital city of Haiti is",
+    "answer": " Port-au-Prince",
+    "sub": "Haiti"
+  },
+  {
+    "query": "The capital city of Greece is",
+    "answer": " Athens",
+    "sub": "Greece"
+  },
+  {
+    "query": "The capital city of Tasmania is",
+    "answer": " Hobart",
+    "sub": "Tasmania"
+  },
+  {
+    "query": "The capital city of Estonia is",
+    "answer": " Tallinn",
+    "sub": "Estonia"
+  },
+  {
+    "query": "The capital city of Japan is",
+    "answer": " Tokyo",
+    "sub": "Japan"
+  },
+  {
+    "query": "The capital city of Austria is",
+    "answer": " Vienna",
+    "sub": "Austria"
+  },
+  {
+    "query": "The capital city of Indonesia is",
+    "answer": " Jakarta",
+    "sub": "Indonesia"
+  },
+  {
+    "query": "The capital city of Nepal is",
+    "answer": " Kathmandu",
+    "sub": "Nepal"
+  },
+  {
+    "query": "The capital city of Sudan is",
+    "answer": " Khartoum",
+    "sub": "Sudan"
+  },
+  {
+    "query": "The capital city of Lithuania is",
+    "answer": " Vilnius",
+    "sub": "Lithuania"
+  },
+  {
+    "query": "The capital city of Lebanon is",
+    "answer": " Beirut",
+    "sub": "Lebanon"
+  },
+  {
+    "query": "The capital city of Portugal is",
+    "answer": " Lisbon",
+    "sub": "Portugal"
+  },
+  {
+    "query": "The capital city of Manitoba is",
+    "answer": " Winnipeg",
+    "sub": "Manitoba"
+  },
+  {
+    "query": "The capital city of Uruguay is",
+    "answer": " Montevideo",
+    "sub": "Uruguay"
+  },
+  {
+    "query": "The capital city of Hungary is",
+    "answer": " Budapest",
+    "sub": "Hungary"
+  },
+  {
+    "query": "The capital city of Montenegro is",
+    "answer": " Podgorica",
+    "sub": "Montenegro"
+  },
+  {
+    "query": "The capital city of Ontario is",
+    "answer": " Toronto",
+    "sub": "Ontario"
+  },
+  {
+    "query": "The capital city of Panama is",
+    "answer": " Panama City",
+    "sub": "Panama"
+  },
+  {
+    "query": "The capital city of Thailand is",
+    "answer": " Bangkok",
+    "sub": "Thailand"
+  },
+  {
+    "query": "The capital city of Chile is",
+    "answer": " Santiago",
+    "sub": "Chile"
+  },
+  {
+    "query": "The capital city of India is",
+    "answer": " New Delhi",
+    "sub": "India"
+  },
+  {
+    "query": "The capital city of Serbia is",
+    "answer": " Belgrade",
+    "sub": "Serbia"
+  },
+  {
+    "query": "The capital city of Sardinia is",
+    "answer": " Cagliari",
+    "sub": "Sardinia"
+  },
+  {
+    "query": "The capital city of Venezuela is",
+    "answer": " Caracas",
+    "sub": "Venezuela"
+  },
+  {
+    "query": "The capital city of Cyprus is",
+    "answer": " Nicosia",
+    "sub": "Cyprus"
+  },
+  {
+    "query": "The capital city of Bulgaria is",
+    "answer": " Sofia",
+    "sub": "Bulgaria"
+  },
+  {
+    "query": "The capital city of Utah is",
+    "answer": " Salt Lake City",
+    "sub": "Utah"
+  },
+  {
+    "query": "The capital city of Bangladesh is",
+    "answer": " Dhaka",
+    "sub": "Bangladesh"
+  },
+  {
+    "query": "The capital city of Tajikistan is",
+    "answer": " Dushanbe",
+    "sub": "Tajikistan"
+  },
+  {
+    "query": "The capital city of Sichuan is",
+    "answer": " Chengdu",
+    "sub": "Sichuan"
+  },
+  {
+    "query": "The capital city of Zambia is",
+    "answer": " Lusaka",
+    "sub": "Zambia"
+  },
+  {
+    "query": "The capital city of Mauritius is",
+    "answer": " Port Louis",
+    "sub": "Mauritius"
+  },
+  {
+    "query": "The capital city of Iowa is",
+    "answer": " Des Moines",
+    "sub": "Iowa"
+  },
+  {
+    "query": "The capital city of Kazakhstan is",
+    "answer": " Nur-Sultan",
+    "sub": "Kazakhstan"
+  },
+  {
+    "query": "The capital city of Kingdom of England is",
+    "answer": " Winchester",
+    "sub": "Kingdom of England"
+  },
+  {
+    "query": "The capital city of Texas is",
+    "answer": " Austin",
+    "sub": "Texas"
+  },
+  {
+    "query": "The capital city of Minnesota is",
+    "answer": " Saint Paul",
+    "sub": "Minnesota"
+  },
+  {
+    "query": "The capital city of West Region is",
+    "answer": " Bafoussam",
+    "sub": "West Region"
+  }
+]

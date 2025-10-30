@@ -1,0 +1,1197 @@
+[
+    {
+        "query": "Eyfel Kulesi'nin konumu neresidir?",
+        "answer": " Paris'tir",
+        "sub": "Eyfel Kulesi"
+    },
+    {
+        "query": "Büyük veya Aziz Laurentius Kilisesi'nin konumu neresidir?",
+        "answer": " Rotterdam'dır",
+        "sub": "Büyük veya Aziz Laurentius Kilisesi"
+    },
+    {
+        "query": "Hollanda Mimarlık Enstitüsü'nün konumu neresidir?",
+        "answer": " Rotterdam'dır",
+        "sub": "Hollanda Mimarlık Enstitüsü"
+    },
+    {
+        "query": "II. Dünya Savaşı Avrupa Cephesi'nin konumu neresidir?",
+        "answer": " Avrupa'dır",
+        "sub": "II. Dünya Savaşı Avrupa Cephesi"
+    },
+    {
+        "query": "Delhi Teknolojik Üniversitesi'nin konumu neresidir?",
+        "answer": " Hindistan'dır",
+        "sub": "Delhi Teknolojik Üniversitesi"
+    },
+    {
+        "query": "2002 Avustralya Açık'ın konumu neresidir?",
+        "answer": " Melbourne'dir",
+        "sub": "2002 Avustralya Açık"
+    },
+    {
+        "query": "Ernest A. Love Field'in konumu neresidir?",
+        "answer": " Prescott'tur",
+        "sub": "Ernest A. Love Field"
+    },
+    {
+        "query": "21 Temmuz 2005 Londra saldırıları'nın konumu neresidir?",
+        "answer": " Londra'dır",
+        "sub": "21 Temmuz 2005 Londra saldırıları"
+    },
+    {
+        "query": "Basketbol Kulübü Partizan'ın konumu neresidir?",
+        "answer": " Belgrad'dır",
+        "sub": "Basketbol Kulübü Partizan"
+    },
+    {
+        "query": "Londra Hint Film Festivali'nin konumu neresidir?",
+        "answer": " Londra'dır",
+        "sub": "Londra Hint Film Festivali"
+    },
+    {
+        "query": "Open 13'in konumu neresidir?",
+        "answer": " Marsilya'dır",
+        "sub": "Open 13"
+    },
+    {
+        "query": "Kuveyt'in İşgali'nin konumu neresidir?",
+        "answer": " Kuveyt'tir",
+        "sub": "Kuveyt'in İşgali"
+    },
+    {
+        "query": "Viyana Taarruzu'nun konumu neresidir?",
+        "answer": " Viyana'dır",
+        "sub": "Viyana Taarruzu"
+    },
+    {
+        "query": "Kare Kilometre Dizisi'nin konumu neresidir?",
+        "answer": " Avustralya'dır",
+        "sub": "Kare Kilometre Dizisi"
+    },
+    {
+        "query": "Woodstock 1999'un konumu neresidir?",
+        "answer": " Roma'dır",
+        "sub": "Woodstock 1999"
+    },
+    {
+        "query": "Panathenaik Stadyum'un konumu neresidir?",
+        "answer": " Atina'dır",
+        "sub": "Panathenaik Stadyum"
+    },
+    {
+        "query": "Venedik Karnavalı'nın konumu neresidir?",
+        "answer": " Venedik'tir",
+        "sub": "Venedik Karnavalı"
+    },
+    {
+        "query": "Makao Uluslararası Film Festivali'nin konumu neresidir?",
+        "answer": " Makao'dur",
+        "sub": "Makao Uluslararası Film Festivali"
+    },
+    {
+        "query": "Edinburgh Üniversitesi'nin konumu neresidir?",
+        "answer": " Edinburgh'tur",
+        "sub": "Edinburgh Üniversitesi"
+    },
+    {
+        "query": "Mole Antonelliana'nın konumu neresidir?",
+        "answer": " Torino'dur",
+        "sub": "Mole Antonelliana"
+    },
+    {
+        "query": "68. Venedik Uluslararası Film Festivali'nin konumu neresidir?",
+        "answer": " Venedik'tir",
+        "sub": "68. Venedik Uluslararası Film Festivali"
+    },
+    {
+        "query": "1986 Dostluk Oyunları'nın konumu neresidir?",
+        "answer": " Moskova'dır",
+        "sub": "1986 Dostluk Oyunları"
+    },
+    {
+        "query": "2011 Avustralya Açık'ın konumu neresidir?",
+        "answer": " Melbourne'dir",
+        "sub": "2011 Avustralya Açık"
+    },
+    {
+        "query": "Dunnes Stores'in konumu neresidir?",
+        "answer": " İrlanda'dır",
+        "sub": "Dunnes Stores"
+    },
+    {
+        "query": "Rus apartman bombalamaları'nın konumu neresidir?",
+        "answer": " Moskova'dır",
+        "sub": "Rus apartman bombalamaları"
+    },
+    {
+        "query": "On Yıl Savaşı'nın konumu neresidir?",
+        "answer": " Küba'dır",
+        "sub": "On Yıl Savaşı"
+    },
+    {
+        "query": "Roma İmparatorluğu Topraklarının Bölünmesi'nin konumu neresidir?",
+        "answer": " İstanbul'dur",
+        "sub": "Roma İmparatorluğu Topraklarının Bölünmesi"
+    },
+    {
+        "query": "Fırtına Operasyonu'nun konumu neresidir?",
+        "answer": " Hırvatistan'dır",
+        "sub": "Fırtına Operasyonu"
+    },
+    {
+        "query": "Kuzey Banliyöleri Ragbi Kulübü'nün konumu neresidir?",
+        "answer": " Sydney'dir",
+        "sub": "Kuzey Banliyöleri Ragbi Kulübü"
+    },
+    {
+        "query": "Bagatel'in konumu neresidir?",
+        "answer": " Oslo'dur",
+        "sub": "Bagatel"
+    },
+    {
+        "query": "Özgürlük Çanı Klasiği'nin konumu neresidir?",
+        "answer": " Philadelphia'dır",
+        "sub": "Özgürlük Çanı Klasiği"
+    },
+    {
+        "query": "Arcapita'nın konumu neresidir?",
+        "answer": " Londra'dır",
+        "sub": "Arcapita"
+    },
+    {
+        "query": "Ano Liosia Olimpiyat Salonu'nun konumu neresidir?",
+        "answer": " Atina'dır",
+        "sub": "Ano Liosia Olimpiyat Salonu"
+    },
+    {
+        "query": "Sovyet sonrası devletler'in konumu neresidir?",
+        "answer": " Rusya'dır",
+        "sub": "Sovyet sonrası devletler"
+    },
+    {
+        "query": "Hollanda Buhar Vakfı'nın konumu neresidir?",
+        "answer": " Rotterdam'dır",
+        "sub": "Hollanda Buhar Vakfı"
+    },
+    {
+        "query": "Ottawa Uluslararası Animasyon Festivali'nin konumu neresidir?",
+        "answer": " Ottawa'dır",
+        "sub": "Ottawa Uluslararası Animasyon Festivali"
+    },
+    {
+        "query": "Aile Yaşamı Radyosu'nun konumu neresidir?",
+        "answer": " Michigan'dır",
+        "sub": "Aile Yaşamı Radyosu"
+    },
+    {
+        "query": "Sicilya Barok'un konumu neresidir?",
+        "answer": " Sicilya'dır",
+        "sub": "Sicilya Barok"
+    },
+    {
+        "query": "Atlanta Uluslararası Belgesel Film Festivali'nin konumu neresidir?",
+        "answer": " Atlanta'dır",
+        "sub": "Atlanta Uluslararası Belgesel Film Festivali"
+    },
+    {
+        "query": "Nivelle Taarruzu'nun konumu neresidir?",
+        "answer": " Fransa'dır",
+        "sub": "Nivelle Taarruzu"
+    },
+    {
+        "query": "Erivan Uluslararası Film Festivali'nin konumu neresidir?",
+        "answer": " Erivan'dır",
+        "sub": "Erivan Uluslararası Film Festivali"
+    },
+    {
+        "query": "Asya Pasifik Film Festivali'nin konumu neresidir?",
+        "answer": " Asya'dır",
+        "sub": "Asya Pasifik Film Festivali"
+    },
+    {
+        "query": "Halchidhoma'nın konumu neresidir?",
+        "answer": " Kaliforniya'dır",
+        "sub": "Halchidhoma"
+    },
+    {
+        "query": "Armagh Rasathanesi'nin konumu neresidir?",
+        "answer": " Armagh'tır",
+        "sub": "Armagh Rasathanesi"
+    },
+    {
+        "query": "İstanbul Teknik Üniversitesi'nin konumu neresidir?",
+        "answer": " İstanbul'dur",
+        "sub": "İstanbul Teknik Üniversitesi"
+    },
+    {
+        "query": "Woodstock Festivali'nin konumu neresidir?",
+        "answer": " Bethel'dir",
+        "sub": "Woodstock Festivali"
+    },
+    {
+        "query": "Cennet Kraliçesi'nin konumu neresidir?",
+        "answer": " Roma'dır",
+        "sub": "Cennet Kraliçesi"
+    },
+    {
+        "query": "Melbourne Uluslararası Film Festivali'nin konumu neresidir?",
+        "answer": " Melbourne'dir",
+        "sub": "Melbourne Uluslararası Film Festivali"
+    },
+    {
+        "query": "The Leys Okulu'nun konumu neresidir?",
+        "answer": " Cambridge'dir",
+        "sub": "The Leys Okulu"
+    },
+    {
+        "query": "Miami Uluslararası Film Festivali'nin konumu neresidir?",
+        "answer": " Miami'dir",
+        "sub": "Miami Uluslararası Film Festivali"
+    },
+    {
+        "query": "Çelyabinsk meteoru'nun konumu neresidir?",
+        "answer": " Rusya'dır",
+        "sub": "Çelyabinsk meteoru"
+    },
+    {
+        "query": "28. Satranç Olimpiyatı'nın konumu neresidir?",
+        "answer": " Selanik'tir",
+        "sub": "28. Satranç Olimpiyatı"
+    },
+    {
+        "query": "Belfast Film Festivali'nin konumu neresidir?",
+        "answer": " Belfast'tır",
+        "sub": "Belfast Film Festivali"
+    },
+    {
+        "query": "Güneyden Güneybatıya'nın konumu neresidir?",
+        "answer": " Austin'dir",
+        "sub": "Güneyden Güneybatıya"
+    },
+    {
+        "query": "Mahalle toplantısı'nın konumu neresidir?",
+        "answer": " İngiltere'dir",
+        "sub": "Mahalle toplantısı"
+    },
+    {
+        "query": "Victoria Adliye Sarayı'nın konumu neresidir?",
+        "answer": " Birmingham'dır",
+        "sub": "Victoria Adliye Sarayı"
+    },
+    {
+        "query": "Melbourne Uluslararası Komedi Festivali'nin konumu neresidir?",
+        "answer": " Melbourne'dir",
+        "sub": "Melbourne Uluslararası Komedi Festivali"
+    },
+    {
+        "query": "dondurma külahı'nın konumu neresidir?",
+        "answer": " Avustralya'dır",
+        "sub": "dondurma külahı"
+    },
+    {
+        "query": "Seattle Lezbiyen ve Gey Film Festivali'nin konumu neresidir?",
+        "answer": " Seattle'dir",
+        "sub": "Seattle Lezbiyen ve Gey Film Festivali"
+    },
+    {
+        "query": "Sülünlük'ün konumu neresidir?",
+        "answer": " Chelsea'dır",
+        "sub": "Sülünlük"
+    },
+    {
+        "query": "NatFilm Festivali'nin konumu neresidir?",
+        "answer": " Kopenhag'dır",
+        "sub": "NatFilm Festivali"
+    },
+    {
+        "query": "Pekin Üniversite Öğrencileri Film Festivali'nin konumu neresidir?",
+        "answer": " Pekin'dir",
+        "sub": "Pekin Üniversite Öğrencileri Film Festivali"
+    },
+    {
+        "query": "Kraliyet Danimarka Kütüphanesi'nin konumu neresidir?",
+        "answer": " Kopenhag'dır",
+        "sub": "Kraliyet Danimarka Kütüphanesi"
+    },
+    {
+        "query": "2014 IIHF Dünya Şampiyonası'nın konumu neresidir?",
+        "answer": " Minsk'tir",
+        "sub": "2014 IIHF Dünya Şampiyonası"
+    },
+    {
+        "query": "Ostra Brama Harekatı'nın konumu neresidir?",
+        "answer": " Vilnius'tur",
+        "sub": "Ostra Brama Harekatı"
+    },
+    {
+        "query": "Stockholm Kan Banyosu'nun konumu neresidir?",
+        "answer": " Stockholm'dur",
+        "sub": "Stockholm Kan Banyosu"
+    },
+    {
+        "query": "Eurovision Şarkı Yarışması 2005'nın konumu neresidir?",
+        "answer": " Kiev'dir",
+        "sub": "Eurovision Şarkı Yarışması 2005"
+    },
+    {
+        "query": "Massey Üniversitesi'nin konumu neresidir?",
+        "answer": " Wellington'dur",
+        "sub": "Massey Üniversitesi"
+    },
+    {
+        "query": "1988 Yaz Paralimpik Oyunları'nın konumu neresidir?",
+        "answer": " Seul'dur",
+        "sub": "1988 Yaz Paralimpik Oyunları"
+    },
+    {
+        "query": "Sofya Uluslararası Film Festivali'nin konumu neresidir?",
+        "answer": " Sofya'dır",
+        "sub": "Sofya Uluslararası Film Festivali"
+    },
+    {
+        "query": "USS Cole Saldırısı'nın konumu neresidir?",
+        "answer": " Aden'dir",
+        "sub": "USS Cole Saldırısı"
+    },
+    {
+        "query": "dondurma külahı'nın konumu neresidir?",
+        "answer": " Malezya'dır",
+        "sub": "dondurma külahı"
+    },
+    {
+        "query": "2000 Yaz Olimpiyatları'nın konumu neresidir?",
+        "answer": " Sydney'dir",
+        "sub": "2000 Yaz Olimpiyatları"
+    },
+    {
+        "query": "Güney Yemen Ayaklanması'nın konumu neresidir?",
+        "answer": " Yemen'dir",
+        "sub": "Güney Yemen Ayaklanması"
+    },
+    {
+        "query": "Cardiff Bombardımanı'nın konumu neresidir?",
+        "answer": " Cardiff'tir",
+        "sub": "Cardiff Bombardımanı"
+    },
+    {
+        "query": "Tripura Üniversitesi'nin konumu neresidir?",
+        "answer": " Hindistan'dır",
+        "sub": "Tripura Üniversitesi"
+    },
+    {
+        "query": "Veii'nin konumu neresidir?",
+        "answer": " İtalya'dır",
+        "sub": "Veii"
+    },
+    {
+        "query": "Barn Elms'in konumu neresidir?",
+        "answer": " Barnes'tir",
+        "sub": "Barn Elms"
+    },
+    {
+        "query": "2014 WTA Finalleri'nin konumu neresidir?",
+        "answer": " Singapur'dur",
+        "sub": "2014 WTA Finalleri"
+    },
+    {
+        "query": "Seattle Süpersonikler'in konumu neresidir?",
+        "answer": " Seattle'dir",
+        "sub": "Seattle Süpersonikler"
+    },
+    {
+        "query": "Yeni START'ın konumu neresidir?",
+        "answer": " Prag'dır",
+        "sub": "Yeni START"
+    },
+    {
+        "query": "2013 Ada Oyunları'nın konumu neresidir?",
+        "answer": " Bermuda'dır",
+        "sub": "2013 Ada Oyunları"
+    },
+    {
+        "query": "Maydanoz Katliamı'nın konumu neresidir?",
+        "answer": " Haiti'dir",
+        "sub": "Maydanoz Katliamı"
+    },
+    {
+        "query": "Barbarossa Operasyonu'nun konumu neresidir?",
+        "answer": " Ukrayna'dır",
+        "sub": "Barbarossa Operasyonu"
+    },
+    {
+        "query": "Sussex House Okulu'nun konumu neresidir?",
+        "answer": " Chelsea'dır",
+        "sub": "Sussex House Okulu"
+    },
+    {
+        "query": "Suriye İç Savaşı'nın konumu neresidir?",
+        "answer": " Suriye'dir",
+        "sub": "Suriye İç Savaşı"
+    },
+    {
+        "query": "Hot Docs - Kanada Uluslararası Belgesel Festivali'nin konumu neresidir?",
+        "answer": " Toronto'dur",
+        "sub": "Hot Docs - Kanada Uluslararası Belgesel Festivali"
+    },
+    {
+        "query": "Oxford Üniversitesi'nin konumu neresidir?",
+        "answer": " Oxford'dur",
+        "sub": "Oxford Üniversitesi"
+    },
+    {
+        "query": "Şanghay Kulesi'nin konumu neresidir?",
+        "answer": " Şanghay'dır",
+        "sub": "Şanghay Kulesi"
+    },
+    {
+        "query": "Varşova Ayaklanması'nın konumu neresidir?",
+        "answer": " Varşova'dır",
+        "sub": "Varşova Ayaklanması"
+    },
+    {
+        "query": "SS Rotterdam'ın konumu neresidir?",
+        "answer": " Rotterdam'dır",
+        "sub": "SS Rotterdam"
+    },
+    {
+        "query": "2012 Yaz Olimpiyatları'nın konumu neresidir?",
+        "answer": " Londra'dır",
+        "sub": "2012 Yaz Olimpiyatları"
+    },
+    {
+        "query": "Londra Kitap Fuarı'nın konumu neresidir?",
+        "answer": " Londra'dır",
+        "sub": "Londra Kitap Fuarı"
+    },
+    {
+        "query": "1983 Dünya Snooker Şampiyonası'nın konumu neresidir?",
+        "answer": " Sheffield'dir",
+        "sub": "1983 Dünya Snooker Şampiyonası"
+    },
+    {
+        "query": "Polkagris'in konumu neresidir?",
+        "answer": " İsveç'tir",
+        "sub": "Polkagris"
+    },
+    {
+        "query": "Mannheim-Heidelberg Uluslararası Film Festivali'nin konumu neresidir?",
+        "answer": " Heidelberg'dir",
+        "sub": "Mannheim-Heidelberg Uluslararası Film Festivali"
+    },
+    {
+        "query": "Sanat Tarihi Müzesi'nin konumu neresidir?",
+        "answer": " Viyana'dır",
+        "sub": "Sanat Tarihi Müzesi"
+    },
+    {
+        "query": "Plassey Muharebesi'nin konumu neresidir?",
+        "answer": " Kalküta'dır",
+        "sub": "Plassey Muharebesi"
+    },
+    {
+        "query": "Santa Maria della Salute'nin konumu neresidir?",
+        "answer": " Venedik'tir",
+        "sub": "Santa Maria della Salute"
+    },
+    {
+        "query": "Kadınlara Yönelik Şiddet ve Aile İçi Şiddetin Önlenmesi ve Bunlarla Mücadeleye Dair Sözleşme'nin konumu neresidir?",
+        "answer": " İstanbul'dur",
+        "sub": "Kadınlara Yönelik Şiddet ve Aile İçi Şiddetin Önlenmesi ve Bunlarla Mücadeleye Dair Sözleşme"
+    },
+    {
+        "query": "Operasyon Bagration'un konumu neresidir?",
+        "answer": " Beyaz Rusya'dır",
+        "sub": "Operasyon Bagration"
+    },
+    {
+        "query": "Bangalore Uluslararası Film Festivali'nin konumu neresidir?",
+        "answer": " Bengaluru'dur",
+        "sub": "Bangalore Uluslararası Film Festivali"
+    },
+    {
+        "query": "Kolkata Kitap Fuarı'nın konumu neresidir?",
+        "answer": " Kalküta'dır",
+        "sub": "Kolkata Kitap Fuarı"
+    },
+    {
+        "query": "İkinci İtalyan-Etiyopya Savaşı'nın konumu neresidir?",
+        "answer": " Etiyopya'dır",
+        "sub": "İkinci İtalyan-Etiyopya Savaşı"
+    },
+    {
+        "query": "Düzeltici Hareket'in konumu neresidir?",
+        "answer": " Suriye'dir",
+        "sub": "Düzeltici Hareket"
+    },
+    {
+        "query": "Barcelona Mayıs Günleri'nin konumu neresidir?",
+        "answer": " Barcelona'dır",
+        "sub": "Barcelona Mayıs Günleri"
+    },
+    {
+        "query": "Darwin Bombardımanı'nın konumu neresidir?",
+        "answer": " Darwin'dir",
+        "sub": "Darwin Bombardımanı"
+    },
+    {
+        "query": "Powick Köprüsü Savaşı'nın konumu neresidir?",
+        "answer": " Worcester'dir",
+        "sub": "Powick Köprüsü Savaşı"
+    },
+    {
+        "query": "Capitol Records Binası'nın konumu neresidir?",
+        "answer": " Hollywood'dur",
+        "sub": "Capitol Records Binası"
+    },
+    {
+        "query": "İmajlar Festivali'nin konumu neresidir?",
+        "answer": " Toronto'dur",
+        "sub": "İmajlar Festivali"
+    },
+    {
+        "query": "2006 Mumbai tren bombalamaları'nın konumu neresidir?",
+        "answer": " Mumbai'dir",
+        "sub": "2006 Mumbai tren bombalamaları"
+    },
+    {
+        "query": "Beyda'nın konumu neresidir?",
+        "answer": " Ürdün'dür",
+        "sub": "Beyda"
+    },
+    {
+        "query": "Massachusetts Teknoloji Enstitüsü'nün konumu neresidir?",
+        "answer": " Cambridge'dir",
+        "sub": "Massachusetts Teknoloji Enstitüsü"
+    },
+    {
+        "query": "Diergaarde Blijdorp'un konumu neresidir?",
+        "answer": " Rotterdam'dır",
+        "sub": "Diergaarde Blijdorp"
+    },
+    {
+        "query": "Boston Film Festivali'nin konumu neresidir?",
+        "answer": " Boston'dur",
+        "sub": "Boston Film Festivali"
+    },
+    {
+        "query": "Sicilya'nın Bağımsızlığı İçin Hareket'in konumu neresidir?",
+        "answer": " Sicilya'dır",
+        "sub": "Sicilya'nın Bağımsızlığı İçin Hareket"
+    },
+    {
+        "query": "23. Avrupa Film Ödülleri'nin konumu neresidir?",
+        "answer": " Tallinn'dir",
+        "sub": "23. Avrupa Film Ödülleri"
+    },
+    {
+        "query": "Asya kültürü'nün konumu neresidir?",
+        "answer": " Asya'dır",
+        "sub": "Asya kültürü"
+    },
+    {
+        "query": "1983 Güneydoğu Asya Oyunları'nın konumu neresidir?",
+        "answer": " Singapur'dur",
+        "sub": "1983 Güneydoğu Asya Oyunları"
+    },
+    {
+        "query": "1999 Avrupa Atletizm Gençler Şampiyonası'nın konumu neresidir?",
+        "answer": " Riga'dır",
+        "sub": "1999 Avrupa Atletizm Gençler Şampiyonası"
+    },
+    {
+        "query": "Aile Yaşamı Radyosu'nun konumu neresidir?",
+        "answer": " Arizona'dır",
+        "sub": "Aile Yaşamı Radyosu"
+    },
+    {
+        "query": "Kobra'nın konumu neresidir?",
+        "answer": " Kopenhag'dır",
+        "sub": "Kobra"
+    },
+    {
+        "query": "Kataban'ın konumu neresidir?",
+        "answer": " Yemen'dir",
+        "sub": "Kataban"
+    },
+    {
+        "query": "26/11 Mumbai saldırıları'nın konumu neresidir?",
+        "answer": " Mumbai'dir",
+        "sub": "26/11 Mumbai saldırıları"
+    },
+    {
+        "query": "Palmiye şarabı'nın konumu neresidir?",
+        "answer": " Meksika'dır",
+        "sub": "Palmiye şarabı"
+    },
+    {
+        "query": "Birinci Dünya Savaşı'nın konumu neresidir?",
+        "answer": " Afrika'dır",
+        "sub": "Birinci Dünya Savaşı"
+    },
+    {
+        "query": "KK Zrinjevac'ın konumu neresidir?",
+        "answer": " Zagreb'dir",
+        "sub": "KK Zrinjevac"
+    },
+    {
+        "query": "2013 Avustralya Açık'ın konumu neresidir?",
+        "answer": " Melbourne'dir",
+        "sub": "2013 Avustralya Açık"
+    },
+    {
+        "query": "Merriweather Post Pavilion'un konumu neresidir?",
+        "answer": " Kolombiya'dır",
+        "sub": "Merriweather Post Pavilion"
+    },
+    {
+        "query": "1972 Yaz Paralimpik Oyunları'nın konumu neresidir?",
+        "answer": " Heidelberg'dir",
+        "sub": "1972 Yaz Paralimpik Oyunları"
+    },
+    {
+        "query": "Glasgow Okulu'nun konumu neresidir?",
+        "answer": " Glasgow'dur",
+        "sub": "Glasgow Okulu"
+    },
+    {
+        "query": "BC Rytas'ın konumu neresidir?",
+        "answer": " Vilnius'tur",
+        "sub": "BC Rytas"
+    },
+    {
+        "query": "Uluslararası İstanbul Film Festivali'nin konumu neresidir?",
+        "answer": " İstanbul'dur",
+        "sub": "Uluslararası İstanbul Film Festivali"
+    },
+    {
+        "query": "Polonya Turu'nun konumu neresidir?",
+        "answer": " Polonya'dır",
+        "sub": "Polonya Turu"
+    },
+    {
+        "query": "Hollanda Film Festivali'nin konumu neresidir?",
+        "answer": " Utrecht'tir",
+        "sub": "Hollanda Film Festivali"
+    },
+    {
+        "query": "Barselona Özerk Üniversitesi'nin konumu neresidir?",
+        "answer": " Barcelona'dır",
+        "sub": "Barselona Özerk Üniversitesi"
+    },
+    {
+        "query": "Brest-Litovsk Antlaşması'nın konumu neresidir?",
+        "answer": " Brest'tir",
+        "sub": "Brest-Litovsk Antlaşması"
+    },
+    {
+        "query": "Birinci Dağlık Karabağ Savaşı'nın konumu neresidir?",
+        "answer": " Ermenistan'dır",
+        "sub": "Birinci Dağlık Karabağ Savaşı"
+    },
+    {
+        "query": "Operasyon Athena'nın konumu neresidir?",
+        "answer": " Afganistan'dır",
+        "sub": "Operasyon Athena"
+    },
+    {
+        "query": "Baltimore Muharebesi'nin konumu neresidir?",
+        "answer": " Baltimore'dir",
+        "sub": "Baltimore Muharebesi"
+    },
+    {
+        "query": "Toronto Uluslararası Film Festivali'nin konumu neresidir?",
+        "answer": " Toronto'dur",
+        "sub": "Toronto Uluslararası Film Festivali"
+    },
+    {
+        "query": "Tallinn Siyah Geceler Film Festivali'nin konumu neresidir?",
+        "answer": " Tallinn'dir",
+        "sub": "Tallinn Siyah Geceler Film Festivali"
+    },
+    {
+        "query": "Perilerin evi'nin konumu neresidir?",
+        "answer": " Sardinya'dır",
+        "sub": "Perilerin evi"
+    },
+    {
+        "query": "İkinci Haçlı Seferi'nin konumu neresidir?",
+        "answer": " Mısır'dır",
+        "sub": "İkinci Haçlı Seferi"
+    },
+    {
+        "query": "İngiliz-Alman Deniz Anlaşması'nın konumu neresidir?",
+        "answer": " Londra'dır",
+        "sub": "İngiliz-Alman Deniz Anlaşması"
+    },
+    {
+        "query": "1977 Moskova bombalamaları'nın konumu neresidir?",
+        "answer": " Moskova'dır",
+        "sub": "1977 Moskova bombalamaları"
+    },
+    {
+        "query": "1997 Akdeniz Oyunları'nın konumu neresidir?",
+        "answer": " Bari'dir",
+        "sub": "1997 Akdeniz Oyunları"
+    },
+    {
+        "query": "Virtus Pallacanestro Bologna'nın konumu neresidir?",
+        "answer": " Bolonya'dır",
+        "sub": "Virtus Pallacanestro Bologna"
+    },
+    {
+        "query": "Universeum'un konumu neresidir?",
+        "answer": " Göteborg'dur",
+        "sub": "Universeum"
+    },
+    {
+        "query": "2004 Yaz Paralimpik Oyunları'nın konumu neresidir?",
+        "answer": " Atina'dır",
+        "sub": "2004 Yaz Paralimpik Oyunları"
+    },
+    {
+        "query": "26. Satranç Olimpiyatı'nın konumu neresidir?",
+        "answer": " Selanik'tir",
+        "sub": "26. Satranç Olimpiyatı"
+    },
+    {
+        "query": "2011 İngiltere olayları'nın konumu neresidir?",
+        "answer": " Londra'dır",
+        "sub": "2011 İngiltere olayları"
+    },
+    {
+        "query": "Pozson Muharebesi'nin konumu neresidir?",
+        "answer": " Bratislava'dır",
+        "sub": "Pozson Muharebesi"
+    },
+    {
+        "query": "Anvers Devleri'nin konumu neresidir?",
+        "answer": " Anvers'tir",
+        "sub": "Anvers Devleri"
+    },
+    {
+        "query": "Edinburgh Sanat Festivali'nin konumu neresidir?",
+        "answer": " Edinburgh'tur",
+        "sub": "Edinburgh Sanat Festivali"
+    },
+    {
+        "query": "Özgürlük Anıtı'nın konumu neresidir?",
+        "answer": " Riga'dır",
+        "sub": "Özgürlük Anıtı"
+    },
+    {
+        "query": "Palmiye şarabı'nın konumu neresidir?",
+        "answer": " Gana'dır",
+        "sub": "Palmiye şarabı"
+    },
+    {
+        "query": "Suriye İç Savaşı'nın sivil ayaklanma aşaması'nın konumu neresidir?",
+        "answer": " Suriye'dir",
+        "sub": "Suriye İç Savaşı'nın sivil ayaklanma aşaması"
+    },
+    {
+        "query": "2011 Alman Masters'in konumu neresidir?",
+        "answer": " Berlin'dir",
+        "sub": "2011 Alman Masters"
+    },
+    {
+        "query": "Dublin Uluslararası Film Festivali'nin konumu neresidir?",
+        "answer": " Dublin'dir",
+        "sub": "Dublin Uluslararası Film Festivali"
+    },
+    {
+        "query": "2011 Yemen devrimi'nin konumu neresidir?",
+        "answer": " Yemen'dir",
+        "sub": "2011 Yemen devrimi"
+    },
+    {
+        "query": "İrlanda'nın Norman İstilası'nın konumu neresidir?",
+        "answer": " İrlanda'dır",
+        "sub": "İrlanda'nın Norman İstilası"
+    },
+    {
+        "query": "KK Split'in konumu neresidir?",
+        "answer": " Bölme'dir",
+        "sub": "KK Split"
+    },
+    {
+        "query": "ZagrebDox'un konumu neresidir?",
+        "answer": " Zagreb'dir",
+        "sub": "ZagrebDox"
+    },
+    {
+        "query": "Altın At Film Festivali'nin konumu neresidir?",
+        "answer": " Taipei'dir",
+        "sub": "Altın At Film Festivali"
+    },
+    {
+        "query": "Belfast Limanı'nın konumu neresidir?",
+        "answer": " Belfast'tır",
+        "sub": "Belfast Limanı"
+    },
+    {
+        "query": "Kış Savaşı'nın konumu neresidir?",
+        "answer": " Finlandiya'dır",
+        "sub": "Kış Savaşı"
+    },
+    {
+        "query": "2015 Güneydoğu Asya Oyunları'nın konumu neresidir?",
+        "answer": " Singapur'dur",
+        "sub": "2015 Güneydoğu Asya Oyunları"
+    },
+    {
+        "query": "Ay krateri'nin konumu neresidir?",
+        "answer": " Ay'dır",
+        "sub": "Ay krateri"
+    },
+    {
+        "query": "Paris'in Yargısı'nın konumu neresidir?",
+        "answer": " Paris'tir",
+        "sub": "Paris'in Yargısı"
+    },
+    {
+        "query": "2006 Kış Paralimpik Oyunları'nın konumu neresidir?",
+        "answer": " Torino'dur",
+        "sub": "2006 Kış Paralimpik Oyunları"
+    },
+    {
+        "query": "Viyana Aksiyonizmi'nin konumu neresidir?",
+        "answer": " Viyana'dır",
+        "sub": "Viyana Aksiyonizmi"
+    },
+    {
+        "query": "Sovyet sonrası devletler'in konumu neresidir?",
+        "answer": " Beyaz Rusya'dır",
+        "sub": "Sovyet sonrası devletler"
+    },
+    {
+        "query": "64. Venedik Uluslararası Film Festivali'nin konumu neresidir?",
+        "answer": " Venedik'tir",
+        "sub": "64. Venedik Uluslararası Film Festivali"
+    },
+    {
+        "query": "Uluslararası Belgesel Film Festivali Amsterdam'ın konumu neresidir?",
+        "answer": " Amsterdam'dır",
+        "sub": "Uluslararası Belgesel Film Festivali Amsterdam"
+    },
+    {
+        "query": "Kopenhag Uluslararası Belgesel Festivali'nin konumu neresidir?",
+        "answer": " Kopenhag'dır",
+        "sub": "Kopenhag Uluslararası Belgesel Festivali"
+    },
+    {
+        "query": "1996 Yaz Olimpiyatları'nın konumu neresidir?",
+        "answer": " Atlanta'dır",
+        "sub": "1996 Yaz Olimpiyatları"
+    },
+    {
+        "query": "Ptolemaios Baris'in konumu neresidir?",
+        "answer": " Kudüs'tür",
+        "sub": "Ptolemaios Baris"
+    },
+    {
+        "query": "Uluslararası Ceza Mahkemesi Roma Statüsü'nün konumu neresidir?",
+        "answer": " Roma'dır",
+        "sub": "Uluslararası Ceza Mahkemesi Roma Statüsü"
+    },
+    {
+        "query": "Volvo Müzesi'nin konumu neresidir?",
+        "answer": " Göteborg'dur",
+        "sub": "Volvo Müzesi"
+    },
+    {
+        "query": "Pasifik Savaşı'nın konumu neresidir?",
+        "answer": " Adasal Okyanusya'dır",
+        "sub": "Pasifik Savaşı"
+    },
+    {
+        "query": "Türkiye'deki Kürt isyanları'nın konumu neresidir?",
+        "answer": " Türkiye'dir",
+        "sub": "Türkiye'deki Kürt isyanları"
+    },
+    {
+        "query": "Guadalajara Uluslararası Film Festivali'nin konumu neresidir?",
+        "answer": " Guadalajara'dır",
+        "sub": "Guadalajara Uluslararası Film Festivali"
+    },
+    {
+        "query": "Hiroşima Uluslararası Animasyon Festivali'nin konumu neresidir?",
+        "answer": " Hiroşima'dır",
+        "sub": "Hiroşima Uluslararası Animasyon Festivali"
+    },
+    {
+        "query": "Calgary Uluslararası Film Festivali'nin konumu neresidir?",
+        "answer": " Calgary'dır",
+        "sub": "Calgary Uluslararası Film Festivali"
+    },
+    {
+        "query": "Birleşmiş Milletler Uluslararası Mal Satım Sözleşmeleri Hakkında Konvansiyon'un konumu neresidir?",
+        "answer": " Viyana'dır",
+        "sub": "Birleşmiş Milletler Uluslararası Mal Satım Sözleşmeleri Hakkında Konvansiyon"
+    },
+    {
+        "query": "2008 Yaz Paralimpik Oyunları'nın konumu neresidir?",
+        "answer": " Pekin'dir",
+        "sub": "2008 Yaz Paralimpik Oyunları"
+    },
+    {
+        "query": "Hollanda Fotoğraf Müzesi'nin konumu neresidir?",
+        "answer": " Rotterdam'dır",
+        "sub": "Hollanda Fotoğraf Müzesi"
+    },
+    {
+        "query": "Cleveland Uluslararası Film Festivali'nin konumu neresidir?",
+        "answer": " Cleveland'dır",
+        "sub": "Cleveland Uluslararası Film Festivali"
+    },
+    {
+        "query": "Andres Kruk ve Vilyam Kuk'un konumu neresidir?",
+        "answer": " Londra'dır",
+        "sub": "Andres Kruk ve Vilyam Kuk"
+    },
+    {
+        "query": "Springhill Evi'nin konumu neresidir?",
+        "answer": " kasaba arazisi'dir",
+        "sub": "Springhill Evi"
+    },
+    {
+        "query": "Harvard Hukuk Fakültesi'nin konumu neresidir?",
+        "answer": " Cambridge'dir",
+        "sub": "Harvard Hukuk Fakültesi"
+    },
+    {
+        "query": "Müzisyenler Enstitüsü'nün konumu neresidir?",
+        "answer": " Hollywood'dur",
+        "sub": "Müzisyenler Enstitüsü"
+    },
+    {
+        "query": "çevrimiçi topluluk'un konumu neresidir?",
+        "answer": " İnternet'tir",
+        "sub": "çevrimiçi topluluk"
+    },
+    {
+        "query": "Ivan Vazov Ulusal Tiyatro'nun konumu neresidir?",
+        "answer": " Sofya'dır",
+        "sub": "Ivan Vazov Ulusal Tiyatro"
+    },
+    {
+        "query": "Montgomery Otobüs Boykotu'nun konumu neresidir?",
+        "answer": " Montgomery'dir",
+        "sub": "Montgomery Otobüs Boykotu"
+    },
+    {
+        "query": "Fransa Muharebesi'nin konumu neresidir?",
+        "answer": " Lüksemburg'dur",
+        "sub": "Fransa Muharebesi"
+    },
+    {
+        "query": "Edmonton Uluslararası Film Festivali'nin konumu neresidir?",
+        "answer": " Edmonton'dur",
+        "sub": "Edmonton Uluslararası Film Festivali"
+    },
+    {
+        "query": "Phokaia'nın konumu neresidir?",
+        "answer": " Türkiye'dir",
+        "sub": "Phokaia"
+    },
+    {
+        "query": "Bavyera Ulusal Müzesi'nin konumu neresidir?",
+        "answer": " Münih'tir",
+        "sub": "Bavyera Ulusal Müzesi"
+    },
+    {
+        "query": "Sardinya Ulus Bağımsızlığı'nın konumu neresidir?",
+        "answer": " Sardinya'dır",
+        "sub": "Sardinya Ulus Bağımsızlığı"
+    },
+    {
+        "query": "2001 Avustralya Açık'ın konumu neresidir?",
+        "answer": " Melbourne'dir",
+        "sub": "2001 Avustralya Açık"
+    },
+    {
+        "query": "2010 Avustralya Açık'ın konumu neresidir?",
+        "answer": " Melbourne'dir",
+        "sub": "2010 Avustralya Açık"
+    },
+    {
+        "query": "İtalyan-Yunan Savaşı'nın konumu neresidir?",
+        "answer": " Arnavutluk'tur",
+        "sub": "İtalyan-Yunan Savaşı"
+    },
+    {
+        "query": "Boston Katliamı'nın konumu neresidir?",
+        "answer": " Boston'dur",
+        "sub": "Boston Katliamı"
+    },
+    {
+        "query": "2015 Dünya Okçuluk Şampiyonası'nın konumu neresidir?",
+        "answer": " Kopenhag'dır",
+        "sub": "2015 Dünya Okçuluk Şampiyonası"
+    },
+    {
+        "query": "Londra Bağımsız Film Festivali'nin konumu neresidir?",
+        "answer": " Londra'dır",
+        "sub": "Londra Bağımsız Film Festivali"
+    },
+    {
+        "query": "Canberra Uluslararası Film Festivali'nin konumu neresidir?",
+        "answer": " Canberra'dır",
+        "sub": "Canberra Uluslararası Film Festivali"
+    },
+    {
+        "query": "Tiyatro Tuschinski'nin konumu neresidir?",
+        "answer": " Amsterdam'dır",
+        "sub": "Tiyatro Tuschinski"
+    },
+    {
+        "query": "Rus İç Savaşı'nın konumu neresidir?",
+        "answer": " Moğolistan'dır",
+        "sub": "Rus İç Savaşı"
+    },
+    {
+        "query": "2005 Güneydoğu Asya Oyunları'nın konumu neresidir?",
+        "answer": " Filipinler'dir",
+        "sub": "2005 Güneydoğu Asya Oyunları"
+    },
+    {
+        "query": "Normanların İngiltere'yi Fethi'nin konumu neresidir?",
+        "answer": " İngiltere Krallığı'dır",
+        "sub": "Normanların İngiltere'yi Fethi"
+    },
+    {
+        "query": "Fort McDowell Yavapai Ulusu'nun konumu neresidir?",
+        "answer": " Arizona'dır",
+        "sub": "Fort McDowell Yavapai Ulusu"
+    },
+    {
+        "query": "2000 Avustralya Açık'ın konumu neresidir?",
+        "answer": " Melbourne'dir",
+        "sub": "2000 Avustralya Açık"
+    },
+    {
+        "query": "İtalyan-Yunan Savaşı'nın konumu neresidir?",
+        "answer": " Yunanistan'dır",
+        "sub": "İtalyan-Yunan Savaşı"
+    },
+    {
+        "query": "Türk Askerî Akademisi'nin konumu neresidir?",
+        "answer": " Ankara'dır",
+        "sub": "Türk Askerî Akademisi"
+    },
+    {
+        "query": "Devlet Mezarlığı'nın konumu neresidir?",
+        "answer": " Ankara'dır",
+        "sub": "Devlet Mezarlığı"
+    },
+    {
+        "query": "Gümrük Binası Kulesi'nin konumu neresidir?",
+        "answer": " Boston'dur",
+        "sub": "Gümrük Binası Kulesi"
+    },
+    {
+        "query": "Hamburg Uluslararası Film Festivali'nin konumu neresidir?",
+        "answer": " Hamburg'dur",
+        "sub": "Hamburg Uluslararası Film Festivali"
+    },
+    {
+        "query": "İngiliz İç Savaşı'nın konumu neresidir?",
+        "answer": " İngiltere Krallığı'dır",
+        "sub": "İngiliz İç Savaşı"
+    },
+    {
+        "query": "Dee Köprüsü felaketi'nin konumu neresidir?",
+        "answer": " Chester'dir",
+        "sub": "Dee Köprüsü felaketi"
+    },
+    {
+        "query": "DOK Leipzig - Uluslararası Leipzig Belgesel ve Canlandırma Filmleri Festivali'nin konumu neresidir?",
+        "answer": " Leipzig'dir",
+        "sub": "DOK Leipzig - Uluslararası Leipzig Belgesel ve Canlandırma Filmleri Festivali"
+    },
+    {
+        "query": "Normandiya Çıkarmaları'nın konumu neresidir?",
+        "answer": " Normandiya'dır",
+        "sub": "Normandiya Çıkarmaları"
+    },
+    {
+        "query": "Rotterdam Bombardımanı'nın konumu neresidir?",
+        "answer": " Rotterdam'dır",
+        "sub": "Rotterdam Bombardımanı"
+    },
+    {
+        "query": "Nehir Kenarı'nın konumu neresidir?",
+        "answer": " Newport'tur",
+        "sub": "Nehir Kenarı"
+    },
+    {
+        "query": "Boijmans Van Beuningen Müzesi'nin konumu neresidir?",
+        "answer": " Rotterdam'dır",
+        "sub": "Boijmans Van Beuningen Müzesi"
+    },
+    {
+        "query": "Kral David Oteli bombalanması'nın konumu neresidir?",
+        "answer": " Kudüs'tür",
+        "sub": "Kral David Oteli bombalanması"
+    },
+    {
+        "query": "Edinburgh Uluslararası Festivali'nin konumu neresidir?",
+        "answer": " Edinburgh'tur",
+        "sub": "Edinburgh Uluslararası Festivali"
+    },
+    {
+        "query": "Altüst Edici Film Festivali'nin konumu neresidir?",
+        "answer": " Zagreb'dir",
+        "sub": "Altüst Edici Film Festivali"
+    },
+    {
+        "query": "Edinburgh Uluslararası Film Festivali'nin konumu neresidir?",
+        "answer": " Edinburgh'tur",
+        "sub": "Edinburgh Uluslararası Film Festivali"
+    },
+    {
+        "query": "2005 Avustralya Açık'ın konumu neresidir?",
+        "answer": " Melbourne'dir",
+        "sub": "2005 Avustralya Açık"
+    },
+    {
+        "query": "Phoenix Sky Harbor Uluslararası Havalimanı'nın konumu neresidir?",
+        "answer": " Anka'dır",
+        "sub": "Phoenix Sky Harbor Uluslararası Havalimanı"
+    },
+    {
+        "query": "25 Ağustos 2003 Mumbai bombalı saldırıları'nın konumu neresidir?",
+        "answer": " Mumbai'dir",
+        "sub": "25 Ağustos 2003 Mumbai bombalı saldırıları"
+    },
+    {
+        "query": "Profesyonel Basketbol Kulübü Lukoil Akademik'in konumu neresidir?",
+        "answer": " Sofya'dır",
+        "sub": "Profesyonel Basketbol Kulübü Lukoil Akademik"
+    },
+    {
+        "query": "Livonya Haçlı Seferi'nin konumu neresidir?",
+        "answer": " Letonya'dır",
+        "sub": "Livonya Haçlı Seferi"
+    },
+    {
+        "query": "Dallas Uluslararası Film Festivali'nin konumu neresidir?",
+        "answer": " Dallas'tır",
+        "sub": "Dallas Uluslararası Film Festivali"
+    },
+    {
+        "query": "İngiliz Müzesi'nin konumu neresidir?",
+        "answer": " Londra'dır",
+        "sub": "İngiliz Müzesi"
+    },
+    {
+        "query": "Olszynka Grochowska Muharebesi'nin konumu neresidir?",
+        "answer": " Varşova'dır",
+        "sub": "Olszynka Grochowska Muharebesi"
+    },
+    {
+        "query": "Oxford Uluslararası Film Festivali'nin konumu neresidir?",
+        "answer": " Oxford'dur",
+        "sub": "Oxford Uluslararası Film Festivali"
+    }
+]

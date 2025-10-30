@@ -1,0 +1,152 @@
+﻿[
+  {
+    "query": "The atomic number of Hydrogen is",
+    "answer": " 1",
+    "sub": "Hydrogen"
+  },
+  {
+    "query": "The atomic number of Beryllium is",
+    "answer": " 4",
+    "sub": "Beryllium"
+  },
+  {
+    "query": "The atomic number of Boron is",
+    "answer": " 5",
+    "sub": "Boron"
+  },
+  {
+    "query": "The atomic number of Carbon is",
+    "answer": " 6",
+    "sub": "Carbon"
+  },
+  {
+    "query": "The atomic number of Sodium is",
+    "answer": " 11",
+    "sub": "Sodium"
+  },
+  {
+    "query": "The atomic number of Magnesium is",
+    "answer": " 12",
+    "sub": "Magnesium"
+  },
+  {
+    "query": "The atomic number of Aluminium is",
+    "answer": " 13",
+    "sub": "Aluminium"
+  },
+  {
+    "query": "The atomic number of Silicon is",
+    "answer": " 14",
+    "sub": "Silicon"
+  },
+  {
+    "query": "The atomic number of Phosphorus is",
+    "answer": " 15",
+    "sub": "Phosphorus"
+  },
+  {
+    "query": "The atomic number of Sulfur is",
+    "answer": " 16",
+    "sub": "Sulfur"
+  },
+  {
+    "query": "The atomic number of Argon is",
+    "answer": " 18",
+    "sub": "Argon"
+  },
+  {
+    "query": "The atomic number of Calcium is",
+    "answer": " 20",
+    "sub": "Calcium"
+  },
+  {
+    "query": "The atomic number of Scandium is",
+    "answer": " 21",
+    "sub": "Scandium"
+  },
+  {
+    "query": "The atomic number of Iron is",
+    "answer": " 26",
+    "sub": "Iron"
+  },
+  {
+    "query": "The atomic number of Nickel is",
+    "answer": " 28",
+    "sub": "Nickel"
+  },
+  {
+    "query": "The atomic number of Copper is",
+    "answer": " 29",
+    "sub": "Copper"
+  },
+  {
+    "query": "The atomic number of Zinc is",
+    "answer": " 30",
+    "sub": "Zinc"
+  },
+  {
+    "query": "The atomic number of Germanium is",
+    "answer": " 32",
+    "sub": "Germanium"
+  },
+  {
+    "query": "The atomic number of Selenium is",
+    "answer": " 34",
+    "sub": "Selenium"
+  },
+  {
+    "query": "The atomic number of Krypton is",
+    "answer": " 36",
+    "sub": "Krypton"
+  },
+  {
+    "query": "The atomic number of Strontium is",
+    "answer": " 38",
+    "sub": "Strontium"
+  },
+  {
+    "query": "The atomic number of Zirconium is",
+    "answer": " 40",
+    "sub": "Zirconium"
+  },
+  {
+    "query": "The atomic number of Niobium is",
+    "answer": " 41",
+    "sub": "Niobium"
+  },
+  {
+    "query": "The atomic number of Ruthenium is",
+    "answer": " 44",
+    "sub": "Ruthenium"
+  },
+  {
+    "query": "The atomic number of Rhodium is",
+    "answer": " 45",
+    "sub": "Rhodium"
+  },
+  {
+    "query": "The atomic number of Palladium is",
+    "answer": " 46",
+    "sub": "Palladium"
+  },
+  {
+    "query": "The atomic number of Indium is",
+    "answer": " 49",
+    "sub": "Indium"
+  },
+  {
+    "query": "The atomic number of Xenon is",
+    "answer": " 54",
+    "sub": "Xenon"
+  },
+  {
+    "query": "The atomic number of Cesium is",
+    "answer": " 55",
+    "sub": "Cesium"
+  },
+  {
+    "query": "The atomic number of Lanthanum is",
+    "answer": " 57",
+    "sub": "Lanthanum"
+  }
+]

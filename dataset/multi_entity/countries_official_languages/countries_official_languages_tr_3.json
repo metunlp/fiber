@@ -1,0 +1,954 @@
+[
+    {
+        "query": "Arnavutluk'un kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Arnavutluk",
+        "count": "1",
+        "list": [
+            " Arnavutça"
+        ]
+    },
+    {
+        "query": "Arjantin'in kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Arjantin",
+        "count": "1",
+        "list": [
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Ermenistan'ın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Ermenistan",
+        "count": "1",
+        "list": [
+            " Ermenice"
+        ]
+    },
+    {
+        "query": "Avustralya'nın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Avustralya",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Avusturya'nın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Avusturya",
+        "count": "1",
+        "list": [
+            " Almanca"
+        ]
+    },
+    {
+        "query": "Bahamalar'ın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Bahamalar",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Belize'nin kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Belize",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Bolivya'nın kaç tane resmi dili vardır",
+        "answer": " 37",
+        "sub": "Bolivya",
+        "count": "37",
+        "list": [
+            " İspanyolca",
+            " Aymaraca",
+            " Araona",
+            " Baure",
+            " Bésiro",
+            " Canichana",
+            " Cavineño",
+            " Cayubaba",
+            " Chácobo",
+            " Chimán",
+            " Ese Ejja",
+            " Guaraní",
+            "\nGuarasu'we",
+            " Guarayu",
+            " Itonama",
+            " Leco",
+            " Machajuyai-kallawaya",
+            " Machineri",
+            "\nMaropa",
+            " Mojeñotrinitario",
+            " Mojeño-ignaciano",
+            " Moré",
+            " Mosetén",
+            " Movima",
+            "\nPacawara",
+            " Puquina",
+            " Keçuva",
+            " Sirionó",
+            " Tacana",
+            " Tapiete",
+            " Toromona",
+            " Uruchipaya",
+            "\nWeenhayek",
+            " Yaminawa",
+            " Yuki",
+            " Yuracaré",
+            " Zamuko"
+        ]
+    },
+    {
+        "query": "Bosna-Hersek'in kaç tane resmi dili vardır",
+        "answer": " 3",
+        "sub": "Bosna-Hersek",
+        "count": "3",
+        "list": [
+            " Boşnakça",
+            " Hırvatça",
+            " Sırpça"
+        ]
+    },
+    {
+        "query": "Botsvana'nın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Botsvana",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Brezilya'nın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Brezilya",
+        "count": "1",
+        "list": [
+            " Portekizce"
+        ]
+    },
+    {
+        "query": "Brunei'nin kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Brunei",
+        "count": "1",
+        "list": [
+            " Malayca"
+        ]
+    },
+    {
+        "query": "Bulgaristan'ın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Bulgaristan",
+        "count": "1",
+        "list": [
+            " Bulgarca"
+        ]
+    },
+    {
+        "query": "Burkina Faso'nun kaç tane resmi dili vardır",
+        "answer": " 4",
+        "sub": "Burkina Faso",
+        "count": "4",
+        "list": [
+            " Mooré",
+            " Bissa",
+            " Dyula",
+            " Fulaca"
+        ]
+    },
+    {
+        "query": "Yeşil Burun Adaları'nın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Yeşil Burun Adaları",
+        "count": "1",
+        "list": [
+            " Portekizce"
+        ]
+    },
+    {
+        "query": "Kamboçya'nın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Kamboçya",
+        "count": "1",
+        "list": [
+            " Khmerce"
+        ]
+    },
+    {
+        "query": "Kanada'nın kaç tane resmi dili vardır",
+        "answer": " 2",
+        "sub": "Kanada",
+        "count": "2",
+        "list": [
+            " İngilizce",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Şili'nin kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Şili",
+        "count": "1",
+        "list": [
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Çin'in kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Çin",
+        "count": "1",
+        "list": [
+            " Mandarin Çincesi"
+        ]
+    },
+    {
+        "query": "Fildişi Sahili'nin kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Fildişi Sahili",
+        "count": "1",
+        "list": [
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Kosta Rika'nın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Kosta Rika",
+        "count": "1",
+        "list": [
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Hırvatistan'ın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Hırvatistan",
+        "count": "1",
+        "list": [
+            " Hırvatça"
+        ]
+    },
+    {
+        "query": "Kuzey Kore'nin kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Kuzey Kore",
+        "count": "1",
+        "list": [
+            " Korece"
+        ]
+    },
+    {
+        "query": "Demokratik Kongo Cumhuriyeti'nin kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Demokratik Kongo Cumhuriyeti",
+        "count": "1",
+        "list": [
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Danimarka'nın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Danimarka",
+        "count": "1",
+        "list": [
+            " Danca"
+        ]
+    },
+    {
+        "query": "Cibuti'nin kaç tane resmi dili vardır",
+        "answer": " 2",
+        "sub": "Cibuti",
+        "count": "2",
+        "list": [
+            " Fransızca",
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Dominika'nın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Dominika",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Dominik Cumhuriyeti'nin kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Dominik Cumhuriyeti",
+        "count": "1",
+        "list": [
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Eritre'nin kaç tane resmi dili vardır",
+        "answer": " 3",
+        "sub": "Eritre",
+        "count": "3",
+        "list": [
+            " Tigrinya",
+            " Arapça",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Estonya'nın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Estonya",
+        "count": "1",
+        "list": [
+            " Estonca"
+        ]
+    },
+    {
+        "query": "Esvatini'nin kaç tane resmi dili vardır",
+        "answer": " 2",
+        "sub": "Esvatini",
+        "count": "2",
+        "list": [
+            " Sisvati",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Etiyopya'nın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Etiyopya",
+        "count": "1",
+        "list": [
+            " Amharca"
+        ]
+    },
+    {
+        "query": "Fiji'nin kaç tane resmi dili vardır",
+        "answer": " 3",
+        "sub": "Fiji",
+        "count": "3",
+        "list": [
+            " İngilizce",
+            " Fiji Dili",
+            " Fiji Hintçesi"
+        ]
+    },
+    {
+        "query": "Gabon'un kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Gabon",
+        "count": "1",
+        "list": [
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Yunanistan'ın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Yunanistan",
+        "count": "1",
+        "list": [
+            " Yunanca"
+        ]
+    },
+    {
+        "query": "Grenada'nın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Grenada",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Gine'nin kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Gine",
+        "count": "1",
+        "list": [
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Gine-Bissau'nun kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Gine-Bissau",
+        "count": "1",
+        "list": [
+            " Portekizce"
+        ]
+    },
+    {
+        "query": "Honduras'ın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Honduras",
+        "count": "1",
+        "list": [
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Macaristan'ın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Macaristan",
+        "count": "1",
+        "list": [
+            " Macarca"
+        ]
+    },
+    {
+        "query": "Hindistan'ın kaç tane resmi dili vardır",
+        "answer": " 2",
+        "sub": "Hindistan",
+        "count": "2",
+        "list": [
+            " Hintçe",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "İrlanda'nın kaç tane resmi dili vardır",
+        "answer": " 2",
+        "sub": "İrlanda",
+        "count": "2",
+        "list": [
+            " İrlandaca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "İsrail'in kaç tane resmi dili vardır",
+        "answer": " 2",
+        "sub": "İsrail",
+        "count": "2",
+        "list": [
+            " İbranice",
+            " Arapça"
+        ]
+    },
+    {
+        "query": "İtalya'nın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "İtalya",
+        "count": "1",
+        "list": [
+            " İtalyanca"
+        ]
+    },
+    {
+        "query": "Ürdün'ün kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Ürdün",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Kazakistan'ın kaç tane resmi dili vardır",
+        "answer": " 2",
+        "sub": "Kazakistan",
+        "count": "2",
+        "list": [
+            " Kazakça",
+            " Rusça"
+        ]
+    },
+    {
+        "query": "Kenya'nın kaç tane resmi dili vardır",
+        "answer": " 2",
+        "sub": "Kenya",
+        "count": "2",
+        "list": [
+            " Svahili",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Kiribati'nin kaç tane resmi dili vardır",
+        "answer": " 2",
+        "sub": "Kiribati",
+        "count": "2",
+        "list": [
+            " İngilizce",
+            " Gilbertçe"
+        ]
+    },
+    {
+        "query": "Kuveyt'in kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Kuveyt",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Laos'un kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Laos",
+        "count": "1",
+        "list": [
+            " Laoca"
+        ]
+    },
+    {
+        "query": "Letonya'nın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Letonya",
+        "count": "1",
+        "list": [
+            " Letonca"
+        ]
+    },
+    {
+        "query": "Lübnan'ın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Lübnan",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Libya'nın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Libya",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Lihtenştayn'ın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Lihtenştayn",
+        "count": "1",
+        "list": [
+            " Almanca"
+        ]
+    },
+    {
+        "query": "Marshall Adaları'nın kaç tane resmi dili vardır",
+        "answer": " 2",
+        "sub": "Marshall Adaları",
+        "count": "2",
+        "list": [
+            " Marshallca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Moritanya'nın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Moritanya",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Mauritius'un kaç tane resmi dili vardır",
+        "answer": " 2",
+        "sub": "Mauritius",
+        "count": "2",
+        "list": [
+            " İngilizce",
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Moğolistan'ın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Moğolistan",
+        "count": "1",
+        "list": [
+            " Moğolca"
+        ]
+    },
+    {
+        "query": "Fas'ın kaç tane resmi dili vardır",
+        "answer": " 2",
+        "sub": "Fas",
+        "count": "2",
+        "list": [
+            " Arapça",
+            " Tamazight"
+        ]
+    },
+    {
+        "query": "Myanmar'ın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Myanmar",
+        "count": "1",
+        "list": [
+            " Burmaca"
+        ]
+    },
+    {
+        "query": "Namibya'nın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Namibya",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Nauru'nun kaç tane resmi dili vardır",
+        "answer": " 2",
+        "sub": "Nauru",
+        "count": "2",
+        "list": [
+            " Nauruca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Nijer'in kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Nijer",
+        "count": "1",
+        "list": [
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Norveç'in kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Norveç",
+        "count": "1",
+        "list": [
+            " Norveççe"
+        ]
+    },
+    {
+        "query": "Umman'ın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Umman",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Pakistan'ın kaç tane resmi dili vardır",
+        "answer": " 2",
+        "sub": "Pakistan",
+        "count": "2",
+        "list": [
+            " Urduca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Palau'nun kaç tane resmi dili vardır",
+        "answer": " 2",
+        "sub": "Palau",
+        "count": "2",
+        "list": [
+            " Palauca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Papua Yeni Gine'nin kaç tane resmi dili vardır",
+        "answer": " 4",
+        "sub": "Papua Yeni Gine",
+        "count": "4",
+        "list": [
+            " İngilizce",
+            " Tok Pisin",
+            " Hiri Motu",
+            " Papua Yeni Gine İşaret Dili"
+        ]
+    },
+    {
+        "query": "Paraguay'ın kaç tane resmi dili vardır",
+        "answer": " 2",
+        "sub": "Paraguay",
+        "count": "2",
+        "list": [
+            " İspanyolca",
+            " Guaraní"
+        ]
+    },
+    {
+        "query": "Katar'ın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Katar",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Moldova'nın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Moldova",
+        "count": "1",
+        "list": [
+            " Romence"
+        ]
+    },
+    {
+        "query": "Romanya'nın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Romanya",
+        "count": "1",
+        "list": [
+            " Romence"
+        ]
+    },
+    {
+        "query": "Ruanda'nın kaç tane resmi dili vardır",
+        "answer": " 4",
+        "sub": "Ruanda",
+        "count": "4",
+        "list": [
+            " Kinyarwanda",
+            " Fransızca",
+            " İngilizce",
+            " Svahili"
+        ]
+    },
+    {
+        "query": "Saint Kitts ve Nevis'in kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Saint Kitts ve Nevis",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Saint Vincent ve Grenadinler'in kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Saint Vincent ve Grenadinler",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "San Marino'nun kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "San Marino",
+        "count": "1",
+        "list": [
+            " İtalyanca"
+        ]
+    },
+    {
+        "query": "Senegal'ın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Senegal",
+        "count": "1",
+        "list": [
+            " Fransızca"
+        ]
+    },
+    {
+        "query": "Sırbistan'ın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Sırbistan",
+        "count": "1",
+        "list": [
+            " Sırpça"
+        ]
+    },
+    {
+        "query": "Seyşeller'in kaç tane resmi dili vardır",
+        "answer": " 3",
+        "sub": "Seyşeller",
+        "count": "3",
+        "list": [
+            " Seyşel Creole",
+            " Fransızca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Singapur'un kaç tane resmi dili vardır",
+        "answer": " 4",
+        "sub": "Singapur",
+        "count": "4",
+        "list": [
+            " İngilizce",
+            " Malayca",
+            " Mandarin",
+            " Tamil"
+        ]
+    },
+    {
+        "query": "Slovenya'nın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Slovenya",
+        "count": "1",
+        "list": [
+            " Slovence"
+        ]
+    },
+    {
+        "query": "Solomon Adaları'nın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Solomon Adaları",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "İspanya'nın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "İspanya",
+        "count": "1",
+        "list": [
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Sri Lanka'nın kaç tane resmi dili vardır",
+        "answer": " 2",
+        "sub": "Sri Lanka",
+        "count": "2",
+        "list": [
+            " Sinhala",
+            " Tamilce"
+        ]
+    },
+    {
+        "query": "Sudan'ın kaç tane resmi dili vardır",
+        "answer": " 2",
+        "sub": "Sudan",
+        "count": "2",
+        "list": [
+            " Arapça",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "İsviçre'nin kaç tane resmi dili vardır",
+        "answer": " 4",
+        "sub": "İsviçre",
+        "count": "4",
+        "list": [
+            " Almanca",
+            " Fransızca",
+            " İtalyanca",
+            " Romanşça"
+        ]
+    },
+    {
+        "query": "Trinidad ve Tobago'nun kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Trinidad ve Tobago",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Tunus'un kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Tunus",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Türkiye'nin kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Türkiye",
+        "count": "1",
+        "list": [
+            " Türkçe"
+        ]
+    },
+    {
+        "query": "Türkmenistan'ın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Türkmenistan",
+        "count": "1",
+        "list": [
+            " Türkmence"
+        ]
+    },
+    {
+        "query": "Tuvalu'nun kaç tane resmi dili vardır",
+        "answer": " 2",
+        "sub": "Tuvalu",
+        "count": "2",
+        "list": [
+            " Tuvaluca",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Ukrayna'nın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Ukrayna",
+        "count": "1",
+        "list": [
+            " Ukraynaca"
+        ]
+    },
+    {
+        "query": "Tanzanya'nın kaç tane resmi dili vardır",
+        "answer": " 2",
+        "sub": "Tanzanya",
+        "count": "2",
+        "list": [
+            " Svahili",
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Amerika Birleşik Devletleri'nin kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Amerika Birleşik Devletleri",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    },
+    {
+        "query": "Uruguay'ın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Uruguay",
+        "count": "1",
+        "list": [
+            " İspanyolca"
+        ]
+    },
+    {
+        "query": "Yemen'in kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Yemen",
+        "count": "1",
+        "list": [
+            " Arapça"
+        ]
+    },
+    {
+        "query": "Zambiya'nın kaç tane resmi dili vardır",
+        "answer": " 1",
+        "sub": "Zambiya",
+        "count": "1",
+        "list": [
+            " İngilizce"
+        ]
+    }
+]

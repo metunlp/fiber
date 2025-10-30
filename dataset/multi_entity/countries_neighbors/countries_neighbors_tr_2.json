@@ -1,0 +1,927 @@
+[
+    {
+        "query": "Arnavutluk'un komşu ülke sayısı:",
+        "answer": " 4",
+        "sub": "Arnavutluk",
+        "count": 4,
+        "list": [
+            " Yunanistan",
+            " Kosova",
+            " Kuzey Makedonya",
+            " Karadağ"
+        ]
+    },
+    {
+        "query": "Arjantin'in komşu ülke sayısı:",
+        "answer": " 5",
+        "sub": "Arjantin",
+        "count": 5,
+        "list": [
+            " Bolivya",
+            " Brezilya",
+            " Şili",
+            " Paraguay",
+            " Uruguay"
+        ]
+    },
+    {
+        "query": "Ermenistan'ın komşu ülke sayısı:",
+        "answer": " 4",
+        "sub": "Ermenistan",
+        "count": 4,
+        "list": [
+            " Azerbaycan",
+            " Gürcistan",
+            " İran",
+            " Türkiye"
+        ]
+    },
+    {
+        "query": "Avusturya'nın komşu ülke sayısı:",
+        "answer": " 8",
+        "sub": "Avusturya",
+        "count": 8,
+        "list": [
+            " Çekya",
+            " Almanya",
+            " Macaristan",
+            " İtalya",
+            " Lihtenştayn",
+            " Slovakya",
+            " Slovenya",
+            " İsviçre"
+        ]
+    },
+    {
+        "query": "Azerbaycan'ın komşu ülke sayısı:",
+        "answer": " 5",
+        "sub": "Azerbaycan",
+        "count": 5,
+        "list": [
+            " Ermenistan",
+            " Gürcistan",
+            " İran",
+            " Rusya",
+            " Türkiye"
+        ]
+    },
+    {
+        "query": "Bangladeş'in komşu ülke sayısı:",
+        "answer": " 2",
+        "sub": "Bangladeş",
+        "count": 2,
+        "list": [
+            " Hindistan",
+            " Myanmar"
+        ]
+    },
+    {
+        "query": "Belarus'un komşu ülke sayısı:",
+        "answer": " 5",
+        "sub": "Belarus",
+        "count": 5,
+        "list": [
+            " Letonya",
+            " Litvanya",
+            " Polonya",
+            " Rusya",
+            " Ukrayna"
+        ]
+    },
+    {
+        "query": "Belçika'nın komşu ülke sayısı:",
+        "answer": " 4",
+        "sub": "Belçika",
+        "count": 4,
+        "list": [
+            " Fransa",
+            " Almanya",
+            " Lüksemburg",
+            " Hollanda"
+        ]
+    },
+    {
+        "query": "Belize'nin komşu ülke sayısı:",
+        "answer": " 2",
+        "sub": "Belize",
+        "count": 2,
+        "list": [
+            " Guatemala",
+            " Meksika"
+        ]
+    },
+    {
+        "query": "Benin'in komşu ülke sayısı:",
+        "answer": " 4",
+        "sub": "Benin",
+        "count": 4,
+        "list": [
+            " Burkina Faso",
+            " Nijer",
+            " Nijerya",
+            " Togo"
+        ]
+    },
+    {
+        "query": "Bolivya'nın komşu ülke sayısı:",
+        "answer": " 5",
+        "sub": "Bolivya",
+        "count": 5,
+        "list": [
+            " Arjantin",
+            " Brezilya",
+            " Şili",
+            " Paraguay",
+            " Peru"
+        ]
+    },
+    {
+        "query": "Brunei'nin komşu ülke sayısı:",
+        "answer": " 1",
+        "sub": "Brunei",
+        "count": 1,
+        "list": [
+            " Malezya"
+        ]
+    },
+    {
+        "query": "Bulgaristan'ın komşu ülke sayısı:",
+        "answer": " 5",
+        "sub": "Bulgaristan",
+        "count": 5,
+        "list": [
+            " Yunanistan",
+            " Kuzey Makedonya",
+            " Romanya",
+            " Sırbistan",
+            " Türkiye"
+        ]
+    },
+    {
+        "query": "Burundi'nin komşu ülke sayısı:",
+        "answer": " 3",
+        "sub": "Burundi",
+        "count": 3,
+        "list": [
+            " Demokratik Kongo Cumhuriyeti",
+            " Ruanda",
+            " Tanzanya"
+        ]
+    },
+    {
+        "query": "Kamboçya'nın komşu ülke sayısı:",
+        "answer": " 3",
+        "sub": "Kamboçya",
+        "count": 3,
+        "list": [
+            " Laos",
+            " Tayland",
+            " Vietnam"
+        ]
+    },
+    {
+        "query": "Kamerun'un komşu ülke sayısı:",
+        "answer": " 6",
+        "sub": "Kamerun",
+        "count": 6,
+        "list": [
+            " Orta Afrika Cumhuriyeti",
+            " Çad",
+            " Kongo Cumhuriyeti",
+            " Ekvator Ginesi",
+            " Gabon",
+            " Nijerya"
+        ]
+    },
+    {
+        "query": "Orta Afrika Cumhuriyeti'nin komşu ülke sayısı:",
+        "answer": " 6",
+        "sub": "Orta Afrika Cumhuriyeti",
+        "count": 6,
+        "list": [
+            " Kamerun",
+            " Çad",
+            " Kongo Cumhuriyeti",
+            " Demokratik Kongo Cumhuriyeti",
+            " Güney Sudan",
+            " Sudan"
+        ]
+    },
+    {
+        "query": "Çad'ın komşu ülke sayısı:",
+        "answer": " 6",
+        "sub": "Çad",
+        "count": 6,
+        "list": [
+            " Kamerun",
+            " Orta Afrika Cumhuriyeti",
+            " Libya",
+            " Nijer",
+            " Nijerya",
+            " Sudan"
+        ]
+    },
+    {
+        "query": "Şili'nin komşu ülke sayısı:",
+        "answer": " 3",
+        "sub": "Şili",
+        "count": 3,
+        "list": [
+            " Arjantin",
+            " Bolivya",
+            " Peru"
+        ]
+    },
+    {
+        "query": "Çin'in komşu ülke sayısı:",
+        "answer": " 14",
+        "sub": "Çin",
+        "count": 14,
+        "list": [
+            " Afganistan",
+            " Bhutan",
+            " Hindistan",
+            " Kazakistan",
+            " Kırgızistan",
+            " Laos",
+            " Moğolistan",
+            " Myanmar",
+            " Nepal",
+            " Kuzey Kore",
+            " Pakistan",
+            " Rusya",
+            " Tacikistan",
+            " Vietnam"
+        ]
+    },
+    {
+        "query": "Kosta Rika'nın komşu ülke sayısı:",
+        "answer": " 2",
+        "sub": "Kosta Rika",
+        "count": 2,
+        "list": [
+            " Nikaragua",
+            " Panama"
+        ]
+    },
+    {
+        "query": "Hırvatistan'ın komşu ülke sayısı:",
+        "answer": " 5",
+        "sub": "Hırvatistan",
+        "count": 5,
+        "list": [
+            " Bosna Hersek",
+            " Macaristan",
+            " Karadağ",
+            " Sırbistan",
+            " Slovenya"
+        ]
+    },
+    {
+        "query": "Çekya'nın komşu ülke sayısı:",
+        "answer": " 4",
+        "sub": "Çekya",
+        "count": 4,
+        "list": [
+            " Avusturya",
+            " Almanya",
+            " Polonya",
+            " Slovakya"
+        ]
+    },
+    {
+        "query": "Cibuti'nin komşu ülke sayısı:",
+        "answer": " 3",
+        "sub": "Cibuti",
+        "count": 3,
+        "list": [
+            " Eritre",
+            " Etiyopya",
+            " Somali"
+        ]
+    },
+    {
+        "query": "Ekvador'un komşu ülke sayısı:",
+        "answer": " 2",
+        "sub": "Ekvador",
+        "count": 2,
+        "list": [
+            " Kolombiya",
+            " Peru"
+        ]
+    },
+    {
+        "query": "Ekvator Ginesi'nin komşu ülke sayısı:",
+        "answer": " 2",
+        "sub": "Ekvator Ginesi",
+        "count": 2,
+        "list": [
+            " Kamerun",
+            " Gabon"
+        ]
+    },
+    {
+        "query": "Eritre'nin komşu ülke sayısı:",
+        "answer": " 3",
+        "sub": "Eritre",
+        "count": 3,
+        "list": [
+            " Cibuti",
+            " Etiyopya",
+            " Sudan"
+        ]
+    },
+    {
+        "query": "Estonya'nın komşu ülke sayısı:",
+        "answer": " 2",
+        "sub": "Estonya",
+        "count": 2,
+        "list": [
+            " Letonya",
+            " Rusya"
+        ]
+    },
+    {
+        "query": "Esvatini'nin komşu ülke sayısı:",
+        "answer": " 2",
+        "sub": "Esvatini",
+        "count": 2,
+        "list": [
+            " Mozambik",
+            " Güney Afrika"
+        ]
+    },
+    {
+        "query": "Etiyopya'nın komşu ülke sayısı:",
+        "answer": " 6",
+        "sub": "Etiyopya",
+        "count": 6,
+        "list": [
+            " Cibuti",
+            " Eritre",
+            " Kenya",
+            " Somali",
+            " Güney Sudan",
+            " Sudan"
+        ]
+    },
+    {
+        "query": "Finlandiya'nın komşu ülke sayısı:",
+        "answer": " 3",
+        "sub": "Finlandiya",
+        "count": 3,
+        "list": [
+            " Norveç",
+            " Rusya",
+            " İsveç"
+        ]
+    },
+    {
+        "query": "Gabon'un komşu ülke sayısı:",
+        "answer": " 3",
+        "sub": "Gabon",
+        "count": 3,
+        "list": [
+            " Kamerun",
+            " Kongo Cumhuriyeti",
+            " Ekvator Ginesi"
+        ]
+    },
+    {
+        "query": "Yunanistan'ın komşu ülke sayısı:",
+        "answer": " 4",
+        "sub": "Yunanistan",
+        "count": 4,
+        "list": [
+            " Arnavutluk",
+            " Bulgaristan",
+            " Kuzey Makedonya",
+            " Türkiye"
+        ]
+    },
+    {
+        "query": "Guatemala'nın komşu ülke sayısı:",
+        "answer": " 4",
+        "sub": "Guatemala",
+        "count": 4,
+        "list": [
+            " Belize",
+            " El Salvador",
+            " Honduras",
+            " Meksika"
+        ]
+    },
+    {
+        "query": "Gine'nin komşu ülke sayısı:",
+        "answer": " 6",
+        "sub": "Gine",
+        "count": 6,
+        "list": [
+            " Fildişi Sahili",
+            " Gine-Bissau",
+            " Liberya",
+            " Mali",
+            " Senegal",
+            " Sierra Leone"
+        ]
+    },
+    {
+        "query": "Gine-Bissau'nun komşu ülke sayısı:",
+        "answer": " 2",
+        "sub": "Gine-Bissau",
+        "count": 2,
+        "list": [
+            " Gine",
+            " Senegal"
+        ]
+    },
+    {
+        "query": "Guyana'nın komşu ülke sayısı:",
+        "answer": " 3",
+        "sub": "Guyana",
+        "count": 3,
+        "list": [
+            " Brezilya",
+            " Surinam",
+            " Venezuela"
+        ]
+    },
+    {
+        "query": "Macaristan'ın komşu ülke sayısı:",
+        "answer": " 7",
+        "sub": "Macaristan",
+        "count": 7,
+        "list": [
+            " Avusturya",
+            " Hırvatistan",
+            " Romanya",
+            " Sırbistan",
+            " Slovakya",
+            " Slovenya",
+            " Ukrayna"
+        ]
+    },
+    {
+        "query": "İsrail'in komşu ülke sayısı:",
+        "answer": " 6",
+        "sub": "İsrail",
+        "count": 6,
+        "list": [
+            " Mısır",
+            " Ürdün",
+            " Lübnan",
+            " Suriye",
+            " Filistin (Batı Şeria)",
+            " Filistin (Gazze Şeridi)"
+        ]
+    },
+    {
+        "query": "İtalya'nın komşu ülke sayısı:",
+        "answer": " 6",
+        "sub": "İtalya",
+        "count": 6,
+        "list": [
+            " Avusturya",
+            " Fransa",
+            " San Marino",
+            " Slovenya",
+            " İsviçre",
+            " Vatikan Şehri"
+        ]
+    },
+    {
+        "query": "Kazakistan'ın komşu ülke sayısı:",
+        "answer": " 5",
+        "sub": "Kazakistan",
+        "count": 5,
+        "list": [
+            " Çin",
+            " Kırgızistan",
+            " Rusya",
+            " Türkmenistan",
+            " Özbekistan"
+        ]
+    },
+    {
+        "query": "Kenya'nın komşu ülke sayısı:",
+        "answer": " 5",
+        "sub": "Kenya",
+        "count": 5,
+        "list": [
+            " Etiyopya",
+            " Somali",
+            " Güney Sudan",
+            " Tanzanya",
+            " Uganda"
+        ]
+    },
+    {
+        "query": "Kuveyt'in komşu ülke sayısı:",
+        "answer": " 2",
+        "sub": "Kuveyt",
+        "count": 2,
+        "list": [
+            " Irak",
+            " Suudi Arabistan"
+        ]
+    },
+    {
+        "query": "Lübnan'ın komşu ülke sayısı:",
+        "answer": " 2",
+        "sub": "Lübnan",
+        "count": 2,
+        "list": [
+            " İsrail",
+            " Suriye"
+        ]
+    },
+    {
+        "query": "Liberya'nın komşu ülke sayısı:",
+        "answer": " 3",
+        "sub": "Liberya",
+        "count": 3,
+        "list": [
+            " Gine",
+            " Fildişi Sahili",
+            " Sierra Leone"
+        ]
+    },
+    {
+        "query": "Libya'nın komşu ülke sayısı:",
+        "answer": " 6",
+        "sub": "Libya",
+        "count": 6,
+        "list": [
+            " Cezayir",
+            " Çad",
+            " Mısır",
+            " Nijer",
+            " Sudan",
+            " Tunus"
+        ]
+    },
+    {
+        "query": "Lihtenştayn'ın komşu ülke sayısı:",
+        "answer": " 2",
+        "sub": "Lihtenştayn",
+        "count": 2,
+        "list": [
+            " Avusturya",
+            " İsviçre"
+        ]
+    },
+    {
+        "query": "Malavi'nin komşu ülke sayısı:",
+        "answer": " 3",
+        "sub": "Malavi",
+        "count": 3,
+        "list": [
+            " Mozambik",
+            " Tanzanya",
+            " Zambiya"
+        ]
+    },
+    {
+        "query": "Moritanya'nın komşu ülke sayısı:",
+        "answer": " 4",
+        "sub": "Moritanya",
+        "count": 4,
+        "list": [
+            " Cezayir",
+            " Mali",
+            " Senegal",
+            " Batı Sahra"
+        ]
+    },
+    {
+        "query": "Monako'nun komşu ülke sayısı:",
+        "answer": " 1",
+        "sub": "Monako",
+        "count": 1,
+        "list": [
+            " Fransa"
+        ]
+    },
+    {
+        "query": "Fas'ın komşu ülke sayısı:",
+        "answer": " 2",
+        "sub": "Fas",
+        "count": 2,
+        "list": [
+            " Cezayir",
+            " Batı Sahra"
+        ]
+    },
+    {
+        "query": "Nepal'ın komşu ülke sayısı:",
+        "answer": " 2",
+        "sub": "Nepal",
+        "count": 2,
+        "list": [
+            " Çin",
+            " Hindistan"
+        ]
+    },
+    {
+        "query": "Nijer'in komşu ülke sayısı:",
+        "answer": " 7",
+        "sub": "Nijer",
+        "count": 7,
+        "list": [
+            " Cezayir",
+            " Benin",
+            " Burkina Faso",
+            " Çad",
+            " Libya",
+            " Mali",
+            " Nijerya"
+        ]
+    },
+    {
+        "query": "Kuzey Makedonya'nın komşu ülke sayısı:",
+        "answer": " 5",
+        "sub": "Kuzey Makedonya",
+        "count": 5,
+        "list": [
+            " Arnavutluk",
+            " Bulgaristan",
+            " Yunanistan",
+            " Kosova",
+            " Sırbistan"
+        ]
+    },
+    {
+        "query": "Umman'ın komşu ülke sayısı:",
+        "answer": " 3",
+        "sub": "Umman",
+        "count": 3,
+        "list": [
+            " Suudi Arabistan",
+            " Birleşik Arap Emirlikleri",
+            " Yemen"
+        ]
+    },
+    {
+        "query": "Pakistan'ın komşu ülke sayısı:",
+        "answer": " 4",
+        "sub": "Pakistan",
+        "count": 4,
+        "list": [
+            " Afganistan",
+            " Çin",
+            " Hindistan",
+            " İran"
+        ]
+    },
+    {
+        "query": "Filistin'in komşu ülke sayısı:",
+        "answer": " 3",
+        "sub": "Filistin",
+        "count": 3,
+        "list": [
+            " Mısır",
+            " İsrail",
+            " Ürdün"
+        ]
+    },
+    {
+        "query": "Panama'nın komşu ülke sayısı:",
+        "answer": " 2",
+        "sub": "Panama",
+        "count": 2,
+        "list": [
+            " Kolombiya",
+            " Kosta Rika"
+        ]
+    },
+    {
+        "query": "Papua Yeni Gine'nin komşu ülke sayısı:",
+        "answer": " 1",
+        "sub": "Papua Yeni Gine",
+        "count": 1,
+        "list": [
+            " Endonezya"
+        ]
+    },
+    {
+        "query": "Paraguay'ın komşu ülke sayısı:",
+        "answer": " 3",
+        "sub": "Paraguay",
+        "count": 3,
+        "list": [
+            " Arjantin",
+            " Bolivya",
+            " Brezilya"
+        ]
+    },
+    {
+        "query": "Peru'nun komşu ülke sayısı:",
+        "answer": " 5",
+        "sub": "Peru",
+        "count": 5,
+        "list": [
+            " Bolivya",
+            " Brezilya",
+            " Şili",
+            " Kolombiya",
+            " Ekvador"
+        ]
+    },
+    {
+        "query": "Polonya'nın komşu ülke sayısı:",
+        "answer": " 7",
+        "sub": "Polonya",
+        "count": 7,
+        "list": [
+            " Belarus",
+            " Çekya",
+            " Almanya",
+            " Litvanya",
+            " Rusya",
+            " Slovakya",
+            " Ukrayna"
+        ]
+    },
+    {
+        "query": "Katar'ın komşu ülke sayısı:",
+        "answer": " 1",
+        "sub": "Katar",
+        "count": 1,
+        "list": [
+            " Suudi Arabistan"
+        ]
+    },
+    {
+        "query": "Ruanda'nın komşu ülke sayısı:",
+        "answer": " 4",
+        "sub": "Ruanda",
+        "count": 4,
+        "list": [
+            " Burundi",
+            " Demokratik Kongo Cumhuriyeti",
+            " Tanzanya",
+            " Uganda"
+        ]
+    },
+    {
+        "query": "San Marino'nun komşu ülke sayısı:",
+        "answer": " 1",
+        "sub": "San Marino",
+        "count": 1,
+        "list": [
+            " İtalya"
+        ]
+    },
+    {
+        "query": "Suudi Arabistan'ın komşu ülke sayısı:",
+        "answer": " 7",
+        "sub": "Suudi Arabistan",
+        "count": 7,
+        "list": [
+            " Irak",
+            " Ürdün",
+            " Kuveyt",
+            " Umman",
+            " Katar",
+            " Birleşik Arap Emirlikleri",
+            " Yemen"
+        ]
+    },
+    {
+        "query": "Sierra Leone'nin komşu ülke sayısı:",
+        "answer": " 2",
+        "sub": "Sierra Leone",
+        "count": 2,
+        "list": [
+            " Gine",
+            " Liberya"
+        ]
+    },
+    {
+        "query": "İspanya'nın komşu ülke sayısı:",
+        "answer": " 5",
+        "sub": "İspanya",
+        "count": 5,
+        "list": [
+            " Andorra",
+            " Fransa",
+            " Cebelitarık",
+            " Portekiz",
+            " Fas"
+        ]
+    },
+    {
+        "query": "İsveç'in komşu ülke sayısı:",
+        "answer": " 2",
+        "sub": "İsveç",
+        "count": 2,
+        "list": [
+            " Finlandiya",
+            " Norveç"
+        ]
+    },
+    {
+        "query": "Togo'nun komşu ülke sayısı:",
+        "answer": " 3",
+        "sub": "Togo",
+        "count": 3,
+        "list": [
+            " Benin",
+            " Burkina Faso",
+            " Gana"
+        ]
+    },
+    {
+        "query": "Tunus'un komşu ülke sayısı:",
+        "answer": " 2",
+        "sub": "Tunus",
+        "count": 2,
+        "list": [
+            " Cezayir",
+            " Libya"
+        ]
+    },
+    {
+        "query": "Türkiye'nin komşu ülke sayısı:",
+        "answer": " 8",
+        "sub": "Türkiye",
+        "count": 8,
+        "list": [
+            " Ermenistan",
+            " Azerbaycan",
+            " Bulgaristan",
+            " Gürcistan",
+            " Yunanistan",
+            " İran",
+            " Irak",
+            " Suriye"
+        ]
+    },
+    {
+        "query": "Birleşik Arap Emirlikleri'nin komşu ülke sayısı:",
+        "answer": " 2",
+        "sub": "Birleşik Arap Emirlikleri",
+        "count": 2,
+        "list": [
+            " Umman",
+            " Suudi Arabistan"
+        ]
+    },
+    {
+        "query": "Birleşik Krallık'ın komşu ülke sayısı:",
+        "answer": " 1",
+        "sub": "Birleşik Krallık",
+        "count": 1,
+        "list": [
+            " İrlanda"
+        ]
+    },
+    {
+        "query": "Özbekistan'ın komşu ülke sayısı:",
+        "answer": " 5",
+        "sub": "Özbekistan",
+        "count": 5,
+        "list": [
+            " Afganistan",
+            " Kazakistan",
+            " Kırgızistan",
+            " Tacikistan",
+            " Türkmenistan"
+        ]
+    },
+    {
+        "query": "Vatikan Şehri'nin komşu ülke sayısı:",
+        "answer": " 1",
+        "sub": "Vatikan Şehri",
+        "count": 1,
+        "list": [
+            " İtalya"
+        ]
+    },
+    {
+        "query": "Yemen'in komşu ülke sayısı:",
+        "answer": " 2",
+        "sub": "Yemen",
+        "count": 2,
+        "list": [
+            " Umman",
+            " Suudi Arabistan"
+        ]
+    },
+    {
+        "query": "Zambiya'nın komşu ülke sayısı:",
+        "answer": " 8",
+        "sub": "Zambiya",
+        "count": 8,
+        "list": [
+            " Angola",
+            " Botsvana",
+            " Demokratik Kongo Cumhuriyeti",
+            " Malavi",
+            " Mozambik",
+            " Namibya",
+            " Tanzanya",
+            " Zimbabve"
+        ]
+    }
+]

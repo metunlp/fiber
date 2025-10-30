@@ -1,0 +1,716 @@
+[
+    {
+        "query": "The automobile manufacturer(s) of Algeria is/are",
+        "answer": " SNVI",
+        "sub": "Algeria",
+        "count": 1,
+        "list": [
+            " SNVI"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Argentina is/are",
+        "answer": " ASA Aluminium Body, Zanella, Sero Electric",
+        "sub": "Argentina",
+        "count": 3,
+        "list": [
+            " ASA Aluminium Body",
+            " Zanella",
+            " Sero Electric"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Austria is/are",
+        "answer": " KTM, Magna Steyr, Rosenbauer, Tushek & Spigel",
+        "sub": "Austria",
+        "count": 4,
+        "list": [
+            " KTM",
+            " Magna Steyr",
+            " Rosenbauer",
+            " Tushek & Spigel"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Azerbaijan is/are",
+        "answer": " AzSamand, Ganja Auto Plant, Nakhchivan Automobile Plant",
+        "sub": "Azerbaijan",
+        "count": 3,
+        "list": [
+            " AzSamand",
+            " Ganja Auto Plant",
+            " Nakhchivan Automobile Plant"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Bulgaria is/are",
+        "answer": " Litex, SIN",
+        "sub": "Bulgaria",
+        "count": 2,
+        "list": [
+            " Litex",
+            " SIN"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Canada is/are",
+        "answer": " Bombardier, Campagna, Felino Corporation, Intermeccanica, INKAS, Lion Electric Company, Magnum Cars, New Flyer, Nova Bus, Prevost, Terradyne, Vicinity Motor Corp.",
+        "sub": "Canada",
+        "count": 12,
+        "list": [
+            " Bombardier",
+            " Campagna",
+            " Felino Corporation",
+            " Intermeccanica",
+            " INKAS",
+            " Lion Electric Company",
+            " Magnum Cars",
+            " New Flyer",
+            " Nova Bus",
+            " Prevost",
+            " Terradyne",
+            " Vicinity Motor Corp."
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of China is/are",
+        "answer": " Arcfox, Aion, Apex Motors, Ankai, BAIC, Bonluck, Baojun, BAW, Bestune, Brilliance, BYD, Changan, Changhe, Chery, Dongfeng, Denza, Englon, Exeed, EuAuto, Everus, FAW, Hongqi, Foton, Firefly, Fangchengbao, GAC, Geely, Great Wall, Gyon, Henrey Automobile, Hafei, Haima, Hanteng, Hawtai, Haval, Heibao, HiPhi, Higer, Hozon Auto, Jetour, Jiangling, JMEV, Jinbei, Jonway, JAC, Jetta, JuneYao Auto, Karry, Kandi, King Long, ORA, Landwind, Leahead, Li Auto, Leapmotor, Lynk&Co, Maextro, Mudan Auto, Maxus, Nio, Qoros, Roewe, Ranz, SAIC, Sehol, Soueast, Spotlight Automotive, Stelato, Sunlong Bus, Skyworth Auto, Trumpchi, Wuling, Voyah, Xpeng, Xiaomi Auto, Yudo Auto, Yutong, Zhongtong Bus, Zinoro, Zotye, Zeekr, WEY, Xiamen Golden Dragon Bus, Yangwang, ZX Auto",
+        "sub": "China",
+        "count": 85,
+        "list": [
+            " Arcfox",
+            " Aion",
+            " Apex Motors",
+            " Ankai",
+            " BAIC",
+            " Bonluck",
+            " Baojun",
+            " BAW",
+            " Bestune",
+            " Brilliance",
+            " BYD",
+            " Changan",
+            " Changhe",
+            " Chery",
+            " Dongfeng",
+            " Denza",
+            " Englon",
+            " Exeed",
+            " EuAuto",
+            " Everus",
+            " FAW",
+            " Hongqi",
+            " Foton",
+            " Firefly",
+            " Fangchengbao",
+            " GAC",
+            " Geely",
+            " Great Wall",
+            " Gyon",
+            " Henrey Automobile",
+            " Hafei",
+            " Haima",
+            " Hanteng",
+            " Hawtai",
+            " Haval",
+            " Heibao",
+            " HiPhi",
+            " Higer",
+            " Hozon Auto",
+            " Jetour",
+            " Jiangling",
+            " JMEV",
+            " Jinbei",
+            " Jonway",
+            " JAC",
+            " Jetta",
+            " JuneYao Auto",
+            " Karry",
+            " Kandi",
+            " King Long",
+            " ORA",
+            " Landwind",
+            " Leahead",
+            " Li Auto",
+            " Leapmotor",
+            " Lynk&Co",
+            " Maextro",
+            " Mudan Auto",
+            " Maxus",
+            " Nio",
+            " Qoros",
+            " Roewe",
+            " Ranz",
+            " SAIC",
+            " Sehol",
+            " Soueast",
+            " Spotlight Automotive",
+            " Stelato",
+            " Sunlong Bus",
+            " Skyworth Auto",
+            " Trumpchi",
+            " Wuling",
+            " Voyah",
+            " Xpeng",
+            " Xiaomi Auto",
+            " Yudo Auto",
+            " Yutong",
+            " Zhongtong Bus",
+            " Zinoro",
+            " Zotye",
+            " Zeekr",
+            " WEY",
+            " Xiamen Golden Dragon Bus",
+            " Yangwang",
+            " ZX Auto"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Colombia is/are",
+        "answer": " Busscar de Colombia, Sofasa",
+        "sub": "Colombia",
+        "count": 2,
+        "list": [
+            " Busscar de Colombia",
+            " Sofasa"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Croatia is/are",
+        "answer": " DOK-ING, Rimac",
+        "sub": "Croatia",
+        "count": 2,
+        "list": [
+            " DOK-ING",
+            " Rimac"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Czech Republic is/are",
+        "answer": " Škoda, Tatra, Avia, Kaipan, MTX, Praga",
+        "sub": "Czech Republic",
+        "count": 6,
+        "list": [
+            " Škoda",
+            " Tatra",
+            " Avia",
+            " Kaipan",
+            " MTX",
+            " Praga"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Egypt is/are",
+        "answer": " MCV Bus & Coach",
+        "sub": "Egypt",
+        "count": 1,
+        "list": [
+            " MCV Bus & Coach"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Georgia is/are",
+        "answer": " KAZ",
+        "sub": "Georgia",
+        "count": 1,
+        "list": [
+            " KAZ"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Hungary is/are",
+        "answer": " Ikarus, Rába",
+        "sub": "Hungary",
+        "count": 2,
+        "list": [
+            " Ikarus",
+            " Rába"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Iceland is/are",
+        "answer": " Arctic Trucks",
+        "sub": "Iceland",
+        "count": 1,
+        "list": [
+            " Arctic Trucks"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of India is/are",
+        "answer": " Ajanta Group, Ashok Leyland, Asia MotorWorks, Atul Auto, Bajaj, Eicher, Force, Hindustan, ICML motors, KAL, Mahindra, Maruti, Ola Electric, Omega Seiki Mobility, Tara International, Tata",
+        "sub": "India",
+        "count": 16,
+        "list": [
+            " Ajanta Group",
+            " Ashok Leyland",
+            " Asia MotorWorks",
+            " Atul Auto",
+            " Bajaj",
+            " Eicher",
+            " Force",
+            " Hindustan",
+            " ICML motors",
+            " KAL",
+            " Mahindra",
+            " Maruti",
+            " Ola Electric",
+            " Omega Seiki Mobility",
+            " Tara International",
+            " Tata"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Israel is/are",
+        "answer": " City Transformer, Ha'argaz, Merkavim, REE Automotive, Tomcar, Zibar",
+        "sub": "Israel",
+        "count": 6,
+        "list": [
+            " City Transformer",
+            " Ha'argaz",
+            " Merkavim",
+            " REE Automotive",
+            " Tomcar",
+            " Zibar"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Italy is/are",
+        "answer": " Abarth, Alkè, Astra, Alfa Romeo, Automobili Estrema, Bremach, Casalini, Covini, CTS, DR Motor, Dallara, Fiat, Ferrari, Iso, Italdesign, Iveco, Lancia, Lamborghini, Maserati, M.A.T, Mazzanti, Minardi, Pagani, Piaggio, Pininfarina, SCV Srl, XEV, Zagato",
+        "sub": "Italy",
+        "count": 28,
+        "list": [
+            " Abarth",
+            " Alkè",
+            " Astra",
+            " Alfa Romeo",
+            " Automobili Estrema",
+            " Bremach",
+            " Casalini",
+            " Covini",
+            " CTS",
+            " DR Motor",
+            " Dallara",
+            " Fiat",
+            " Ferrari",
+            " Iso",
+            " Italdesign",
+            " Iveco",
+            " Lancia",
+            " Lamborghini",
+            " Maserati",
+            " M.A.T",
+            " Mazzanti",
+            " Minardi",
+            " Pagani",
+            " Piaggio",
+            " Pininfarina",
+            " SCV Srl",
+            " XEV",
+            " Zagato"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Japan is/are",
+        "answer": " Acura, Daihatsu, Hino, Honda, Infiniti, Isuzu, Lexus, Mazda, Mitsubishi, Mitsubishi Fuso, Nissan, Subaru, Suzuki, Toyota, UD Trucks, Aspark, Dome, GLM, J-Bus, Mitsuoka, NMKV, Tommykaira",
+        "sub": "Japan",
+        "count": 22,
+        "list": [
+            " Acura",
+            " Daihatsu",
+            " Hino",
+            " Honda",
+            " Infiniti",
+            " Isuzu",
+            " Lexus",
+            " Mazda",
+            " Mitsubishi",
+            " Mitsubishi Fuso",
+            " Nissan",
+            " Subaru",
+            " Suzuki",
+            " Toyota",
+            " UD Trucks",
+            " Aspark",
+            " Dome",
+            " GLM",
+            " J-Bus",
+            " Mitsuoka",
+            " NMKV",
+            " Tommykaira"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Latvia is/are",
+        "answer": " Dartz, Drive eO",
+        "sub": "Latvia",
+        "count": 2,
+        "list": [
+            " Dartz",
+            " Drive eO"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Lebanon is/are",
+        "answer": " EV Electra, W Motors",
+        "sub": "Lebanon",
+        "count": 2,
+        "list": [
+            " EV Electra",
+            " W Motors"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Malaysia is/are",
+        "answer": " Bufori, DefTech, Inokom, Naza, Perodua, Proton",
+        "sub": "Malaysia",
+        "count": 6,
+        "list": [
+            " Bufori",
+            " DefTech",
+            " Inokom",
+            " Naza",
+            " Perodua",
+            " Proton"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Mexico is/are",
+        "answer": " DINA, Mastretta, VUHL, Zacua",
+        "sub": "Mexico",
+        "count": 4,
+        "list": [
+            " DINA",
+            " Mastretta",
+            " VUHL",
+            " Zacua"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Myanmar is/are",
+        "answer": " Shan Star",
+        "sub": "Myanmar",
+        "count": 1,
+        "list": [
+            " Shan Star"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Netherlands is/are",
+        "answer": " Burton, Carver, DAF, Dakar, Donkervoort, Spijkstaal, Spyker",
+        "sub": "Netherlands",
+        "count": 7,
+        "list": [
+            " Burton",
+            " Carver",
+            " DAF",
+            " Dakar",
+            " Donkervoort",
+            " Spijkstaal",
+            " Spyker"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Stellantis is/are",
+        "answer": " Vandenbrink, VDL Bus & Coach, Vencer",
+        "sub": "Stellantis",
+        "count": 3,
+        "list": [
+            " Vandenbrink",
+            " VDL Bus & Coach",
+            " Vencer"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of New Zealand is/are",
+        "answer": " Almac, Anziel, Kiwi Bus Builders, Saker Cars, Trekka",
+        "sub": "New Zealand",
+        "count": 5,
+        "list": [
+            " Almac",
+            " Anziel",
+            " Kiwi Bus Builders",
+            " Saker Cars",
+            " Trekka"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of North Macedonia is/are",
+        "answer": " FAS Sanos",
+        "sub": "North Macedonia",
+        "count": 1,
+        "list": [
+            " FAS Sanos"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Russia is/are",
+        "answer": " Aurus, Avtotor, AvtoVAZ, GAZ, KAvZ, LiAZ, PAZ, KAMAZ, NefAZ, Kombat Armouring, Moskvich, Sollers, UAZ, TREKOL, UralAZ, Volgabus",
+        "sub": "Russia",
+        "count": 16,
+        "list": [
+            " Aurus",
+            " Avtotor",
+            " AvtoVAZ",
+            " GAZ",
+            " KAvZ",
+            " LiAZ",
+            " PAZ",
+            " KAMAZ",
+            " NefAZ",
+            " Kombat Armouring",
+            " Moskvich",
+            " Sollers",
+            " UAZ",
+            " TREKOL",
+            " UralAZ",
+            " Volgabus"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Sudan is/are",
+        "answer": " Giad Auto",
+        "sub": "Sudan",
+        "count": 1,
+        "list": [
+            " Giad Auto"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Sweden is/are",
+        "answer": " Caresto, Koenigsegg, Polestar, Scania, Volvo",
+        "sub": "Sweden",
+        "count": 5,
+        "list": [
+            " Caresto",
+            " Koenigsegg",
+            " Polestar",
+            " Scania",
+            " Volvo"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Tunisia is/are",
+        "answer": " Wallyscar",
+        "sub": "Tunisia",
+        "count": 1,
+        "list": [
+            " Wallyscar"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Turkey is/are",
+        "answer": " BMC, Erkunt, Etox, Guleryuz, Karsan, Katmerciler, Otokar, Ozaltin, Temsa, Tofas, Togg",
+        "sub": "Turkey",
+        "count": 11,
+        "list": [
+            " BMC",
+            " Erkunt",
+            " Etox",
+            " Guleryuz",
+            " Karsan",
+            " Katmerciler",
+            " Otokar",
+            " Ozaltin",
+            " Temsa",
+            " Tofas",
+            " Togg"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Ukraine is/are",
+        "answer": " Bogdan, Etalon, Eurocar, KrAZ, Sherp, ZAZ",
+        "sub": "Ukraine",
+        "count": 6,
+        "list": [
+            " Bogdan",
+            " Etalon",
+            " Eurocar",
+            " KrAZ",
+            " Sherp",
+            " ZAZ"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of United Arab Emirates is/are",
+        "answer": " NIMR, STREIT Group, W Motors",
+        "sub": "United Arab Emirates",
+        "count": 3,
+        "list": [
+            " NIMR",
+            " STREIT Group",
+            " W Motors"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of United Kingdom is/are",
+        "answer": " AC, Alexander Dennis, Apex, Ariel, Aston Martin, Atalanta, BAC, Bentley, Bowler, Caterham, David Brown, Elemental Cars, Ginetta, Gordon Murray Automotive, GKD Sports, Grinnall, Ineos, Jaguar, Lagonda, London EV Company, Land Rover, Lister, Lotus, Munro Vehicles, McLaren, Mcmutry Automotive, MG, Mini, Morgan, Noble, Radical Sportscars, Rolls-Royce, Ronart, Switch Mobility, TVR, Ultima Sports, Vauxhall",
+        "sub": "United Kingdom",
+        "count": 37,
+        "list": [
+            " AC",
+            " Alexander Dennis",
+            " Apex",
+            " Ariel",
+            " Aston Martin",
+            " Atalanta",
+            " BAC",
+            " Bentley",
+            " Bowler",
+            " Caterham",
+            " David Brown",
+            " Elemental Cars",
+            " Ginetta",
+            " Gordon Murray Automotive",
+            " GKD Sports",
+            " Grinnall",
+            " Ineos",
+            " Jaguar",
+            " Lagonda",
+            " London EV Company",
+            " Land Rover",
+            " Lister",
+            " Lotus",
+            " Munro Vehicles",
+            " McLaren",
+            " Mcmutry Automotive",
+            " MG",
+            " Mini",
+            " Morgan",
+            " Noble",
+            " Radical Sportscars",
+            " Rolls-Royce",
+            " Ronart",
+            " Switch Mobility",
+            " TVR",
+            " Ultima Sports",
+            " Vauxhall"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of United States is/are",
+        "answer": " Buick, Cadillac, Chevrolet, GMC, Chrysler, Dodge, Jeep, Ram, Ford, Lincoln, All American Racers, AM General, Anteros Coachworks, Aptera, Arcimoto, Autocar, Alpha, Bremach, Bollinger, Callaway, Canoo, Czinger, DDR Motorsport, DeLorean, Drako, Detroit Electric, E-Z-GO, Equus, EdisonFuture, Falcon Motorsports, Factory Five Racing, Faraday, Fisker, Freightliner, Gillig, Google, GEM, Hennessey, Harley Davidson, International Harvester, IC Bus, Karma, Kenworth, Lingenfelter Performance Engineering, Lordstown, Lucid, Mullen, Mack, Myers, MCI, Navistar, Nikola, Oshkosh, Panoz, Phoenix Motorcars, Peterbilt, Pierce, Polaris, Proterra, RAESR, Rezvani, Rivian, Ronn Motor Group, Rossion, Saleen, SCG, Shelby, Slate Auto, SRT, SSC, Thomas Built Buses, Tesla, Telo Trucks, Trion Supercars, VLF, Vanderhall Motor Works, Western Star, Workhorse, Xos, Inc.",
+        "sub": "United States",
+        "count": 79,
+        "list": [
+            " Buick",
+            " Cadillac",
+            " Chevrolet",
+            " GMC",
+            " Chrysler",
+            " Dodge",
+            " Jeep",
+            " Ram",
+            " Ford",
+            " Lincoln",
+            " All American Racers",
+            " AM General",
+            " Anteros Coachworks",
+            " Aptera",
+            " Arcimoto",
+            " Autocar",
+            " Alpha",
+            " Bremach",
+            " Bollinger",
+            " Callaway",
+            " Canoo",
+            " Czinger",
+            " DDR Motorsport",
+            " DeLorean",
+            " Drako",
+            " Detroit Electric",
+            " E-Z-GO",
+            " Equus",
+            " EdisonFuture",
+            " Falcon Motorsports",
+            " Factory Five Racing",
+            " Faraday",
+            " Fisker",
+            " Freightliner",
+            " Gillig",
+            " Google",
+            " GEM",
+            " Hennessey",
+            " Harley Davidson",
+            " International Harvester",
+            " IC Bus",
+            " Karma",
+            " Kenworth",
+            " Lingenfelter Performance Engineering",
+            " Lordstown",
+            " Lucid",
+            " Mullen",
+            " Mack",
+            " Myers",
+            " MCI",
+            " Navistar",
+            " Nikola",
+            " Oshkosh",
+            " Panoz",
+            " Phoenix Motorcars",
+            " Peterbilt",
+            " Pierce",
+            " Polaris",
+            " Proterra",
+            " RAESR",
+            " Rezvani",
+            " Rivian",
+            " Ronn Motor Group",
+            " Rossion",
+            " Saleen",
+            " SCG",
+            " Shelby",
+            " Slate Auto",
+            " SRT",
+            " SSC",
+            " Thomas Built Buses",
+            " Tesla",
+            " Telo Trucks",
+            " Trion Supercars",
+            " VLF",
+            " Vanderhall Motor Works",
+            " Western Star",
+            " Workhorse",
+            " Xos, Inc."
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Uruguay is/are",
+        "answer": " Effa",
+        "sub": "Uruguay",
+        "count": 1,
+        "list": [
+            " Effa"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Venezuela is/are",
+        "answer": " Venirauto",
+        "sub": "Venezuela",
+        "count": 1,
+        "list": [
+            " Venirauto"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Vietnam is/are",
+        "answer": " Mekong, SAMCO, THACO, VinFast",
+        "sub": "Vietnam",
+        "count": 4,
+        "list": [
+            " Mekong",
+            " SAMCO",
+            " THACO",
+            " VinFast"
+        ]
+    },
+    {
+        "query": "The automobile manufacturer(s) of Zimbabwe is/are",
+        "answer": " Willowvale Motor Industries",
+        "sub": "Zimbabwe",
+        "count": 1,
+        "list": [
+            " Willowvale Motor Industries"
+        ]
+    }
+]

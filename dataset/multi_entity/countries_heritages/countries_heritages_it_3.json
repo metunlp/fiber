@@ -1,0 +1,974 @@
+[
+    {
+        "query": "Quanti siti del patrimonio mondiale ha l'Albania?",
+        "answer": " 3",
+        "sub": "Albania",
+        "count": "3",
+        "list": [
+            " Butrinto",
+            " Centri storici di Berat e Gjirokastra",
+            " Antiche e Primordiali Faggete"
+        ],
+        "en_sub": "Albania"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha l'Antigua e Barbuda?",
+        "answer": " 1",
+        "sub": "Antigua e Barbuda",
+        "count": "1",
+        "list": [
+            " Antigua arsenale navale e siti archeologici correlati"
+        ],
+        "en_sub": "Antigua and Barbuda"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha l'Argentina?",
+        "answer": " 3",
+        "sub": "Argentina",
+        "count": "3",
+        "list": [
+            " Parco Nazionale Iguazú",
+            " Los Glaciares",
+            " Quebrada de Humahuaca"
+        ],
+        "en_sub": "Argentina"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha l'Armenia?",
+        "answer": " 3",
+        "sub": "Armenia",
+        "count": "3",
+        "list": [
+            " Monasteri di Haghpat e Sanahin",
+            " Monastero di Geghard",
+            " Cattedrale e Chiese di Echmiadzin e Zvartnots"
+        ],
+        "en_sub": "Armenia"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha l'Australia?",
+        "answer": " 3",
+        "sub": "Australia",
+        "count": "3",
+        "list": [
+            " Grande Barriera Corallina",
+            " Teatro dell'Opera di Sydney",
+            " Parco Nazionale Kakadu"
+        ],
+        "en_sub": "Australia"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha l'Austria?",
+        "answer": " 3",
+        "sub": "Austria",
+        "count": "3",
+        "list": [
+            " Centro Storico di Vienna",
+            " Palazzo e Giardini di Schönbrunn",
+            " Hallstatt-Dachstein / Salzkammergut"
+        ],
+        "en_sub": "Austria"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha l'Azerbaigian?",
+        "answer": " 3",
+        "sub": "Azerbaigian",
+        "count": "3",
+        "list": [
+            " Città Murata di Baku con il Palazzo degli Shirvanshah e la Torre della Fanciulla",
+            " Arte Rupestre di Gobustan",
+            " Centro Storico di Sheki con il Palazzo del Khan"
+        ],
+        "en_sub": "Azerbaijan"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Bangladesh?",
+        "answer": " 3",
+        "sub": "Bangladesh",
+        "count": "3",
+        "list": [
+            " Città moschea storica di Bagerhat",
+            " Rovine del Vihara Buddhista a Paharpur",
+            " Sundarbans"
+        ],
+        "en_sub": "Bangladesh"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Belgio?",
+        "answer": " 3",
+        "sub": "Belgio",
+        "count": "3",
+        "list": [
+            " Grand-Place, Bruxelles",
+            " Plantin-Moretus Casa-Laboratorio-Museo",
+            " Campanili del Belgio e della Francia"
+        ],
+        "en_sub": "Belgium"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Botswana?",
+        "answer": " 2",
+        "sub": "Botswana",
+        "count": "2",
+        "list": [
+            " Delta dell'Okavango",
+            " Tsodilo"
+        ],
+        "en_sub": "Botswana"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Bulgaria?",
+        "answer": " 3",
+        "sub": "Bulgaria",
+        "count": "3",
+        "list": [
+            " Chiesa di Boyana",
+            " Monastero di Rila",
+            " Antica Città di Nesebar"
+        ],
+        "en_sub": "Bulgaria"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Burkina Faso?",
+        "answer": " 3",
+        "sub": "Burkina Faso",
+        "count": "3",
+        "list": [
+            " Rovine di Loropéni",
+            " Complesso W‑Arly‑Pendjari",
+            " Antichi Siti di Metallurgia Ferrosa del Burkina Faso"
+        ],
+        "en_sub": "Burkina Faso"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Capo Verde?",
+        "answer": " 1",
+        "sub": "Capo Verde",
+        "count": "1",
+        "list": [
+            " Cidade Velha, Centro Storico di Ribeira Grande"
+        ],
+        "en_sub": "Cabo Verde"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Camerun?",
+        "answer": " 2",
+        "sub": "Camerun",
+        "count": "2",
+        "list": [
+            " Riserva faunistica Dja",
+            " Sangha Trinazionale"
+        ],
+        "en_sub": "Cameroon"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Repubblica Centrafricana?",
+        "answer": " 2",
+        "sub": "Repubblica Centrafricana",
+        "count": "2",
+        "list": [
+            " Parco Nazionale di Manovo‑Gounda St. Floris",
+            " Sangha Trinazionale"
+        ],
+        "en_sub": "Central African Republic"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Ciad?",
+        "answer": " 2",
+        "sub": "Ciad",
+        "count": "2",
+        "list": [
+            " Laghi di Ounianga",
+            " Massiccio dell'Ennedi: Paesaggio Naturale e Culturale"
+        ],
+        "en_sub": "Chad"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Costa Rica?",
+        "answer": " 3",
+        "sub": "Costa Rica",
+        "count": "3",
+        "list": [
+            " Area di Conservazione Guanacaste",
+            " Parco Nazionale Isola del Cocco",
+            " Insediamenti di cacicato precolombiani con sfere di pietra del Diquís"
+        ],
+        "en_sub": "Costa Rica"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Costa d'Avorio?",
+        "answer": " 3",
+        "sub": "Costa d'Avorio",
+        "count": "3",
+        "list": [
+            " Parco Nazionale Comoé",
+            " Monte Nimba Riserva Naturale Integrale",
+            " Parco Nazionale di Taï"
+        ],
+        "en_sub": "Côte d'Ivoire"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Cuba?",
+        "answer": " 3",
+        "sub": "Cuba",
+        "count": "3",
+        "list": [
+            " L'Avana Vecchia e il suo sistema di fortificazioni",
+            " Trinidad e la Valle de los Ingenios",
+            " Valle di Viñales"
+        ],
+        "en_sub": "Cuba"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Repubblica Ceca?",
+        "answer": " 3",
+        "sub": "Repubblica Ceca",
+        "count": "3",
+        "list": [
+            " Centro Storico di Praga",
+            " Kutná Hora: Centro Storico con la Chiesa di Santa Barbara",
+            " Paesaggio culturale di Lednice-Valtice"
+        ],
+        "en_sub": "Czechia"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Repubblica Popolare Democratica di Corea?",
+        "answer": " 3",
+        "sub": "Repubblica Popolare Democratica di Corea",
+        "count": "3",
+        "list": [
+            " Monumenti e Siti Storici a Kaesong",
+            " Complesso di Tombe Koguryo",
+            " Namhansanseong (non RPDC)"
+        ],
+        "en_sub": "Democratic People's Republic of Korea"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha l'Ecuador?",
+        "answer": " 3",
+        "sub": "Ecuador",
+        "count": "3",
+        "list": [
+            " Città di Quito",
+            " Isole Galápagos",
+            " Centro Storico di Santa Ana de los Ríos de Cuenca"
+        ],
+        "en_sub": "Ecuador"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha l'Egitto?",
+        "answer": " 3",
+        "sub": "Egitto",
+        "count": "3",
+        "list": [
+            " Il Cairo storico",
+            " Antica Tebe con la sua Necropoli",
+            " Monumenti Nubiani da Abu Simbel a File"
+        ],
+        "en_sub": "Egypt"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha l'El Salvador?",
+        "answer": " 1",
+        "sub": "El Salvador",
+        "count": "1",
+        "list": [
+            " Sito archeologico Joya de Cerén"
+        ],
+        "en_sub": "El Salvador"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha l'Eritrea?",
+        "answer": " 1",
+        "sub": "Eritrea",
+        "count": "1",
+        "list": [
+            " Asmara: una città modernista dell'Africa"
+        ],
+        "en_sub": "Eritrea"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha l'Etiopia?",
+        "answer": " 3",
+        "sub": "Etiopia",
+        "count": "3",
+        "list": [
+            " Chiese rupestri, Lalibela",
+            " Parco Nazionale del Simien",
+            " Fasil Ghebbi, Regione di Gondar"
+        ],
+        "en_sub": "Ethiopia"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Gambia?",
+        "answer": " 2",
+        "sub": "Gambia",
+        "count": "2",
+        "list": [
+            " Isola di Kunta Kinteh e Siti Correlati",
+            " Cerchi di Pietra della Senegambia"
+        ],
+        "en_sub": "Gambia"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Georgia?",
+        "answer": " 3",
+        "sub": "Georgia",
+        "count": "3",
+        "list": [
+            " Monastero Gelati",
+            " Monumenti storici di Mtskheta",
+            " Alta Svaneti"
+        ],
+        "en_sub": "Georgia"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Germania?",
+        "answer": " 3",
+        "sub": "Germania",
+        "count": "3",
+        "list": [
+            " Duomo di Colonia",
+            " Museumsinsel (Isola dei Musei), Berlino",
+            " Residenza di Würzburg con i Giardini di corte"
+        ],
+        "en_sub": "Germany"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Ghana?",
+        "answer": " 2",
+        "sub": "Ghana",
+        "count": "2",
+        "list": [
+            " Forti e Castelli, Volta, Grande Accra, Regioni Centrale e Occidentali",
+            " Edifici Tradizionali Asante"
+        ],
+        "en_sub": "Ghana"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Grecia?",
+        "answer": " 3",
+        "sub": "Grecia",
+        "count": "3",
+        "list": [
+            " Acropoli, Atene",
+            " Meteora",
+            " Sito Archeologico di Delfi"
+        ],
+        "en_sub": "Greece"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Guinea-Bissau?",
+        "answer": " 1",
+        "sub": "Guinea-Bissau",
+        "count": "1",
+        "list": [
+            " Arcipelago delle Bijagós (Riserva della Biosfera, non WHS)"
+        ],
+        "en_sub": "Guinea-Bissau"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha l'Islanda?",
+        "answer": " 3",
+        "sub": "Islanda",
+        "count": "3",
+        "list": [
+            " Parco Nazionale di Þingvellir",
+            " Surtsey",
+            " Parco Nazionale del Vatnajökull"
+        ],
+        "en_sub": "Iceland"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha l'India?",
+        "answer": " 3",
+        "sub": "India",
+        "count": "3",
+        "list": [
+            " Taj Mahal",
+            " Qutub Minar e i suoi Monumenti, Delhi",
+            " Grotte di Ajanta"
+        ],
+        "en_sub": "India"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha l'Iran (Repubblica Islamica dell')?",
+        "answer": " 3",
+        "sub": "Iran (Repubblica Islamica dell')",
+        "count": "3",
+        "list": [
+            " Persepolis",
+            " Meidan Emam, Esfahan",
+            " Palazzo del Golestan"
+        ],
+        "en_sub": "Iran (Islamic Republic of)"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha l'Iraq?",
+        "answer": " 3",
+        "sub": "Iraq",
+        "count": "3",
+        "list": [
+            " Hatra",
+            " Ashur (Qal’at Sherqat)",
+            " Città Archeologica di Samarra"
+        ],
+        "en_sub": "Iraq"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha  Israele?",
+        "answer": " 3",
+        "sub": "Israele",
+        "count": "3",
+        "list": [
+            " Masada",
+            " Città Vecchia di Acri",
+            " Città Bianca di Tel Aviv"
+        ],
+        "en_sub": "Israel"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha l'Italia?",
+        "answer": " 3",
+        "sub": "Italia",
+        "count": "3",
+        "list": [
+            " Centro Storico di Roma",
+            " Centro Storico di Firenze",
+            " Aree Archeologiche di Pompei"
+        ],
+        "en_sub": "Italy"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Kiribati?",
+        "answer": " 1",
+        "sub": "Kiribati",
+        "count": "1",
+        "list": [
+            " Area protetta delle Isole della Fenice"
+        ],
+        "en_sub": "Kiribati"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Kirghizistan?",
+        "answer": " 3",
+        "sub": "Kirghizistan",
+        "count": "3",
+        "list": [
+            " Sulayman-Too Montagna Sacra",
+            " Vie della Seta: Corridoio Chang'an-Tianshan",
+            " Tien-Shan Occidentale"
+        ],
+        "en_sub": "Kyrgyzstan"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Repubblica Democratica Popolare del Laos?",
+        "answer": " 2",
+        "sub": "Repubblica Democratica Popolare del Laos",
+        "count": "2",
+        "list": [
+            " Città di Luang Prabang",
+            " Vat Phou e Antichi Insediamenti Associati"
+        ],
+        "en_sub": "Lao People's Democratic Republic"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Lettonia?",
+        "answer": " 3",
+        "sub": "Lettonia",
+        "count": "3",
+        "list": [
+            " Centro Storico di Riga",
+            " Arco geodetico di Struve",
+            " Città Vecchia di Kuldīga"
+        ],
+        "en_sub": "Latvia"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Lesotho?",
+        "answer": " 1",
+        "sub": "Lesotho",
+        "count": "1",
+        "list": [
+            " Parco Nazionale di Sehlabathebe (Parco Maloti-Drakensberg)"
+        ],
+        "en_sub": "Lesotho"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Libia?",
+        "answer": " 3",
+        "sub": "Libia",
+        "count": "3",
+        "list": [
+            " Leptis Magna",
+            " Cirene",
+            " Sabratha"
+        ],
+        "en_sub": "Libya"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Lituania?",
+        "answer": " 3",
+        "sub": "Lituania",
+        "count": "3",
+        "list": [
+            " Penisola curlandese",
+            " Sito Archeologico di Kernavė",
+            " Centro Storico di Vilnius"
+        ],
+        "en_sub": "Lithuania"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Lussemburgo?",
+        "answer": " 1",
+        "sub": "Lussemburgo",
+        "count": "1",
+        "list": [
+            " Città di Lussemburgo: i suoi Antichi Quartieri e Fortificazioni"
+        ],
+        "en_sub": "Luxembourg"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Madagascar?",
+        "answer": " 2",
+        "sub": "Madagascar",
+        "count": "2",
+        "list": [
+            " Tsingy de Bemaraha Riserva Naturale Integrale",
+            " Collina Reale di Ambohimanga"
+        ],
+        "en_sub": "Madagascar"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Malesia?",
+        "answer": " 3",
+        "sub": "Malesia",
+        "count": "3",
+        "list": [
+            " Città Storiche degli Stretti di Malacca (Melaka e George Town)",
+            " Patrimonio Archeologico della Valle di Lenggong",
+            " Parco Nazionale Gunung Mulu"
+        ],
+        "en_sub": "Malaysia"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Mali?",
+        "answer": " 3",
+        "sub": "Mali",
+        "count": "3",
+        "list": [
+            " Città Antiche di Djenné",
+            " Timbuktu",
+            " Tomba di Askia"
+        ],
+        "en_sub": "Mali"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha le Isole Marshall?",
+        "answer": " 1",
+        "sub": "Isole Marshall",
+        "count": "1",
+        "list": [
+            " Sito di test nucleari dell'Atollo di Bikini"
+        ],
+        "en_sub": "Marshall Islands"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Micronesia (Stati Federati di)?",
+        "answer": " 1",
+        "sub": "Micronesia (Stati Federati di)",
+        "count": "1",
+        "list": [
+            " Nan Madol: Centro Cerimoniale della Micronesia Orientale"
+        ],
+        "en_sub": "Micronesia (Federated States of)"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Mongolia?",
+        "answer": " 3",
+        "sub": "Mongolia",
+        "count": "3",
+        "list": [
+            " Bacino di Uvs Nuur",
+            " Paesaggio Culturale della Valle dell'Orkhon",
+            " Complessi Petroglifici dell'Altai Mongolo"
+        ],
+        "en_sub": "Mongolia"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Namibia?",
+        "answer": " 2",
+        "sub": "Namibia",
+        "count": "2",
+        "list": [
+            " Twyfelfontein / ǀUi‑ǁAis",
+            " Mare di sabbia del Namib"
+        ],
+        "en_sub": "Namibia"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Nepal?",
+        "answer": " 3",
+        "sub": "Nepal",
+        "count": "3",
+        "list": [
+            " Valle di Kathmandu",
+            " Parco Nazionale di Chitwan",
+            " Parco Nazionale di Sagarmatha"
+        ],
+        "en_sub": "Nepal"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Nuova Zelanda?",
+        "answer": " 3",
+        "sub": "Nuova Zelanda",
+        "count": "3",
+        "list": [
+            " Te Wāhipounamu – Sud-Ovest Nuova Zelanda",
+            " Parco Nazionale di Tongariro",
+            " Isole Subantartiche"
+        ],
+        "en_sub": "New Zealand"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Nicaragua?",
+        "answer": " 2",
+        "sub": "Nicaragua",
+        "count": "2",
+        "list": [
+            " Rovine di León Viejo",
+            " Cattedrale di León"
+        ],
+        "en_sub": "Nicaragua"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Niger?",
+        "answer": " 2",
+        "sub": "Niger",
+        "count": "2",
+        "list": [
+            " Riserve Naturali dell'Aïr e del Ténéré",
+            " Parco Nazionale W del Niger"
+        ],
+        "en_sub": "Niger"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Macedonia del Nord?",
+        "answer": " 1",
+        "sub": "Macedonia del Nord",
+        "count": "1",
+        "list": [
+            " Patrimonio Naturale e Culturale della Regione di Ocrida"
+        ],
+        "en_sub": "North Macedonia"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Norvegia?",
+        "answer": " 3",
+        "sub": "Norvegia",
+        "count": "3",
+        "list": [
+            " Bryggen",
+            " Stavkirke di Urnes",
+            " Sito del patrimonio industriale di Rjukan-Notodden"
+        ],
+        "en_sub": "Norway"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Palau?",
+        "answer": " 1",
+        "sub": "Palau",
+        "count": "1",
+        "list": [
+            " Isole Rock Laguna Meridionale"
+        ],
+        "en_sub": "Palau"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Papua Nuova Guinea?",
+        "answer": " 1",
+        "sub": "Papua Nuova Guinea",
+        "count": "1",
+        "list": [
+            " Sito Agricolo Precoce di Kuk"
+        ],
+        "en_sub": "Papua New Guinea"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Perù?",
+        "answer": " 3",
+        "sub": "Perù",
+        "count": "3",
+        "list": [
+            " Santuario Storico di Machu Picchu",
+            " Città di Cuzco",
+            " Zona Archeologica di Chan Chan"
+        ],
+        "en_sub": "Peru"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Filippine?",
+        "answer": " 3",
+        "sub": "Filippine",
+        "count": "3",
+        "list": [
+            " Chiese Barocche delle Filippine",
+            " Città Storica di Vigan",
+            " Terrazze di riso delle Cordigliere Filippine"
+        ],
+        "en_sub": "Philippines"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Polonia?",
+        "answer": " 3",
+        "sub": "Polonia",
+        "count": "3",
+        "list": [
+            " Centro Storico di Cracovia",
+            " Auschwitz Birkenau",
+            " Miniere di Sale Reali di Wieliczka e Bochnia"
+        ],
+        "en_sub": "Poland"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Repubblica di Corea?",
+        "answer": " 3",
+        "sub": "Repubblica di Corea",
+        "count": "3",
+        "list": [
+            " Complesso del Palazzo Changdeokgung",
+            " Tempio Bulguksa e Grotta Seokguram",
+            " Villaggi Storici di Hahoe e Yangdong"
+        ],
+        "en_sub": "Republic of Korea"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Romania?",
+        "answer": " 3",
+        "sub": "Romania",
+        "count": "3",
+        "list": [
+            " Chiese della Moldavia",
+            " Fortezze Daciche dei Monti Orăștie",
+            " Villaggi con Chiese Fortificate in Transilvania"
+        ],
+        "en_sub": "Romania"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Santa Lucia?",
+        "answer": " 1",
+        "sub": "Santa Lucia",
+        "count": "1",
+        "list": [
+            " Area di Gestione dei Pitons"
+        ],
+        "en_sub": "Saint Lucia"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il San Marino?",
+        "answer": " 1",
+        "sub": "San Marino",
+        "count": "1",
+        "list": [
+            " Centro Storico di San Marino e Monte Titano"
+        ],
+        "en_sub": "San Marino"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Serbia?",
+        "answer": " 3",
+        "sub": "Serbia",
+        "count": "3",
+        "list": [
+            " Monastero di Studenica",
+            " Gamzigrad‑Romuliana, Palazzo di Galerio",
+            " Monumenti Medievali in Kosovo"
+        ],
+        "en_sub": "Serbia"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha lo Slovenia?",
+        "answer": " 3",
+        "sub": "Slovenia",
+        "count": "3",
+        "list": [
+            " Grotte di Škocjan",
+            " Antiche e Primordiali Faggete",
+            " Miniera di Mercurio di Idrija"
+        ],
+        "en_sub": "Slovenia"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha le Isole Salomone?",
+        "answer": " 1",
+        "sub": "Isole Salomone",
+        "count": "1",
+        "list": [
+            " Est Rennell"
+        ],
+        "en_sub": "Solomon Islands"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha lo Sri Lanka?",
+        "answer": " 3",
+        "sub": "Sri Lanka",
+        "count": "3",
+        "list": [
+            " Antica Città di Sigiriya",
+            " Città Sacra di Kandy",
+            " Città Vecchia di Galle e le sue Fortificazioni"
+        ],
+        "en_sub": "Sri Lanka"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha lo Stato di Palestina?",
+        "answer": " 3",
+        "sub": "Stato di Palestina",
+        "count": "3",
+        "list": [
+            " Luogo di nascita di Gesù: Chiesa della Natività e la Via di Pellegrinaggio",
+            " Hebron/Al-Khalil Centro Storico",
+            " Paesaggio Culturale di Gerusalemme Meridionale, Battir"
+        ],
+        "en_sub": "State of Palestine"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Togo?",
+        "answer": " 1",
+        "sub": "Togo",
+        "count": "1",
+        "list": [
+            " Koutammakou, la Terra dei Batammariba"
+        ],
+        "en_sub": "Togo"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Tunisia?",
+        "answer": " 3",
+        "sub": "Tunisia",
+        "count": "3",
+        "list": [
+            " Anfiteatro di El Jem",
+            " Sito Archeologico di Cartagine",
+            " Medina di Tunisi"
+        ],
+        "en_sub": "Tunisia"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha la Turchia?",
+        "answer": " 3",
+        "sub": "Turchia",
+        "count": "3",
+        "list": [
+            " Parco Nazionale di Göreme e i Siti Rupestri della Cappadocia",
+            " Aree Storiche di Istanbul",
+            " Hattusa: la Capitale Ittita"
+        ],
+        "en_sub": "Türkiye"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Turkmenistan?",
+        "answer": " 3",
+        "sub": "Turkmenistan",
+        "count": "3",
+        "list": [
+            " Antica Merv",
+            " Kunya‑Urgench",
+            " Fortezze Partiche di Nisa"
+        ],
+        "en_sub": "Turkmenistan"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha l'Ucraina?",
+        "answer": " 3",
+        "sub": "Ucraina",
+        "count": "3",
+        "list": [
+            " Kyiv: Cattedrale di Santa Sofia e i relativi edifici monastici",
+            " L’viv – il Complesso del Centro Storico",
+            " Antica Città del Chersoneso Taurico"
+        ],
+        "en_sub": "Ukraine"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha gli Emirati Arabi Uniti?",
+        "answer": " 2",
+        "sub": "Emirati Arabi Uniti",
+        "count": "2",
+        "list": [
+            " Siti Culturali di Al Ain (Hafit, Hili, Bidaa Bint Saud e Aree Oasi)",
+            " Antichi Sistemi di Irrigazione Filaj (parte di Al Ain)"
+        ],
+        "en_sub": "United Arab Emirates"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha gli Stati Uniti d'America?",
+        "answer": " 3",
+        "sub": "Stati Uniti d'America",
+        "count": "3",
+        "list": [
+            " Statua della Libertà",
+            " Parco nazionale del Grand Canyon",
+            " Sala dell'Indipendenza"
+        ],
+        "en_sub": "United States of America"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha l'Uruguay?",
+        "answer": " 2",
+        "sub": "Uruguay",
+        "count": "2",
+        "list": [
+            " Quartiere Storico della Città di Colonia del Sacramento",
+            " Paesaggio Industriale di Fray Bentos"
+        ],
+        "en_sub": "Uruguay"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha l'Uzbekistan?",
+        "answer": " 3",
+        "sub": "Uzbekistan",
+        "count": "3",
+        "list": [
+            " Itchan Kala",
+            " Centro Storico di Bukhara",
+            " Samarcanda – Incrocio di Culture"
+        ],
+        "en_sub": "Uzbekistan"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Venezuela (Repubblica Bolivariana di)?",
+        "answer": " 2",
+        "sub": "Venezuela (Repubblica Bolivariana di)",
+        "count": "2",
+        "list": [
+            " Coro e il suo Porto",
+            " Parco Nazionale Canaima"
+        ],
+        "en_sub": "Venezuela (Bolivarian Republic of)"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha il Vietnam?",
+        "answer": " 3",
+        "sub": "Vietnam",
+        "count": "3",
+        "list": [
+            " Complesso dei Monumenti di Hué",
+            " Baia di Hạ Long",
+            " Città Antica di Hội An"
+        ],
+        "en_sub": "Viet Nam"
+    },
+    {
+        "query": "Quanti siti del patrimonio mondiale ha lo Yemen?",
+        "answer": " 3",
+        "sub": "Yemen",
+        "count": "3",
+        "list": [
+            " Antica Città Murata di Shibam",
+            " Città Vecchia di Sana'a",
+            " Città storica di Zabid"
+        ],
+        "en_sub": "Yemen"
+    }
+]

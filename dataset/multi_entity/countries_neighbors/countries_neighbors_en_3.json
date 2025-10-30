@@ -1,0 +1,927 @@
+[
+    {
+        "query": "How many neighbors does Albania have?",
+        "answer": " 4",
+        "sub": "Albania",
+        "count": 4,
+        "list": [
+            " Greece",
+            " Kosovo",
+            " North Macedonia",
+            " Montenegro"
+        ]
+    },
+    {
+        "query": "How many neighbors does Argentina have?",
+        "answer": " 5",
+        "sub": "Argentina",
+        "count": 5,
+        "list": [
+            " Bolivia",
+            " Brazil",
+            " Chile",
+            " Paraguay",
+            " Uruguay"
+        ]
+    },
+    {
+        "query": "How many neighbors does Armenia have?",
+        "answer": " 4",
+        "sub": "Armenia",
+        "count": 4,
+        "list": [
+            " Azerbaijan",
+            " Georgia",
+            " Iran",
+            " Turkey"
+        ]
+    },
+    {
+        "query": "How many neighbors does Austria have?",
+        "answer": " 8",
+        "sub": "Austria",
+        "count": 8,
+        "list": [
+            " Czechia",
+            " Germany",
+            " Hungary",
+            " Italy",
+            " Liechtenstein",
+            " Slovakia",
+            " Slovenia",
+            " Switzerland"
+        ]
+    },
+    {
+        "query": "How many neighbors does Azerbaijan have?",
+        "answer": " 5",
+        "sub": "Azerbaijan",
+        "count": 5,
+        "list": [
+            " Armenia",
+            " Georgia",
+            " Iran",
+            " Russia",
+            " Turkey"
+        ]
+    },
+    {
+        "query": "How many neighbors does Bangladesh have?",
+        "answer": " 2",
+        "sub": "Bangladesh",
+        "count": 2,
+        "list": [
+            " India",
+            " Myanmar"
+        ]
+    },
+    {
+        "query": "How many neighbors does Belarus have?",
+        "answer": " 5",
+        "sub": "Belarus",
+        "count": 5,
+        "list": [
+            " Latvia",
+            " Lithuania",
+            " Poland",
+            " Russia",
+            " Ukraine"
+        ]
+    },
+    {
+        "query": "How many neighbors does Belgium have?",
+        "answer": " 4",
+        "sub": "Belgium",
+        "count": 4,
+        "list": [
+            " France",
+            " Germany",
+            " Luxembourg",
+            " Netherlands"
+        ]
+    },
+    {
+        "query": "How many neighbors does Belize have?",
+        "answer": " 2",
+        "sub": "Belize",
+        "count": 2,
+        "list": [
+            " Guatemala",
+            " Mexico"
+        ]
+    },
+    {
+        "query": "How many neighbors does Benin have?",
+        "answer": " 4",
+        "sub": "Benin",
+        "count": 4,
+        "list": [
+            " Burkina Faso",
+            " Niger",
+            " Nigeria",
+            " Togo"
+        ]
+    },
+    {
+        "query": "How many neighbors does Bolivia have?",
+        "answer": " 5",
+        "sub": "Bolivia",
+        "count": 5,
+        "list": [
+            " Argentina",
+            " Brazil",
+            " Chile",
+            " Paraguay",
+            " Peru"
+        ]
+    },
+    {
+        "query": "How many neighbors does Brunei have?",
+        "answer": " 1",
+        "sub": "Brunei",
+        "count": 1,
+        "list": [
+            " Malaysia"
+        ]
+    },
+    {
+        "query": "How many neighbors does Bulgaria have?",
+        "answer": " 5",
+        "sub": "Bulgaria",
+        "count": 5,
+        "list": [
+            " Greece",
+            " North Macedonia",
+            " Romania",
+            " Serbia",
+            " Turkey"
+        ]
+    },
+    {
+        "query": "How many neighbors does Burundi have?",
+        "answer": " 3",
+        "sub": "Burundi",
+        "count": 3,
+        "list": [
+            " Democratic Republic of the Congo",
+            " Rwanda",
+            " Tanzania"
+        ]
+    },
+    {
+        "query": "How many neighbors does Cambodia have?",
+        "answer": " 3",
+        "sub": "Cambodia",
+        "count": 3,
+        "list": [
+            " Laos",
+            " Thailand",
+            " Vietnam"
+        ]
+    },
+    {
+        "query": "How many neighbors does Cameroon have?",
+        "answer": " 6",
+        "sub": "Cameroon",
+        "count": 6,
+        "list": [
+            " Central African Republic",
+            " Chad",
+            " Republic of the Congo",
+            " Equatorial Guinea",
+            " Gabon",
+            " Nigeria"
+        ]
+    },
+    {
+        "query": "How many neighbors does Central African Republic have?",
+        "answer": " 6",
+        "sub": "Central African Republic",
+        "count": 6,
+        "list": [
+            " Cameroon",
+            " Chad",
+            " Republic of the Congo",
+            " Democratic Republic of the Congo",
+            " South Sudan",
+            " Sudan"
+        ]
+    },
+    {
+        "query": "How many neighbors does Chad have?",
+        "answer": " 6",
+        "sub": "Chad",
+        "count": 6,
+        "list": [
+            " Cameroon",
+            " Central African Republic",
+            " Libya",
+            " Niger",
+            " Nigeria",
+            " Sudan"
+        ]
+    },
+    {
+        "query": "How many neighbors does Chile have?",
+        "answer": " 3",
+        "sub": "Chile",
+        "count": 3,
+        "list": [
+            " Argentina",
+            " Bolivia",
+            " Peru"
+        ]
+    },
+    {
+        "query": "How many neighbors does China have?",
+        "answer": " 14",
+        "sub": "China",
+        "count": 14,
+        "list": [
+            " Afghanistan",
+            " Bhutan",
+            " India",
+            " Kazakhstan",
+            " Kyrgyzstan",
+            " Laos",
+            " Mongolia",
+            " Myanmar",
+            " Nepal",
+            " North Korea",
+            " Pakistan",
+            " Russia",
+            " Tajikistan",
+            " Vietnam"
+        ]
+    },
+    {
+        "query": "How many neighbors does Costa Rica have?",
+        "answer": " 2",
+        "sub": "Costa Rica",
+        "count": 2,
+        "list": [
+            " Nicaragua",
+            " Panama"
+        ]
+    },
+    {
+        "query": "How many neighbors does Croatia have?",
+        "answer": " 5",
+        "sub": "Croatia",
+        "count": 5,
+        "list": [
+            " Bosnia and Herzegovina",
+            " Hungary",
+            " Montenegro",
+            " Serbia",
+            " Slovenia"
+        ]
+    },
+    {
+        "query": "How many neighbors does Czechia have?",
+        "answer": " 4",
+        "sub": "Czechia",
+        "count": 4,
+        "list": [
+            " Austria",
+            " Germany",
+            " Poland",
+            " Slovakia"
+        ]
+    },
+    {
+        "query": "How many neighbors does Djibouti have?",
+        "answer": " 3",
+        "sub": "Djibouti",
+        "count": 3,
+        "list": [
+            " Eritrea",
+            " Ethiopia",
+            " Somalia"
+        ]
+    },
+    {
+        "query": "How many neighbors does Ecuador have?",
+        "answer": " 2",
+        "sub": "Ecuador",
+        "count": 2,
+        "list": [
+            " Colombia",
+            " Peru"
+        ]
+    },
+    {
+        "query": "How many neighbors does Equatorial Guinea have?",
+        "answer": " 2",
+        "sub": "Equatorial Guinea",
+        "count": 2,
+        "list": [
+            " Cameroon",
+            " Gabon"
+        ]
+    },
+    {
+        "query": "How many neighbors does Eritrea have?",
+        "answer": " 3",
+        "sub": "Eritrea",
+        "count": 3,
+        "list": [
+            " Djibouti",
+            " Ethiopia",
+            " Sudan"
+        ]
+    },
+    {
+        "query": "How many neighbors does Estonia have?",
+        "answer": " 2",
+        "sub": "Estonia",
+        "count": 2,
+        "list": [
+            " Latvia",
+            " Russia"
+        ]
+    },
+    {
+        "query": "How many neighbors does Eswatini have?",
+        "answer": " 2",
+        "sub": "Eswatini",
+        "count": 2,
+        "list": [
+            " Mozambique",
+            " South Africa"
+        ]
+    },
+    {
+        "query": "How many neighbors does Ethiopia have?",
+        "answer": " 6",
+        "sub": "Ethiopia",
+        "count": 6,
+        "list": [
+            " Djibouti",
+            " Eritrea",
+            " Kenya",
+            " Somalia",
+            " South Sudan",
+            " Sudan"
+        ]
+    },
+    {
+        "query": "How many neighbors does Finland have?",
+        "answer": " 3",
+        "sub": "Finland",
+        "count": 3,
+        "list": [
+            " Norway",
+            " Russia",
+            " Sweden"
+        ]
+    },
+    {
+        "query": "How many neighbors does Gabon have?",
+        "answer": " 3",
+        "sub": "Gabon",
+        "count": 3,
+        "list": [
+            " Cameroon",
+            " Republic of the Congo",
+            " Equatorial Guinea"
+        ]
+    },
+    {
+        "query": "How many neighbors does Greece have?",
+        "answer": " 4",
+        "sub": "Greece",
+        "count": 4,
+        "list": [
+            " Albania",
+            " Bulgaria",
+            " North Macedonia",
+            " Turkey"
+        ]
+    },
+    {
+        "query": "How many neighbors does Guatemala have?",
+        "answer": " 4",
+        "sub": "Guatemala",
+        "count": 4,
+        "list": [
+            " Belize",
+            " El Salvador",
+            " Honduras",
+            " Mexico"
+        ]
+    },
+    {
+        "query": "How many neighbors does Guinea have?",
+        "answer": " 6",
+        "sub": "Guinea",
+        "count": 6,
+        "list": [
+            " Ivory Coast",
+            " Guinea-Bissau",
+            " Liberia",
+            " Mali",
+            " Senegal",
+            " Sierra Leone"
+        ]
+    },
+    {
+        "query": "How many neighbors does Guinea-Bissau have?",
+        "answer": " 2",
+        "sub": "Guinea-Bissau",
+        "count": 2,
+        "list": [
+            " Guinea",
+            " Senegal"
+        ]
+    },
+    {
+        "query": "How many neighbors does Guyana have?",
+        "answer": " 3",
+        "sub": "Guyana",
+        "count": 3,
+        "list": [
+            " Brazil",
+            " Suriname",
+            " Venezuela"
+        ]
+    },
+    {
+        "query": "How many neighbors does Hungary have?",
+        "answer": " 7",
+        "sub": "Hungary",
+        "count": 7,
+        "list": [
+            " Austria",
+            " Croatia",
+            " Romania",
+            " Serbia",
+            " Slovakia",
+            " Slovenia",
+            " Ukraine"
+        ]
+    },
+    {
+        "query": "How many neighbors does Israel have?",
+        "answer": " 6",
+        "sub": "Israel",
+        "count": 6,
+        "list": [
+            " Egypt",
+            " Jordan",
+            " Lebanon",
+            " Syria",
+            " Palestine (West Bank)",
+            " Palestine (Gaza Strip)"
+        ]
+    },
+    {
+        "query": "How many neighbors does Italy have?",
+        "answer": " 6",
+        "sub": "Italy",
+        "count": 6,
+        "list": [
+            " Austria",
+            " France",
+            " San Marino",
+            " Slovenia",
+            " Switzerland",
+            " Vatican City"
+        ]
+    },
+    {
+        "query": "How many neighbors does Kazakhstan have?",
+        "answer": " 5",
+        "sub": "Kazakhstan",
+        "count": 5,
+        "list": [
+            " China",
+            " Kyrgyzstan",
+            " Russia",
+            " Turkmenistan",
+            " Uzbekistan"
+        ]
+    },
+    {
+        "query": "How many neighbors does Kenya have?",
+        "answer": " 5",
+        "sub": "Kenya",
+        "count": 5,
+        "list": [
+            " Ethiopia",
+            " Somalia",
+            " South Sudan",
+            " Tanzania",
+            " Uganda"
+        ]
+    },
+    {
+        "query": "How many neighbors does Kuwait have?",
+        "answer": " 2",
+        "sub": "Kuwait",
+        "count": 2,
+        "list": [
+            " Iraq",
+            " Saudi Arabia"
+        ]
+    },
+    {
+        "query": "How many neighbors does Lebanon have?",
+        "answer": " 2",
+        "sub": "Lebanon",
+        "count": 2,
+        "list": [
+            " Israel",
+            " Syria"
+        ]
+    },
+    {
+        "query": "How many neighbors does Liberia have?",
+        "answer": " 3",
+        "sub": "Liberia",
+        "count": 3,
+        "list": [
+            " Guinea",
+            " Ivory Coast",
+            " Sierra Leone"
+        ]
+    },
+    {
+        "query": "How many neighbors does Libya have?",
+        "answer": " 6",
+        "sub": "Libya",
+        "count": 6,
+        "list": [
+            " Algeria",
+            " Chad",
+            " Egypt",
+            " Niger",
+            " Sudan",
+            " Tunisia"
+        ]
+    },
+    {
+        "query": "How many neighbors does Liechtenstein have?",
+        "answer": " 2",
+        "sub": "Liechtenstein",
+        "count": 2,
+        "list": [
+            " Austria",
+            " Switzerland"
+        ]
+    },
+    {
+        "query": "How many neighbors does Malawi have?",
+        "answer": " 3",
+        "sub": "Malawi",
+        "count": 3,
+        "list": [
+            " Mozambique",
+            " Tanzania",
+            " Zambia"
+        ]
+    },
+    {
+        "query": "How many neighbors does Mauritania have?",
+        "answer": " 4",
+        "sub": "Mauritania",
+        "count": 4,
+        "list": [
+            " Algeria",
+            " Mali",
+            " Senegal",
+            " Western Sahara"
+        ]
+    },
+    {
+        "query": "How many neighbors does Monaco have?",
+        "answer": " 1",
+        "sub": "Monaco",
+        "count": 1,
+        "list": [
+            " France"
+        ]
+    },
+    {
+        "query": "How many neighbors does Morocco have?",
+        "answer": " 2",
+        "sub": "Morocco",
+        "count": 2,
+        "list": [
+            " Algeria",
+            " Western Sahara"
+        ]
+    },
+    {
+        "query": "How many neighbors does Nepal have?",
+        "answer": " 2",
+        "sub": "Nepal",
+        "count": 2,
+        "list": [
+            " China",
+            " India"
+        ]
+    },
+    {
+        "query": "How many neighbors does Niger have?",
+        "answer": " 7",
+        "sub": "Niger",
+        "count": 7,
+        "list": [
+            " Algeria",
+            " Benin",
+            " Burkina Faso",
+            " Chad",
+            " Libya",
+            " Mali",
+            " Nigeria"
+        ]
+    },
+    {
+        "query": "How many neighbors does North Macedonia have?",
+        "answer": " 5",
+        "sub": "North Macedonia",
+        "count": 5,
+        "list": [
+            " Albania",
+            " Bulgaria",
+            " Greece",
+            " Kosovo",
+            " Serbia"
+        ]
+    },
+    {
+        "query": "How many neighbors does Oman have?",
+        "answer": " 3",
+        "sub": "Oman",
+        "count": 3,
+        "list": [
+            " Saudi Arabia",
+            " United Arab Emirates",
+            " Yemen"
+        ]
+    },
+    {
+        "query": "How many neighbors does Pakistan have?",
+        "answer": " 4",
+        "sub": "Pakistan",
+        "count": 4,
+        "list": [
+            " Afghanistan",
+            " China",
+            " India",
+            " Iran"
+        ]
+    },
+    {
+        "query": "How many neighbors does Palestine have?",
+        "answer": " 3",
+        "sub": "Palestine",
+        "count": 3,
+        "list": [
+            " Egypt",
+            " Israel",
+            " Jordan"
+        ]
+    },
+    {
+        "query": "How many neighbors does Panama have?",
+        "answer": " 2",
+        "sub": "Panama",
+        "count": 2,
+        "list": [
+            " Colombia",
+            " Costa Rica"
+        ]
+    },
+    {
+        "query": "How many neighbors does Papua New Guinea have?",
+        "answer": " 1",
+        "sub": "Papua New Guinea",
+        "count": 1,
+        "list": [
+            " Indonesia"
+        ]
+    },
+    {
+        "query": "How many neighbors does Paraguay have?",
+        "answer": " 3",
+        "sub": "Paraguay",
+        "count": 3,
+        "list": [
+            " Argentina",
+            " Bolivia",
+            " Brazil"
+        ]
+    },
+    {
+        "query": "How many neighbors does Peru have?",
+        "answer": " 5",
+        "sub": "Peru",
+        "count": 5,
+        "list": [
+            " Bolivia",
+            " Brazil",
+            " Chile",
+            " Colombia",
+            " Ecuador"
+        ]
+    },
+    {
+        "query": "How many neighbors does Poland have?",
+        "answer": " 7",
+        "sub": "Poland",
+        "count": 7,
+        "list": [
+            " Belarus",
+            " Czechia",
+            " Germany",
+            " Lithuania",
+            " Russia",
+            " Slovakia",
+            " Ukraine"
+        ]
+    },
+    {
+        "query": "How many neighbors does Qatar have?",
+        "answer": " 1",
+        "sub": "Qatar",
+        "count": 1,
+        "list": [
+            " Saudi Arabia"
+        ]
+    },
+    {
+        "query": "How many neighbors does Rwanda have?",
+        "answer": " 4",
+        "sub": "Rwanda",
+        "count": 4,
+        "list": [
+            " Burundi",
+            " Democratic Republic of the Congo",
+            " Tanzania",
+            " Uganda"
+        ]
+    },
+    {
+        "query": "How many neighbors does San Marino have?",
+        "answer": " 1",
+        "sub": "San Marino",
+        "count": 1,
+        "list": [
+            " Italy"
+        ]
+    },
+    {
+        "query": "How many neighbors does Saudi Arabia have?",
+        "answer": " 7",
+        "sub": "Saudi Arabia",
+        "count": 7,
+        "list": [
+            " Iraq",
+            " Jordan",
+            " Kuwait",
+            " Oman",
+            " Qatar",
+            " United Arab Emirates",
+            " Yemen"
+        ]
+    },
+    {
+        "query": "How many neighbors does Sierra Leone have?",
+        "answer": " 2",
+        "sub": "Sierra Leone",
+        "count": 2,
+        "list": [
+            " Guinea",
+            " Liberia"
+        ]
+    },
+    {
+        "query": "How many neighbors does Spain have?",
+        "answer": " 5",
+        "sub": "Spain",
+        "count": 5,
+        "list": [
+            " Andorra",
+            " France",
+            " Gibraltar",
+            " Portugal",
+            " Morocco"
+        ]
+    },
+    {
+        "query": "How many neighbors does Sweden have?",
+        "answer": " 2",
+        "sub": "Sweden",
+        "count": 2,
+        "list": [
+            " Finland",
+            " Norway"
+        ]
+    },
+    {
+        "query": "How many neighbors does Togo have?",
+        "answer": " 3",
+        "sub": "Togo",
+        "count": 3,
+        "list": [
+            " Benin",
+            " Burkina Faso",
+            " Ghana"
+        ]
+    },
+    {
+        "query": "How many neighbors does Tunisia have?",
+        "answer": " 2",
+        "sub": "Tunisia",
+        "count": 2,
+        "list": [
+            " Algeria",
+            " Libya"
+        ]
+    },
+    {
+        "query": "How many neighbors does Turkey have?",
+        "answer": " 8",
+        "sub": "Turkey",
+        "count": 8,
+        "list": [
+            " Armenia",
+            " Azerbaijan",
+            " Bulgaria",
+            " Georgia",
+            " Greece",
+            " Iran",
+            " Iraq",
+            " Syria"
+        ]
+    },
+    {
+        "query": "How many neighbors does United Arab Emirates have?",
+        "answer": " 2",
+        "sub": "United Arab Emirates",
+        "count": 2,
+        "list": [
+            " Oman",
+            " Saudi Arabia"
+        ]
+    },
+    {
+        "query": "How many neighbors does United Kingdom have?",
+        "answer": " 1",
+        "sub": "United Kingdom",
+        "count": 1,
+        "list": [
+            " Ireland"
+        ]
+    },
+    {
+        "query": "How many neighbors does Uzbekistan have?",
+        "answer": " 5",
+        "sub": "Uzbekistan",
+        "count": 5,
+        "list": [
+            " Afghanistan",
+            " Kazakhstan",
+            " Kyrgyzstan",
+            " Tajikistan",
+            " Turkmenistan"
+        ]
+    },
+    {
+        "query": "How many neighbors does Vatican City have?",
+        "answer": " 1",
+        "sub": "Vatican City",
+        "count": 1,
+        "list": [
+            " Italy"
+        ]
+    },
+    {
+        "query": "How many neighbors does Yemen have?",
+        "answer": " 2",
+        "sub": "Yemen",
+        "count": 2,
+        "list": [
+            " Oman",
+            " Saudi Arabia"
+        ]
+    },
+    {
+        "query": "How many neighbors does Zambia have?",
+        "answer": " 8",
+        "sub": "Zambia",
+        "count": 8,
+        "list": [
+            " Angola",
+            " Botswana",
+            " Democratic Republic of the Congo",
+            " Malawi",
+            " Mozambique",
+            " Namibia",
+            " Tanzania",
+            " Zimbabwe"
+        ]
+    }
+]

@@ -1,0 +1,1157 @@
+[
+    {
+        "query": "The number of time zones of Albania is",
+        "answer": " 1",
+        "sub": "Albania",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Antarctica is",
+        "answer": " 8",
+        "sub": "Antarctica",
+        "count": "8",
+        "list": [
+            " UTC+02:00",
+            " UTC+03:00",
+            " UTC-03:00",
+            " UTC+05:00",
+            " UTC+07:00",
+            " UTC+08:00",
+            " UTC+10:00",
+            " UTC+12:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Antigua & Barbuda is",
+        "answer": " 1",
+        "sub": "Antigua & Barbuda",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Argentina is",
+        "answer": " 1",
+        "sub": "Argentina",
+        "count": "1",
+        "list": [
+            " UTC-03:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Australia is",
+        "answer": " 7",
+        "sub": "Australia",
+        "count": "7",
+        "list": [
+            " UTC+08:00",
+            " UTC+09:30",
+            " UTC+09:30",
+            " UTC+10:00",
+            " UTC+10:00",
+            " UTC+10:30",
+            " UTC+11:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Bahamas is",
+        "answer": " 1",
+        "sub": "Bahamas",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Bangladesh is",
+        "answer": " 1",
+        "sub": "Bangladesh",
+        "count": "1",
+        "list": [
+            " UTC+06:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Barbados is",
+        "answer": " 1",
+        "sub": "Barbados",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Belarus is",
+        "answer": " 1",
+        "sub": "Belarus",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Belize is",
+        "answer": " 1",
+        "sub": "Belize",
+        "count": "1",
+        "list": [
+            " UTC-06:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Bermuda is",
+        "answer": " 1",
+        "sub": "Bermuda",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Bhutan is",
+        "answer": " 1",
+        "sub": "Bhutan",
+        "count": "1",
+        "list": [
+            " UTC+06:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Bolivia is",
+        "answer": " 1",
+        "sub": "Bolivia",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Bosnia & Herzegovina is",
+        "answer": " 1",
+        "sub": "Bosnia & Herzegovina",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Botswana is",
+        "answer": " 1",
+        "sub": "Botswana",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Brazil is",
+        "answer": " 6",
+        "sub": "Brazil",
+        "count": "6",
+        "list": [
+            " UTC-02:00",
+            " UTC-03:00",
+            " UTC:-03:00",
+            " UTC-04:00",
+            " UTC-04:00",
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Brunei is",
+        "answer": " 1",
+        "sub": "Brunei",
+        "count": "1",
+        "list": [
+            " UTC+08:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Cambodia is",
+        "answer": " 1",
+        "sub": "Cambodia",
+        "count": "1",
+        "list": [
+            " UTC+07:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Cameroon is",
+        "answer": " 1",
+        "sub": "Cameroon",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Caribbean NL is",
+        "answer": " 1",
+        "sub": "Caribbean NL",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Cayman Islands is",
+        "answer": " 1",
+        "sub": "Cayman Islands",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Central African Rep. is",
+        "answer": " 1",
+        "sub": "Central African Rep.",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Chile is",
+        "answer": " 3",
+        "sub": "Chile",
+        "count": "3",
+        "list": [
+            " UTC-03:00",
+            " UTC-04:00",
+            " UTC-06:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Congo (Dem. Rep.) is",
+        "answer": " 2",
+        "sub": "Congo (Dem. Rep.)",
+        "count": "2",
+        "list": [
+            " UTC+01:00",
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Congo (Rep.) is",
+        "answer": " 1",
+        "sub": "Congo (Rep.)",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Cook Islands is",
+        "answer": " 1",
+        "sub": "Cook Islands",
+        "count": "1",
+        "list": [
+            " UTC-10:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Croatia is",
+        "answer": " 1",
+        "sub": "Croatia",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Cuba is",
+        "answer": " 1",
+        "sub": "Cuba",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Curaçao is",
+        "answer": " 1",
+        "sub": "Curaçao",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Cyprus is",
+        "answer": " 1",
+        "sub": "Cyprus",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Czech Republic is",
+        "answer": " 1",
+        "sub": "Czech Republic",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Côte d'Ivoire is",
+        "answer": " 1",
+        "sub": "Côte d'Ivoire",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Denmark is",
+        "answer": " 1",
+        "sub": "Denmark",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Dominican Republic is",
+        "answer": " 1",
+        "sub": "Dominican Republic",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of East Timor is",
+        "answer": " 1",
+        "sub": "East Timor",
+        "count": "1",
+        "list": [
+            " UTC+09:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Equatorial Guinea is",
+        "answer": " 1",
+        "sub": "Equatorial Guinea",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Eritrea is",
+        "answer": " 1",
+        "sub": "Eritrea",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Estonia is",
+        "answer": " 1",
+        "sub": "Estonia",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Eswatini (Swaziland) is",
+        "answer": " 1",
+        "sub": "Eswatini (Swaziland)",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Ethiopia is",
+        "answer": " 1",
+        "sub": "Ethiopia",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Fiji is",
+        "answer": " 1",
+        "sub": "Fiji",
+        "count": "1",
+        "list": [
+            " UTC+12:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Finland is",
+        "answer": " 1",
+        "sub": "Finland",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Gabon is",
+        "answer": " 1",
+        "sub": "Gabon",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Germany is",
+        "answer": " 1",
+        "sub": "Germany",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Greece is",
+        "answer": " 1",
+        "sub": "Greece",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Greenland is",
+        "answer": " 4",
+        "sub": "Greenland",
+        "count": "4",
+        "list": [
+            " UTC+00:00",
+            " UTC-01:00",
+            " UTC-04:00",
+            " UTC-03:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Grenada is",
+        "answer": " 1",
+        "sub": "Grenada",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Guam is",
+        "answer": " 1",
+        "sub": "Guam",
+        "count": "1",
+        "list": [
+            " UTC+10:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Guatemala is",
+        "answer": " 1",
+        "sub": "Guatemala",
+        "count": "1",
+        "list": [
+            " UTC-06:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Guernsey is",
+        "answer": " 1",
+        "sub": "Guernsey",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Guinea is",
+        "answer": " 1",
+        "sub": "Guinea",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Guinea-Bissau is",
+        "answer": " 1",
+        "sub": "Guinea-Bissau",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Haiti is",
+        "answer": " 1",
+        "sub": "Haiti",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Heard Island & McDonald Islands is",
+        "answer": " 1",
+        "sub": "Heard Island & McDonald Islands",
+        "count": "1",
+        "list": [
+            " UTC+04:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Iceland is",
+        "answer": " 1",
+        "sub": "Iceland",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of India is",
+        "answer": " 1",
+        "sub": "India",
+        "count": "1",
+        "list": [
+            " UTC+05:30"
+        ]
+    },
+    {
+        "query": "The number of time zones of Isle of Man is",
+        "answer": " 1",
+        "sub": "Isle of Man",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Israel is",
+        "answer": " 1",
+        "sub": "Israel",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Italy is",
+        "answer": " 1",
+        "sub": "Italy",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Jamaica is",
+        "answer": " 1",
+        "sub": "Jamaica",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Kenya is",
+        "answer": " 1",
+        "sub": "Kenya",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Korea (North) is",
+        "answer": " 1",
+        "sub": "Korea (North)",
+        "count": "1",
+        "list": [
+            " UTC+09:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Korea (South) is",
+        "answer": " 1",
+        "sub": "Korea (South)",
+        "count": "1",
+        "list": [
+            " UTC+09:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Kuwait is",
+        "answer": " 1",
+        "sub": "Kuwait",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Lithuania is",
+        "answer": " 1",
+        "sub": "Lithuania",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Macau is",
+        "answer": " 1",
+        "sub": "Macau",
+        "count": "1",
+        "list": [
+            " UTC+08:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Malawi is",
+        "answer": " 1",
+        "sub": "Malawi",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Marshall Islands is",
+        "answer": " 1",
+        "sub": "Marshall Islands",
+        "count": "1",
+        "list": [
+            " UTC+12:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Martinique is",
+        "answer": " 1",
+        "sub": "Martinique",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Mauritania is",
+        "answer": " 1",
+        "sub": "Mauritania",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Mauritius is",
+        "answer": " 1",
+        "sub": "Mauritius",
+        "count": "1",
+        "list": [
+            " UTC+04:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Mexico is",
+        "answer": " 5",
+        "sub": "Mexico",
+        "count": "5",
+        "list": [
+            " UTC-05:00",
+            " UTC-05:00",
+            " UTC-07:00",
+            " UTC-07:00",
+            " UTC-08:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Micronesia is",
+        "answer": " 2",
+        "sub": "Micronesia",
+        "count": "2",
+        "list": [
+            " UTC+10:00",
+            " UTC+11:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Moldova is",
+        "answer": " 1",
+        "sub": "Moldova",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Montserrat is",
+        "answer": " 1",
+        "sub": "Montserrat",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Morocco is",
+        "answer": " 1",
+        "sub": "Morocco",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Myanmar (Burma) is",
+        "answer": " 1",
+        "sub": "Myanmar (Burma)",
+        "count": "1",
+        "list": [
+            " UTC+06:30"
+        ]
+    },
+    {
+        "query": "The number of time zones of Namibia is",
+        "answer": " 1",
+        "sub": "Namibia",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Netherlands is",
+        "answer": " 1",
+        "sub": "Netherlands",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of New Caledonia is",
+        "answer": " 1",
+        "sub": "New Caledonia",
+        "count": "1",
+        "list": [
+            " UTC+11:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Niger is",
+        "answer": " 1",
+        "sub": "Niger",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Niue is",
+        "answer": " 1",
+        "sub": "Niue",
+        "count": "1",
+        "list": [
+            " UTC-11:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of North Macedonia is",
+        "answer": " 1",
+        "sub": "North Macedonia",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Northern Mariana Islands is",
+        "answer": " 1",
+        "sub": "Northern Mariana Islands",
+        "count": "1",
+        "list": [
+            " UTC+10:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Norway is",
+        "answer": " 1",
+        "sub": "Norway",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Pakistan is",
+        "answer": " 1",
+        "sub": "Pakistan",
+        "count": "1",
+        "list": [
+            " UTC+05:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Palau is",
+        "answer": " 1",
+        "sub": "Palau",
+        "count": "1",
+        "list": [
+            " UTC+09:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Panama is",
+        "answer": " 1",
+        "sub": "Panama",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Paraguay is",
+        "answer": " 1",
+        "sub": "Paraguay",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Peru is",
+        "answer": " 1",
+        "sub": "Peru",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Philippines is",
+        "answer": " 1",
+        "sub": "Philippines",
+        "count": "1",
+        "list": [
+            " UTC+08:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Qatar is",
+        "answer": " 1",
+        "sub": "Qatar",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Romania is",
+        "answer": " 1",
+        "sub": "Romania",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Samoa (American) is",
+        "answer": " 1",
+        "sub": "Samoa (American)",
+        "count": "1",
+        "list": [
+            " UTC-11:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Sao Tome & Principe is",
+        "answer": " 1",
+        "sub": "Sao Tome & Principe",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Saudi Arabia is",
+        "answer": " 1",
+        "sub": "Saudi Arabia",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Senegal is",
+        "answer": " 1",
+        "sub": "Senegal",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Serbia is",
+        "answer": " 1",
+        "sub": "Serbia",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Seychelles is",
+        "answer": " 1",
+        "sub": "Seychelles",
+        "count": "1",
+        "list": [
+            " UTC+04:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Slovenia is",
+        "answer": " 1",
+        "sub": "Slovenia",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Solomon Islands is",
+        "answer": " 1",
+        "sub": "Solomon Islands",
+        "count": "1",
+        "list": [
+            " UTC+11:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of South Sudan is",
+        "answer": " 1",
+        "sub": "South Sudan",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of St Barthelemy is",
+        "answer": " 1",
+        "sub": "St Barthelemy",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of St Maarten (Dutch) is",
+        "answer": " 1",
+        "sub": "St Maarten (Dutch)",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of St Martin (French) is",
+        "answer": " 1",
+        "sub": "St Martin (French)",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Suriname is",
+        "answer": " 1",
+        "sub": "Suriname",
+        "count": "1",
+        "list": [
+            " UTC-03:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Sweden is",
+        "answer": " 1",
+        "sub": "Sweden",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Switzerland is",
+        "answer": " 1",
+        "sub": "Switzerland",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Tajikistan is",
+        "answer": " 1",
+        "sub": "Tajikistan",
+        "count": "1",
+        "list": [
+            " UTC+05:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Thailand is",
+        "answer": " 1",
+        "sub": "Thailand",
+        "count": "1",
+        "list": [
+            " UTC+07:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Trinidad & Tobago is",
+        "answer": " 1",
+        "sub": "Trinidad & Tobago",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Turkey is",
+        "answer": " 1",
+        "sub": "Turkey",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Turkmenistan is",
+        "answer": " 1",
+        "sub": "Turkmenistan",
+        "count": "1",
+        "list": [
+            " UTC+05:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Turks & Caicos Is is",
+        "answer": " 1",
+        "sub": "Turks & Caicos Is",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Tuvalu is",
+        "answer": " 1",
+        "sub": "Tuvalu",
+        "count": "1",
+        "list": [
+            " UTC+12:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of US minor outlying islands is",
+        "answer": " 2",
+        "sub": "US minor outlying islands",
+        "count": "2",
+        "list": [
+            " UTC-11:00",
+            " UTC+12:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Uganda is",
+        "answer": " 1",
+        "sub": "Uganda",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Ukraine is",
+        "answer": " 1",
+        "sub": "Ukraine",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Uruguay is",
+        "answer": " 1",
+        "sub": "Uruguay",
+        "count": "1",
+        "list": [
+            " UTC-03:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Vanuatu is",
+        "answer": " 1",
+        "sub": "Vanuatu",
+        "count": "1",
+        "list": [
+            " UTC+11:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Venezuela is",
+        "answer": " 1",
+        "sub": "Venezuela",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Virgin Islands (UK) is",
+        "answer": " 1",
+        "sub": "Virgin Islands (UK)",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Wallis & Futuna is",
+        "answer": " 1",
+        "sub": "Wallis & Futuna",
+        "count": "1",
+        "list": [
+            " UTC+12:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Yemen is",
+        "answer": " 1",
+        "sub": "Yemen",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "The number of time zones of Zambia is",
+        "answer": " 1",
+        "sub": "Zambia",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    }
+]

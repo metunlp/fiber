@@ -1,0 +1,900 @@
+[
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Papa Giovanni Paolo II parla?",
+        "answer": " Polish, Italian, Latin, French, English, German, Spanish, Portuguese",
+        "sub": "Papa Giovanni Paolo II",
+        "count": "8",
+        "list": [
+            " Polacco",
+            " Italiano",
+            " Latino",
+            " Francese",
+            " Inglese",
+            " Tedesco",
+            " Spagnolo",
+            " Portoghese"
+        ],
+        "en_sub": "Pope John Paul II"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la António Guterres parla?",
+        "answer": " Portuguese, English, French, Spanish",
+        "sub": "António Guterres",
+        "count": "4",
+        "list": [
+            " Portoghese",
+            " Inglese",
+            " Francese",
+            " Spagnolo"
+        ],
+        "en_sub": "António Guterres"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Boutros Boutros-Ghali parla?",
+        "answer": " Arabic, French, English",
+        "sub": "Boutros Boutros-Ghali",
+        "count": "3",
+        "list": [
+            " Arabo",
+            " Francese",
+            " Inglese"
+        ],
+        "en_sub": "Boutros Boutros-Ghali"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Ban Ki-moon parla?",
+        "answer": " Korean, English, French",
+        "sub": "Ban Ki-moon",
+        "count": "3",
+        "list": [
+            " Coreano",
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Ban Ki-moon"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Dag Hammarskjöld parla?",
+        "answer": " Swedish, English, French, German",
+        "sub": "Dag Hammarskjöld",
+        "count": "4",
+        "list": [
+            " Svedese",
+            " Inglese",
+            " Francese",
+            " Tedesco"
+        ],
+        "en_sub": "Dag Hammarskjöld"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la U Thant parla?",
+        "answer": " Burmese, English, Hindi",
+        "sub": "U Thant",
+        "count": "3",
+        "list": [
+            " Birmano",
+            " Inglese",
+            " Hindi"
+        ],
+        "en_sub": "U Thant"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Trygve Lie parla?",
+        "answer": " Norwegian, English, French",
+        "sub": "Trygve Lie",
+        "count": "3",
+        "list": [
+            " Norvegese",
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Trygve Lie"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Joseph Conrad parla?",
+        "answer": " Polish, English, French",
+        "sub": "Joseph Conrad",
+        "count": "3",
+        "list": [
+            " Polacco",
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Joseph Conrad"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Vladimir Nabokov parla?",
+        "answer": " Russian, English, French",
+        "sub": "Vladimir Nabokov",
+        "count": "3",
+        "list": [
+            " Russo",
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Vladimir Nabokov"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Jorge Luis Borges parla?",
+        "answer": " Spanish, English, French, German",
+        "sub": "Jorge Luis Borges",
+        "count": "4",
+        "list": [
+            " Spagnolo",
+            " Inglese",
+            " Francese",
+            " Tedesco"
+        ],
+        "en_sub": "Jorge Luis Borges"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Chinua Achebe parla?",
+        "answer": " Igbo, English, Yoruba",
+        "sub": "Chinua Achebe",
+        "count": "3",
+        "list": [
+            " Igbo",
+            " Inglese",
+            " Yoruba"
+        ],
+        "en_sub": "Chinua Achebe"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Ismail Kadare parla?",
+        "answer": " Albanian, French, Italian",
+        "sub": "Ismail Kadare",
+        "count": "3",
+        "list": [
+            " Albanese",
+            " Francese",
+            " Italiano"
+        ],
+        "en_sub": "Ismail Kadare"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Isaac Bashevis Singer parla?",
+        "answer": " Yiddish, Polish, English",
+        "sub": "Isaac Bashevis Singer",
+        "count": "3",
+        "list": [
+            " Yiddish",
+            " Polacco",
+            " Inglese"
+        ],
+        "en_sub": "Isaac Bashevis Singer"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Hannah Arendt parla?",
+        "answer": " German, English, French",
+        "sub": "Hannah Arendt",
+        "count": "3",
+        "list": [
+            " Tedesco",
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Hannah Arendt"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Susan Sontag parla?",
+        "answer": " English, French, German",
+        "sub": "Susan Sontag",
+        "count": "3",
+        "list": [
+            " Inglese",
+            " Francese",
+            " Tedesco"
+        ],
+        "en_sub": "Susan Sontag"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Goethe parla?",
+        "answer": " German, French, Italian, English, Latin, Greek",
+        "sub": "Goethe",
+        "count": "6",
+        "list": [
+            " Tedesco",
+            " Francese",
+            " Italiano",
+            " Inglese",
+            " Latino",
+            " Greco"
+        ],
+        "en_sub": "Goethe"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la René Descartes parla?",
+        "answer": " French, Latin, Dutch",
+        "sub": "René Descartes",
+        "count": "3",
+        "list": [
+            " Francese",
+            " Latino",
+            " Olandese"
+        ],
+        "en_sub": "René Descartes"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Baruch Spinoza parla?",
+        "answer": " Portuguese, Dutch, Spanish, Hebrew, Latin",
+        "sub": "Baruch Spinoza",
+        "count": "5",
+        "list": [
+            " Portoghese",
+            " Olandese",
+            " Spagnolo",
+            " Ebraico",
+            " Latino"
+        ],
+        "en_sub": "Baruch Spinoza"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Gottfried Wilhelm Leibniz parla?",
+        "answer": " German, Latin, French",
+        "sub": "Gottfried Wilhelm Leibniz",
+        "count": "3",
+        "list": [
+            " Tedesco",
+            " Latino",
+            " Francese"
+        ],
+        "en_sub": "Gottfried Wilhelm Leibniz"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Voltaire parla?",
+        "answer": " French, English, Italian",
+        "sub": "Voltaire",
+        "count": "3",
+        "list": [
+            " Francese",
+            " Inglese",
+            " Italiano"
+        ],
+        "en_sub": "Voltaire"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Amin Maalouf parla?",
+        "answer": " Arabic, French, English",
+        "sub": "Amin Maalouf",
+        "count": "3",
+        "list": [
+            " Arabo",
+            " Francese",
+            " Inglese"
+        ],
+        "en_sub": "Amin Maalouf"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Nikola Tesla parla?",
+        "answer": " Serbian, English, German, French, Italian, Czech, Hungarian, Latin",
+        "sub": "Nikola Tesla",
+        "count": "8",
+        "list": [
+            " Serbo",
+            " Inglese",
+            " Tedesco",
+            " Francese",
+            " Italiano",
+            " Ceco",
+            " Ungherese",
+            " Latino"
+        ],
+        "en_sub": "Nikola Tesla"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Leonardo da Vinci parla?",
+        "answer": " Italian, Latin, French",
+        "sub": "Leonardo da Vinci",
+        "count": "3",
+        "list": [
+            " Italiano",
+            " Latino",
+            " Francese"
+        ],
+        "en_sub": "Leonardo da Vinci"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Mustafa Kemal Atatürk parla?",
+        "answer": " Turkish, French, German",
+        "sub": "Mustafa Kemal Atatürk",
+        "count": "3",
+        "list": [
+            " Turco",
+            " Francese",
+            " Tedesco"
+        ],
+        "en_sub": "Mustafa Kemal Atatürk"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Charles de Gaulle parla?",
+        "answer": " French, English, German",
+        "sub": "Charles de Gaulle",
+        "count": "3",
+        "list": [
+            " Francese",
+            " Inglese",
+            " Tedesco"
+        ],
+        "en_sub": "Charles de Gaulle"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Winston Churchill parla?",
+        "answer": " English, French, Latin",
+        "sub": "Winston Churchill",
+        "count": "3",
+        "list": [
+            " Inglese",
+            " Francese",
+            " Latino"
+        ],
+        "en_sub": "Winston Churchill"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Jawaharlal Nehru parla?",
+        "answer": " Hindi, English, Urdu",
+        "sub": "Jawaharlal Nehru",
+        "count": "3",
+        "list": [
+            " Hindi",
+            " Inglese",
+            " Urdu"
+        ],
+        "en_sub": "Jawaharlal Nehru"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Shimon Peres parla?",
+        "answer": " Hebrew, English, Polish, Russian",
+        "sub": "Shimon Peres",
+        "count": "4",
+        "list": [
+            " Ebraico",
+            " Inglese",
+            " Polacco",
+            " Russo"
+        ],
+        "en_sub": "Shimon Peres"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Olaf Scholz parla?",
+        "answer": " German, English, French",
+        "sub": "Olaf Scholz",
+        "count": "3",
+        "list": [
+            " Tedesco",
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Olaf Scholz"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Ursula von der Leyen parla?",
+        "answer": " German, English, French",
+        "sub": "Ursula von der Leyen",
+        "count": "3",
+        "list": [
+            " Tedesco",
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Ursula von der Leyen"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Regina Silvia di Svezia parla?",
+        "answer": " German, Portuguese, Spanish, English, Swedish, French",
+        "sub": "Regina Silvia di Svezia",
+        "count": "6",
+        "list": [
+            " Tedesco",
+            " Portoghese",
+            " Spagnolo",
+            " Inglese",
+            " Svedese",
+            " Francese"
+        ],
+        "en_sub": "Queen Silvia of Sweden"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Regina Rania di Giordania parla?",
+        "answer": " Arabic, English, French",
+        "sub": "Regina Rania di Giordania",
+        "count": "3",
+        "list": [
+            " Arabo",
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Queen Rania of Jordan"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Re Felipe VI di Spagna parla?",
+        "answer": " Spanish, Catalan, English, French",
+        "sub": "Re Felipe VI di Spagna",
+        "count": "4",
+        "list": [
+            " Spagnolo",
+            " Catalano",
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "King Felipe VI of Spain"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la La Regina Letizia di Spagna parla?",
+        "answer": " Spanish, English, French",
+        "sub": "La Regina Letizia di Spagna",
+        "count": "3",
+        "list": [
+            " Spagnolo",
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Queen Letizia of Spain"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Guy Verhofstadt parla?",
+        "answer": " Dutch, French, English",
+        "sub": "Guy Verhofstadt",
+        "count": "3",
+        "list": [
+            " Olandese",
+            " Francese",
+            " Inglese"
+        ],
+        "en_sub": "Guy Verhofstadt"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Zeinab Badawi parla?",
+        "answer": " Arabic, English, French",
+        "sub": "Zeinab Badawi",
+        "count": "3",
+        "list": [
+            " Arabo",
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Zeinab Badawi"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Audrey Hepburn parla?",
+        "answer": " English, Dutch, French, Italian, Spanish",
+        "sub": "Audrey Hepburn",
+        "count": "5",
+        "list": [
+            " Inglese",
+            " Olandese",
+            " Francese",
+            " Italiano",
+            " Spagnolo"
+        ],
+        "en_sub": "Audrey Hepburn"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Trevor Noah parla?",
+        "answer": " English, Zulu, Xhosa, Tswana, Tsonga, Afrikaans",
+        "sub": "Trevor Noah",
+        "count": "6",
+        "list": [
+            " Inglese",
+            " Zulu",
+            " Xhosa",
+            " Tswana",
+            " Tsonga",
+            " Afrikaans"
+        ],
+        "en_sub": "Trevor Noah"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Jackie Chan parla?",
+        "answer": " Cantonese, Mandarin, English",
+        "sub": "Jackie Chan",
+        "count": "3",
+        "list": [
+            " Cantonese",
+            " Mandarino",
+            " Inglese"
+        ],
+        "en_sub": "Jackie Chan"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Viggo Mortensen parla?",
+        "answer": " English, Danish, Spanish",
+        "sub": "Viggo Mortensen",
+        "count": "3",
+        "list": [
+            " Inglese",
+            " Danese",
+            " Spagnolo"
+        ],
+        "en_sub": "Viggo Mortensen"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Shakira parla?",
+        "answer": " Spanish, English, Portuguese, Italian, Arabic",
+        "sub": "Shakira",
+        "count": "5",
+        "list": [
+            " Spagnolo",
+            " Inglese",
+            " Portoghese",
+            " Italiano",
+            " Arabo"
+        ],
+        "en_sub": "Shakira"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Gael García Bernal parla?",
+        "answer": " Spanish, English, Portuguese, French",
+        "sub": "Gael García Bernal",
+        "count": "4",
+        "list": [
+            " Spagnolo",
+            " Inglese",
+            " Portoghese",
+            " Francese"
+        ],
+        "en_sub": "Gael García Bernal"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Natalie Portman parla?",
+        "answer": " English, Hebrew, French",
+        "sub": "Natalie Portman",
+        "count": "3",
+        "list": [
+            " Inglese",
+            " Ebraico",
+            " Francese"
+        ],
+        "en_sub": "Natalie Portman"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Salma Hayek parla?",
+        "answer": " Spanish, English, Portuguese",
+        "sub": "Salma Hayek",
+        "count": "3",
+        "list": [
+            " Spagnolo",
+            " Inglese",
+            " Portoghese"
+        ],
+        "en_sub": "Salma Hayek"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Monica Bellucci parla?",
+        "answer": " Italian, French, English",
+        "sub": "Monica Bellucci",
+        "count": "3",
+        "list": [
+            " Italiano",
+            " Francese",
+            " Inglese"
+        ],
+        "en_sub": "Monica Bellucci"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Gong Li parla?",
+        "answer": " Mandarin, English, Cantonese",
+        "sub": "Gong Li",
+        "count": "3",
+        "list": [
+            " Mandarino",
+            " Inglese",
+            " Cantonese"
+        ],
+        "en_sub": "Gong Li"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Bradley Cooper parla?",
+        "answer": " English, French, Italian",
+        "sub": "Bradley Cooper",
+        "count": "3",
+        "list": [
+            " Inglese",
+            " Francese",
+            " Italiano"
+        ],
+        "en_sub": "Bradley Cooper"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Daniel Brühl parla?",
+        "answer": " German, Spanish, English, French, Catalan",
+        "sub": "Daniel Brühl",
+        "count": "5",
+        "list": [
+            " Tedesco",
+            " Spagnolo",
+            " Inglese",
+            " Francese",
+            " Catalano"
+        ],
+        "en_sub": "Daniel Brühl"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Mads Mikkelsen parla?",
+        "answer": " Danish, English, Swedish, German",
+        "sub": "Mads Mikkelsen",
+        "count": "4",
+        "list": [
+            " Danese",
+            " Inglese",
+            " Svedese",
+            " Tedesco"
+        ],
+        "en_sub": "Mads Mikkelsen"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Aishwarya Rai Bachchan parla?",
+        "answer": " Hindi, English, Tamil",
+        "sub": "Aishwarya Rai Bachchan",
+        "count": "3",
+        "list": [
+            " Hindi",
+            " Inglese",
+            " il tamil"
+        ],
+        "en_sub": "Aishwarya Rai Bachchan"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Irrfan Khan parla?",
+        "answer": " Hindi, English, Urdu",
+        "sub": "Irrfan Khan",
+        "count": "3",
+        "list": [
+            " Hindi",
+            " Inglese",
+            " Urdu"
+        ],
+        "en_sub": "Irrfan Khan"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Priyanka Chopra Jonas parla?",
+        "answer": " Hindi, English, Punjabi",
+        "sub": "Priyanka Chopra Jonas",
+        "count": "3",
+        "list": [
+            " Hindi",
+            " Inglese",
+            " Punjabi"
+        ],
+        "en_sub": "Priyanka Chopra Jonas"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Andrea Bocelli parla?",
+        "answer": " Italian, English, Spanish, French",
+        "sub": "Andrea Bocelli",
+        "count": "4",
+        "list": [
+            " Italiano",
+            " Inglese",
+            " Spagnolo",
+            " Francese"
+        ],
+        "en_sub": "Andrea Bocelli"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Lara Fabian parla?",
+        "answer": " French, Italian, English, Spanish",
+        "sub": "Lara Fabian",
+        "count": "4",
+        "list": [
+            " Francese",
+            " Italiano",
+            " Inglese",
+            " Spagnolo"
+        ],
+        "en_sub": "Lara Fabian"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Sönke Wortmann parla?",
+        "answer": " German, English, French",
+        "sub": "Sönke Wortmann",
+        "count": "3",
+        "list": [
+            " Tedesco",
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Sönke Wortmann"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Pep Guardiola parla?",
+        "answer": " Catalan, Spanish, English, German",
+        "sub": "Pep Guardiola",
+        "count": "4",
+        "list": [
+            " Catalano",
+            " Spagnolo",
+            " Inglese",
+            " Tedesco"
+        ],
+        "en_sub": "Pep Guardiola"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Zlatan Ibrahimović parla?",
+        "answer": " Swedish, Bosnian/Serbian, English, Italian, Spanish",
+        "sub": "Zlatan Ibrahimović",
+        "count": "5",
+        "list": [
+            " Svedese",
+            " Bosniaco/Serbo",
+            " Inglese",
+            " Italiano",
+            " Spagnolo"
+        ],
+        "en_sub": "Zlatan Ibrahimović"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Mesut Özil parla?",
+        "answer": " German, Turkish, English, Spanish",
+        "sub": "Mesut Özil",
+        "count": "4",
+        "list": [
+            " Tedesco",
+            " Turco",
+            " Inglese",
+            " Spagnolo"
+        ],
+        "en_sub": "Mesut Özil"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Luka Modrić parla?",
+        "answer": " Croatian, English, Spanish",
+        "sub": "Luka Modrić",
+        "count": "3",
+        "list": [
+            " Croato",
+            " Inglese",
+            " Spagnolo"
+        ],
+        "en_sub": "Luka Modrić"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Thierry Henry parla?",
+        "answer": " French, English, Spanish",
+        "sub": "Thierry Henry",
+        "count": "3",
+        "list": [
+            " Francese",
+            " Inglese",
+            " Spagnolo"
+        ],
+        "en_sub": "Thierry Henry"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Yao Ming parla?",
+        "answer": " Mandarin, English, Shanghainese",
+        "sub": "Yao Ming",
+        "count": "3",
+        "list": [
+            " Mandarino",
+            " Inglese",
+            " Shanghaiese"
+        ],
+        "en_sub": "Yao Ming"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Pau Gasol parla?",
+        "answer": " Spanish, Catalan, English",
+        "sub": "Pau Gasol",
+        "count": "3",
+        "list": [
+            " Spagnolo",
+            " Catalano",
+            " Inglese"
+        ],
+        "en_sub": "Pau Gasol"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Sundar Pichai parla?",
+        "answer": " Tamil, Hindi, English",
+        "sub": "Sundar Pichai",
+        "count": "3",
+        "list": [
+            " il tamil",
+            " Hindi",
+            " Inglese"
+        ],
+        "en_sub": "Sundar Pichai"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Satya Nadella parla?",
+        "answer": " Telugu, Hindi, English",
+        "sub": "Satya Nadella",
+        "count": "3",
+        "list": [
+            " Telugu",
+            " Hindi",
+            " Inglese"
+        ],
+        "en_sub": "Satya Nadella"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Malala Yousafzai parla?",
+        "answer": " Pashto, Urdu, English",
+        "sub": "Malala Yousafzai",
+        "count": "3",
+        "list": [
+            " Pashto",
+            " Urdu",
+            " Inglese"
+        ],
+        "en_sub": "Malala Yousafzai"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Al-Farabi parla?",
+        "answer": " Arabic, Persian, Turkic",
+        "sub": "Al-Farabi",
+        "count": "3",
+        "list": [
+            " Arabo",
+            " Persiano",
+            " Turcico"
+        ],
+        "en_sub": "Al-Farabi"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Erasmus parla?",
+        "answer": " Latin, Dutch, French, English, Greek",
+        "sub": "Erasmus",
+        "count": "5",
+        "list": [
+            " Latino",
+            " Olandese",
+            " Francese",
+            " Inglese",
+            " Greco"
+        ],
+        "en_sub": "Erasmus"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Tommaso Moro parla?",
+        "answer": " English, Latin, French",
+        "sub": "Tommaso Moro",
+        "count": "3",
+        "list": [
+            " Inglese",
+            " Latino",
+            " Francese"
+        ],
+        "en_sub": "Thomas More"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Ignazio di Loyola parla?",
+        "answer": " Basque, Spanish, Latin, Italian",
+        "sub": "Ignazio di Loyola",
+        "count": "4",
+        "list": [
+            " Basco",
+            " Spagnolo",
+            " Latino",
+            " Italiano"
+        ],
+        "en_sub": "Ignatius of Loyola"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Francesco Saverio parla?",
+        "answer": " Basque, Spanish, Portuguese, Latin, Japanese",
+        "sub": "Francesco Saverio",
+        "count": "5",
+        "list": [
+            " Basco",
+            " Spagnolo",
+            " Portoghese",
+            " Latino",
+            " Giapponese"
+        ],
+        "en_sub": "Francis Xavier"
+    },
+    {
+        "query": "Qual è/ quali sono la/le lingua/e che il/la Matteo Ricci parla?",
+        "answer": " Italian, Latin, Portuguese, Chinese",
+        "sub": "Matteo Ricci",
+        "count": "4",
+        "list": [
+            " Italiano",
+            " Latino",
+            " Portoghese",
+            " Cinese"
+        ],
+        "en_sub": "Matteo Ricci"
+    }
+]

@@ -1,0 +1,292 @@
+[
+    {
+        "query": "Türkiye'nin başkenti şurasıdır:",
+        "answer": " Ankara",
+        "sub": "Türkiye"
+    },
+    {
+        "query": "Hollanda'nın başkenti şurasıdır:",
+        "answer": " Amsterdam",
+        "sub": "Hollanda"
+    },
+    {
+        "query": "Bavyera'nın başkenti şurasıdır:",
+        "answer": " Münih",
+        "sub": "Bavyera"
+    },
+    {
+        "query": "Toskana'nın başkenti şurasıdır:",
+        "answer": " Floransa",
+        "sub": "Toskana"
+    },
+    {
+        "query": "İtalya'nın başkenti şurasıdır:",
+        "answer": " Roma",
+        "sub": "İtalya"
+    },
+    {
+        "query": "Anvers İli'nin başkenti şurasıdır:",
+        "answer": " Anvers",
+        "sub": "Anvers İli"
+    },
+    {
+        "query": "Girit'in başkenti şurasıdır:",
+        "answer": " Heraklion",
+        "sub": "Girit"
+    },
+    {
+        "query": "Fransa'nın başkenti şurasıdır:",
+        "answer": " Paris",
+        "sub": "Fransa"
+    },
+    {
+        "query": "Maharashtra'nın başkenti şurasıdır:",
+        "answer": " Mumbai",
+        "sub": "Maharashtra"
+    },
+    {
+        "query": "Norveç'in başkenti şurasıdır:",
+        "answer": " Oslo",
+        "sub": "Norveç"
+    },
+    {
+        "query": "Yahuda'nın başkenti şurasıdır:",
+        "answer": " Kudüs",
+        "sub": "Yahuda"
+    },
+    {
+        "query": "Kırgızistan'ın başkenti şurasıdır:",
+        "answer": " Bişkek",
+        "sub": "Kırgızistan"
+    },
+    {
+        "query": "Victoria'nın başkenti şurasıdır:",
+        "answer": " Melbourne",
+        "sub": "Victoria"
+    },
+    {
+        "query": "İrlanda'nın başkenti şurasıdır:",
+        "answer": " Dublin",
+        "sub": "İrlanda"
+    },
+    {
+        "query": "İngiltere'nin başkenti şurasıdır:",
+        "answer": " Londra",
+        "sub": "İngiltere"
+    },
+    {
+        "query": "Letonya'nın başkenti şurasıdır:",
+        "answer": " Riga",
+        "sub": "Letonya"
+    },
+    {
+        "query": "Tanzanya'nın başkenti şurasıdır:",
+        "answer": " Darüsselam",
+        "sub": "Tanzanya"
+    },
+    {
+        "query": "İspanya'nın başkenti şurasıdır:",
+        "answer": " Madrid",
+        "sub": "İspanya"
+    },
+    {
+        "query": "Guatemala'nın başkenti şurasıdır:",
+        "answer": " Guatemala Şehri",
+        "sub": "Guatemala"
+    },
+    {
+        "query": "Saksonya'nın başkenti şurasıdır:",
+        "answer": " Dresden",
+        "sub": "Saksonya"
+    },
+    {
+        "query": "Haiti'nin başkenti şurasıdır:",
+        "answer": " Port-au-Prince",
+        "sub": "Haiti"
+    },
+    {
+        "query": "Yunanistan'ın başkenti şurasıdır:",
+        "answer": " Atina",
+        "sub": "Yunanistan"
+    },
+    {
+        "query": "Tasmania'nın başkenti şurasıdır:",
+        "answer": " Hobart",
+        "sub": "Tasmania"
+    },
+    {
+        "query": "Estonya'nın başkenti şurasıdır:",
+        "answer": " Tallinn",
+        "sub": "Estonya"
+    },
+    {
+        "query": "Japonya'nın başkenti şurasıdır:",
+        "answer": " Tokyo",
+        "sub": "Japonya"
+    },
+    {
+        "query": "Avusturya'nın başkenti şurasıdır:",
+        "answer": " Viyana",
+        "sub": "Avusturya"
+    },
+    {
+        "query": "Endonezya'nın başkenti şurasıdır:",
+        "answer": " Jakarta",
+        "sub": "Endonezya"
+    },
+    {
+        "query": "Nepal'ın başkenti şurasıdır:",
+        "answer": " Katmandu",
+        "sub": "Nepal"
+    },
+    {
+        "query": "Sudan'ın başkenti şurasıdır:",
+        "answer": " Hartum",
+        "sub": "Sudan"
+    },
+    {
+        "query": "Litvanya'nın başkenti şurasıdır:",
+        "answer": " Vilnius",
+        "sub": "Litvanya"
+    },
+    {
+        "query": "Lübnan'ın başkenti şurasıdır:",
+        "answer": " Beyrut",
+        "sub": "Lübnan"
+    },
+    {
+        "query": "Portekiz'in başkenti şurasıdır:",
+        "answer": " Lizbon",
+        "sub": "Portekiz"
+    },
+    {
+        "query": "Manitoba'nın başkenti şurasıdır:",
+        "answer": " Winnipeg",
+        "sub": "Manitoba"
+    },
+    {
+        "query": "Uruguay'ın başkenti şurasıdır:",
+        "answer": " Montevideo",
+        "sub": "Uruguay"
+    },
+    {
+        "query": "Macaristan'ın başkenti şurasıdır:",
+        "answer": " Budapeşte",
+        "sub": "Macaristan"
+    },
+    {
+        "query": "Karadağ'ın başkenti şurasıdır:",
+        "answer": " Podgorica",
+        "sub": "Karadağ"
+    },
+    {
+        "query": "Ontario'nun başkenti şurasıdır:",
+        "answer": " Toronto",
+        "sub": "Ontario"
+    },
+    {
+        "query": "Panama'nın başkenti şurasıdır:",
+        "answer": " Panama Şehri",
+        "sub": "Panama"
+    },
+    {
+        "query": "Tayland'ın başkenti şurasıdır:",
+        "answer": " Bangkok",
+        "sub": "Tayland"
+    },
+    {
+        "query": "Şili'nin başkenti şurasıdır:",
+        "answer": " Santiago",
+        "sub": "Şili"
+    },
+    {
+        "query": "Hindistan'ın başkenti şurasıdır:",
+        "answer": " Yeni Delhi",
+        "sub": "Hindistan"
+    },
+    {
+        "query": "Sırbistan'ın başkenti şurasıdır:",
+        "answer": " Belgrad",
+        "sub": "Sırbistan"
+    },
+    {
+        "query": "Sardinya'nın başkenti şurasıdır:",
+        "answer": " Cagliari",
+        "sub": "Sardinya"
+    },
+    {
+        "query": "Venezuela'nın başkenti şurasıdır:",
+        "answer": " Caracas",
+        "sub": "Venezuela"
+    },
+    {
+        "query": "Kıbrıs'ın başkenti şurasıdır:",
+        "answer": " Lefkoşa",
+        "sub": "Kıbrıs"
+    },
+    {
+        "query": "Bulgaristan'ın başkenti şurasıdır:",
+        "answer": " Sofya",
+        "sub": "Bulgaristan"
+    },
+    {
+        "query": "Utah'ın başkenti şurasıdır:",
+        "answer": " Salt Lake City",
+        "sub": "Utah"
+    },
+    {
+        "query": "Bangladeş'in başkenti şurasıdır:",
+        "answer": " Dakka",
+        "sub": "Bangladeş"
+    },
+    {
+        "query": "Tacikistan'ın başkenti şurasıdır:",
+        "answer": " Duşanbe",
+        "sub": "Tacikistan"
+    },
+    {
+        "query": "Sichuan'ın başkenti şurasıdır:",
+        "answer": " Chengdu",
+        "sub": "Sichuan"
+    },
+    {
+        "query": "Zambiya'nın başkenti şurasıdır:",
+        "answer": " Lusaka",
+        "sub": "Zambiya"
+    },
+    {
+        "query": "Mauritius'un başkenti şurasıdır:",
+        "answer": " Port Louis",
+        "sub": "Mauritius"
+    },
+    {
+        "query": "Iowa'nın başkenti şurasıdır:",
+        "answer": " Des Moines",
+        "sub": "Iowa"
+    },
+    {
+        "query": "Kazakistan'ın başkenti şurasıdır:",
+        "answer": " Nur-Sultan",
+        "sub": "Kazakistan"
+    },
+    {
+        "query": "İngiltere Krallığı'nın başkenti şurasıdır:",
+        "answer": " Winchester",
+        "sub": "İngiltere Krallığı"
+    },
+    {
+        "query": "Teksas'ın başkenti şurasıdır:",
+        "answer": " Austin",
+        "sub": "Teksas"
+    },
+    {
+        "query": "Minnesota'nın başkenti şurasıdır:",
+        "answer": " Aziz Pavlus",
+        "sub": "Minnesota"
+    },
+    {
+        "query": "Batı Bölgesi'nin başkenti şurasıdır:",
+        "answer": " Bafoussam",
+        "sub": "Batı Bölgesi"
+    }
+]

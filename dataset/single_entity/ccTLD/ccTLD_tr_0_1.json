@@ -1,0 +1,312 @@
+﻿[
+  {
+    "query": "Åland (Finlandiya)'nın ülke üst seviye alan adı şudur:",
+    "answer": " .ax",
+    "sub": "Åland (Finlandiya)"
+  },
+  {
+    "query": "Anguilla (Birleşik Krallık)'ın ülke üst seviye alan adı şudur:",
+    "answer": " .ai",
+    "sub": "Anguilla (Birleşik Krallık)"
+  },
+  {
+    "query": "Antarktika'nın ülke üst seviye alan adı şudur:",
+    "answer": " .aq",
+    "sub": "Antarktika"
+  },
+  {
+    "query": "Ermenistan'ın ülke üst seviye alan adı şudur:",
+    "answer": " .am",
+    "sub": "Ermenistan"
+  },
+  {
+    "query": "Avustralya'nın ülke üst seviye alan adı şudur:",
+    "answer": " .au",
+    "sub": "Avustralya"
+  },
+  {
+    "query": "Azerbaycan'ın ülke üst seviye alan adı şudur:",
+    "answer": " .az",
+    "sub": "Azerbaycan"
+  },
+  {
+    "query": "Bahamalar'ın ülke üst seviye alan adı şudur:",
+    "answer": " .bs",
+    "sub": "Bahamalar"
+  },
+  {
+    "query": "Belize'nin ülke üst seviye alan adı şudur:",
+    "answer": " .bz",
+    "sub": "Belize"
+  },
+  {
+    "query": "Benin'in ülke üst seviye alan adı şudur:",
+    "answer": " .bj",
+    "sub": "Benin"
+  },
+  {
+    "query": "Bermuda (Birleşik Krallık)'ın ülke üst seviye alan adı şudur:",
+    "answer": " .bm",
+    "sub": "Bermuda (Birleşik Krallık)"
+  },
+  {
+    "query": "Bhutan'ın ülke üst seviye alan adı şudur:",
+    "answer": " .bt",
+    "sub": "Bhutan"
+  },
+  {
+    "query": "Bosna Hersek'in ülke üst seviye alan adı şudur:",
+    "answer": " .ba",
+    "sub": "Bosna Hersek"
+  },
+  {
+    "query": "Britanya Hint Okyanusu Toprakları (Birleşik Krallık)'ın ülke üst seviye alan adı şudur:",
+    "answer": " .io",
+    "sub": "Britanya Hint Okyanusu Toprakları (Birleşik Krallık)"
+  },
+  {
+    "query": "Burkina Faso'nun ülke üst seviye alan adı şudur:",
+    "answer": " .bf",
+    "sub": "Burkina Faso"
+  },
+  {
+    "query": "Yeşil Burun Adaları'nın ülke üst seviye alan adı şudur:",
+    "answer": " .cv",
+    "sub": "Yeşil Burun Adaları"
+  },
+  {
+    "query": "Orta Afrika Cumhuriyeti'nin ülke üst seviye alan adı şudur:",
+    "answer": " .cf",
+    "sub": "Orta Afrika Cumhuriyeti"
+  },
+  {
+    "query": "Komorlar'ın ülke üst seviye alan adı şudur:",
+    "answer": " .km",
+    "sub": "Komorlar"
+  },
+  {
+    "query": "Cook Adaları'nın ülke üst seviye alan adı şudur:",
+    "answer": " .ck",
+    "sub": "Cook Adaları"
+  },
+  {
+    "query": "Küba'nın ülke üst seviye alan adı şudur:",
+    "answer": " .cu",
+    "sub": "Küba"
+  },
+  {
+    "query": "Kürasao (Hollanda Krallığı)'nın ülke üst seviye alan adı şudur:",
+    "answer": " .cw",
+    "sub": "Kürasao (Hollanda Krallığı)"
+  },
+  {
+    "query": "Kıbrıs'ın ülke üst seviye alan adı şudur:",
+    "answer": " .cy",
+    "sub": "Kıbrıs"
+  },
+  {
+    "query": "Çek Cumhuriyeti'nin ülke üst seviye alan adı şudur:",
+    "answer": " .cz",
+    "sub": "Çek Cumhuriyeti"
+  },
+  {
+    "query": "Demokratik Kongo Cumhuriyeti'nin ülke üst seviye alan adı şudur:",
+    "answer": " .cd",
+    "sub": "Demokratik Kongo Cumhuriyeti"
+  },
+  {
+    "query": "Danimarka'nın ülke üst seviye alan adı şudur:",
+    "answer": " .dk",
+    "sub": "Danimarka"
+  },
+  {
+    "query": "Cibuti'nin ülke üst seviye alan adı şudur:",
+    "answer": " .dj",
+    "sub": "Cibuti"
+  },
+  {
+    "query": "Doğu Timor'un ülke üst seviye alan adı şudur:",
+    "answer": " .tl",
+    "sub": "Doğu Timor"
+  },
+  {
+    "query": "Ekvador'un ülke üst seviye alan adı şudur:",
+    "answer": " .ec",
+    "sub": "Ekvador"
+  },
+  {
+    "query": "Eritre'nin ülke üst seviye alan adı şudur:",
+    "answer": " .er",
+    "sub": "Eritre"
+  },
+  {
+    "query": "Estonya'nın ülke üst seviye alan adı şudur:",
+    "answer": " .ee",
+    "sub": "Estonya"
+  },
+  {
+    "query": "Eswatini'nin ülke üst seviye alan adı şudur:",
+    "answer": " .sz",
+    "sub": "Eswatini"
+  },
+  {
+    "query": "Etiyopya'nın ülke üst seviye alan adı şudur:",
+    "answer": " .et",
+    "sub": "Etiyopya"
+  },
+  {
+    "query": "Avrupa Birliği'nin ülke üst seviye alan adı şudur:",
+    "answer": " .eu",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Mikronezya Federal Devletleri'nin ülke üst seviye alan adı şudur:",
+    "answer": " .fm",
+    "sub": "Mikronezya Federal Devletleri"
+  },
+  {
+    "query": "Fiji'nin ülke üst seviye alan adı şudur:",
+    "answer": " .fj",
+    "sub": "Fiji"
+  },
+  {
+    "query": "Fransız Güney ve Antarktika Toprakları'nın ülke üst seviye alan adı şudur:",
+    "answer": " .tf",
+    "sub": "Fransız Güney ve Antarktika Toprakları"
+  },
+  {
+    "query": "Almanya'nın ülke üst seviye alan adı şudur:",
+    "answer": " .de",
+    "sub": "Almanya"
+  },
+  {
+    "query": "Yunanistan'ın ülke üst seviye alan adı şudur:",
+    "answer": " .gr",
+    "sub": "Yunanistan"
+  },
+  {
+    "query": "Grönland (Danimarka Krallığı)'nın ülke üst seviye alan adı şudur:",
+    "answer": " .gl",
+    "sub": "Grönland (Danimarka Krallığı)"
+  },
+  {
+    "query": "Grenada'nın ülke üst seviye alan adı şudur:",
+    "answer": " .gd",
+    "sub": "Grenada"
+  },
+  {
+    "query": "Guam (Amerika Birleşik Devletleri)'nin ülke üst seviye alan adı şudur:",
+    "answer": " .gu",
+    "sub": "Guam (Amerika Birleşik Devletleri)"
+  },
+  {
+    "query": "Guernsey'in ülke üst seviye alan adı şudur:",
+    "answer": " .gg",
+    "sub": "Guernsey"
+  },
+  {
+    "query": "Gine'nin ülke üst seviye alan adı şudur:",
+    "answer": " .gn",
+    "sub": "Gine"
+  },
+  {
+    "query": "Gine-Bissau'nun ülke üst seviye alan adı şudur:",
+    "answer": " .gw",
+    "sub": "Gine-Bissau"
+  },
+  {
+    "query": "Guyana'nın ülke üst seviye alan adı şudur:",
+    "answer": " .gy",
+    "sub": "Guyana"
+  },
+  {
+    "query": "Haiti'nin ülke üst seviye alan adı şudur:",
+    "answer": " .ht",
+    "sub": "Haiti"
+  },
+  {
+    "query": "Heard Adası ve McDonald Adaları'nın ülke üst seviye alan adı şudur:",
+    "answer": " .hm",
+    "sub": "Heard Adası ve McDonald Adaları"
+  },
+  {
+    "query": "Hindistan'ın ülke üst seviye alan adı şudur:",
+    "answer": " .in",
+    "sub": "Hindistan"
+  },
+  {
+    "query": "Man Adası'nın ülke üst seviye alan adı şudur:",
+    "answer": " .im",
+    "sub": "Man Adası"
+  },
+  {
+    "query": "İsrail'in ülke üst seviye alan adı şudur:",
+    "answer": " .il",
+    "sub": "İsrail"
+  },
+  {
+    "query": "İtalya'nın ülke üst seviye alan adı şudur:",
+    "answer": " .it",
+    "sub": "İtalya"
+  },
+  {
+    "query": "Kazakistan'ın ülke üst seviye alan adı şudur:",
+    "answer": " .kz",
+    "sub": "Kazakistan"
+  },
+  {
+    "query": "Kiribati'nin ülke üst seviye alan adı şudur:",
+    "answer": " .ki",
+    "sub": "Kiribati"
+  },
+  {
+    "query": "Kuveyt'in ülke üst seviye alan adı şudur:",
+    "answer": " .kw",
+    "sub": "Kuveyt"
+  },
+  {
+    "query": "Lüksemburg'un ülke üst seviye alan adı şudur:",
+    "answer": " .lu",
+    "sub": "Lüksemburg"
+  },
+  {
+    "query": "Kuzey Mariana Adaları (Amerika Birleşik Devletleri)'nin ülke üst seviye alan adı şudur:",
+    "answer": " .mp",
+    "sub": "Kuzey Mariana Adaları (Amerika Birleşik Devletleri)"
+  },
+  {
+    "query": "Rusya'nın ülke üst seviye alan adı şudur:",
+    "answer": " .ru",
+    "sub": "Rusya"
+  },
+  {
+    "query": "Tunus'un ülke üst seviye alan adı şudur:",
+    "answer": " .tn",
+    "sub": "Tunus"
+  },
+  {
+    "query": "Türkiye'nin ülke üst seviye alan adı şudur:",
+    "answer": " .tr",
+    "sub": "Türkiye"
+  },
+  {
+    "query": "Türkmenistan'ın ülke üst seviye alan adı şudur:",
+    "answer": " .tm",
+    "sub": "Türkmenistan"
+  },
+  {
+    "query": "Birleşik Krallık'ın ülke üst seviye alan adı şudur:",
+    "answer": " .uk",
+    "sub": "Birleşik Krallık"
+  },
+  {
+    "query": "Amerika Birleşik Devletleri'nin ülke üst seviye alan adı şudur:",
+    "answer": " .us",
+    "sub": "Amerika Birleşik Devletleri"
+  },
+  {
+    "query": "Amerika Birleşik Devletleri Virjin Adaları (Amerika Birleşik Devletleri)'nin ülke üst seviye alan adı şudur:",
+    "answer": " .vi",
+    "sub": "Amerika Birleşik Devletleri Virjin Adaları (Amerika Birleşik Devletleri)"
+  }
+]

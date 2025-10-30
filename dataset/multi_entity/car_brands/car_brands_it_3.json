@@ -1,0 +1,756 @@
+[
+    {
+        "query": "Quanti produttori automobilistici ha l'Algeria?",
+        "answer": " 1",
+        "sub": "Algeria",
+        "count": 1,
+        "list": [
+            " SNVI"
+        ],
+        "en_sub": "Algeria"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha l'Argentina?",
+        "answer": " 3",
+        "sub": "Argentina",
+        "count": 3,
+        "list": [
+            " ASA Aluminium Body",
+            " Zanella",
+            " Sero Electric"
+        ],
+        "en_sub": "Argentina"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha l'Austria?",
+        "answer": " 4",
+        "sub": "Austria",
+        "count": 4,
+        "list": [
+            " KTM",
+            " Magna Steyr",
+            " Rosenbauer",
+            " Tushek & Spigel"
+        ],
+        "en_sub": "Austria"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha l'Azerbaigian?",
+        "answer": " 3",
+        "sub": "Azerbaigian",
+        "count": 3,
+        "list": [
+            " AzSamand",
+            " Ganja Auto Plant",
+            " Nakhchivan Automobile Plant"
+        ],
+        "en_sub": "Azerbaijan"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha la Bulgaria?",
+        "answer": " 2",
+        "sub": "Bulgaria",
+        "count": 2,
+        "list": [
+            " Litex",
+            " SIN"
+        ],
+        "en_sub": "Bulgaria"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha il Canada?",
+        "answer": " 12",
+        "sub": "Canada",
+        "count": 12,
+        "list": [
+            " Bombardier",
+            " Campagna",
+            " Felino Corporation",
+            " Intermeccanica",
+            " INKAS",
+            " Lion Electric Company",
+            " Magnum Cars",
+            " New Flyer",
+            " Nova Bus",
+            " Prevost",
+            " Terradyne",
+            " Vicinity Motor Corp."
+        ],
+        "en_sub": "Canada"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha la Cina?",
+        "answer": " 85",
+        "sub": "Cina",
+        "count": 85,
+        "list": [
+            " Arcfox",
+            " Aion",
+            " Apex Motors",
+            " Ankai",
+            " BAIC",
+            " Bonluck",
+            " Baojun",
+            " BAW",
+            " Bestune",
+            " Brilliance",
+            " BYD",
+            " Changan",
+            " Changhe",
+            " Chery",
+            " Dongfeng",
+            " Denza",
+            " Englon",
+            " Exeed",
+            " EuAuto",
+            " Everus",
+            " FAW",
+            " Hongqi",
+            " Foton",
+            " Firefly",
+            " Fangchengbao",
+            " GAC",
+            " Geely",
+            " Great Wall",
+            " Gyon",
+            " Henrey Automobile",
+            " Hafei",
+            " Haima",
+            " Hanteng",
+            " Hawtai",
+            " Haval",
+            " Heibao",
+            " HiPhi",
+            " Higer",
+            " Hozon Auto",
+            " Jetour",
+            " Jiangling",
+            " JMEV",
+            " Jinbei",
+            " Jonway",
+            " JAC",
+            " Jetta",
+            " JuneYao Auto",
+            " Karry",
+            " Kandi",
+            " King Long",
+            " ORA",
+            " Landwind",
+            " Leahead",
+            " Li Auto",
+            " Leapmotor",
+            " Lynk&Co",
+            " Maextro",
+            " Mudan Auto",
+            " Maxus",
+            " Nio",
+            " Qoros",
+            " Roewe",
+            " Ranz",
+            " SAIC",
+            " Sehol",
+            " Soueast",
+            " Spotlight Automotive",
+            " Stelato",
+            " Sunlong Bus",
+            " Skyworth Auto",
+            " Trumpchi",
+            " Wuling",
+            " Voyah",
+            " Xpeng",
+            " Xiaomi Auto",
+            " Yudo Auto",
+            " Yutong",
+            " Zhongtong Bus",
+            " Zinoro",
+            " Zotye",
+            " Zeekr",
+            " WEY",
+            " Xiamen Golden Dragon Bus",
+            " Yangwang",
+            " ZX Auto"
+        ],
+        "en_sub": "China"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha la Colombia?",
+        "answer": " 2",
+        "sub": "Colombia",
+        "count": 2,
+        "list": [
+            " Busscar de Colombia",
+            " Sofasa"
+        ],
+        "en_sub": "Colombia"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha la Croazia?",
+        "answer": " 2",
+        "sub": "Croazia",
+        "count": 2,
+        "list": [
+            " DOK-ING",
+            " Rimac"
+        ],
+        "en_sub": "Croatia"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha la Repubblica Ceca?",
+        "answer": " 6",
+        "sub": "Repubblica Ceca",
+        "count": 6,
+        "list": [
+            " Škoda",
+            " Tatra",
+            " Avia",
+            " Kaipan",
+            " MTX",
+            " Praga"
+        ],
+        "en_sub": "Czech Republic"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha l'Egitto?",
+        "answer": " 1",
+        "sub": "Egitto",
+        "count": 1,
+        "list": [
+            " MCV Bus & Coach"
+        ],
+        "en_sub": "Egypt"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha la Georgia?",
+        "answer": " 1",
+        "sub": "Georgia",
+        "count": 1,
+        "list": [
+            " KAZ"
+        ],
+        "en_sub": "Georgia"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha l'Ungheria?",
+        "answer": " 2",
+        "sub": "Ungheria",
+        "count": 2,
+        "list": [
+            " Ikarus",
+            " Rába"
+        ],
+        "en_sub": "Hungary"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha l'Islanda?",
+        "answer": " 1",
+        "sub": "Islanda",
+        "count": 1,
+        "list": [
+            " Arctic Trucks"
+        ],
+        "en_sub": "Iceland"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha l'India?",
+        "answer": " 16",
+        "sub": "India",
+        "count": 16,
+        "list": [
+            " Ajanta Group",
+            " Ashok Leyland",
+            " Asia MotorWorks",
+            " Atul Auto",
+            " Bajaj",
+            " Eicher",
+            " Force",
+            " Hindustan",
+            " ICML motors",
+            " KAL",
+            " Mahindra",
+            " Maruti",
+            " Ola Electric",
+            " Omega Seiki Mobility",
+            " Tara International",
+            " Tata"
+        ],
+        "en_sub": "India"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha  Israele?",
+        "answer": " 6",
+        "sub": "Israele",
+        "count": 6,
+        "list": [
+            " City Transformer",
+            " Ha'argaz",
+            " Merkavim",
+            " REE Automotive",
+            " Tomcar",
+            " Zibar"
+        ],
+        "en_sub": "Israel"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha l'Italia?",
+        "answer": " 28",
+        "sub": "Italia",
+        "count": 28,
+        "list": [
+            " Abarth",
+            " Alkè",
+            " Astra",
+            " Alfa Romeo",
+            " Automobili Estrema",
+            " Bremach",
+            " Casalini",
+            " Covini",
+            " CTS",
+            " DR Motor",
+            " Dallara",
+            " Fiat",
+            " Ferrari",
+            " Iso",
+            " Italdesign",
+            " Iveco",
+            " Lancia",
+            " Lamborghini",
+            " Maserati",
+            " M.A.T",
+            " Mazzanti",
+            " Minardi",
+            " Pagani",
+            " Piaggio",
+            " Pininfarina",
+            " SCV Srl",
+            " XEV",
+            " Zagato"
+        ],
+        "en_sub": "Italy"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha il Giappone?",
+        "answer": " 22",
+        "sub": "Giappone",
+        "count": 22,
+        "list": [
+            " Acura",
+            " Daihatsu",
+            " Hino",
+            " Honda",
+            " Infiniti",
+            " Isuzu",
+            " Lexus",
+            " Mazda",
+            " Mitsubishi",
+            " Mitsubishi Fuso",
+            " Nissan",
+            " Subaru",
+            " Suzuki",
+            " Toyota",
+            " UD Trucks",
+            " Aspark",
+            " Dome",
+            " GLM",
+            " J-Bus",
+            " Mitsuoka",
+            " NMKV",
+            " Tommykaira"
+        ],
+        "en_sub": "Japan"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha la Lettonia?",
+        "answer": " 2",
+        "sub": "Lettonia",
+        "count": 2,
+        "list": [
+            " Dartz",
+            " Drive eO"
+        ],
+        "en_sub": "Latvia"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha il Libano?",
+        "answer": " 2",
+        "sub": "Libano",
+        "count": 2,
+        "list": [
+            " EV Electra",
+            " W Motors"
+        ],
+        "en_sub": "Lebanon"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha la Malesia?",
+        "answer": " 6",
+        "sub": "Malesia",
+        "count": 6,
+        "list": [
+            " Bufori",
+            " DefTech",
+            " Inokom",
+            " Naza",
+            " Perodua",
+            " Proton"
+        ],
+        "en_sub": "Malaysia"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha il Messico?",
+        "answer": " 4",
+        "sub": "Messico",
+        "count": 4,
+        "list": [
+            " DINA",
+            " Mastretta",
+            " VUHL",
+            " Zacua"
+        ],
+        "en_sub": "Mexico"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha il Myanmar?",
+        "answer": " 1",
+        "sub": "Myanmar",
+        "count": 1,
+        "list": [
+            " Shan Star"
+        ],
+        "en_sub": "Myanmar"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha i Paesi Bassi?",
+        "answer": " 7",
+        "sub": "Paesi Bassi",
+        "count": 7,
+        "list": [
+            " Burton",
+            " Carver",
+            " DAF",
+            " Dakar",
+            " Donkervoort",
+            " Spijkstaal",
+            " Spyker"
+        ],
+        "en_sub": "Netherlands"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha  Stellantis?",
+        "answer": " 3",
+        "sub": "Stellantis",
+        "count": 3,
+        "list": [
+            " Vandenbrink",
+            " VDL Bus & Coach",
+            " Vencer"
+        ],
+        "en_sub": "Stellantis"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha la Nuova Zelanda?",
+        "answer": " 5",
+        "sub": "Nuova Zelanda",
+        "count": 5,
+        "list": [
+            " Almac",
+            " Anziel",
+            " Kiwi Bus Builders",
+            " Saker Cars",
+            " Trekka"
+        ],
+        "en_sub": "New Zealand"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha il Macedonia del Nord?",
+        "answer": " 1",
+        "sub": "Macedonia del Nord",
+        "count": 1,
+        "list": [
+            " FAS Sanos"
+        ],
+        "en_sub": "North Macedonia"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha la Russia?",
+        "answer": " 16",
+        "sub": "Russia",
+        "count": 16,
+        "list": [
+            " Aurus",
+            " Avtotor",
+            " AvtoVAZ",
+            " GAZ",
+            " KAvZ",
+            " LiAZ",
+            " PAZ",
+            " KAMAZ",
+            " NefAZ",
+            " Kombat Armouring",
+            " Moskvich",
+            " Sollers",
+            " UAZ",
+            " TREKOL",
+            " UralAZ",
+            " Volgabus"
+        ],
+        "en_sub": "Russia"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha il Sudan?",
+        "answer": " 1",
+        "sub": "Sudan",
+        "count": 1,
+        "list": [
+            " Giad Auto"
+        ],
+        "en_sub": "Sudan"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha lo Svezia?",
+        "answer": " 5",
+        "sub": "Svezia",
+        "count": 5,
+        "list": [
+            " Caresto",
+            " Koenigsegg",
+            " Polestar",
+            " Scania",
+            " Volvo"
+        ],
+        "en_sub": "Sweden"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha la Tunisia?",
+        "answer": " 1",
+        "sub": "Tunisia",
+        "count": 1,
+        "list": [
+            " Wallyscar"
+        ],
+        "en_sub": "Tunisia"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha la Turchia?",
+        "answer": " 11",
+        "sub": "Turchia",
+        "count": 11,
+        "list": [
+            " BMC",
+            " Erkunt",
+            " Etox",
+            " Guleryuz",
+            " Karsan",
+            " Katmerciler",
+            " Otokar",
+            " Ozaltin",
+            " Temsa",
+            " Tofas",
+            " Togg"
+        ],
+        "en_sub": "Turkey"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha l'Ucraina?",
+        "answer": " 6",
+        "sub": "Ucraina",
+        "count": 6,
+        "list": [
+            " Bogdan",
+            " Etalon",
+            " Eurocar",
+            " KrAZ",
+            " Sherp",
+            " ZAZ"
+        ],
+        "en_sub": "Ukraine"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha gli Emirati Arabi Uniti?",
+        "answer": " 3",
+        "sub": "Emirati Arabi Uniti",
+        "count": 3,
+        "list": [
+            " NIMR",
+            " STREIT Group",
+            " W Motors"
+        ],
+        "en_sub": "United Arab Emirates"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha il Regno Unito?",
+        "answer": " 37",
+        "sub": "Regno Unito",
+        "count": 37,
+        "list": [
+            " AC",
+            " Alexander Dennis",
+            " Apex",
+            " Ariel",
+            " Aston Martin",
+            " Atalanta",
+            " BAC",
+            " Bentley",
+            " Bowler",
+            " Caterham",
+            " David Brown",
+            " Elemental Cars",
+            " Ginetta",
+            " Gordon Murray Automotive",
+            " GKD Sports",
+            " Grinnall",
+            " Ineos",
+            " Jaguar",
+            " Lagonda",
+            " London EV Company",
+            " Land Rover",
+            " Lister",
+            " Lotus",
+            " Munro Vehicles",
+            " McLaren",
+            " Mcmutry Automotive",
+            " MG",
+            " Mini",
+            " Morgan",
+            " Noble",
+            " Radical Sportscars",
+            " Rolls-Royce",
+            " Ronart",
+            " Switch Mobility",
+            " TVR",
+            " Ultima Sports",
+            " Vauxhall"
+        ],
+        "en_sub": "United Kingdom"
+    },
+    {
+        "query": "Quanti produttori automobilistici hanno gli Stati Uniti?",
+        "answer": " 79",
+        "sub": "Stati Uniti",
+        "count": 79,
+        "list": [
+            " Buick",
+            " Cadillac",
+            " Chevrolet",
+            " GMC",
+            " Chrysler",
+            " Dodge",
+            " Jeep",
+            " Ram",
+            " Ford",
+            " Lincoln",
+            " All American Racers",
+            " AM General",
+            " Anteros Coachworks",
+            " Aptera",
+            " Arcimoto",
+            " Autocar",
+            " Alpha",
+            " Bremach",
+            " Bollinger",
+            " Callaway",
+            " Canoo",
+            " Czinger",
+            " DDR Motorsport",
+            " DeLorean",
+            " Drako",
+            " Detroit Electric",
+            " E-Z-GO",
+            " Equus",
+            " EdisonFuture",
+            " Falcon Motorsports",
+            " Factory Five Racing",
+            " Faraday",
+            " Fisker",
+            " Freightliner",
+            " Gillig",
+            " Google",
+            " GEM",
+            " Hennessey",
+            " Harley Davidson",
+            " International Harvester",
+            " IC Bus",
+            " Karma",
+            " Kenworth",
+            " Lingenfelter Performance Engineering",
+            " Lordstown",
+            " Lucid",
+            " Mullen",
+            " Mack",
+            " Myers",
+            " MCI",
+            " Navistar",
+            " Nikola",
+            " Oshkosh",
+            " Panoz",
+            " Phoenix Motorcars",
+            " Peterbilt",
+            " Pierce",
+            " Polaris",
+            " Proterra",
+            " RAESR",
+            " Rezvani",
+            " Rivian",
+            " Ronn Motor Group",
+            " Rossion",
+            " Saleen",
+            " SCG",
+            " Shelby",
+            " Slate Auto",
+            " SRT",
+            " SSC",
+            " Thomas Built Buses",
+            " Tesla",
+            " Telo Trucks",
+            " Trion Supercars",
+            " VLF",
+            " Vanderhall Motor Works",
+            " Western Star",
+            " Workhorse",
+            " Xos, Inc."
+        ],
+        "en_sub": "United States"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha l'Uruguay?",
+        "answer": " 1",
+        "sub": "Uruguay",
+        "count": 1,
+        "list": [
+            " Effa"
+        ],
+        "en_sub": "Uruguay"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha la Venezuela?",
+        "answer": " 1",
+        "sub": "Venezuela",
+        "count": 1,
+        "list": [
+            " Venirauto"
+        ],
+        "en_sub": "Venezuela"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha il Vietnam?",
+        "answer": " 4",
+        "sub": "Vietnam",
+        "count": 4,
+        "list": [
+            " Mekong",
+            " SAMCO",
+            " THACO",
+            " VinFast"
+        ],
+        "en_sub": "Vietnam"
+    },
+    {
+        "query": "Quanti produttori automobilistici ha lo Zimbabwe?",
+        "answer": " 1",
+        "sub": "Zimbabwe",
+        "count": 1,
+        "list": [
+            " Willowvale Motor Industries"
+        ],
+        "en_sub": "Zimbabwe"
+    }
+]

@@ -1,0 +1,742 @@
+﻿[
+  {
+    "query": "MessagePad is product of",
+    "answer": " Apple Inc.",
+    "sub": "MessagePad"
+  },
+  {
+    "query": "macOS is product of",
+    "answer": " Apple Inc.",
+    "sub": "macOS"
+  },
+  {
+    "query": "Safari is product of",
+    "answer": " Apple Inc.",
+    "sub": "Safari"
+  },
+  {
+    "query": "iWork is product of",
+    "answer": " Apple Inc.",
+    "sub": "iWork"
+  },
+  {
+    "query": "PostScript is product of",
+    "answer": " Adobe",
+    "sub": "PostScript"
+  },
+  {
+    "query": "IBM AIX is product of",
+    "answer": " IBM",
+    "sub": "IBM AIX"
+  },
+  {
+    "query": "GW-BASIC is product of",
+    "answer": " Microsoft",
+    "sub": "GW-BASIC"
+  },
+  {
+    "query": "Windows 1.0 is product of",
+    "answer": " Microsoft",
+    "sub": "Windows 1.0"
+  },
+  {
+    "query": "Nintendo 2DS is product of",
+    "answer": " Nintendo",
+    "sub": "Nintendo 2DS"
+  },
+  {
+    "query": "Intel Threading Building Blocks is product of",
+    "answer": " Intel",
+    "sub": "Intel Threading Building Blocks"
+  },
+  {
+    "query": "IA-32 is product of",
+    "answer": " Intel",
+    "sub": "IA-32"
+  },
+  {
+    "query": "Intel 8086 is product of",
+    "answer": " Intel",
+    "sub": "Intel 8086"
+  },
+  {
+    "query": "Intel 80386 is product of",
+    "answer": " Intel",
+    "sub": "Intel 80386"
+  },
+  {
+    "query": "Intel 80486 is product of",
+    "answer": " Intel",
+    "sub": "Intel 80486"
+  },
+  {
+    "query": "Windows 10 is product of",
+    "answer": " Microsoft",
+    "sub": "Windows 10"
+  },
+  {
+    "query": "IA-64 is product of",
+    "answer": " Intel",
+    "sub": "IA-64"
+  },
+  {
+    "query": "Lotus 1-2-3 is product of",
+    "answer": " IBM",
+    "sub": "Lotus 1-2-3"
+  },
+  {
+    "query": "Microsoft Office is product of",
+    "answer": " Microsoft",
+    "sub": "Microsoft Office"
+  },
+  {
+    "query": "Xenix is product of",
+    "answer": " Microsoft",
+    "sub": "Xenix"
+  },
+  {
+    "query": "Microsoft Word is product of",
+    "answer": " Microsoft",
+    "sub": "Microsoft Word"
+  },
+  {
+    "query": "macOS Server is product of",
+    "answer": " Apple Inc.",
+    "sub": "macOS Server"
+  },
+  {
+    "query": "Final Fantasy V is product of",
+    "answer": " Square",
+    "sub": "Final Fantasy V"
+  },
+  {
+    "query": "Windows Embedded Automotive is product of",
+    "answer": " Microsoft",
+    "sub": "Windows Embedded Automotive"
+  },
+  {
+    "query": "Microsoft Visual Studio is product of",
+    "answer": " Microsoft",
+    "sub": "Microsoft Visual Studio"
+  },
+  {
+    "query": "Windows NT 4.0 is product of",
+    "answer": " Microsoft",
+    "sub": "Windows NT 4.0"
+  },
+  {
+    "query": "Microsoft FrontPage is product of",
+    "answer": " Microsoft",
+    "sub": "Microsoft FrontPage"
+  },
+  {
+    "query": "Mac OS X Panther is product of",
+    "answer": " Apple Inc.",
+    "sub": "Mac OS X Panther"
+  },
+  {
+    "query": "XEDIT is product of",
+    "answer": " IBM",
+    "sub": "XEDIT"
+  },
+  {
+    "query": "Microsoft BASIC is product of",
+    "answer": " Microsoft",
+    "sub": "Microsoft BASIC"
+  },
+  {
+    "query": "Adobe Acrobat is product of",
+    "answer": " Adobe",
+    "sub": "Adobe Acrobat"
+  },
+  {
+    "query": "MobileMe is product of",
+    "answer": " Apple Inc.",
+    "sub": "MobileMe"
+  },
+  {
+    "query": "Zaxxon is product of",
+    "answer": " Sega",
+    "sub": "Zaxxon"
+  },
+  {
+    "query": "Visual Basic .NET is product of",
+    "answer": " Microsoft",
+    "sub": "Visual Basic .NET"
+  },
+  {
+    "query": "Adobe Flash Builder is product of",
+    "answer": " Adobe",
+    "sub": "Adobe Flash Builder"
+  },
+  {
+    "query": "Windows Phone is product of",
+    "answer": " Microsoft",
+    "sub": "Windows Phone"
+  },
+  {
+    "query": "Mario franchise is product of",
+    "answer": " Nintendo",
+    "sub": "Mario franchise"
+  },
+  {
+    "query": "Pentium is product of",
+    "answer": " Intel",
+    "sub": "Pentium"
+  },
+  {
+    "query": "Adobe Photoshop Elements is product of",
+    "answer": " Adobe",
+    "sub": "Adobe Photoshop Elements"
+  },
+  {
+    "query": "Adobe Photoshop Lightroom is product of",
+    "answer": " Adobe",
+    "sub": "Adobe Photoshop Lightroom"
+  },
+  {
+    "query": "Mac OS X 10.2 is product of",
+    "answer": " Apple Inc.",
+    "sub": "Mac OS X 10.2"
+  },
+  {
+    "query": "Wii U is product of",
+    "answer": " Nintendo",
+    "sub": "Wii U"
+  },
+  {
+    "query": "Microsoft Visio is product of",
+    "answer": " Microsoft",
+    "sub": "Microsoft Visio"
+  },
+  {
+    "query": "Windows XP is product of",
+    "answer": " Microsoft",
+    "sub": "Windows XP"
+  },
+  {
+    "query": "Windows 2000 is product of",
+    "answer": " Microsoft",
+    "sub": "Windows 2000"
+  },
+  {
+    "query": "Intel 80186 is product of",
+    "answer": " Intel",
+    "sub": "Intel 80186"
+  },
+  {
+    "query": "Intel 80286 is product of",
+    "answer": " Intel",
+    "sub": "Intel 80286"
+  },
+  {
+    "query": "Audio Video Interleave is product of",
+    "answer": " Microsoft",
+    "sub": "Audio Video Interleave"
+  },
+  {
+    "query": "IBM System i is product of",
+    "answer": " IBM",
+    "sub": "IBM System i"
+  },
+  {
+    "query": "IBM i is product of",
+    "answer": " IBM",
+    "sub": "IBM i"
+  },
+  {
+    "query": "Alex Kidd is product of",
+    "answer": " Sega",
+    "sub": "Alex Kidd"
+  },
+  {
+    "query": "Windows 8 is product of",
+    "answer": " Microsoft",
+    "sub": "Windows 8"
+  },
+  {
+    "query": "The Legend of Zelda is product of",
+    "answer": " Nintendo",
+    "sub": "The Legend of Zelda"
+  },
+  {
+    "query": "Gmail is product of",
+    "answer": " Google",
+    "sub": "Gmail"
+  },
+  {
+    "query": "Mac OS X Snow Leopard is product of",
+    "answer": " Apple Inc.",
+    "sub": "Mac OS X Snow Leopard"
+  },
+  {
+    "query": "Microsoft Office 2007 is product of",
+    "answer": " Microsoft",
+    "sub": "Microsoft Office 2007"
+  },
+  {
+    "query": "Windows Embedded Compact is product of",
+    "answer": " Microsoft",
+    "sub": "Windows Embedded Compact"
+  },
+  {
+    "query": "NTLDR is product of",
+    "answer": " Microsoft",
+    "sub": "NTLDR"
+  },
+  {
+    "query": "Windows Server 2003 is product of",
+    "answer": " Microsoft",
+    "sub": "Windows Server 2003"
+  },
+  {
+    "query": "Windows Server 2008 is product of",
+    "answer": " Microsoft",
+    "sub": "Windows Server 2008"
+  },
+  {
+    "query": "Google Workspace is product of",
+    "answer": " Google",
+    "sub": "Google Workspace"
+  },
+  {
+    "query": "Microsoft Picture It! is product of",
+    "answer": " Microsoft",
+    "sub": "Microsoft Picture It!"
+  },
+  {
+    "query": "Nintendo DSi is product of",
+    "answer": " Nintendo",
+    "sub": "Nintendo DSi"
+  },
+  {
+    "query": "Super Monaco GP is product of",
+    "answer": " Sega",
+    "sub": "Super Monaco GP"
+  },
+  {
+    "query": "Windows Media Player is product of",
+    "answer": " Microsoft",
+    "sub": "Windows Media Player"
+  },
+  {
+    "query": "Chrono Trigger is product of",
+    "answer": " Square",
+    "sub": "Chrono Trigger"
+  },
+  {
+    "query": "Zune is product of",
+    "answer": " Microsoft",
+    "sub": "Zune"
+  },
+  {
+    "query": "iTunes is product of",
+    "answer": " Apple Inc.",
+    "sub": "iTunes"
+  },
+  {
+    "query": "Google Talk is product of",
+    "answer": " Google",
+    "sub": "Google Talk"
+  },
+  {
+    "query": "Windows Embedded is product of",
+    "answer": " Microsoft",
+    "sub": "Windows Embedded"
+  },
+  {
+    "query": "zero configuration networking is product of",
+    "answer": " Apple Inc.",
+    "sub": "zero configuration networking"
+  },
+  {
+    "query": "Adobe Illustrator is product of",
+    "answer": " Adobe",
+    "sub": "Adobe Illustrator"
+  },
+  {
+    "query": "Donkey Kong is product of",
+    "answer": " Nintendo",
+    "sub": "Donkey Kong"
+  },
+  {
+    "query": "Google AdSense is product of",
+    "answer": " Google",
+    "sub": "Google AdSense"
+  },
+  {
+    "query": "Thunder Blade is product of",
+    "answer": " Sega",
+    "sub": "Thunder Blade"
+  },
+  {
+    "query": "Windows 8.1 is product of",
+    "answer": " Microsoft",
+    "sub": "Windows 8.1"
+  },
+  {
+    "query": "Test Drive Le Mans is product of",
+    "answer": " Atari",
+    "sub": "Test Drive Le Mans"
+  },
+  {
+    "query": "A350 is product of",
+    "answer": " Airbus",
+    "sub": "A350"
+  },
+  {
+    "query": "SonicStage is product of",
+    "answer": " Sony",
+    "sub": "SonicStage"
+  },
+  {
+    "query": "Digital Negative is product of",
+    "answer": " Adobe",
+    "sub": "Digital Negative"
+  },
+  {
+    "query": "Golden Axe is product of",
+    "answer": " Sega",
+    "sub": "Golden Axe"
+  },
+  {
+    "query": "Time Sharing Option is product of",
+    "answer": " IBM",
+    "sub": "Time Sharing Option"
+  },
+  {
+    "query": "Google Desktop is product of",
+    "answer": " Google",
+    "sub": "Google Desktop"
+  },
+  {
+    "query": "ASCI Red is product of",
+    "answer": " Intel",
+    "sub": "ASCI Red"
+  },
+  {
+    "query": "Picasa is product of",
+    "answer": " Google",
+    "sub": "Picasa"
+  },
+  {
+    "query": "IBM Db2 is product of",
+    "answer": " IBM",
+    "sub": "IBM Db2"
+  },
+  {
+    "query": "Microsoft Silverlight is product of",
+    "answer": " Microsoft",
+    "sub": "Microsoft Silverlight"
+  },
+  {
+    "query": "iPod Touch is product of",
+    "answer": " Apple Inc.",
+    "sub": "iPod Touch"
+  },
+  {
+    "query": "Synchronized Accessible Media Interchange is product of",
+    "answer": " Microsoft",
+    "sub": "Synchronized Accessible Media Interchange"
+  },
+  {
+    "query": "Microsoft Compiled HTML Help is product of",
+    "answer": " Microsoft",
+    "sub": "Microsoft Compiled HTML Help"
+  },
+  {
+    "query": "OpenAFS is product of",
+    "answer": " IBM",
+    "sub": "OpenAFS"
+  },
+  {
+    "query": "iPod Mini is product of",
+    "answer": " Apple Inc.",
+    "sub": "iPod Mini"
+  },
+  {
+    "query": "Vector Markup Language is product of",
+    "answer": " Microsoft",
+    "sub": "Vector Markup Language"
+  },
+  {
+    "query": "YUI Library is product of",
+    "answer": " Yahoo",
+    "sub": "YUI Library"
+  },
+  {
+    "query": "QuickDraw is product of",
+    "answer": " Apple Inc.",
+    "sub": "QuickDraw"
+  },
+  {
+    "query": "OpenDoc is product of",
+    "answer": " Apple Inc.",
+    "sub": "OpenDoc"
+  },
+  {
+    "query": "Meta Content Framework is product of",
+    "answer": " Apple Inc.",
+    "sub": "Meta Content Framework"
+  },
+  {
+    "query": "iPod Shuffle is product of",
+    "answer": " Apple Inc.",
+    "sub": "iPod Shuffle"
+  },
+  {
+    "query": "Windows Communication Foundation is product of",
+    "answer": " Microsoft",
+    "sub": "Windows Communication Foundation"
+  },
+  {
+    "query": "Adobe Soundbooth is product of",
+    "answer": " Adobe",
+    "sub": "Adobe Soundbooth"
+  },
+  {
+    "query": "Adobe Audition is product of",
+    "answer": " Adobe",
+    "sub": "Adobe Audition"
+  },
+  {
+    "query": "Heavyweight Champ is product of",
+    "answer": " Sega",
+    "sub": "Heavyweight Champ"
+  },
+  {
+    "query": "Resource Access Control Facility is product of",
+    "answer": " IBM",
+    "sub": "Resource Access Control Facility"
+  },
+  {
+    "query": "IBM Network Control Program is product of",
+    "answer": " IBM",
+    "sub": "IBM Network Control Program"
+  },
+  {
+    "query": "Tamarin is product of",
+    "answer": " Adobe",
+    "sub": "Tamarin"
+  },
+  {
+    "query": "Adobe Flash Player is product of",
+    "answer": " Adobe",
+    "sub": "Adobe Flash Player"
+  },
+  {
+    "query": "Microsoft Plus! is product of",
+    "answer": " Microsoft",
+    "sub": "Microsoft Plus!"
+  },
+  {
+    "query": "iDisk is product of",
+    "answer": " Apple Inc.",
+    "sub": "iDisk"
+  },
+  {
+    "query": "OS X Yosemite is product of",
+    "answer": " Apple Inc.",
+    "sub": "OS X Yosemite"
+  },
+  {
+    "query": "iOS 8 is product of",
+    "answer": " Apple Inc.",
+    "sub": "iOS 8"
+  },
+  {
+    "query": "Mac OS X Tiger is product of",
+    "answer": " Apple Inc.",
+    "sub": "Mac OS X Tiger"
+  },
+  {
+    "query": "Advanced Systems Format is product of",
+    "answer": " Microsoft",
+    "sub": "Advanced Systems Format"
+  },
+  {
+    "query": "Siri is product of",
+    "answer": " Apple Inc.",
+    "sub": "Siri"
+  },
+  {
+    "query": "Super Audio CD is product of",
+    "answer": " Sony",
+    "sub": "Super Audio CD"
+  },
+  {
+    "query": "B-47 Stratojet is product of",
+    "answer": " Boeing",
+    "sub": "B-47 Stratojet"
+  },
+  {
+    "query": "TypeScript is product of",
+    "answer": " Microsoft",
+    "sub": "TypeScript"
+  },
+  {
+    "query": "Adobe After Effects is product of",
+    "answer": " Adobe",
+    "sub": "Adobe After Effects"
+  },
+  {
+    "query": "Adobe Premiere Pro is product of",
+    "answer": " Adobe",
+    "sub": "Adobe Premiere Pro"
+  },
+  {
+    "query": "Google Patents is product of",
+    "answer": " Google",
+    "sub": "Google Patents"
+  },
+  {
+    "query": "Sega Smash Pack is product of",
+    "answer": " Sega",
+    "sub": "Sega Smash Pack"
+  },
+  {
+    "query": "IBM RPG II is product of",
+    "answer": " IBM",
+    "sub": "IBM RPG II"
+  },
+  {
+    "query": "iTunes Radio is product of",
+    "answer": " Apple Inc.",
+    "sub": "iTunes Radio"
+  },
+  {
+    "query": "Journaled File System is product of",
+    "answer": " IBM",
+    "sub": "Journaled File System"
+  },
+  {
+    "query": "IBM General Parallel File System is product of",
+    "answer": " IBM",
+    "sub": "IBM General Parallel File System"
+  },
+  {
+    "query": "WebObjects is product of",
+    "answer": " Apple Inc.",
+    "sub": "WebObjects"
+  },
+  {
+    "query": "Microsoft Macro Assembler is product of",
+    "answer": " Microsoft",
+    "sub": "Microsoft Macro Assembler"
+  },
+  {
+    "query": "Windows Installer is product of",
+    "answer": " Microsoft",
+    "sub": "Windows Installer"
+  },
+  {
+    "query": "sRGB is product of",
+    "answer": " Microsoft",
+    "sub": "sRGB"
+  },
+  {
+    "query": "Final Fantasy is product of",
+    "answer": " Square",
+    "sub": "Final Fantasy"
+  },
+  {
+    "query": "Google Drive is product of",
+    "answer": " Google",
+    "sub": "Google Drive"
+  },
+  {
+    "query": "Google Calendar is product of",
+    "answer": " Google",
+    "sub": "Google Calendar"
+  },
+  {
+    "query": "Skype is product of",
+    "answer": " Microsoft",
+    "sub": "Skype"
+  },
+  {
+    "query": "Eternal Champions is product of",
+    "answer": " Sega",
+    "sub": "Eternal Champions"
+  },
+  {
+    "query": "IntelliPoint is product of",
+    "answer": " Microsoft",
+    "sub": "IntelliPoint"
+  },
+  {
+    "query": "The Ocean Hunter is product of",
+    "answer": " Sega",
+    "sub": "The Ocean Hunter"
+  },
+  {
+    "query": "Final Cut Studio is product of",
+    "answer": " Apple Inc.",
+    "sub": "Final Cut Studio"
+  },
+  {
+    "query": "Adobe Media Player is product of",
+    "answer": " Adobe",
+    "sub": "Adobe Media Player"
+  },
+  {
+    "query": "HFS Plus is product of",
+    "answer": " Apple Inc.",
+    "sub": "HFS Plus"
+  },
+  {
+    "query": "Adobe Fireworks is product of",
+    "answer": " Adobe",
+    "sub": "Adobe Fireworks"
+  },
+  {
+    "query": "IBM Business System 12 is product of",
+    "answer": " IBM",
+    "sub": "IBM Business System 12"
+  },
+  {
+    "query": "Airbus A300-600ST Beluga is product of",
+    "answer": " Airbus",
+    "sub": "Airbus A300-600ST Beluga"
+  },
+  {
+    "query": "Internet Explorer 11 is product of",
+    "answer": " Microsoft",
+    "sub": "Internet Explorer 11"
+  },
+  {
+    "query": "Adobe Muse is product of",
+    "answer": " Adobe",
+    "sub": "Adobe Muse"
+  },
+  {
+    "query": "Binary Synchronous Communications is product of",
+    "answer": " IBM",
+    "sub": "Binary Synchronous Communications"
+  },
+  {
+    "query": "NetFront is product of",
+    "answer": " Access",
+    "sub": "NetFront"
+  },
+  {
+    "query": "Astron Belt is product of",
+    "answer": " Sega",
+    "sub": "Astron Belt"
+  },
+  {
+    "query": "IBM Lotus SmartSuite is product of",
+    "answer": " IBM",
+    "sub": "IBM Lotus SmartSuite"
+  },
+  {
+    "query": "Microsoft Schedule Plus is product of",
+    "answer": " Microsoft",
+    "sub": "Microsoft Schedule Plus"
+  },
+  {
+    "query": "Adobe Illustrator Artwork is product of",
+    "answer": " Adobe",
+    "sub": "Adobe Illustrator Artwork"
+  }
+]

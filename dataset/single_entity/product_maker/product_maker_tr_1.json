@@ -1,0 +1,742 @@
+[
+    {
+        "query": "MessagePad'ın üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "MessagePad"
+    },
+    {
+        "query": "macOS'un üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "macOS"
+    },
+    {
+        "query": "Safari'nin üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "Safari"
+    },
+    {
+        "query": "iWork'un üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "iWork"
+    },
+    {
+        "query": "PostScript'in üreticisi kimdir?",
+        "answer": " Adobe'dir",
+        "sub": "PostScript"
+    },
+    {
+        "query": "IBM AIX'in üreticisi kimdir?",
+        "answer": " IBM'dir",
+        "sub": "IBM AIX"
+    },
+    {
+        "query": "GW-BASIC'in üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "GW-BASIC"
+    },
+    {
+        "query": "Windows 1.0'un üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Windows 1.0"
+    },
+    {
+        "query": "Nintendo 2DS'un üreticisi kimdir?",
+        "answer": " Nintendo'dur",
+        "sub": "Nintendo 2DS"
+    },
+    {
+        "query": "Intel Threading Building Blocks'un üreticisi kimdir?",
+        "answer": " Intel'dir",
+        "sub": "Intel Threading Building Blocks"
+    },
+    {
+        "query": "IA-32'nın üreticisi kimdir?",
+        "answer": " Intel'dir",
+        "sub": "IA-32"
+    },
+    {
+        "query": "Intel 8086'in üreticisi kimdir?",
+        "answer": " Intel'dir",
+        "sub": "Intel 8086"
+    },
+    {
+        "query": "Intel 80386'in üreticisi kimdir?",
+        "answer": " Intel'dir",
+        "sub": "Intel 80386"
+    },
+    {
+        "query": "Intel 80486'in üreticisi kimdir?",
+        "answer": " Intel'dir",
+        "sub": "Intel 80486"
+    },
+    {
+        "query": "Windows 10'un üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Windows 10"
+    },
+    {
+        "query": "IA-64'nın üreticisi kimdir?",
+        "answer": " Intel'dir",
+        "sub": "IA-64"
+    },
+    {
+        "query": "Lotus 1-2-3'un üreticisi kimdir?",
+        "answer": " IBM'dir",
+        "sub": "Lotus 1-2-3"
+    },
+    {
+        "query": "Microsoft Office'nin üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Microsoft Office"
+    },
+    {
+        "query": "Xenix'in üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Xenix"
+    },
+    {
+        "query": "Microsoft Word'un üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Microsoft Word"
+    },
+    {
+        "query": "macOS Server'in üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "macOS Server"
+    },
+    {
+        "query": "Final Fantasy V'ın üreticisi kimdir?",
+        "answer": " Square'dir",
+        "sub": "Final Fantasy V"
+    },
+    {
+        "query": "Windows Embedded Automotive'nin üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Windows Embedded Automotive"
+    },
+    {
+        "query": "Microsoft Visual Studio'nun üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Microsoft Visual Studio"
+    },
+    {
+        "query": "Windows NT 4.0'un üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Windows NT 4.0"
+    },
+    {
+        "query": "Microsoft FrontPage'nin üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Microsoft FrontPage"
+    },
+    {
+        "query": "Mac OS X Panther'in üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "Mac OS X Panther"
+    },
+    {
+        "query": "XEDIT'in üreticisi kimdir?",
+        "answer": " IBM'dir",
+        "sub": "XEDIT"
+    },
+    {
+        "query": "Microsoft BASIC'in üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Microsoft BASIC"
+    },
+    {
+        "query": "Adobe Acrobat'ın üreticisi kimdir?",
+        "answer": " Adobe'dir",
+        "sub": "Adobe Acrobat"
+    },
+    {
+        "query": "MobileMe'nin üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "MobileMe"
+    },
+    {
+        "query": "Zaxxon'un üreticisi kimdir?",
+        "answer": " Sega'dır",
+        "sub": "Zaxxon"
+    },
+    {
+        "query": "Visual Basic .NET'in üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Visual Basic .NET"
+    },
+    {
+        "query": "Adobe Flash Builder'in üreticisi kimdir?",
+        "answer": " Adobe'dir",
+        "sub": "Adobe Flash Builder"
+    },
+    {
+        "query": "Windows Phone'nin üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Windows Phone"
+    },
+    {
+        "query": "Mario franchise'nin üreticisi kimdir?",
+        "answer": " Nintendo'dur",
+        "sub": "Mario franchise"
+    },
+    {
+        "query": "Pentium'un üreticisi kimdir?",
+        "answer": " Intel'dir",
+        "sub": "Pentium"
+    },
+    {
+        "query": "Adobe Photoshop Elements'in üreticisi kimdir?",
+        "answer": " Adobe'dir",
+        "sub": "Adobe Photoshop Elements"
+    },
+    {
+        "query": "Adobe Photoshop Lightroom'un üreticisi kimdir?",
+        "answer": " Adobe'dir",
+        "sub": "Adobe Photoshop Lightroom"
+    },
+    {
+        "query": "Mac OS X 10.2'un üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "Mac OS X 10.2"
+    },
+    {
+        "query": "Wii U'nun üreticisi kimdir?",
+        "answer": " Nintendo'dur",
+        "sub": "Wii U"
+    },
+    {
+        "query": "Microsoft Visio'nun üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Microsoft Visio"
+    },
+    {
+        "query": "Windows XP'un üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Windows XP"
+    },
+    {
+        "query": "Windows 2000'un üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Windows 2000"
+    },
+    {
+        "query": "Intel 80186'in üreticisi kimdir?",
+        "answer": " Intel'dir",
+        "sub": "Intel 80186"
+    },
+    {
+        "query": "Intel 80286'in üreticisi kimdir?",
+        "answer": " Intel'dir",
+        "sub": "Intel 80286"
+    },
+    {
+        "query": "Audio Video Interleave'nin üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Audio Video Interleave"
+    },
+    {
+        "query": "IBM System i'nin üreticisi kimdir?",
+        "answer": " IBM'dir",
+        "sub": "IBM System i"
+    },
+    {
+        "query": "IBM i'nin üreticisi kimdir?",
+        "answer": " IBM'dir",
+        "sub": "IBM i"
+    },
+    {
+        "query": "Alex Kidd'in üreticisi kimdir?",
+        "answer": " Sega'dır",
+        "sub": "Alex Kidd"
+    },
+    {
+        "query": "Windows 8'un üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Windows 8"
+    },
+    {
+        "query": "The Legend of Zelda'nın üreticisi kimdir?",
+        "answer": " Nintendo'dur",
+        "sub": "The Legend of Zelda"
+    },
+    {
+        "query": "Gmail'in üreticisi kimdir?",
+        "answer": " Google'dir",
+        "sub": "Gmail"
+    },
+    {
+        "query": "Mac OS X Snow Leopard'ın üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "Mac OS X Snow Leopard"
+    },
+    {
+        "query": "Microsoft Office 2007'nin üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Microsoft Office 2007"
+    },
+    {
+        "query": "Windows Embedded Compact'ın üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Windows Embedded Compact"
+    },
+    {
+        "query": "NTLDR'nin üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "NTLDR"
+    },
+    {
+        "query": "Windows Server 2003'in üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Windows Server 2003"
+    },
+    {
+        "query": "Windows Server 2008'in üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Windows Server 2008"
+    },
+    {
+        "query": "Google Workspace'nin üreticisi kimdir?",
+        "answer": " Google'dir",
+        "sub": "Google Workspace"
+    },
+    {
+        "query": "Microsoft Picture It!'in üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Microsoft Picture It!"
+    },
+    {
+        "query": "Nintendo DSi'nin üreticisi kimdir?",
+        "answer": " Nintendo'dur",
+        "sub": "Nintendo DSi"
+    },
+    {
+        "query": "Super Monaco GP'un üreticisi kimdir?",
+        "answer": " Sega'dır",
+        "sub": "Super Monaco GP"
+    },
+    {
+        "query": "Windows Media Player'in üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Windows Media Player"
+    },
+    {
+        "query": "Chrono Trigger'in üreticisi kimdir?",
+        "answer": " Square'dir",
+        "sub": "Chrono Trigger"
+    },
+    {
+        "query": "Zune'nin üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Zune"
+    },
+    {
+        "query": "iTunes'in üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "iTunes"
+    },
+    {
+        "query": "Google Talk'ın üreticisi kimdir?",
+        "answer": " Google'dir",
+        "sub": "Google Talk"
+    },
+    {
+        "query": "Windows Embedded'in üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Windows Embedded"
+    },
+    {
+        "query": "zero configuration networking'in üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "zero configuration networking"
+    },
+    {
+        "query": "Adobe Illustrator'un üreticisi kimdir?",
+        "answer": " Adobe'dir",
+        "sub": "Adobe Illustrator"
+    },
+    {
+        "query": "Donkey Kong'un üreticisi kimdir?",
+        "answer": " Nintendo'dur",
+        "sub": "Donkey Kong"
+    },
+    {
+        "query": "Google AdSense'nin üreticisi kimdir?",
+        "answer": " Google'dir",
+        "sub": "Google AdSense"
+    },
+    {
+        "query": "Thunder Blade'nin üreticisi kimdir?",
+        "answer": " Sega'dır",
+        "sub": "Thunder Blade"
+    },
+    {
+        "query": "Windows 8.1'un üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Windows 8.1"
+    },
+    {
+        "query": "Test Drive Le Mans'ın üreticisi kimdir?",
+        "answer": " Atari'dir",
+        "sub": "Test Drive Le Mans"
+    },
+    {
+        "query": "A350'nın üreticisi kimdir?",
+        "answer": " Airbus'tur",
+        "sub": "A350"
+    },
+    {
+        "query": "SonicStage'nin üreticisi kimdir?",
+        "answer": " Sony'dur",
+        "sub": "SonicStage"
+    },
+    {
+        "query": "Digital Negative'nin üreticisi kimdir?",
+        "answer": " Adobe'dir",
+        "sub": "Digital Negative"
+    },
+    {
+        "query": "Golden Axe'nin üreticisi kimdir?",
+        "answer": " Sega'dır",
+        "sub": "Golden Axe"
+    },
+    {
+        "query": "Time Sharing Option'un üreticisi kimdir?",
+        "answer": " IBM'dir",
+        "sub": "Time Sharing Option"
+    },
+    {
+        "query": "Google Desktop'un üreticisi kimdir?",
+        "answer": " Google'dir",
+        "sub": "Google Desktop"
+    },
+    {
+        "query": "ASCI Red'in üreticisi kimdir?",
+        "answer": " Intel'dir",
+        "sub": "ASCI Red"
+    },
+    {
+        "query": "Picasa'nın üreticisi kimdir?",
+        "answer": " Google'dir",
+        "sub": "Picasa"
+    },
+    {
+        "query": "IBM Db2'in üreticisi kimdir?",
+        "answer": " IBM'dir",
+        "sub": "IBM Db2"
+    },
+    {
+        "query": "Microsoft Silverlight'in üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Microsoft Silverlight"
+    },
+    {
+        "query": "iPod Touch'un üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "iPod Touch"
+    },
+    {
+        "query": "Synchronized Accessible Media Interchange'nin üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Synchronized Accessible Media Interchange"
+    },
+    {
+        "query": "Microsoft Compiled HTML Help'in üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Microsoft Compiled HTML Help"
+    },
+    {
+        "query": "OpenAFS'ın üreticisi kimdir?",
+        "answer": " IBM'dir",
+        "sub": "OpenAFS"
+    },
+    {
+        "query": "iPod Mini'nin üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "iPod Mini"
+    },
+    {
+        "query": "Vector Markup Language'nin üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Vector Markup Language"
+    },
+    {
+        "query": "YUI Library'ın üreticisi kimdir?",
+        "answer": " Yahoo'dur",
+        "sub": "YUI Library"
+    },
+    {
+        "query": "QuickDraw'ın üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "QuickDraw"
+    },
+    {
+        "query": "OpenDoc'un üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "OpenDoc"
+    },
+    {
+        "query": "Meta Content Framework'un üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "Meta Content Framework"
+    },
+    {
+        "query": "iPod Shuffle'nin üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "iPod Shuffle"
+    },
+    {
+        "query": "Windows Communication Foundation'un üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Windows Communication Foundation"
+    },
+    {
+        "query": "Adobe Soundbooth'un üreticisi kimdir?",
+        "answer": " Adobe'dir",
+        "sub": "Adobe Soundbooth"
+    },
+    {
+        "query": "Adobe Audition'un üreticisi kimdir?",
+        "answer": " Adobe'dir",
+        "sub": "Adobe Audition"
+    },
+    {
+        "query": "Heavyweight Champ'ın üreticisi kimdir?",
+        "answer": " Sega'dır",
+        "sub": "Heavyweight Champ"
+    },
+    {
+        "query": "Resource Access Control Facility'in üreticisi kimdir?",
+        "answer": " IBM'dir",
+        "sub": "Resource Access Control Facility"
+    },
+    {
+        "query": "IBM Network Control Program'ın üreticisi kimdir?",
+        "answer": " IBM'dir",
+        "sub": "IBM Network Control Program"
+    },
+    {
+        "query": "Tamarin'in üreticisi kimdir?",
+        "answer": " Adobe'dir",
+        "sub": "Tamarin"
+    },
+    {
+        "query": "Adobe Flash Player'in üreticisi kimdir?",
+        "answer": " Adobe'dir",
+        "sub": "Adobe Flash Player"
+    },
+    {
+        "query": "Microsoft Plus!'un üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Microsoft Plus!"
+    },
+    {
+        "query": "iDisk'in üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "iDisk"
+    },
+    {
+        "query": "OS X Yosemite'nin üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "OS X Yosemite"
+    },
+    {
+        "query": "iOS 8'un üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "iOS 8"
+    },
+    {
+        "query": "Mac OS X Tiger'in üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "Mac OS X Tiger"
+    },
+    {
+        "query": "Advanced Systems Format'ın üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Advanced Systems Format"
+    },
+    {
+        "query": "Siri'nin üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "Siri"
+    },
+    {
+        "query": "Super Audio CD'un üreticisi kimdir?",
+        "answer": " Sony'dur",
+        "sub": "Super Audio CD"
+    },
+    {
+        "query": "B-47 Stratojet'in üreticisi kimdir?",
+        "answer": " Boeing'dir",
+        "sub": "B-47 Stratojet"
+    },
+    {
+        "query": "TypeScript'in üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "TypeScript"
+    },
+    {
+        "query": "Adobe After Effects'in üreticisi kimdir?",
+        "answer": " Adobe'dir",
+        "sub": "Adobe After Effects"
+    },
+    {
+        "query": "Adobe Premiere Pro'nun üreticisi kimdir?",
+        "answer": " Adobe'dir",
+        "sub": "Adobe Premiere Pro"
+    },
+    {
+        "query": "Google Patents'in üreticisi kimdir?",
+        "answer": " Google'dir",
+        "sub": "Google Patents"
+    },
+    {
+        "query": "Sega Smash Pack'ın üreticisi kimdir?",
+        "answer": " Sega'dır",
+        "sub": "Sega Smash Pack"
+    },
+    {
+        "query": "IBM RPG II'nin üreticisi kimdir?",
+        "answer": " IBM'dir",
+        "sub": "IBM RPG II"
+    },
+    {
+        "query": "iTunes Radio'nun üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "iTunes Radio"
+    },
+    {
+        "query": "Journaled File System'in üreticisi kimdir?",
+        "answer": " IBM'dir",
+        "sub": "Journaled File System"
+    },
+    {
+        "query": "IBM General Parallel File System'in üreticisi kimdir?",
+        "answer": " IBM'dir",
+        "sub": "IBM General Parallel File System"
+    },
+    {
+        "query": "WebObjects'in üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "WebObjects"
+    },
+    {
+        "query": "Microsoft Macro Assembler'in üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Microsoft Macro Assembler"
+    },
+    {
+        "query": "Windows Installer'in üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Windows Installer"
+    },
+    {
+        "query": "sRGB'nin üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "sRGB"
+    },
+    {
+        "query": "Final Fantasy'ın üreticisi kimdir?",
+        "answer": " Square'dir",
+        "sub": "Final Fantasy"
+    },
+    {
+        "query": "Google Drive'nin üreticisi kimdir?",
+        "answer": " Google'dir",
+        "sub": "Google Drive"
+    },
+    {
+        "query": "Google Calendar'ın üreticisi kimdir?",
+        "answer": " Google'dir",
+        "sub": "Google Calendar"
+    },
+    {
+        "query": "Skype'nin üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Skype"
+    },
+    {
+        "query": "Eternal Champions'un üreticisi kimdir?",
+        "answer": " Sega'dır",
+        "sub": "Eternal Champions"
+    },
+    {
+        "query": "IntelliPoint'in üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "IntelliPoint"
+    },
+    {
+        "query": "The Ocean Hunter'in üreticisi kimdir?",
+        "answer": " Sega'dır",
+        "sub": "The Ocean Hunter"
+    },
+    {
+        "query": "Final Cut Studio'nun üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "Final Cut Studio"
+    },
+    {
+        "query": "Adobe Media Player'in üreticisi kimdir?",
+        "answer": " Adobe'dir",
+        "sub": "Adobe Media Player"
+    },
+    {
+        "query": "HFS Plus'un üreticisi kimdir?",
+        "answer": " Apple Inc.'dir",
+        "sub": "HFS Plus"
+    },
+    {
+        "query": "Adobe Fireworks'un üreticisi kimdir?",
+        "answer": " Adobe'dir",
+        "sub": "Adobe Fireworks"
+    },
+    {
+        "query": "IBM Business System 12'in üreticisi kimdir?",
+        "answer": " IBM'dir",
+        "sub": "IBM Business System 12"
+    },
+    {
+        "query": "Airbus A300-600ST Beluga'nın üreticisi kimdir?",
+        "answer": " Airbus'tur",
+        "sub": "Airbus A300-600ST Beluga"
+    },
+    {
+        "query": "Internet Explorer 11'in üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Internet Explorer 11"
+    },
+    {
+        "query": "Adobe Muse'nin üreticisi kimdir?",
+        "answer": " Adobe'dir",
+        "sub": "Adobe Muse"
+    },
+    {
+        "query": "Binary Synchronous Communications'un üreticisi kimdir?",
+        "answer": " IBM'dir",
+        "sub": "Binary Synchronous Communications"
+    },
+    {
+        "query": "NetFront'un üreticisi kimdir?",
+        "answer": " Access'tir",
+        "sub": "NetFront"
+    },
+    {
+        "query": "Astron Belt'in üreticisi kimdir?",
+        "answer": " Sega'dır",
+        "sub": "Astron Belt"
+    },
+    {
+        "query": "IBM Lotus SmartSuite'nin üreticisi kimdir?",
+        "answer": " IBM'dir",
+        "sub": "IBM Lotus SmartSuite"
+    },
+    {
+        "query": "Microsoft Schedule Plus'un üreticisi kimdir?",
+        "answer": " Microsoft'tur",
+        "sub": "Microsoft Schedule Plus"
+    },
+    {
+        "query": "Adobe Illustrator Artwork'un üreticisi kimdir?",
+        "answer": " Adobe'dir",
+        "sub": "Adobe Illustrator Artwork"
+    }
+]

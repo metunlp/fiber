@@ -1,0 +1,1436 @@
+[
+    {
+        "query": "Dove si trova Torre Eiffel?",
+        "answer": " Parigi",
+        "sub": "Torre Eiffel",
+        "sub_en": "Eiffel Tower"
+    },
+    {
+        "query": "Dove si trova Chiesa di San Lorenzo Maggiore?",
+        "answer": " Rotterdam",
+        "sub": "Chiesa di San Lorenzo Maggiore",
+        "sub_en": "Grote of Sint-Laurenskerk"
+    },
+    {
+        "query": "Dove si trova Istituto Olandese di Architettura?",
+        "answer": " Rotterdam",
+        "sub": "Istituto Olandese di Architettura",
+        "sub_en": "Netherlands Architecture Institute"
+    },
+    {
+        "query": "Dove si trova Teatro Europeo della Seconda Guerra Mondiale?",
+        "answer": " Europa",
+        "sub": "Teatro Europeo della Seconda Guerra Mondiale",
+        "sub_en": "European Theatre of World War II"
+    },
+    {
+        "query": "Dove si trova Università Tecnologica di Delhi?",
+        "answer": " India",
+        "sub": "Università Tecnologica di Delhi",
+        "sub_en": "Delhi Technological University"
+    },
+    {
+        "query": "Dove si trova Open d'Australia 2002?",
+        "answer": " Melbourne",
+        "sub": "Open d'Australia 2002",
+        "sub_en": "2002 Australian Open"
+    },
+    {
+        "query": "Dove si trova Ernest A. Love Field?",
+        "answer": " Prescott",
+        "sub": "Ernest A. Love Field",
+        "sub_en": "Ernest A. Love Field"
+    },
+    {
+        "query": "Dove si trova Attentati di Londra del 21 luglio 2005?",
+        "answer": " Londra",
+        "sub": "Attentati di Londra del 21 luglio 2005",
+        "sub_en": "21 July 2005 London bombings"
+    },
+    {
+        "query": "Dove si trova KK Partizan?",
+        "answer": " Belgrado",
+        "sub": "KK Partizan",
+        "sub_en": "KK Partizan"
+    },
+    {
+        "query": "Dove si trova Festival del Cinema Indiano di Londra?",
+        "answer": " Londra",
+        "sub": "Festival del Cinema Indiano di Londra",
+        "sub_en": "London Indian Film Festival"
+    },
+    {
+        "query": "Dove si trova Aperto 13?",
+        "answer": " Marsiglia",
+        "sub": "Aperto 13",
+        "sub_en": "Open 13"
+    },
+    {
+        "query": "Dove si trova Invasione del Kuwait?",
+        "answer": " Kuwait",
+        "sub": "Invasione del Kuwait",
+        "sub_en": "Invasion of Kuwait"
+    },
+    {
+        "query": "Dove si trova Offensiva di Vienna?",
+        "answer": " Vienna",
+        "sub": "Offensiva di Vienna",
+        "sub_en": "Vienna Offensive"
+    },
+    {
+        "query": "Dove si trova Square Kilometre Array?",
+        "answer": " Australia",
+        "sub": "Square Kilometre Array",
+        "sub_en": "Square Kilometre Array"
+    },
+    {
+        "query": "Dove si trova Woodstock 1999?",
+        "answer": " Roma",
+        "sub": "Woodstock 1999",
+        "sub_en": "Woodstock 1999"
+    },
+    {
+        "query": "Dove si trova Stadio Panatenaico?",
+        "answer": " Atene",
+        "sub": "Stadio Panatenaico",
+        "sub_en": "Panathenaic Stadium"
+    },
+    {
+        "query": "Dove si trova Carnevale di Venezia?",
+        "answer": " Venezia",
+        "sub": "Carnevale di Venezia",
+        "sub_en": "Carnival of Venice"
+    },
+    {
+        "query": "Dove si trova Festival Internazionale del Cinema di Macao?",
+        "answer": " Macao",
+        "sub": "Festival Internazionale del Cinema di Macao",
+        "sub_en": "Macau International Movie Festival"
+    },
+    {
+        "query": "Dove si trova Università di Edimburgo?",
+        "answer": " Edimburgo",
+        "sub": "Università di Edimburgo",
+        "sub_en": "University of Edinburgh"
+    },
+    {
+        "query": "Dove si trova Mole Antonelliana?",
+        "answer": " Torino",
+        "sub": "Mole Antonelliana",
+        "sub_en": "Mole Antonelliana"
+    },
+    {
+        "query": "Dove si trova 68ª Mostra Internazionale d'Arte Cinematografica di Venezia?",
+        "answer": " Venezia",
+        "sub": "68ª Mostra Internazionale d'Arte Cinematografica di Venezia",
+        "sub_en": "68th Venice International Film Festival"
+    },
+    {
+        "query": "Dove si trova Giochi della Buona Volontà 1986?",
+        "answer": " Mosca",
+        "sub": "Giochi della Buona Volontà 1986",
+        "sub_en": "1986 Goodwill Games"
+    },
+    {
+        "query": "Dove si trova Australian Open 2011?",
+        "answer": " Melbourne",
+        "sub": "Australian Open 2011",
+        "sub_en": "2011 Australian Open"
+    },
+    {
+        "query": "Dove si trova Dunnes Stores?",
+        "answer": " Irlanda",
+        "sub": "Dunnes Stores",
+        "sub_en": "Dunnes Stores"
+    },
+    {
+        "query": "Dove si trova Attentati negli appartamenti russi?",
+        "answer": " Mosca",
+        "sub": "Attentati negli appartamenti russi",
+        "sub_en": "Russian apartment bombings"
+    },
+    {
+        "query": "Dove si trova Guerra dei Dieci Anni?",
+        "answer": " Cuba",
+        "sub": "Guerra dei Dieci Anni",
+        "sub_en": "Ten Years' War"
+    },
+    {
+        "query": "Dove si trova Spartizione delle terre dell'Impero di Romania?",
+        "answer": " Costantinopoli",
+        "sub": "Spartizione delle terre dell'Impero di Romania",
+        "sub_en": "Partitio terrarum imperii Romaniae"
+    },
+    {
+        "query": "Dove si trova Operazione Tempesta?",
+        "answer": " Croazia",
+        "sub": "Operazione Tempesta",
+        "sub_en": "Operation Storm"
+    },
+    {
+        "query": "Dove si trova Rugby Club delle Suburbane Nord?",
+        "answer": " Sydney",
+        "sub": "Rugby Club delle Suburbane Nord",
+        "sub_en": "Northern Suburbs Rugby Club"
+    },
+    {
+        "query": "Dove si trova Bagatella?",
+        "answer": " Oslo",
+        "sub": "Bagatella",
+        "sub_en": "Bagatelle"
+    },
+    {
+        "query": "Dove si trova Liberty Bell Classic?",
+        "answer": " Philadelphia",
+        "sub": "Liberty Bell Classic",
+        "sub_en": "Liberty Bell Classic"
+    },
+    {
+        "query": "Dove si trova Arcapita?",
+        "answer": " Londra",
+        "sub": "Arcapita",
+        "sub_en": "Arcapita"
+    },
+    {
+        "query": "Dove si trova Palazzetto Olimpico di Ano Liosia?",
+        "answer": " Atene",
+        "sub": "Palazzetto Olimpico di Ano Liosia",
+        "sub_en": "Ano Liosia Olympic Hall"
+    },
+    {
+        "query": "Dove si trova Stati post-sovietici?",
+        "answer": " Russia",
+        "sub": "Stati post-sovietici",
+        "sub_en": "Post-Soviet states"
+    },
+    {
+        "query": "Dove si trova Fondazione Vapore Paesi Bassi?",
+        "answer": " Rotterdam",
+        "sub": "Fondazione Vapore Paesi Bassi",
+        "sub_en": "Stoom Stichting Nederland"
+    },
+    {
+        "query": "Dove si trova Festival Internazionale dell'Animazione di Ottawa?",
+        "answer": " Ottawa",
+        "sub": "Festival Internazionale dell'Animazione di Ottawa",
+        "sub_en": "Ottawa International Animation Festival"
+    },
+    {
+        "query": "Dove si trova Radio Famiglia?",
+        "answer": " Michigan",
+        "sub": "Radio Famiglia",
+        "sub_en": "Family Life Radio"
+    },
+    {
+        "query": "Dove si trova Barocco siciliano?",
+        "answer": " Sicilia",
+        "sub": "Barocco siciliano",
+        "sub_en": "Sicilian Baroque"
+    },
+    {
+        "query": "Dove si trova Atlanta International Documentary Film Festival?",
+        "answer": " Atlanta",
+        "sub": "Atlanta International Documentary Film Festival",
+        "sub_en": "Atlanta International Documentary Film Festival"
+    },
+    {
+        "query": "Dove si trova Offensiva di Nivelle?",
+        "answer": " Francia",
+        "sub": "Offensiva di Nivelle",
+        "sub_en": "Nivelle Offensive"
+    },
+    {
+        "query": "Dove si trova Festival Internazionale del Cinema di Yerevan?",
+        "answer": " Erevan",
+        "sub": "Festival Internazionale del Cinema di Yerevan",
+        "sub_en": "Yerevan International Film Festival"
+    },
+    {
+        "query": "Dove si trova Festival del Cinema Asia Pacifico?",
+        "answer": " Asia",
+        "sub": "Festival del Cinema Asia Pacifico",
+        "sub_en": "Asia Pacific Film Festival"
+    },
+    {
+        "query": "Dove si trova Halchidhoma?",
+        "answer": " California",
+        "sub": "Halchidhoma",
+        "sub_en": "Halchidhoma"
+    },
+    {
+        "query": "Dove si trova Osservatorio di Armagh?",
+        "answer": " Armagh",
+        "sub": "Osservatorio di Armagh",
+        "sub_en": "Armagh Observatory"
+    },
+    {
+        "query": "Dove si trova Università Tecnica di Istanbul?",
+        "answer": " Istanbul",
+        "sub": "Università Tecnica di Istanbul",
+        "sub_en": "Istanbul Technical University"
+    },
+    {
+        "query": "Dove si trova Festival di Woodstock?",
+        "answer": " Bethel",
+        "sub": "Festival di Woodstock",
+        "sub_en": "Woodstock Festival"
+    },
+    {
+        "query": "Dove si trova Regina Coeli?",
+        "answer": " Roma",
+        "sub": "Regina Coeli",
+        "sub_en": "Regina Coeli"
+    },
+    {
+        "query": "Dove si trova Festival Internazionale del Cinema di Melbourne?",
+        "answer": " Melbourne",
+        "sub": "Festival Internazionale del Cinema di Melbourne",
+        "sub_en": "Melbourne International Film Festival"
+    },
+    {
+        "query": "Dove si trova The Leys School?",
+        "answer": " Cambridge",
+        "sub": "The Leys School",
+        "sub_en": "The Leys School"
+    },
+    {
+        "query": "Dove si trova Festival Internazionale del Cinema di Miami?",
+        "answer": " Miami",
+        "sub": "Festival Internazionale del Cinema di Miami",
+        "sub_en": "Miami International Film Festival"
+    },
+    {
+        "query": "Dove si trova Meteorite di Chelyabinsk?",
+        "answer": " Russia",
+        "sub": "Meteorite di Chelyabinsk",
+        "sub_en": "Chelyabinsk meteor"
+    },
+    {
+        "query": "Dove si trova XXVIII Olimpiade degli Scacchi?",
+        "answer": " Salonicco",
+        "sub": "XXVIII Olimpiade degli Scacchi",
+        "sub_en": "28th Chess Olympiad"
+    },
+    {
+        "query": "Dove si trova Belfast Festival del Cinema?",
+        "answer": " Belfast",
+        "sub": "Belfast Festival del Cinema",
+        "sub_en": "Belfast Film Festival"
+    },
+    {
+        "query": "Dove si trova South by Southwest?",
+        "answer": " Austin",
+        "sub": "South by Southwest",
+        "sub_en": "South by Southwest"
+    },
+    {
+        "query": "Dove si trova Assemblea parrocchiale?",
+        "answer": " Inghilterra",
+        "sub": "Assemblea parrocchiale",
+        "sub_en": "Parish meeting"
+    },
+    {
+        "query": "Dove si trova Palazzo di Giustizia di Victoria?",
+        "answer": " Birmingham",
+        "sub": "Palazzo di Giustizia di Victoria",
+        "sub_en": "Victoria Law Courts"
+    },
+    {
+        "query": "Dove si trova Festival Internazionale della Commedia di Melbourne?",
+        "answer": " Melbourne",
+        "sub": "Festival Internazionale della Commedia di Melbourne",
+        "sub_en": "Melbourne International Comedy Festival"
+    },
+    {
+        "query": "Dove si trova cono gelato?",
+        "answer": " Australia",
+        "sub": "cono gelato",
+        "sub_en": "ice cream cone"
+    },
+    {
+        "query": "Dove si trova Festival del Cinema Lesbico e Gay di Seattle?",
+        "answer": " Seattle",
+        "sub": "Festival del Cinema Lesbico e Gay di Seattle",
+        "sub_en": "Seattle Lesbian & Gay Film Festival"
+    },
+    {
+        "query": "Dove si trova La Fagianeria?",
+        "answer": " Chelsea",
+        "sub": "La Fagianeria",
+        "sub_en": "The Pheasantry"
+    },
+    {
+        "query": "Dove si trova Festival del Film Nat?",
+        "answer": " Copenaghen",
+        "sub": "Festival del Film Nat",
+        "sub_en": "NatFilm Festival"
+    },
+    {
+        "query": "Dove si trova Festival del Cinema Universitario di Pechino?",
+        "answer": " Beijing",
+        "sub": "Festival del Cinema Universitario di Pechino",
+        "sub_en": "Beijing College Student Film Festival"
+    },
+    {
+        "query": "Dove si trova Biblioteca Reale Danese?",
+        "answer": " Copenaghen",
+        "sub": "Biblioteca Reale Danese",
+        "sub_en": "Royal Danish Library"
+    },
+    {
+        "query": "Dove si trova Campionato Mondiale IIHF 2014?",
+        "answer": " Minsk",
+        "sub": "Campionato Mondiale IIHF 2014",
+        "sub_en": "2014 IIHF World Championship"
+    },
+    {
+        "query": "Dove si trova Operazione Ostra Brama?",
+        "answer": " Vilnius",
+        "sub": "Operazione Ostra Brama",
+        "sub_en": "Operation Ostra Brama"
+    },
+    {
+        "query": "Dove si trova Strage di Stoccolma?",
+        "answer": " Stoccolma",
+        "sub": "Strage di Stoccolma",
+        "sub_en": "Stockholm Bloodbath"
+    },
+    {
+        "query": "Dove si trova Eurovision Song Contest 2005?",
+        "answer": " Kiev",
+        "sub": "Eurovision Song Contest 2005",
+        "sub_en": "Eurovision Song Contest 2005"
+    },
+    {
+        "query": "Dove si trova Università Massey?",
+        "answer": " Wellington",
+        "sub": "Università Massey",
+        "sub_en": "Massey University"
+    },
+    {
+        "query": "Dove si trova Paralimpiadi estive del 1988?",
+        "answer": " Seoul",
+        "sub": "Paralimpiadi estive del 1988",
+        "sub_en": "1988 Summer Paralympics"
+    },
+    {
+        "query": "Dove si trova Festival Internazionale del Film di Sofia?",
+        "answer": " Sofia",
+        "sub": "Festival Internazionale del Film di Sofia",
+        "sub_en": "Sofia International Film Festival"
+    },
+    {
+        "query": "Dove si trova Attentato alla USS Cole?",
+        "answer": " Aden",
+        "sub": "Attentato alla USS Cole",
+        "sub_en": "USS Cole bombing"
+    },
+    {
+        "query": "Dove si trova cono gelato?",
+        "answer": " Malesia",
+        "sub": "cono gelato",
+        "sub_en": "ice cream cone"
+    },
+    {
+        "query": "Dove si trova Giochi Olimpici Estivi del 2000?",
+        "answer": " Sydney",
+        "sub": "Giochi Olimpici Estivi del 2000",
+        "sub_en": "2000 Summer Olympics"
+    },
+    {
+        "query": "Dove si trova Insurrezione nello Yemen meridionale?",
+        "answer": " Yemen",
+        "sub": "Insurrezione nello Yemen meridionale",
+        "sub_en": "South Yemen insurgency"
+    },
+    {
+        "query": "Dove si trova Blitz di Cardiff?",
+        "answer": " Cardiff",
+        "sub": "Blitz di Cardiff",
+        "sub_en": "Cardiff Blitz"
+    },
+    {
+        "query": "Dove si trova Università del Tripura?",
+        "answer": " India",
+        "sub": "Università del Tripura",
+        "sub_en": "Tripura University"
+    },
+    {
+        "query": "Dove si trova Veio?",
+        "answer": " Italia",
+        "sub": "Veio",
+        "sub_en": "Veii"
+    },
+    {
+        "query": "Dove si trova Barn Elms?",
+        "answer": " Barnes",
+        "sub": "Barn Elms",
+        "sub_en": "Barn Elms"
+    },
+    {
+        "query": "Dove si trova 2014 WTA Finals?",
+        "answer": " Singapore",
+        "sub": "2014 WTA Finals",
+        "sub_en": "2014 WTA Finals"
+    },
+    {
+        "query": "Dove si trova Seattle SuperSonics?",
+        "answer": " Seattle",
+        "sub": "Seattle SuperSonics",
+        "sub_en": "Seattle SuperSonics"
+    },
+    {
+        "query": "Dove si trova New START?",
+        "answer": " Praga",
+        "sub": "New START",
+        "sub_en": "New START"
+    },
+    {
+        "query": "Dove si trova Giochi delle Isole 2013?",
+        "answer": " Bermuda",
+        "sub": "Giochi delle Isole 2013",
+        "sub_en": "2013 Island Games"
+    },
+    {
+        "query": "Dove si trova Massacro del prezzemolo?",
+        "answer": " Haiti",
+        "sub": "Massacro del prezzemolo",
+        "sub_en": "Parsley Massacre"
+    },
+    {
+        "query": "Dove si trova Operazione Barbarossa?",
+        "answer": " Ucraina",
+        "sub": "Operazione Barbarossa",
+        "sub_en": "Operation Barbarossa"
+    },
+    {
+        "query": "Dove si trova Scuola Sussex House?",
+        "answer": " Chelsea",
+        "sub": "Scuola Sussex House",
+        "sub_en": "Sussex House School"
+    },
+    {
+        "query": "Dove si trova Guerra Civile Siriana?",
+        "answer": " Siria",
+        "sub": "Guerra Civile Siriana",
+        "sub_en": "Syrian Civil War"
+    },
+    {
+        "query": "Dove si trova Hot Docs - Festival Internazionale Canadese del Documentario?",
+        "answer": " Toronto",
+        "sub": "Hot Docs - Festival Internazionale Canadese del Documentario",
+        "sub_en": "Hot Docs - Canadian International Documentary Festival"
+    },
+    {
+        "query": "Dove si trova Università di Oxford?",
+        "answer": " Oxford",
+        "sub": "Università di Oxford",
+        "sub_en": "University of Oxford"
+    },
+    {
+        "query": "Dove si trova Shanghai Tower?",
+        "answer": " Shanghai",
+        "sub": "Shanghai Tower",
+        "sub_en": "Shanghai Tower"
+    },
+    {
+        "query": "Dove si trova Insurrezione di Varsavia?",
+        "answer": " Varsavia",
+        "sub": "Insurrezione di Varsavia",
+        "sub_en": "Warsaw Uprising"
+    },
+    {
+        "query": "Dove si trova SS Rotterdam?",
+        "answer": " Rotterdam",
+        "sub": "SS Rotterdam",
+        "sub_en": "SS Rotterdam"
+    },
+    {
+        "query": "Dove si trova Olimpiadi estive 2012?",
+        "answer": " Londra",
+        "sub": "Olimpiadi estive 2012",
+        "sub_en": "2012 Summer Olympics"
+    },
+    {
+        "query": "Dove si trova London Book Fair?",
+        "answer": " Londra",
+        "sub": "London Book Fair",
+        "sub_en": "London Book Fair"
+    },
+    {
+        "query": "Dove si trova Campionato Mondiale di Snooker 1983?",
+        "answer": " Sheffield",
+        "sub": "Campionato Mondiale di Snooker 1983",
+        "sub_en": "1983 World Snooker Championship"
+    },
+    {
+        "query": "Dove si trova Polkagris?",
+        "answer": " Svezia",
+        "sub": "Polkagris",
+        "sub_en": "Polkagris"
+    },
+    {
+        "query": "Dove si trova Mannheim-Heidelberg Festival Internazionale del Cinema?",
+        "answer": " Heidelberg",
+        "sub": "Mannheim-Heidelberg Festival Internazionale del Cinema",
+        "sub_en": "Mannheim-Heidelberg International Film Festival"
+    },
+    {
+        "query": "Dove si trova Kunsthistorisches Museum?",
+        "answer": " Vienna",
+        "sub": "Kunsthistorisches Museum",
+        "sub_en": "Kunsthistorisches Museum"
+    },
+    {
+        "query": "Dove si trova Battaglia di Plassey?",
+        "answer": " Kolkata",
+        "sub": "Battaglia di Plassey",
+        "sub_en": "Battle of Plassey"
+    },
+    {
+        "query": "Dove si trova Santa Maria della Salute?",
+        "answer": " Venezia",
+        "sub": "Santa Maria della Salute",
+        "sub_en": "Santa Maria della Salute"
+    },
+    {
+        "query": "Dove si trova Convenzione sulla prevenzione e la lotta contro la violenza nei confronti delle donne e la violenza domestica?",
+        "answer": " Istanbul",
+        "sub": "Convenzione sulla prevenzione e la lotta contro la violenza nei confronti delle donne e la violenza domestica",
+        "sub_en": "Convention on preventing and combating violence against women and domestic violence"
+    },
+    {
+        "query": "Dove si trova Operazione Bagration?",
+        "answer": " Bielorussia",
+        "sub": "Operazione Bagration",
+        "sub_en": "Operation Bagration"
+    },
+    {
+        "query": "Dove si trova Festival Internazionale del Cinema di Bangalore?",
+        "answer": " Bengaluru",
+        "sub": "Festival Internazionale del Cinema di Bangalore",
+        "sub_en": "Bangalore International Film Festival"
+    },
+    {
+        "query": "Dove si trova Fiera del Libro di Kolkata?",
+        "answer": " Kolkata",
+        "sub": "Fiera del Libro di Kolkata",
+        "sub_en": "Kolkata Book Fair"
+    },
+    {
+        "query": "Dove si trova Seconda Guerra Italo-Etiopica?",
+        "answer": " Etiopia",
+        "sub": "Seconda Guerra Italo-Etiopica",
+        "sub_en": "Second Italo-Ethiopian War"
+    },
+    {
+        "query": "Dove si trova Movimento Correttivo?",
+        "answer": " Siria",
+        "sub": "Movimento Correttivo",
+        "sub_en": "Corrective Movement"
+    },
+    {
+        "query": "Dove si trova Giornate di Maggio di Barcellona?",
+        "answer": " Barcelona",
+        "sub": "Giornate di Maggio di Barcellona",
+        "sub_en": "Barcelona May Days"
+    },
+    {
+        "query": "Dove si trova Bombardamento di Darwin?",
+        "answer": " Darwin",
+        "sub": "Bombardamento di Darwin",
+        "sub_en": "Bombing of Darwin"
+    },
+    {
+        "query": "Dove si trova Battaglia di Powick Bridge?",
+        "answer": " Worcester",
+        "sub": "Battaglia di Powick Bridge",
+        "sub_en": "Battle of Powick Bridge"
+    },
+    {
+        "query": "Dove si trova Edificio Capitol Records?",
+        "answer": " Hollywood",
+        "sub": "Edificio Capitol Records",
+        "sub_en": "Capitol Records Building"
+    },
+    {
+        "query": "Dove si trova Festival delle Immagini?",
+        "answer": " Toronto",
+        "sub": "Festival delle Immagini",
+        "sub_en": "Images Festival"
+    },
+    {
+        "query": "Dove si trova Attentati ferroviari di Mumbai del 2006?",
+        "answer": " Mumbai",
+        "sub": "Attentati ferroviari di Mumbai del 2006",
+        "sub_en": "2006 Mumbai train bombings"
+    },
+    {
+        "query": "Dove si trova Beidha?",
+        "answer": " Giordania",
+        "sub": "Beidha",
+        "sub_en": "Beidha"
+    },
+    {
+        "query": "Dove si trova Istituto di Tecnologia del Massachusetts?",
+        "answer": " Cambridge",
+        "sub": "Istituto di Tecnologia del Massachusetts",
+        "sub_en": "Massachusetts Institute of Technology"
+    },
+    {
+        "query": "Dove si trova Diergaarde Blijdorp?",
+        "answer": " Rotterdam",
+        "sub": "Diergaarde Blijdorp",
+        "sub_en": "Diergaarde Blijdorp"
+    },
+    {
+        "query": "Dove si trova Festival del Film di Boston?",
+        "answer": " Boston",
+        "sub": "Festival del Film di Boston",
+        "sub_en": "Boston Film Festival"
+    },
+    {
+        "query": "Dove si trova Movimento per l'Indipendenza della Sicilia?",
+        "answer": " Sicilia",
+        "sub": "Movimento per l'Indipendenza della Sicilia",
+        "sub_en": "Movement for the Independence of Sicily"
+    },
+    {
+        "query": "Dove si trova 23ª edizione dei Premi del Cinema Europeo?",
+        "answer": " Tallinn",
+        "sub": "23ª edizione dei Premi del Cinema Europeo",
+        "sub_en": "23rd European Film Awards"
+    },
+    {
+        "query": "Dove si trova cultura dell'Asia?",
+        "answer": " Asia",
+        "sub": "cultura dell'Asia",
+        "sub_en": "culture of Asia"
+    },
+    {
+        "query": "Dove si trova Giochi del Sud-est asiatico del 1983?",
+        "answer": " Singapore",
+        "sub": "Giochi del Sud-est asiatico del 1983",
+        "sub_en": "1983 Southeast Asian Games"
+    },
+    {
+        "query": "Dove si trova Campionati Europei Juniores di Atletica Leggera 1999?",
+        "answer": " Riga",
+        "sub": "Campionati Europei Juniores di Atletica Leggera 1999",
+        "sub_en": "1999 European Athletics Junior Championships"
+    },
+    {
+        "query": "Dove si trova Radio Famiglia?",
+        "answer": " Arizona",
+        "sub": "Radio Famiglia",
+        "sub_en": "Family Life Radio"
+    },
+    {
+        "query": "Dove si trova COBRA?",
+        "answer": " Copenaghen",
+        "sub": "COBRA",
+        "sub_en": "COBRA"
+    },
+    {
+        "query": "Dove si trova Qataban?",
+        "answer": " Yemen",
+        "sub": "Qataban",
+        "sub_en": "Qataban"
+    },
+    {
+        "query": "Dove si trova Attentati di Mumbai del 26/11?",
+        "answer": " Mumbai",
+        "sub": "Attentati di Mumbai del 26/11",
+        "sub_en": "26/11 Mumbai attacks"
+    },
+    {
+        "query": "Dove si trova Vino di palma?",
+        "answer": " Messico",
+        "sub": "Vino di palma",
+        "sub_en": "Palm wine"
+    },
+    {
+        "query": "Dove si trova Prima Guerra Mondiale?",
+        "answer": " Africa",
+        "sub": "Prima Guerra Mondiale",
+        "sub_en": "World War I"
+    },
+    {
+        "query": "Dove si trova KK Zrinjevac?",
+        "answer": " Zagreb",
+        "sub": "KK Zrinjevac",
+        "sub_en": "KK Zrinjevac"
+    },
+    {
+        "query": "Dove si trova Australian Open 2013?",
+        "answer": " Melbourne",
+        "sub": "Australian Open 2013",
+        "sub_en": "2013 Australian Open"
+    },
+    {
+        "query": "Dove si trova Merriweather Post Pavilion?",
+        "answer": " Columbia",
+        "sub": "Merriweather Post Pavilion",
+        "sub_en": "Merriweather Post Pavilion"
+    },
+    {
+        "query": "Dove si trova Paralimpiadi estive del 1972?",
+        "answer": " Heidelberg",
+        "sub": "Paralimpiadi estive del 1972",
+        "sub_en": "1972 Summer Paralympics"
+    },
+    {
+        "query": "Dove si trova Scuola di Glasgow?",
+        "answer": " Glasgow",
+        "sub": "Scuola di Glasgow",
+        "sub_en": "Glasgow School"
+    },
+    {
+        "query": "Dove si trova BC Rytas?",
+        "answer": " Vilnius",
+        "sub": "BC Rytas",
+        "sub_en": "BC Rytas"
+    },
+    {
+        "query": "Dove si trova Festival Internazionale del Film di Istanbul?",
+        "answer": " Istanbul",
+        "sub": "Festival Internazionale del Film di Istanbul",
+        "sub_en": "International Istanbul Film Festival"
+    },
+    {
+        "query": "Dove si trova Tour de Pologne?",
+        "answer": " Polonia",
+        "sub": "Tour de Pologne",
+        "sub_en": "Tour de Pologne"
+    },
+    {
+        "query": "Dove si trova Festival del Film Olandese?",
+        "answer": " Utrecht",
+        "sub": "Festival del Film Olandese",
+        "sub_en": "Netherlands Film Festival"
+    },
+    {
+        "query": "Dove si trova Università Autonoma di Barcellona?",
+        "answer": " Barcelona",
+        "sub": "Università Autonoma di Barcellona",
+        "sub_en": "Autonomous University of Barcelona"
+    },
+    {
+        "query": "Dove si trova Trattato di Brest-Litovsk?",
+        "answer": " Brest",
+        "sub": "Trattato di Brest-Litovsk",
+        "sub_en": "Treaty of Brest-Litovsk"
+    },
+    {
+        "query": "Dove si trova Prima guerra del Nagorno-Karabakh?",
+        "answer": " Armenia",
+        "sub": "Prima guerra del Nagorno-Karabakh",
+        "sub_en": "First Nagorno-Karabakh War"
+    },
+    {
+        "query": "Dove si trova Operazione Atena?",
+        "answer": " Afghanistan",
+        "sub": "Operazione Atena",
+        "sub_en": "Operation Athena"
+    },
+    {
+        "query": "Dove si trova Battaglia di Baltimora?",
+        "answer": " Baltimore",
+        "sub": "Battaglia di Baltimora",
+        "sub_en": "Battle of Baltimore"
+    },
+    {
+        "query": "Dove si trova Festival Internazionale del Film di Toronto?",
+        "answer": " Toronto",
+        "sub": "Festival Internazionale del Film di Toronto",
+        "sub_en": "Toronto International Film Festival"
+    },
+    {
+        "query": "Dove si trova Black Nights Film Festival di Tallinn?",
+        "answer": " Tallinn",
+        "sub": "Black Nights Film Festival di Tallinn",
+        "sub_en": "Tallinn Black Nights Film Festival"
+    },
+    {
+        "query": "Dove si trova Domus de Janas?",
+        "answer": " Sardegna",
+        "sub": "Domus de Janas",
+        "sub_en": "domus de janas"
+    },
+    {
+        "query": "Dove si trova Seconda Crociata?",
+        "answer": " Egitto",
+        "sub": "Seconda Crociata",
+        "sub_en": "Second Crusade"
+    },
+    {
+        "query": "Dove si trova Accordo navale anglo-tedesco?",
+        "answer": " Londra",
+        "sub": "Accordo navale anglo-tedesco",
+        "sub_en": "Anglo-German Naval Agreement"
+    },
+    {
+        "query": "Dove si trova Attentati di Mosca del 1977?",
+        "answer": " Mosca",
+        "sub": "Attentati di Mosca del 1977",
+        "sub_en": "1977 Moscow bombings"
+    },
+    {
+        "query": "Dove si trova Giochi del Mediterraneo 1997?",
+        "answer": " Bari",
+        "sub": "Giochi del Mediterraneo 1997",
+        "sub_en": "1997 Mediterranean Games"
+    },
+    {
+        "query": "Dove si trova Virtus Pallacanestro Bologna?",
+        "answer": " Bologna",
+        "sub": "Virtus Pallacanestro Bologna",
+        "sub_en": "Virtus Pallacanestro Bologna"
+    },
+    {
+        "query": "Dove si trova Universeum?",
+        "answer": " Göteborg",
+        "sub": "Universeum",
+        "sub_en": "Universeum"
+    },
+    {
+        "query": "Dove si trova Paralimpiadi estive 2004?",
+        "answer": " Atene",
+        "sub": "Paralimpiadi estive 2004",
+        "sub_en": "2004 Summer Paralympics"
+    },
+    {
+        "query": "Dove si trova 26ª Olimpiade degli Scacchi?",
+        "answer": " Salonicco",
+        "sub": "26ª Olimpiade degli Scacchi",
+        "sub_en": "26th Chess Olympiad"
+    },
+    {
+        "query": "Dove si trova Scontri di Inghilterra del 2011?",
+        "answer": " Londra",
+        "sub": "Scontri di Inghilterra del 2011",
+        "sub_en": "2011 England riots"
+    },
+    {
+        "query": "Dove si trova Battaglia di Pressburgo?",
+        "answer": " Bratislava",
+        "sub": "Battaglia di Pressburgo",
+        "sub_en": "Battle of Pressburg"
+    },
+    {
+        "query": "Dove si trova Antwerp Giants?",
+        "answer": " Anversa",
+        "sub": "Antwerp Giants",
+        "sub_en": "Antwerp Giants"
+    },
+    {
+        "query": "Dove si trova Festival di Arte di Edimburgo?",
+        "answer": " Edimburgo",
+        "sub": "Festival di Arte di Edimburgo",
+        "sub_en": "Edinburgh Art Festival"
+    },
+    {
+        "query": "Dove si trova Monumento alla Libertà?",
+        "answer": " Riga",
+        "sub": "Monumento alla Libertà",
+        "sub_en": "Freedom Monument"
+    },
+    {
+        "query": "Dove si trova Vino di palma?",
+        "answer": " Ghana",
+        "sub": "Vino di palma",
+        "sub_en": "Palm wine"
+    },
+    {
+        "query": "Dove si trova Fase di sollevazione civile della guerra civile siriana?",
+        "answer": " Siria",
+        "sub": "Fase di sollevazione civile della guerra civile siriana",
+        "sub_en": "civil uprising phase of the Syrian Civil War"
+    },
+    {
+        "query": "Dove si trova Masters di Germania 2011?",
+        "answer": " Berlin",
+        "sub": "Masters di Germania 2011",
+        "sub_en": "2011 German Masters"
+    },
+    {
+        "query": "Dove si trova Festival Internazionale del Film di Dublino?",
+        "answer": " Dublino",
+        "sub": "Festival Internazionale del Film di Dublino",
+        "sub_en": "Dublin International Film Festival"
+    },
+    {
+        "query": "Dove si trova Rivoluzione yemenita del 2011?",
+        "answer": " Yemen",
+        "sub": "Rivoluzione yemenita del 2011",
+        "sub_en": "2011 Yemeni revolution"
+    },
+    {
+        "query": "Dove si trova Invasione normanna dell'Irlanda?",
+        "answer": " Irlanda",
+        "sub": "Invasione normanna dell'Irlanda",
+        "sub_en": "Norman invasion of Ireland"
+    },
+    {
+        "query": "Dove si trova KK Spalato?",
+        "answer": " Dividere",
+        "sub": "KK Spalato",
+        "sub_en": "KK Split"
+    },
+    {
+        "query": "Dove si trova ZagrebDox?",
+        "answer": " Zagreb",
+        "sub": "ZagrebDox",
+        "sub_en": "ZagrebDox"
+    },
+    {
+        "query": "Dove si trova Festival del Cavallo d'Oro?",
+        "answer": " Taipei",
+        "sub": "Festival del Cavallo d'Oro",
+        "sub_en": "Golden Horse Film Festival"
+    },
+    {
+        "query": "Dove si trova Porto di Belfast?",
+        "answer": " Belfast",
+        "sub": "Porto di Belfast",
+        "sub_en": "Port of Belfast"
+    },
+    {
+        "query": "Dove si trova Guerra d'Inverno?",
+        "answer": " Finlandia",
+        "sub": "Guerra d'Inverno",
+        "sub_en": "Winter War"
+    },
+    {
+        "query": "Dove si trova Giochi del Sud-est asiatico 2015?",
+        "answer": " Singapore",
+        "sub": "Giochi del Sud-est asiatico 2015",
+        "sub_en": "2015 Southeast Asian Games"
+    },
+    {
+        "query": "Dove si trova cratere lunare?",
+        "answer": " Luna",
+        "sub": "cratere lunare",
+        "sub_en": "lunar crater"
+    },
+    {
+        "query": "Dove si trova Il Giudizio di Paride?",
+        "answer": " Parigi",
+        "sub": "Il Giudizio di Paride",
+        "sub_en": "Judgment of Paris"
+    },
+    {
+        "query": "Dove si trova Paralimpiadi invernali 2006?",
+        "answer": " Torino",
+        "sub": "Paralimpiadi invernali 2006",
+        "sub_en": "2006 Winter Paralympics"
+    },
+    {
+        "query": "Dove si trova Azionismo viennese?",
+        "answer": " Vienna",
+        "sub": "Azionismo viennese",
+        "sub_en": "Viennese Actionism"
+    },
+    {
+        "query": "Dove si trova Stati post-sovietici?",
+        "answer": " Bielorussia",
+        "sub": "Stati post-sovietici",
+        "sub_en": "Post-Soviet states"
+    },
+    {
+        "query": "Dove si trova 64ª Mostra Internazionale d'Arte Cinematografica di Venezia?",
+        "answer": " Venezia",
+        "sub": "64ª Mostra Internazionale d'Arte Cinematografica di Venezia",
+        "sub_en": "64th Venice International Film Festival"
+    },
+    {
+        "query": "Dove si trova Festival Internazionale del Film Documentario di Amsterdam?",
+        "answer": " Amsterdam",
+        "sub": "Festival Internazionale del Film Documentario di Amsterdam",
+        "sub_en": "International Documentary Film Festival Amsterdam"
+    },
+    {
+        "query": "Dove si trova Festival Internazionale del Documentario di Copenaghen?",
+        "answer": " Copenaghen",
+        "sub": "Festival Internazionale del Documentario di Copenaghen",
+        "sub_en": "Copenhagen International Documentary Festival"
+    },
+    {
+        "query": "Dove si trova Olimpiadi estive del 1996?",
+        "answer": " Atlanta",
+        "sub": "Olimpiadi estive del 1996",
+        "sub_en": "1996 Summer Olympics"
+    },
+    {
+        "query": "Dove si trova Baris tolemaico?",
+        "answer": " Gerusalemme",
+        "sub": "Baris tolemaico",
+        "sub_en": "Ptolemaic Baris"
+    },
+    {
+        "query": "Dove si trova Statuto di Roma della Corte Penale Internazionale?",
+        "answer": " Roma",
+        "sub": "Statuto di Roma della Corte Penale Internazionale",
+        "sub_en": "Rome Statute of the International Criminal Court"
+    },
+    {
+        "query": "Dove si trova Museo Volvo?",
+        "answer": " Göteborg",
+        "sub": "Museo Volvo",
+        "sub_en": "Volvo Museum"
+    },
+    {
+        "query": "Dove si trova Guerra del Pacifico?",
+        "answer": " Oceania insulare",
+        "sub": "Guerra del Pacifico",
+        "sub_en": "Pacific War"
+    },
+    {
+        "query": "Dove si trova Ribellioni curde in Turchia?",
+        "answer": " Turchia",
+        "sub": "Ribellioni curde in Turchia",
+        "sub_en": "Kurdish rebellions in Turkey"
+    },
+    {
+        "query": "Dove si trova Festival Internazionale del Film di Guadalajara?",
+        "answer": " Guadalajara",
+        "sub": "Festival Internazionale del Film di Guadalajara",
+        "sub_en": "Guadalajara International Film Festival"
+    },
+    {
+        "query": "Dove si trova Festival Internazionale di Animazione di Hiroshima?",
+        "answer": " Hiroshima",
+        "sub": "Festival Internazionale di Animazione di Hiroshima",
+        "sub_en": "Hiroshima International Animation Festival"
+    },
+    {
+        "query": "Dove si trova Festival Internazionale del Film di Calgary?",
+        "answer": " Calgary",
+        "sub": "Festival Internazionale del Film di Calgary",
+        "sub_en": "Calgary International Film Festival"
+    },
+    {
+        "query": "Dove si trova Convenzione delle Nazioni Unite sui contratti di compravendita internazionale di merci?",
+        "answer": " Vienna",
+        "sub": "Convenzione delle Nazioni Unite sui contratti di compravendita internazionale di merci",
+        "sub_en": "United Nations Convention on Contracts for the International Sale of Goods"
+    },
+    {
+        "query": "Dove si trova Paralimpiadi estive 2008?",
+        "answer": " Beijing",
+        "sub": "Paralimpiadi estive 2008",
+        "sub_en": "2008 Summer Paralympics"
+    },
+    {
+        "query": "Dove si trova Museo della Fotografia dei Paesi Bassi?",
+        "answer": " Rotterdam",
+        "sub": "Museo della Fotografia dei Paesi Bassi",
+        "sub_en": "Netherlands Photo Museum"
+    },
+    {
+        "query": "Dove si trova Festival Internazionale del Film di Cleveland?",
+        "answer": " Cleveland",
+        "sub": "Festival Internazionale del Film di Cleveland",
+        "sub_en": "Cleveland International Film Festival"
+    },
+    {
+        "query": "Dove si trova Andrew Crooke e William Cooke?",
+        "answer": " Londra",
+        "sub": "Andrew Crooke e William Cooke",
+        "sub_en": "Andrew Crooke and William Cooke"
+    },
+    {
+        "query": "Dove si trova Springhill House?",
+        "answer": " Townland",
+        "sub": "Springhill House",
+        "sub_en": "Springhill House"
+    },
+    {
+        "query": "Dove si trova Facoltà di Giurisprudenza di Harvard?",
+        "answer": " Cambridge",
+        "sub": "Facoltà di Giurisprudenza di Harvard",
+        "sub_en": "Harvard Law School"
+    },
+    {
+        "query": "Dove si trova Istituto Musicale?",
+        "answer": " Hollywood",
+        "sub": "Istituto Musicale",
+        "sub_en": "Musicians Institute"
+    },
+    {
+        "query": "Dove si trova comunità online?",
+        "answer": " Internet",
+        "sub": "comunità online",
+        "sub_en": "online community"
+    },
+    {
+        "query": "Dove si trova Teatro Nazionale Ivan Vazov?",
+        "answer": " Sofia",
+        "sub": "Teatro Nazionale Ivan Vazov",
+        "sub_en": "Ivan Vazov National Theatre"
+    },
+    {
+        "query": "Dove si trova Boicottaggio degli autobus di Montgomery?",
+        "answer": " Montgomery",
+        "sub": "Boicottaggio degli autobus di Montgomery",
+        "sub_en": "Montgomery Bus Boycott"
+    },
+    {
+        "query": "Dove si trova Battaglia di Francia?",
+        "answer": " Lussemburgo",
+        "sub": "Battaglia di Francia",
+        "sub_en": "Battle of France"
+    },
+    {
+        "query": "Dove si trova Festival Internazionale del Film di Edmonton?",
+        "answer": " Edmonton",
+        "sub": "Festival Internazionale del Film di Edmonton",
+        "sub_en": "Edmonton International Film Festival"
+    },
+    {
+        "query": "Dove si trova Focea?",
+        "answer": " Turchia",
+        "sub": "Focea",
+        "sub_en": "Phocaea"
+    },
+    {
+        "query": "Dove si trova Museo Nazionale Bavarese?",
+        "answer": " Monaco di Baviera",
+        "sub": "Museo Nazionale Bavarese",
+        "sub_en": "Bavarian National Museum"
+    },
+    {
+        "query": "Dove si trova Indipendenza della Nazione Sarda?",
+        "answer": " Sardegna",
+        "sub": "Indipendenza della Nazione Sarda",
+        "sub_en": "Sardinia Nation Independence"
+    },
+    {
+        "query": "Dove si trova Australian Open 2001?",
+        "answer": " Melbourne",
+        "sub": "Australian Open 2001",
+        "sub_en": "2001 Australian Open"
+    },
+    {
+        "query": "Dove si trova Australian Open 2010?",
+        "answer": " Melbourne",
+        "sub": "Australian Open 2010",
+        "sub_en": "2010 Australian Open"
+    },
+    {
+        "query": "Dove si trova Guerra greco-italiana?",
+        "answer": " Albania",
+        "sub": "Guerra greco-italiana",
+        "sub_en": "Greco-Italian War"
+    },
+    {
+        "query": "Dove si trova Massacro di Boston?",
+        "answer": " Boston",
+        "sub": "Massacro di Boston",
+        "sub_en": "Boston Massacre"
+    },
+    {
+        "query": "Dove si trova Campionati Mondiali di Tiro con l'Arco 2015?",
+        "answer": " Copenaghen",
+        "sub": "Campionati Mondiali di Tiro con l'Arco 2015",
+        "sub_en": "2015 World Archery Championships"
+    },
+    {
+        "query": "Dove si trova London Independent Film Festival?",
+        "answer": " Londra",
+        "sub": "London Independent Film Festival",
+        "sub_en": "London Independent Film Festival"
+    },
+    {
+        "query": "Dove si trova Festival Internazionale del Film di Canberra?",
+        "answer": " Canberra",
+        "sub": "Festival Internazionale del Film di Canberra",
+        "sub_en": "Canberra International Film Festival"
+    },
+    {
+        "query": "Dove si trova Teatro Tuschinski?",
+        "answer": " Amsterdam",
+        "sub": "Teatro Tuschinski",
+        "sub_en": "Theater Tuschinski"
+    },
+    {
+        "query": "Dove si trova Guerra civile russa?",
+        "answer": " Mongolia",
+        "sub": "Guerra civile russa",
+        "sub_en": "Russian Civil War"
+    },
+    {
+        "query": "Dove si trova Giochi del Sud-est asiatico 2005?",
+        "answer": " Filippine",
+        "sub": "Giochi del Sud-est asiatico 2005",
+        "sub_en": "2005 Southeast Asian Games"
+    },
+    {
+        "query": "Dove si trova Conquista normanna dell'Inghilterra?",
+        "answer": " Regno d'Inghilterra",
+        "sub": "Conquista normanna dell'Inghilterra",
+        "sub_en": "Norman conquest of England"
+    },
+    {
+        "query": "Dove si trova Nazione Yavapai di Fort McDowell?",
+        "answer": " Arizona",
+        "sub": "Nazione Yavapai di Fort McDowell",
+        "sub_en": "Fort McDowell Yavapai Nation"
+    },
+    {
+        "query": "Dove si trova Australian Open 2000?",
+        "answer": " Melbourne",
+        "sub": "Australian Open 2000",
+        "sub_en": "2000 Australian Open"
+    },
+    {
+        "query": "Dove si trova Guerra greco-italiana?",
+        "answer": " Grecia",
+        "sub": "Guerra greco-italiana",
+        "sub_en": "Greco-Italian War"
+    },
+    {
+        "query": "Dove si trova Accademia Militare Turca?",
+        "answer": " Ankara",
+        "sub": "Accademia Militare Turca",
+        "sub_en": "Turkish Military Academy"
+    },
+    {
+        "query": "Dove si trova Cimitero Statale Turco?",
+        "answer": " Ankara",
+        "sub": "Cimitero Statale Turco",
+        "sub_en": "Turkish State Cemetery"
+    },
+    {
+        "query": "Dove si trova Torre della Dogana?",
+        "answer": " Boston",
+        "sub": "Torre della Dogana",
+        "sub_en": "Custom House Tower"
+    },
+    {
+        "query": "Dove si trova Festival Internazionale del Film di Amburgo?",
+        "answer": " Amburgo",
+        "sub": "Festival Internazionale del Film di Amburgo",
+        "sub_en": "Hamburg International Film Festival"
+    },
+    {
+        "query": "Dove si trova Guerra Civile Inglese?",
+        "answer": " Regno d'Inghilterra",
+        "sub": "Guerra Civile Inglese",
+        "sub_en": "English Civil War"
+    },
+    {
+        "query": "Dove si trova Disastro del ponte Dee?",
+        "answer": " Chester",
+        "sub": "Disastro del ponte Dee",
+        "sub_en": "Dee Bridge disaster"
+    },
+    {
+        "query": "Dove si trova DOK Leipzig - Festival Internazionale di Lipsia per Film Documentari e d'Animazione?",
+        "answer": " Leipzig",
+        "sub": "DOK Leipzig - Festival Internazionale di Lipsia per Film Documentari e d'Animazione",
+        "sub_en": "DOK Leipzig - International Leipzig Festival for Documentary and Animated Film"
+    },
+    {
+        "query": "Dove si trova Sbarco in Normandia?",
+        "answer": " Normandia",
+        "sub": "Sbarco in Normandia",
+        "sub_en": "Normandy landings"
+    },
+    {
+        "query": "Dove si trova Blitz di Rotterdam?",
+        "answer": " Rotterdam",
+        "sub": "Blitz di Rotterdam",
+        "sub_en": "Rotterdam Blitz"
+    },
+    {
+        "query": "Dove si trova Il Lungofiume?",
+        "answer": " Newport",
+        "sub": "Il Lungofiume",
+        "sub_en": "The Riverfront"
+    },
+    {
+        "query": "Dove si trova Museo Boijmans Van Beuningen?",
+        "answer": " Rotterdam",
+        "sub": "Museo Boijmans Van Beuningen",
+        "sub_en": "Museum Boijmans Van Beuningen"
+    },
+    {
+        "query": "Dove si trova Attentato all'Hotel King David?",
+        "answer": " Gerusalemme",
+        "sub": "Attentato all'Hotel King David",
+        "sub_en": "King David Hotel bombing"
+    },
+    {
+        "query": "Dove si trova Festival Internazionale di Edimburgo?",
+        "answer": " Edimburgo",
+        "sub": "Festival Internazionale di Edimburgo",
+        "sub_en": "Edinburgh International Festival"
+    },
+    {
+        "query": "Dove si trova Festival del Cinema Subversivo?",
+        "answer": " Zagreb",
+        "sub": "Festival del Cinema Subversivo",
+        "sub_en": "Subversive Film Festival"
+    },
+    {
+        "query": "Dove si trova Festival Internazionale del Film di Edimburgo?",
+        "answer": " Edimburgo",
+        "sub": "Festival Internazionale del Film di Edimburgo",
+        "sub_en": "Edinburgh International Film Festival"
+    },
+    {
+        "query": "Dove si trova Australian Open 2005?",
+        "answer": " Melbourne",
+        "sub": "Australian Open 2005",
+        "sub_en": "2005 Australian Open"
+    },
+    {
+        "query": "Dove si trova Aeroporto Internazionale di Phoenix Sky Harbor?",
+        "answer": " Fenice",
+        "sub": "Aeroporto Internazionale di Phoenix Sky Harbor",
+        "sub_en": "Phoenix Sky Harbor International Airport"
+    },
+    {
+        "query": "Dove si trova Attentati di Mumbai del 25 agosto 2003?",
+        "answer": " Mumbai",
+        "sub": "Attentati di Mumbai del 25 agosto 2003",
+        "sub_en": "25 August 2003 Mumbai bombings"
+    },
+    {
+        "query": "Dove si trova PBC Lukoil Academic?",
+        "answer": " Sofia",
+        "sub": "PBC Lukoil Academic",
+        "sub_en": "PBC Lukoil Academic"
+    },
+    {
+        "query": "Dove si trova Crociata Livoniana?",
+        "answer": " Lettonia",
+        "sub": "Crociata Livoniana",
+        "sub_en": "Livonian Crusade"
+    },
+    {
+        "query": "Dove si trova Festival Internazionale del Film di Dallas?",
+        "answer": " Dallas",
+        "sub": "Festival Internazionale del Film di Dallas",
+        "sub_en": "Dallas International Film Festival"
+    },
+    {
+        "query": "Dove si trova British Museum?",
+        "answer": " Londra",
+        "sub": "British Museum",
+        "sub_en": "British Museum"
+    },
+    {
+        "query": "Dove si trova Battaglia di Olszynka Grochowska?",
+        "answer": " Varsavia",
+        "sub": "Battaglia di Olszynka Grochowska",
+        "sub_en": "Battle of Olszynka Grochowska"
+    },
+    {
+        "query": "Dove si trova Festival Internazionale del Film di Oxford?",
+        "answer": " Oxford",
+        "sub": "Festival Internazionale del Film di Oxford",
+        "sub_en": "Oxford International Film Festival"
+    }
+]

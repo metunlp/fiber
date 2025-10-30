@@ -1,0 +1,829 @@
+[
+    {
+        "query": "How many languages can Pope John Paul II speak?",
+        "answer": " 8",
+        "sub": "Pope John Paul II",
+        "count": "8",
+        "list": [
+            " Polish",
+            " Italian",
+            " Latin",
+            " French",
+            " English",
+            " German",
+            " Spanish",
+            " Portuguese"
+        ]
+    },
+    {
+        "query": "How many languages can António Guterres speak?",
+        "answer": " 4",
+        "sub": "António Guterres",
+        "count": "4",
+        "list": [
+            " Portuguese",
+            " English",
+            " French",
+            " Spanish"
+        ]
+    },
+    {
+        "query": "How many languages can Boutros Boutros-Ghali speak?",
+        "answer": " 3",
+        "sub": "Boutros Boutros-Ghali",
+        "count": "3",
+        "list": [
+            " Arabic",
+            " French",
+            " English"
+        ]
+    },
+    {
+        "query": "How many languages can Ban Ki-moon speak?",
+        "answer": " 3",
+        "sub": "Ban Ki-moon",
+        "count": "3",
+        "list": [
+            " Korean",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "How many languages can Dag Hammarskjöld speak?",
+        "answer": " 4",
+        "sub": "Dag Hammarskjöld",
+        "count": "4",
+        "list": [
+            " Swedish",
+            " English",
+            " French",
+            " German"
+        ]
+    },
+    {
+        "query": "How many languages can U Thant speak?",
+        "answer": " 3",
+        "sub": "U Thant",
+        "count": "3",
+        "list": [
+            " Burmese",
+            " English",
+            " Hindi"
+        ]
+    },
+    {
+        "query": "How many languages can Trygve Lie speak?",
+        "answer": " 3",
+        "sub": "Trygve Lie",
+        "count": "3",
+        "list": [
+            " Norwegian",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "How many languages can Joseph Conrad speak?",
+        "answer": " 3",
+        "sub": "Joseph Conrad",
+        "count": "3",
+        "list": [
+            " Polish",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "How many languages can Vladimir Nabokov speak?",
+        "answer": " 3",
+        "sub": "Vladimir Nabokov",
+        "count": "3",
+        "list": [
+            " Russian",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "How many languages can Jorge Luis Borges speak?",
+        "answer": " 4",
+        "sub": "Jorge Luis Borges",
+        "count": "4",
+        "list": [
+            " Spanish",
+            " English",
+            " French",
+            " German"
+        ]
+    },
+    {
+        "query": "How many languages can Chinua Achebe speak?",
+        "answer": " 3",
+        "sub": "Chinua Achebe",
+        "count": "3",
+        "list": [
+            " Igbo",
+            " English",
+            " Yoruba"
+        ]
+    },
+    {
+        "query": "How many languages can Ismail Kadare speak?",
+        "answer": " 3",
+        "sub": "Ismail Kadare",
+        "count": "3",
+        "list": [
+            " Albanian",
+            " French",
+            " Italian"
+        ]
+    },
+    {
+        "query": "How many languages can Isaac Bashevis Singer speak?",
+        "answer": " 3",
+        "sub": "Isaac Bashevis Singer",
+        "count": "3",
+        "list": [
+            " Yiddish",
+            " Polish",
+            " English"
+        ]
+    },
+    {
+        "query": "How many languages can Hannah Arendt speak?",
+        "answer": " 3",
+        "sub": "Hannah Arendt",
+        "count": "3",
+        "list": [
+            " German",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "How many languages can Susan Sontag speak?",
+        "answer": " 3",
+        "sub": "Susan Sontag",
+        "count": "3",
+        "list": [
+            " English",
+            " French",
+            " German"
+        ]
+    },
+    {
+        "query": "How many languages can Goethe speak?",
+        "answer": " 6",
+        "sub": "Goethe",
+        "count": "6",
+        "list": [
+            " German",
+            " French",
+            " Italian",
+            " English",
+            " Latin",
+            " Greek"
+        ]
+    },
+    {
+        "query": "How many languages can René Descartes speak?",
+        "answer": " 3",
+        "sub": "René Descartes",
+        "count": "3",
+        "list": [
+            " French",
+            " Latin",
+            " Dutch"
+        ]
+    },
+    {
+        "query": "How many languages can Baruch Spinoza speak?",
+        "answer": " 5",
+        "sub": "Baruch Spinoza",
+        "count": "5",
+        "list": [
+            " Portuguese",
+            " Dutch",
+            " Spanish",
+            " Hebrew",
+            " Latin"
+        ]
+    },
+    {
+        "query": "How many languages can Gottfried Wilhelm Leibniz speak?",
+        "answer": " 3",
+        "sub": "Gottfried Wilhelm Leibniz",
+        "count": "3",
+        "list": [
+            " German",
+            " Latin",
+            " French"
+        ]
+    },
+    {
+        "query": "How many languages can Voltaire speak?",
+        "answer": " 3",
+        "sub": "Voltaire",
+        "count": "3",
+        "list": [
+            " French",
+            " English",
+            " Italian"
+        ]
+    },
+    {
+        "query": "How many languages can Amin Maalouf speak?",
+        "answer": " 3",
+        "sub": "Amin Maalouf",
+        "count": "3",
+        "list": [
+            " Arabic",
+            " French",
+            " English"
+        ]
+    },
+    {
+        "query": "How many languages can Nikola Tesla speak?",
+        "answer": " 8",
+        "sub": "Nikola Tesla",
+        "count": "8",
+        "list": [
+            " Serbian",
+            " English",
+            " German",
+            " French",
+            " Italian",
+            " Czech",
+            " Hungarian",
+            " Latin"
+        ]
+    },
+    {
+        "query": "How many languages can Leonardo da Vinci speak?",
+        "answer": " 3",
+        "sub": "Leonardo da Vinci",
+        "count": "3",
+        "list": [
+            " Italian",
+            " Latin",
+            " French"
+        ]
+    },
+    {
+        "query": "How many languages can Mustafa Kemal Atatürk speak?",
+        "answer": " 3",
+        "sub": "Mustafa Kemal Atatürk",
+        "count": "3",
+        "list": [
+            " Turkish",
+            " French",
+            " German"
+        ]
+    },
+    {
+        "query": "How many languages can Charles de Gaulle speak?",
+        "answer": " 3",
+        "sub": "Charles de Gaulle",
+        "count": "3",
+        "list": [
+            " French",
+            " English",
+            " German"
+        ]
+    },
+    {
+        "query": "How many languages can Winston Churchill speak?",
+        "answer": " 3",
+        "sub": "Winston Churchill",
+        "count": "3",
+        "list": [
+            " English",
+            " French",
+            " Latin"
+        ]
+    },
+    {
+        "query": "How many languages can Jawaharlal Nehru speak?",
+        "answer": " 3",
+        "sub": "Jawaharlal Nehru",
+        "count": "3",
+        "list": [
+            " Hindi",
+            " English",
+            " Urdu"
+        ]
+    },
+    {
+        "query": "How many languages can Shimon Peres speak?",
+        "answer": " 4",
+        "sub": "Shimon Peres",
+        "count": "4",
+        "list": [
+            " Hebrew",
+            " English",
+            " Polish",
+            " Russian"
+        ]
+    },
+    {
+        "query": "How many languages can Olaf Scholz speak?",
+        "answer": " 3",
+        "sub": "Olaf Scholz",
+        "count": "3",
+        "list": [
+            " German",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "How many languages can Ursula von der Leyen speak?",
+        "answer": " 3",
+        "sub": "Ursula von der Leyen",
+        "count": "3",
+        "list": [
+            " German",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "How many languages can Queen Silvia of Sweden speak?",
+        "answer": " 6",
+        "sub": "Queen Silvia of Sweden",
+        "count": "6",
+        "list": [
+            " German",
+            " Portuguese",
+            " Spanish",
+            " English",
+            " Swedish",
+            " French"
+        ]
+    },
+    {
+        "query": "How many languages can Queen Rania of Jordan speak?",
+        "answer": " 3",
+        "sub": "Queen Rania of Jordan",
+        "count": "3",
+        "list": [
+            " Arabic",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "How many languages can King Felipe VI of Spain speak?",
+        "answer": " 4",
+        "sub": "King Felipe VI of Spain",
+        "count": "4",
+        "list": [
+            " Spanish",
+            " Catalan",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "How many languages can Queen Letizia of Spain speak?",
+        "answer": " 3",
+        "sub": "Queen Letizia of Spain",
+        "count": "3",
+        "list": [
+            " Spanish",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "How many languages can Guy Verhofstadt speak?",
+        "answer": " 3",
+        "sub": "Guy Verhofstadt",
+        "count": "3",
+        "list": [
+            " Dutch",
+            " French",
+            " English"
+        ]
+    },
+    {
+        "query": "How many languages can Zeinab Badawi speak?",
+        "answer": " 3",
+        "sub": "Zeinab Badawi",
+        "count": "3",
+        "list": [
+            " Arabic",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "How many languages can Audrey Hepburn speak?",
+        "answer": " 5",
+        "sub": "Audrey Hepburn",
+        "count": "5",
+        "list": [
+            " English",
+            " Dutch",
+            " French",
+            " Italian",
+            " Spanish"
+        ]
+    },
+    {
+        "query": "How many languages can Trevor Noah speak?",
+        "answer": " 6",
+        "sub": "Trevor Noah",
+        "count": "6",
+        "list": [
+            " English",
+            " Zulu",
+            " Xhosa",
+            " Tswana",
+            " Tsonga",
+            " Afrikaans"
+        ]
+    },
+    {
+        "query": "How many languages can Jackie Chan speak?",
+        "answer": " 3",
+        "sub": "Jackie Chan",
+        "count": "3",
+        "list": [
+            " Cantonese",
+            " Mandarin",
+            " English"
+        ]
+    },
+    {
+        "query": "How many languages can Viggo Mortensen speak?",
+        "answer": " 3",
+        "sub": "Viggo Mortensen",
+        "count": "3",
+        "list": [
+            " English",
+            " Danish",
+            " Spanish"
+        ]
+    },
+    {
+        "query": "How many languages can Shakira speak?",
+        "answer": " 5",
+        "sub": "Shakira",
+        "count": "5",
+        "list": [
+            " Spanish",
+            " English",
+            " Portuguese",
+            " Italian",
+            " Arabic"
+        ]
+    },
+    {
+        "query": "How many languages can Gael García Bernal speak?",
+        "answer": " 4",
+        "sub": "Gael García Bernal",
+        "count": "4",
+        "list": [
+            " Spanish",
+            " English",
+            " Portuguese",
+            " French"
+        ]
+    },
+    {
+        "query": "How many languages can Natalie Portman speak?",
+        "answer": " 3",
+        "sub": "Natalie Portman",
+        "count": "3",
+        "list": [
+            " English",
+            " Hebrew",
+            " French"
+        ]
+    },
+    {
+        "query": "How many languages can Salma Hayek speak?",
+        "answer": " 3",
+        "sub": "Salma Hayek",
+        "count": "3",
+        "list": [
+            " Spanish",
+            " English",
+            " Portuguese"
+        ]
+    },
+    {
+        "query": "How many languages can Monica Bellucci speak?",
+        "answer": " 3",
+        "sub": "Monica Bellucci",
+        "count": "3",
+        "list": [
+            " Italian",
+            " French",
+            " English"
+        ]
+    },
+    {
+        "query": "How many languages can Gong Li speak?",
+        "answer": " 3",
+        "sub": "Gong Li",
+        "count": "3",
+        "list": [
+            " Mandarin",
+            " English",
+            " Cantonese"
+        ]
+    },
+    {
+        "query": "How many languages can Bradley Cooper speak?",
+        "answer": " 3",
+        "sub": "Bradley Cooper",
+        "count": "3",
+        "list": [
+            " English",
+            " French",
+            " Italian"
+        ]
+    },
+    {
+        "query": "How many languages can Daniel Brühl speak?",
+        "answer": " 5",
+        "sub": "Daniel Brühl",
+        "count": "5",
+        "list": [
+            " German",
+            " Spanish",
+            " English",
+            " French",
+            " Catalan"
+        ]
+    },
+    {
+        "query": "How many languages can Mads Mikkelsen speak?",
+        "answer": " 4",
+        "sub": "Mads Mikkelsen",
+        "count": "4",
+        "list": [
+            " Danish",
+            " English",
+            " Swedish",
+            " German"
+        ]
+    },
+    {
+        "query": "How many languages can Aishwarya Rai Bachchan speak?",
+        "answer": " 3",
+        "sub": "Aishwarya Rai Bachchan",
+        "count": "3",
+        "list": [
+            " Hindi",
+            " English",
+            " Tamil"
+        ]
+    },
+    {
+        "query": "How many languages can Irrfan Khan speak?",
+        "answer": " 3",
+        "sub": "Irrfan Khan",
+        "count": "3",
+        "list": [
+            " Hindi",
+            " English",
+            " Urdu"
+        ]
+    },
+    {
+        "query": "How many languages can Priyanka Chopra Jonas speak?",
+        "answer": " 3",
+        "sub": "Priyanka Chopra Jonas",
+        "count": "3",
+        "list": [
+            " Hindi",
+            " English",
+            " Punjabi"
+        ]
+    },
+    {
+        "query": "How many languages can Andrea Bocelli speak?",
+        "answer": " 4",
+        "sub": "Andrea Bocelli",
+        "count": "4",
+        "list": [
+            " Italian",
+            " English",
+            " Spanish",
+            " French"
+        ]
+    },
+    {
+        "query": "How many languages can Lara Fabian speak?",
+        "answer": " 4",
+        "sub": "Lara Fabian",
+        "count": "4",
+        "list": [
+            " French",
+            " Italian",
+            " English",
+            " Spanish"
+        ]
+    },
+    {
+        "query": "How many languages can Sönke Wortmann speak?",
+        "answer": " 3",
+        "sub": "Sönke Wortmann",
+        "count": "3",
+        "list": [
+            " German",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "How many languages can Pep Guardiola speak?",
+        "answer": " 4",
+        "sub": "Pep Guardiola",
+        "count": "4",
+        "list": [
+            " Catalan",
+            " Spanish",
+            " English",
+            " German"
+        ]
+    },
+    {
+        "query": "How many languages can Zlatan Ibrahimović speak?",
+        "answer": " 5",
+        "sub": "Zlatan Ibrahimović",
+        "count": "5",
+        "list": [
+            " Swedish",
+            " Bosnian/Serbian",
+            " English",
+            " Italian",
+            " Spanish"
+        ]
+    },
+    {
+        "query": "How many languages can Mesut Özil speak?",
+        "answer": " 4",
+        "sub": "Mesut Özil",
+        "count": "4",
+        "list": [
+            " German",
+            " Turkish",
+            " English",
+            " Spanish"
+        ]
+    },
+    {
+        "query": "How many languages can Luka Modrić speak?",
+        "answer": " 3",
+        "sub": "Luka Modrić",
+        "count": "3",
+        "list": [
+            " Croatian",
+            " English",
+            " Spanish"
+        ]
+    },
+    {
+        "query": "How many languages can Thierry Henry speak?",
+        "answer": " 3",
+        "sub": "Thierry Henry",
+        "count": "3",
+        "list": [
+            " French",
+            " English",
+            " Spanish"
+        ]
+    },
+    {
+        "query": "How many languages can Yao Ming speak?",
+        "answer": " 3",
+        "sub": "Yao Ming",
+        "count": "3",
+        "list": [
+            " Mandarin",
+            " English",
+            " Shanghainese"
+        ]
+    },
+    {
+        "query": "How many languages can Pau Gasol speak?",
+        "answer": " 3",
+        "sub": "Pau Gasol",
+        "count": "3",
+        "list": [
+            " Spanish",
+            " Catalan",
+            " English"
+        ]
+    },
+    {
+        "query": "How many languages can Sundar Pichai speak?",
+        "answer": " 3",
+        "sub": "Sundar Pichai",
+        "count": "3",
+        "list": [
+            " Tamil",
+            " Hindi",
+            " English"
+        ]
+    },
+    {
+        "query": "How many languages can Satya Nadella speak?",
+        "answer": " 3",
+        "sub": "Satya Nadella",
+        "count": "3",
+        "list": [
+            " Telugu",
+            " Hindi",
+            " English"
+        ]
+    },
+    {
+        "query": "How many languages can Malala Yousafzai speak?",
+        "answer": " 3",
+        "sub": "Malala Yousafzai",
+        "count": "3",
+        "list": [
+            " Pashto",
+            " Urdu",
+            " English"
+        ]
+    },
+    {
+        "query": "How many languages can Al-Farabi speak?",
+        "answer": " 3",
+        "sub": "Al-Farabi",
+        "count": "3",
+        "list": [
+            " Arabic",
+            " Persian",
+            " Turkic"
+        ]
+    },
+    {
+        "query": "How many languages can Erasmus speak?",
+        "answer": " 5",
+        "sub": "Erasmus",
+        "count": "5",
+        "list": [
+            " Latin",
+            " Dutch",
+            " French",
+            " English",
+            " Greek"
+        ]
+    },
+    {
+        "query": "How many languages can Thomas More speak?",
+        "answer": " 3",
+        "sub": "Thomas More",
+        "count": "3",
+        "list": [
+            " English",
+            " Latin",
+            " French"
+        ]
+    },
+    {
+        "query": "How many languages can Ignatius of Loyola speak?",
+        "answer": " 4",
+        "sub": "Ignatius of Loyola",
+        "count": "4",
+        "list": [
+            " Basque",
+            " Spanish",
+            " Latin",
+            " Italian"
+        ]
+    },
+    {
+        "query": "How many languages can Francis Xavier speak?",
+        "answer": " 5",
+        "sub": "Francis Xavier",
+        "count": "5",
+        "list": [
+            " Basque",
+            " Spanish",
+            " Portuguese",
+            " Latin",
+            " Japanese"
+        ]
+    },
+    {
+        "query": "How many languages can Matteo Ricci speak?",
+        "answer": " 4",
+        "sub": "Matteo Ricci",
+        "count": "4",
+        "list": [
+            " Italian",
+            " Latin",
+            " Portuguese",
+            " Chinese"
+        ]
+    }
+]

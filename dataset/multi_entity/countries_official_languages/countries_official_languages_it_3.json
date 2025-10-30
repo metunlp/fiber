@@ -1,0 +1,1051 @@
+[
+    {
+        "query": "Quante lingue ufficiali ha Albania?",
+        "answer": " 1",
+        "sub": "Albania",
+        "count": "1",
+        "list": [
+            " Albanese"
+        ],
+        "en_sub": "Albania"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Argentina?",
+        "answer": " 1",
+        "sub": "Argentina",
+        "count": "1",
+        "list": [
+            " Spagnolo"
+        ],
+        "en_sub": "Argentina"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Armenia?",
+        "answer": " 1",
+        "sub": "Armenia",
+        "count": "1",
+        "list": [
+            " Armeno"
+        ],
+        "en_sub": "Armenia"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Australia?",
+        "answer": " 1",
+        "sub": "Australia",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Australia"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Austria?",
+        "answer": " 1",
+        "sub": "Austria",
+        "count": "1",
+        "list": [
+            " Tedesco"
+        ],
+        "en_sub": "Austria"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Bahamas?",
+        "answer": " 1",
+        "sub": "Bahamas",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Bahamas"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Belize?",
+        "answer": " 1",
+        "sub": "Belize",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Belize"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Bolivia?",
+        "answer": " 37",
+        "sub": "Bolivia",
+        "count": "37",
+        "list": [
+            " Spagnolo",
+            " Aymara",
+            " Araona",
+            " Baure",
+            " Bésiro",
+            " Canichana",
+            " Cavineño",
+            " Cayubaba",
+            " Chácobo",
+            " Chimán",
+            " Ese Ejja",
+            " Guaraní",
+            " Guarasu'we",
+            " Guarayu",
+            " Itonama",
+            " Leco",
+            " Machajuyai-kallawaya",
+            " Machineri",
+            " Maropa",
+            " Mojeñotrinitario",
+            " Mojeño-ignaciano",
+            " Moré",
+            " Mosetén",
+            " Movima",
+            " Pacawara",
+            " Puquina",
+            " Quechua",
+            " Sirionó",
+            " Tacana",
+            " Tapiete",
+            " Toromona",
+            " Uruchipaya",
+            " Weenhayek",
+            " Yaminawa",
+            " Yuki",
+            " Yuracaré",
+            " Zamuco"
+        ],
+        "en_sub": "Bolivia"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Bosnia ed Erzegovina?",
+        "answer": " 3",
+        "sub": "Bosnia ed Erzegovina",
+        "count": "3",
+        "list": [
+            " Bosniaco",
+            " Croato",
+            " Serbo"
+        ],
+        "en_sub": "Bosnia and Herzegovina"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Botswana?",
+        "answer": " 1",
+        "sub": "Botswana",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Botswana"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Brasile?",
+        "answer": " 1",
+        "sub": "Brasile",
+        "count": "1",
+        "list": [
+            " Portoghese"
+        ],
+        "en_sub": "Brazil"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Brunei?",
+        "answer": " 1",
+        "sub": "Brunei",
+        "count": "1",
+        "list": [
+            " Malese"
+        ],
+        "en_sub": "Brunei"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Bulgaria?",
+        "answer": " 1",
+        "sub": "Bulgaria",
+        "count": "1",
+        "list": [
+            " Bulgaro"
+        ],
+        "en_sub": "Bulgaria"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Burkina Faso?",
+        "answer": " 4",
+        "sub": "Burkina Faso",
+        "count": "4",
+        "list": [
+            " Mooré",
+            " Bissa",
+            " Dyula",
+            " Fula"
+        ],
+        "en_sub": "Burkina Faso"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Capo Verde?",
+        "answer": " 1",
+        "sub": "Capo Verde",
+        "count": "1",
+        "list": [
+            " Portoghese"
+        ],
+        "en_sub": "Cabo Verde"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Cambogia?",
+        "answer": " 1",
+        "sub": "Cambogia",
+        "count": "1",
+        "list": [
+            " Khmer"
+        ],
+        "en_sub": "Cambodia"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Canada?",
+        "answer": " 2",
+        "sub": "Canada",
+        "count": "2",
+        "list": [
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Canada"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Cile?",
+        "answer": " 1",
+        "sub": "Cile",
+        "count": "1",
+        "list": [
+            " Spagnolo"
+        ],
+        "en_sub": "Chile"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Cina?",
+        "answer": " 1",
+        "sub": "Cina",
+        "count": "1",
+        "list": [
+            " Cinese Mandarino"
+        ],
+        "en_sub": "China"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Costa d'Avorio?",
+        "answer": " 1",
+        "sub": "Costa d'Avorio",
+        "count": "1",
+        "list": [
+            " Francese"
+        ],
+        "en_sub": "Ivory Coast"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Costa Rica?",
+        "answer": " 1",
+        "sub": "Costa Rica",
+        "count": "1",
+        "list": [
+            " Spagnolo"
+        ],
+        "en_sub": "Costa Rica"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Croazia?",
+        "answer": " 1",
+        "sub": "Croazia",
+        "count": "1",
+        "list": [
+            " Croato"
+        ],
+        "en_sub": "Croatia"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Corea del Nord?",
+        "answer": " 1",
+        "sub": "Corea del Nord",
+        "count": "1",
+        "list": [
+            " Coreano"
+        ],
+        "en_sub": "North Korea"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Repubblica Democratica del Congo?",
+        "answer": " 1",
+        "sub": "Repubblica Democratica del Congo",
+        "count": "1",
+        "list": [
+            " Francese"
+        ],
+        "en_sub": "Democratic Republic of the Congo"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Danimarca?",
+        "answer": " 1",
+        "sub": "Danimarca",
+        "count": "1",
+        "list": [
+            " Danese"
+        ],
+        "en_sub": "Denmark"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Gibuti?",
+        "answer": " 2",
+        "sub": "Gibuti",
+        "count": "2",
+        "list": [
+            " Francese",
+            " Arabo"
+        ],
+        "en_sub": "Djibouti"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Dominica?",
+        "answer": " 1",
+        "sub": "Dominica",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Dominica"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Repubblica Dominicana?",
+        "answer": " 1",
+        "sub": "Repubblica Dominicana",
+        "count": "1",
+        "list": [
+            " Spagnolo"
+        ],
+        "en_sub": "Dominican Republic"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Eritrea?",
+        "answer": " 3",
+        "sub": "Eritrea",
+        "count": "3",
+        "list": [
+            " Tigrinya",
+            " Arabo",
+            " Inglese"
+        ],
+        "en_sub": "Eritrea"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Estonia?",
+        "answer": " 1",
+        "sub": "Estonia",
+        "count": "1",
+        "list": [
+            " Estone"
+        ],
+        "en_sub": "Estonia"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Eswatini?",
+        "answer": " 2",
+        "sub": "Eswatini",
+        "count": "2",
+        "list": [
+            " Swazi",
+            " Inglese"
+        ],
+        "en_sub": "Eswatini"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Etiopia?",
+        "answer": " 1",
+        "sub": "Etiopia",
+        "count": "1",
+        "list": [
+            " Amarico"
+        ],
+        "en_sub": "Ethiopia"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Figi?",
+        "answer": " 3",
+        "sub": "Figi",
+        "count": "3",
+        "list": [
+            " Inglese",
+            " Figiano",
+            " Hindi figiano"
+        ],
+        "en_sub": "Fiji"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Gabon?",
+        "answer": " 1",
+        "sub": "Gabon",
+        "count": "1",
+        "list": [
+            " Francese"
+        ],
+        "en_sub": "Gabon"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Grecia?",
+        "answer": " 1",
+        "sub": "Grecia",
+        "count": "1",
+        "list": [
+            " Greco"
+        ],
+        "en_sub": "Greece"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Grenada?",
+        "answer": " 1",
+        "sub": "Grenada",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Grenada"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Guinea?",
+        "answer": " 1",
+        "sub": "Guinea",
+        "count": "1",
+        "list": [
+            " Francese"
+        ],
+        "en_sub": "Guinea"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Guinea-Bissau?",
+        "answer": " 1",
+        "sub": "Guinea-Bissau",
+        "count": "1",
+        "list": [
+            " Portoghese"
+        ],
+        "en_sub": "Guinea Bissau"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Honduras?",
+        "answer": " 1",
+        "sub": "Honduras",
+        "count": "1",
+        "list": [
+            " Spagnolo"
+        ],
+        "en_sub": "Honduras"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Ungheria?",
+        "answer": " 1",
+        "sub": "Ungheria",
+        "count": "1",
+        "list": [
+            " Ungherese"
+        ],
+        "en_sub": "Hungary"
+    },
+    {
+        "query": "Quante lingue ufficiali ha India?",
+        "answer": " 2",
+        "sub": "India",
+        "count": "2",
+        "list": [
+            " Hindi",
+            " Inglese"
+        ],
+        "en_sub": "India"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Irlanda?",
+        "answer": " 2",
+        "sub": "Irlanda",
+        "count": "2",
+        "list": [
+            " Irlandese",
+            " Inglese"
+        ],
+        "en_sub": "Ireland"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Israele?",
+        "answer": " 2",
+        "sub": "Israele",
+        "count": "2",
+        "list": [
+            " Ebraico",
+            " Arabo"
+        ],
+        "en_sub": "Israel"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Italia?",
+        "answer": " 1",
+        "sub": "Italia",
+        "count": "1",
+        "list": [
+            " Italiano"
+        ],
+        "en_sub": "Italy"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Giordania?",
+        "answer": " 1",
+        "sub": "Giordania",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Jordan"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Kazakistan?",
+        "answer": " 2",
+        "sub": "Kazakistan",
+        "count": "2",
+        "list": [
+            " Kazako",
+            " Russo"
+        ],
+        "en_sub": "Kazakhstan"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Kenya?",
+        "answer": " 2",
+        "sub": "Kenya",
+        "count": "2",
+        "list": [
+            " Swahili",
+            " Inglese"
+        ],
+        "en_sub": "Kenya"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Kiribati?",
+        "answer": " 2",
+        "sub": "Kiribati",
+        "count": "2",
+        "list": [
+            " Inglese",
+            " Gilbertese"
+        ],
+        "en_sub": "Kiribati"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Kuwait?",
+        "answer": " 1",
+        "sub": "Kuwait",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Kuwait"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Laos?",
+        "answer": " 1",
+        "sub": "Laos",
+        "count": "1",
+        "list": [
+            " Laos"
+        ],
+        "en_sub": "Laos"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Lettonia?",
+        "answer": " 1",
+        "sub": "Lettonia",
+        "count": "1",
+        "list": [
+            " Lettone"
+        ],
+        "en_sub": "Latvia"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Libano?",
+        "answer": " 1",
+        "sub": "Libano",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Lebanon"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Libia?",
+        "answer": " 1",
+        "sub": "Libia",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Libya"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Liechtenstein?",
+        "answer": " 1",
+        "sub": "Liechtenstein",
+        "count": "1",
+        "list": [
+            " Tedesco"
+        ],
+        "en_sub": "Liechtenstein"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Isole Marshall?",
+        "answer": " 2",
+        "sub": "Isole Marshall",
+        "count": "2",
+        "list": [
+            " Marshallese",
+            " Inglese"
+        ],
+        "en_sub": "Marshall Islands"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Mauritania?",
+        "answer": " 1",
+        "sub": "Mauritania",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Mauritania"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Mauritius?",
+        "answer": " 2",
+        "sub": "Mauritius",
+        "count": "2",
+        "list": [
+            " Inglese",
+            " Francese"
+        ],
+        "en_sub": "Mauritius"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Mongolia?",
+        "answer": " 1",
+        "sub": "Mongolia",
+        "count": "1",
+        "list": [
+            " Mongolo"
+        ],
+        "en_sub": "Mongolia"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Marocco?",
+        "answer": " 2",
+        "sub": "Marocco",
+        "count": "2",
+        "list": [
+            " Arabo",
+            " Tamazight"
+        ],
+        "en_sub": "Morocco"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Myanmar?",
+        "answer": " 1",
+        "sub": "Myanmar",
+        "count": "1",
+        "list": [
+            " Birmano"
+        ],
+        "en_sub": "Myanmar"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Namibia?",
+        "answer": " 1",
+        "sub": "Namibia",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Namibia"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Nauru?",
+        "answer": " 2",
+        "sub": "Nauru",
+        "count": "2",
+        "list": [
+            " Nauruano",
+            " Inglese"
+        ],
+        "en_sub": "Nauru"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Niger?",
+        "answer": " 1",
+        "sub": "Niger",
+        "count": "1",
+        "list": [
+            " Francese"
+        ],
+        "en_sub": "Niger"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Norvegia?",
+        "answer": " 1",
+        "sub": "Norvegia",
+        "count": "1",
+        "list": [
+            " Norvegese"
+        ],
+        "en_sub": "Norway"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Oman?",
+        "answer": " 1",
+        "sub": "Oman",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Oman"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Pakistan?",
+        "answer": " 2",
+        "sub": "Pakistan",
+        "count": "2",
+        "list": [
+            " Urdu",
+            " Inglese"
+        ],
+        "en_sub": "Pakistan"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Palau?",
+        "answer": " 2",
+        "sub": "Palau",
+        "count": "2",
+        "list": [
+            " Palauano",
+            " Inglese"
+        ],
+        "en_sub": "Palau"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Papua Nuova Guinea?",
+        "answer": " 4",
+        "sub": "Papua Nuova Guinea",
+        "count": "4",
+        "list": [
+            " Inglese",
+            " Tok Pisin",
+            " Hiri Motu",
+            " Lingua dei segni di PNG"
+        ],
+        "en_sub": "Papua New Guinea"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Paraguay?",
+        "answer": " 2",
+        "sub": "Paraguay",
+        "count": "2",
+        "list": [
+            " Spagnolo",
+            " Guarani"
+        ],
+        "en_sub": "Paraguay"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Qatar?",
+        "answer": " 1",
+        "sub": "Qatar",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Qatar"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Moldova?",
+        "answer": " 1",
+        "sub": "Moldova",
+        "count": "1",
+        "list": [
+            " Rumeno"
+        ],
+        "en_sub": "Moldova"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Romania?",
+        "answer": " 1",
+        "sub": "Romania",
+        "count": "1",
+        "list": [
+            " Rumeno"
+        ],
+        "en_sub": "Romania"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Ruanda?",
+        "answer": " 4",
+        "sub": "Ruanda",
+        "count": "4",
+        "list": [
+            " Kinyarwanda",
+            " Francese",
+            " Inglese",
+            " Swahili"
+        ],
+        "en_sub": "Rwanda"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Saint Kitts e Nevis?",
+        "answer": " 1",
+        "sub": "Saint Kitts e Nevis",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Saint Kitts and Nevis"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Saint Vincent e Grenadine?",
+        "answer": " 1",
+        "sub": "Saint Vincent e Grenadine",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Saint Vincent and the Grenadines"
+    },
+    {
+        "query": "Quante lingue ufficiali ha San Marino?",
+        "answer": " 1",
+        "sub": "San Marino",
+        "count": "1",
+        "list": [
+            " Italiano"
+        ],
+        "en_sub": "San Marino"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Senegal?",
+        "answer": " 1",
+        "sub": "Senegal",
+        "count": "1",
+        "list": [
+            " Francese"
+        ],
+        "en_sub": "Senegal"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Serbia?",
+        "answer": " 1",
+        "sub": "Serbia",
+        "count": "1",
+        "list": [
+            " Serbo"
+        ],
+        "en_sub": "Serbia"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Seychelles?",
+        "answer": " 3",
+        "sub": "Seychelles",
+        "count": "3",
+        "list": [
+            " Creolo delle Seychelles",
+            " Francese",
+            " Inglese"
+        ],
+        "en_sub": "Seychelles"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Singapore?",
+        "answer": " 4",
+        "sub": "Singapore",
+        "count": "4",
+        "list": [
+            " Inglese",
+            " Malese",
+            " Mandarino",
+            " il tamil"
+        ],
+        "en_sub": "Singapore"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Slovenia?",
+        "answer": " 1",
+        "sub": "Slovenia",
+        "count": "1",
+        "list": [
+            " Sloveno"
+        ],
+        "en_sub": "Slovenia"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Isole Salomone?",
+        "answer": " 1",
+        "sub": "Isole Salomone",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Solomon Islands"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Spagna?",
+        "answer": " 1",
+        "sub": "Spagna",
+        "count": "1",
+        "list": [
+            " Spagnolo"
+        ],
+        "en_sub": "Spain"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Sri Lanka?",
+        "answer": " 2",
+        "sub": "Sri Lanka",
+        "count": "2",
+        "list": [
+            " Singalese",
+            " il tamil"
+        ],
+        "en_sub": "Sri Lanka"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Sudan?",
+        "answer": " 2",
+        "sub": "Sudan",
+        "count": "2",
+        "list": [
+            " Arabo",
+            " Inglese"
+        ],
+        "en_sub": "Sudan"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Svizzera?",
+        "answer": " 4",
+        "sub": "Svizzera",
+        "count": "4",
+        "list": [
+            " Tedesco",
+            " Francese",
+            " Italiano",
+            " Romancio"
+        ],
+        "en_sub": "Switzerland"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Trinidad e Tobago?",
+        "answer": " 1",
+        "sub": "Trinidad e Tobago",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Trinidad and Tobago"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Tunisia?",
+        "answer": " 1",
+        "sub": "Tunisia",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Tunisia"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Turchia?",
+        "answer": " 1",
+        "sub": "Turchia",
+        "count": "1",
+        "list": [
+            " Turco"
+        ],
+        "en_sub": "Turkey"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Turkmenistan?",
+        "answer": " 1",
+        "sub": "Turkmenistan",
+        "count": "1",
+        "list": [
+            " Turkmeno"
+        ],
+        "en_sub": "Turkmenistan"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Tuvalu?",
+        "answer": " 2",
+        "sub": "Tuvalu",
+        "count": "2",
+        "list": [
+            " Tuvaluano",
+            " Inglese"
+        ],
+        "en_sub": "Tuvalu"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Ucraina?",
+        "answer": " 1",
+        "sub": "Ucraina",
+        "count": "1",
+        "list": [
+            " Ucraino"
+        ],
+        "en_sub": "Ukraine"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Tanzania?",
+        "answer": " 2",
+        "sub": "Tanzania",
+        "count": "2",
+        "list": [
+            " Swahili",
+            " Inglese"
+        ],
+        "en_sub": "Tanzania"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Stati Uniti?",
+        "answer": " 1",
+        "sub": "Stati Uniti",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "United States"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Uruguay?",
+        "answer": " 1",
+        "sub": "Uruguay",
+        "count": "1",
+        "list": [
+            " Spagnolo"
+        ],
+        "en_sub": "Uruguay"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Yemen?",
+        "answer": " 1",
+        "sub": "Yemen",
+        "count": "1",
+        "list": [
+            " Arabo"
+        ],
+        "en_sub": "Yemen"
+    },
+    {
+        "query": "Quante lingue ufficiali ha Zambia?",
+        "answer": " 1",
+        "sub": "Zambia",
+        "count": "1",
+        "list": [
+            " Inglese"
+        ],
+        "en_sub": "Zambia"
+    }
+]

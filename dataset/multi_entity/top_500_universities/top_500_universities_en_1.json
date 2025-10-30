@@ -1,0 +1,563 @@
+[
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Australia?",
+        "answer": "   The University of Melbourne,  The University of New South Wales,  The University of Sydney,  Australian National University,  Monash University,  The University of Queensland,  The University of Western Australia,  Adelaide University,  University of Technology Sydney,  RMIT University,  Macquarie University,  Curtin University,  University of Wollongong,  Deakin University,  Queensland University of Technology,  The University of Newcastle,  La Trobe University,  Griffith University,  Swinburne University of Technology,  University of Tasmania,  Flinders University,  Western Sydney University,  University of Southern Queensland,  Murdoch University,  James Cook University,  Edith Cowan University,  University of Canberra,  Central Queensland University Australia",
+        "sub": "Australia",
+        "count": "28",
+        "list": [
+            " The University of Melbourne",
+            " The University of New South Wales",
+            " The University of Sydney",
+            " Australian National University",
+            " Monash University",
+            " The University of Queensland",
+            " The University of Western Australia",
+            " Adelaide University",
+            " University of Technology Sydney",
+            " RMIT University",
+            " Macquarie University",
+            " Curtin University",
+            " University of Wollongong",
+            " Deakin University",
+            " Queensland University of Technology",
+            " The University of Newcastle",
+            " La Trobe University",
+            " Griffith University",
+            " Swinburne University of Technology",
+            " University of Tasmania",
+            " Flinders University",
+            " Western Sydney University",
+            " University of Southern Queensland",
+            " Murdoch University",
+            " James Cook University",
+            " Edith Cowan University",
+            " University of Canberra",
+            " Central Queensland University Australia"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Austria?",
+        "answer": "   University of Vienna,  Vienna University of Technology,  Universität Innsbruck,  Graz University of Technology,  Johannes Kepler University Linz",
+        "sub": "Austria",
+        "count": "5",
+        "list": [
+            " University of Vienna",
+            " Vienna University of Technology",
+            " Universität Innsbruck",
+            " Graz University of Technology",
+            " Johannes Kepler University Linz"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Brazil?",
+        "answer": "   Universidade de São Paulo,  Universidade Estadual de Campinas,  Universidade Federal do Rio de Janeiro,  Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+        "sub": "Brazil",
+        "count": "4",
+        "list": [
+            " Universidade de São Paulo",
+            " Universidade Estadual de Campinas",
+            " Universidade Federal do Rio de Janeiro",
+            " Universidade Estadual Paulista \"Júlio de Mesquita Filho\""
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Brunei Darussalam?",
+        "answer": "   Universiti Brunei Darussalam",
+        "sub": "Brunei Darussalam",
+        "count": "1",
+        "list": [
+            " Universiti Brunei Darussalam"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Canada?",
+        "answer": "   McGill University,  University of Toronto,  University of British Columbia,  University of Alberta,  University of Waterloo,  Western University,  University of Montreal,  McMaster University,  Queen's University - Ontario,  University of Calgary,  University of Ottawa,  Dalhousie University,  Simon Fraser University,  York University,  University of Victoria,  University of Saskatchewan,  Concordia University,  Laval University",
+        "sub": "Canada",
+        "count": "18",
+        "list": [
+            " McGill University",
+            " University of Toronto",
+            " University of British Columbia",
+            " University of Alberta",
+            " University of Waterloo",
+            " Western University",
+            " University of Montreal",
+            " McMaster University",
+            " Queen's University - Ontario",
+            " University of Calgary",
+            " University of Ottawa",
+            " Dalhousie University",
+            " Simon Fraser University",
+            " York University",
+            " University of Victoria",
+            " University of Saskatchewan",
+            " Concordia University",
+            " Laval University"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Chile?",
+        "answer": "   Pontificia Universidad Católica de Chile,  Universidad de Chile,  Universidad de Santiago de Chile",
+        "sub": "Chile",
+        "count": "3",
+        "list": [
+            " Pontificia Universidad Católica de Chile",
+            " Universidad de Chile",
+            " Universidad de Santiago de Chile"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Cyprus?",
+        "answer": "   University of Cyprus",
+        "sub": "Cyprus",
+        "count": "1",
+        "list": [
+            " University of Cyprus"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Czechia?",
+        "answer": "   Charles University,  Czech Technical University In Prague,  Masaryk University",
+        "sub": "Czechia",
+        "count": "3",
+        "list": [
+            " Charles University",
+            " Czech Technical University In Prague",
+            " Masaryk University"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Denmark?",
+        "answer": "   University of Copenhagen,  Technical University of Denmark,  Aarhus University,  University of Southern Denmark,  Aalborg University",
+        "sub": "Denmark",
+        "count": "5",
+        "list": [
+            " University of Copenhagen",
+            " Technical University of Denmark",
+            " Aarhus University",
+            " University of Southern Denmark",
+            " Aalborg University"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Egypt?",
+        "answer": "   Cairo University,  The American University in Cairo",
+        "sub": "Egypt",
+        "count": "2",
+        "list": [
+            " Cairo University",
+            " The American University in Cairo"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Finland?",
+        "answer": "   Aalto University,  University of Helsinki,  University of Oulu,  University of Turku,  Lappeenranta-Lahti University of Technology LUT,  Tampere University,  University of Jyväskylä",
+        "sub": "Finland",
+        "count": "7",
+        "list": [
+            " Aalto University",
+            " University of Helsinki",
+            " University of Oulu",
+            " University of Turku",
+            " Lappeenranta-Lahti University of Technology LUT",
+            " Tampere University",
+            " University of Jyväskylä"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Israel?",
+        "answer": "   Tel Aviv University,  Hebrew University of Jerusalem,  Technion - Israel Institute of Technology,  Ben Gurion University of The Negev",
+        "sub": "Israel",
+        "count": "4",
+        "list": [
+            " Tel Aviv University",
+            " Hebrew University of Jerusalem",
+            " Technion - Israel Institute of Technology",
+            " Ben Gurion University of The Negev"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Italy?",
+        "answer": "   Politecnico di Milano,  Sapienza University of Rome,  Alma Mater Studiorum - University of Bologna,  University of Padova,  Politecnico di Torino,  University of Milan,  University of Pisa,  Università degli Studi di Roma - Tor Vergata,  University of Naples - Federico II,  University of Florence,  University of Turin,  Università Cattolica del Sacro Cuore,  Università degli Studi di Pavia,  Università Vita-Salute San Raffaele,  University of Trento",
+        "sub": "Italy",
+        "count": "15",
+        "list": [
+            " Politecnico di Milano",
+            " Sapienza University of Rome",
+            " Alma Mater Studiorum - University of Bologna",
+            " University of Padova",
+            " Politecnico di Torino",
+            " University of Milan",
+            " University of Pisa",
+            " Università degli Studi di Roma - Tor Vergata",
+            " University of Naples - Federico II",
+            " University of Florence",
+            " University of Turin",
+            " Università Cattolica del Sacro Cuore",
+            " Università degli Studi di Pavia",
+            " Università Vita-Salute San Raffaele",
+            " University of Trento"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Japan?",
+        "answer": "   The University of Tokyo,  Kyoto University,  Tokyo Institute of Technology,  The University of Osaka,  Tohoku University,  Nagoya University,  Hokkaido University,  Kyushu University,  Waseda University,  Keio University,  University of Tsukuba,  Hiroshima University,  Kobe University",
+        "sub": "Japan",
+        "count": "13",
+        "list": [
+            " The University of Tokyo",
+            " Kyoto University",
+            " Tokyo Institute of Technology",
+            " The University of Osaka",
+            " Tohoku University",
+            " Nagoya University",
+            " Hokkaido University",
+            " Kyushu University",
+            " Waseda University",
+            " Keio University",
+            " University of Tsukuba",
+            " Hiroshima University",
+            " Kobe University"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Jordan?",
+        "answer": "   University of Jordan,  Jordan University of Science & Technology",
+        "sub": "Jordan",
+        "count": "2",
+        "list": [
+            " University of Jordan",
+            " Jordan University of Science & Technology"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Luxembourg?",
+        "answer": "   University of Luxembourg",
+        "sub": "Luxembourg",
+        "count": "1",
+        "list": [
+            " University of Luxembourg"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Malaysia?",
+        "answer": "   Universiti Malaya,  Universiti Kebangsaan Malaysia,  Universiti Putra Malaysia,  Universiti Sains Malaysia,  Universiti Teknologi Malaysia,  Universiti Teknologi Petronas,  Taylor's University,  UCSI University,  Sunway University,  Universiti Utara Malaysia",
+        "sub": "Malaysia",
+        "count": "10",
+        "list": [
+            " Universiti Malaya",
+            " Universiti Kebangsaan Malaysia",
+            " Universiti Putra Malaysia",
+            " Universiti Sains Malaysia",
+            " Universiti Teknologi Malaysia",
+            " Universiti Teknologi Petronas",
+            " Taylor's University",
+            " UCSI University",
+            " Sunway University",
+            " Universiti Utara Malaysia"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Mexico?",
+        "answer": "   Universidad Nacional Autónoma de México,  Tecnológico de Monterrey",
+        "sub": "Mexico",
+        "count": "2",
+        "list": [
+            " Universidad Nacional Autónoma de México",
+            " Tecnológico de Monterrey"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in New Zealand?",
+        "answer": "   The University of Auckland,  University of Otago,  Massey University,  Victoria University of Wellington,  University of Canterbury,  University of Waikato,  Lincoln University,  Auckland University of Technology",
+        "sub": "New Zealand",
+        "count": "8",
+        "list": [
+            " The University of Auckland",
+            " University of Otago",
+            " Massey University",
+            " Victoria University of Wellington",
+            " University of Canterbury",
+            " University of Waikato",
+            " Lincoln University",
+            " Auckland University of Technology"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Norway?",
+        "answer": "   University of Oslo,  Norwegian University of Science And Technology,  University of Bergen",
+        "sub": "Norway",
+        "count": "3",
+        "list": [
+            " University of Oslo",
+            " Norwegian University of Science And Technology",
+            " University of Bergen"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Pakistan?",
+        "answer": "   Quaid-i-azam University,  National University of Sciences And Technology Islamabad",
+        "sub": "Pakistan",
+        "count": "2",
+        "list": [
+            " Quaid-i-azam University",
+            " National University of Sciences And Technology Islamabad"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Poland?",
+        "answer": "   University of Warsaw,  Jagiellonian University,  Warsaw University of Technology",
+        "sub": "Poland",
+        "count": "3",
+        "list": [
+            " University of Warsaw",
+            " Jagiellonian University",
+            " Warsaw University of Technology"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Saudi Arabia?",
+        "answer": "   King Fahd University of Petroleum & Minerals,  King Saud University,  King Abdul Aziz University,  Prince Mohammad Bin Fahd University,  Imam Abdulrahman Bin Faisal University",
+        "sub": "Saudi Arabia",
+        "count": "5",
+        "list": [
+            " King Fahd University of Petroleum & Minerals",
+            " King Saud University",
+            " King Abdul Aziz University",
+            " Prince Mohammad Bin Fahd University",
+            " Imam Abdulrahman Bin Faisal University"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Singapore?",
+        "answer": "   National University of Singapore,  Nanyang Technological University - Singapore",
+        "sub": "Singapore",
+        "count": "2",
+        "list": [
+            " National University of Singapore",
+            " Nanyang Technological University - Singapore"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in South Africa?",
+        "answer": "   University of Cape Town,  University of The Witwatersrand,  Stellenbosch University,  University of Johannesburg,  University of Pretoria",
+        "sub": "South Africa",
+        "count": "5",
+        "list": [
+            " University of Cape Town",
+            " University of The Witwatersrand",
+            " Stellenbosch University",
+            " University of Johannesburg",
+            " University of Pretoria"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in South Korea?",
+        "answer": "   Seoul National University,  Yonsei University,  Korea University,  Pohang University of Science And Technology,  Sungkyunkwan University,  Hanyang University,  Ulsan National Institute of Science and Technology,  Kyung Hee University,  Daegu Gyeongbuk Institute of Science and Technology,  Gwangju Institute of Science and Technology,  Sejong University,  Pusan National University,  Chung-Ang University",
+        "sub": "South Korea",
+        "count": "13",
+        "list": [
+            " Seoul National University",
+            " Yonsei University",
+            " Korea University",
+            " Pohang University of Science And Technology",
+            " Sungkyunkwan University",
+            " Hanyang University",
+            " Ulsan National Institute of Science and Technology",
+            " Kyung Hee University",
+            " Daegu Gyeongbuk Institute of Science and Technology",
+            " Gwangju Institute of Science and Technology",
+            " Sejong University",
+            " Pusan National University",
+            " Chung-Ang University"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Sweden?",
+        "answer": "   Lund University,  KTH Royal Institute of Technology,  Uppsala University,  Stockholm University,  Chalmers University of Technology,  University of Gothenburg,  Linköping University,  Umeå University",
+        "sub": "Sweden",
+        "count": "8",
+        "list": [
+            " Lund University",
+            " KTH Royal Institute of Technology",
+            " Uppsala University",
+            " Stockholm University",
+            " Chalmers University of Technology",
+            " University of Gothenburg",
+            " Linköping University",
+            " Umeå University"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Taiwan?",
+        "answer": "   National Taiwan University,  National Tsing Hua University,  National Yang Ming Chiao Tung University,  National Cheng Kung University,  National Taiwan University of Science and Technology,  National Taipei University of Technology,  National Taiwan Normal University,  National Sun Yat-sen University",
+        "sub": "Taiwan",
+        "count": "8",
+        "list": [
+            " National Taiwan University",
+            " National Tsing Hua University",
+            " National Yang Ming Chiao Tung University",
+            " National Cheng Kung University",
+            " National Taiwan University of Science and Technology",
+            " National Taipei University of Technology",
+            " National Taiwan Normal University",
+            " National Sun Yat-sen University"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Türkiye?",
+        "answer": "   Middle East Technical University,  Istanbul Technical University,  Koc University,  Bogazici University,  Sabanci University,  Bilkent University",
+        "sub": "Türkiye",
+        "count": "6",
+        "list": [
+            " Middle East Technical University",
+            " Istanbul Technical University",
+            " Koc University",
+            " Bogazici University",
+            " Sabanci University",
+            " Bilkent University"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in United Kingdom?",
+        "answer": "   Imperial College London,  University of Oxford,  University of Cambridge,  UCL,  King's College London,  University of Edinburgh,  The University of Manchester,  University of Bristol,  London School of Economics and Political Science,  The University of Warwick,  University of Birmingham,  University of Glasgow,  University of Leeds,  University of Southampton,  The University of Sheffield,  Durham University,  The University of Nottingham,  Queen Mary University of London,  University of St Andrews,  University of Bath,  Newcastle University,  University of Liverpool,  University of Exeter,  Lancaster University,  University of York,  Cardiff University,  University of Reading,  Queen's University Belfast,  Loughborough University,  University of Strathclyde,  University of Aberdeen,  University of Surrey,  University of Sussex,  Heriot-Watt University,  Swansea University,  City St George’s - University of London,  University of Leicester,  Oxford Brookes University,  University of East Anglia,  Brunel University of London,  Birkbeck College - University of London,  Aston University,  University of Kent,  University of Dundee,  University of Essex,  Royal Holloway University of London",
+        "sub": "United Kingdom",
+        "count": "46",
+        "list": [
+            " Imperial College London",
+            " University of Oxford",
+            " University of Cambridge",
+            " UCL",
+            " King's College London",
+            " University of Edinburgh",
+            " The University of Manchester",
+            " University of Bristol",
+            " London School of Economics and Political Science",
+            " The University of Warwick",
+            " University of Birmingham",
+            " University of Glasgow",
+            " University of Leeds",
+            " University of Southampton",
+            " The University of Sheffield",
+            " Durham University",
+            " The University of Nottingham",
+            " Queen Mary University of London",
+            " University of St Andrews",
+            " University of Bath",
+            " Newcastle University",
+            " University of Liverpool",
+            " University of Exeter",
+            " Lancaster University",
+            " University of York",
+            " Cardiff University",
+            " University of Reading",
+            " Queen's University Belfast",
+            " Loughborough University",
+            " University of Strathclyde",
+            " University of Aberdeen",
+            " University of Surrey",
+            " University of Sussex",
+            " Heriot-Watt University",
+            " Swansea University",
+            " City St George’s - University of London",
+            " University of Leicester",
+            " Oxford Brookes University",
+            " University of East Anglia",
+            " Brunel University of London",
+            " Birkbeck College - University of London",
+            " Aston University",
+            " University of Kent",
+            " University of Dundee",
+            " University of Essex",
+            " Royal Holloway University of London"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in United States of America?",
+        "answer": "   Massachusetts Institute of Technology,  Stanford University,  Harvard University,  California Institute of Technology,  University of Chicago,  University of Pennsylvania,  Cornell University,  University of California - Berkeley,  Yale University,  Johns Hopkins University,  Princeton University,  Columbia University,  Northwestern University,  University of Michigan-Ann Arbor,  University of California - Los Angeles,  Carnegie Mellon University,  New York University,  Duke University,  University of California - San Diego,  University of Texas at Austin,  Brown University,  University of Illinois at Urbana-Champaign,  University of Washington,  Pennsylvania State University,  Boston University,  Purdue University,  University of Wisconsin-Madison,  University of California - Davis,  Rice University,  Georgia Institute of Technology,  University of North Carolina - Chapel Hill,  Texas A&M University,  University of Southern California,  Michigan State University,  Washington University in St. Louis,  Arizona State University,  University of California - Santa Barbara,  Emory University,  Ohio State University,  University of Maryland - College Park,  University of Minnesota,  University of Florida,  University of Rochester,  Dartmouth College,  University of Massachusetts - Amherst,  Vanderbilt University,  North Carolina State University,  University of Virginia,  University of Pittsburgh,  Georgetown University,  University of Arizona,  University of California - Irvine,  Case Western Reserve University,  University of Notre Dame,  University of Colorado Boulder,  Indiana University Bloomington,  University of Miami,  Rutgers University – New Brunswick,  Tufts University,  University of Illinois Chicago,  George Washington University,  Virginia Polytechnic Institute,  Northeastern University,  University at Buffalo SUNY,  Washington State University,  University of California - Riverside,  Iowa State University,  Stony Brook University,  Colorado State University,  University of California - Santa Cruz,  University of Kansas",
+        "sub": "United States of America",
+        "count": "71",
+        "list": [
+            " Massachusetts Institute of Technology",
+            " Stanford University",
+            " Harvard University",
+            " California Institute of Technology",
+            " University of Chicago",
+            " University of Pennsylvania",
+            " Cornell University",
+            " University of California - Berkeley",
+            " Yale University",
+            " Johns Hopkins University",
+            " Princeton University",
+            " Columbia University",
+            " Northwestern University",
+            " University of Michigan-Ann Arbor",
+            " University of California - Los Angeles",
+            " Carnegie Mellon University",
+            " New York University",
+            " Duke University",
+            " University of California - San Diego",
+            " University of Texas at Austin",
+            " Brown University",
+            " University of Illinois at Urbana-Champaign",
+            " University of Washington",
+            " Pennsylvania State University",
+            " Boston University",
+            " Purdue University",
+            " University of Wisconsin-Madison",
+            " University of California - Davis",
+            " Rice University",
+            " Georgia Institute of Technology",
+            " University of North Carolina - Chapel Hill",
+            " Texas A&M University",
+            " University of Southern California",
+            " Michigan State University",
+            " Washington University in St. Louis",
+            " Arizona State University",
+            " University of California - Santa Barbara",
+            " Emory University",
+            " Ohio State University",
+            " University of Maryland - College Park",
+            " University of Minnesota",
+            " University of Florida",
+            " University of Rochester",
+            " Dartmouth College",
+            " University of Massachusetts - Amherst",
+            " Vanderbilt University",
+            " North Carolina State University",
+            " University of Virginia",
+            " University of Pittsburgh",
+            " Georgetown University",
+            " University of Arizona",
+            " University of California - Irvine",
+            " Case Western Reserve University",
+            " University of Notre Dame",
+            " University of Colorado Boulder",
+            " Indiana University Bloomington",
+            " University of Miami",
+            " Rutgers University – New Brunswick",
+            " Tufts University",
+            " University of Illinois Chicago",
+            " George Washington University",
+            " Virginia Polytechnic Institute",
+            " Northeastern University",
+            " University at Buffalo SUNY",
+            " Washington State University",
+            " University of California - Riverside",
+            " Iowa State University",
+            " Stony Brook University",
+            " Colorado State University",
+            " University of California - Santa Cruz",
+            " University of Kansas"
+        ]
+    },
+    {
+        "query": "What is/are the university(ies) listed in the top 500 in Vietnam?",
+        "answer": "   Duy Tan University",
+        "sub": "Vietnam",
+        "count": "1",
+        "list": [
+            " Duy Tan University"
+        ]
+    }
+]

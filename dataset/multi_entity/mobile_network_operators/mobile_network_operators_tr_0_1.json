@@ -1,0 +1,270 @@
+[
+    {
+        "query": "Arnavutluk'taki GSM operatörü/operatörleri şudur/şunlardır:",
+        "answer": " Vodafone Albania, One Telecommunications, ALBtelecom",
+        "sub": "Arnavutluk",
+        "count": 3,
+        "list": [
+            " Vodafone Albania",
+            " One Telecommunications",
+            " ALBtelecom"
+        ]
+    },
+    {
+        "query": "Andorra'daki GSM operatörü/operatörleri şudur/şunlardır:",
+        "answer": " Andorra Telecom",
+        "sub": "Andorra",
+        "count": 1,
+        "list": [
+            " Andorra Telecom"
+        ]
+    },
+    {
+        "query": "Ermenistan'daki GSM operatörü/operatörleri şudur/şunlardır:",
+        "answer": " Viva-MTS, Ucom, Telecom Armenia (Beeline)",
+        "sub": "Ermenistan",
+        "count": 3,
+        "list": [
+            " Viva-MTS",
+            " Ucom",
+            " Telecom Armenia (Beeline)"
+        ]
+    },
+    {
+        "query": "Belarus'taki GSM operatörü/operatörleri şudur/şunlardır:",
+        "answer": " A1 Belarus, MTS Belarus, life:) Belarus",
+        "sub": "Belarus",
+        "count": 3,
+        "list": [
+            " A1 Belarus",
+            " MTS Belarus",
+            " life:) Belarus"
+        ]
+    },
+    {
+        "query": "Belçika'daki GSM operatörü/operatörleri şudur/şunlardır:",
+        "answer": " Proximus, Orange Belgium, Telenet/Base, DIGI Belgium",
+        "sub": "Belçika",
+        "count": 4,
+        "list": [
+            " Proximus",
+            " Orange Belgium",
+            " Telenet/Base",
+            " DIGI Belgium"
+        ]
+    },
+    {
+        "query": "Bosna Hersek'teki GSM operatörü/operatörleri şudur/şunlardır:",
+        "answer": " BH Telecom, HT Eronet, Mtel",
+        "sub": "Bosna Hersek",
+        "count": 3,
+        "list": [
+            " BH Telecom",
+            " HT Eronet",
+            " Mtel"
+        ]
+    },
+    {
+        "query": "Bulgaristan'daki GSM operatörü/operatörleri şudur/şunlardır:",
+        "answer": " A1 Bulgaria, Yettel Bulgaria, Vivacom",
+        "sub": "Bulgaristan",
+        "count": 3,
+        "list": [
+            " A1 Bulgaria",
+            " Yettel Bulgaria",
+            " Vivacom"
+        ]
+    },
+    {
+        "query": "Estonya'daki GSM operatörü/operatörleri şudur/şunlardır:",
+        "answer": " Telia Eesti, Elisa Eesti, Tele2 Eesti",
+        "sub": "Estonya",
+        "count": 3,
+        "list": [
+            " Telia Eesti",
+            " Elisa Eesti",
+            " Tele2 Eesti"
+        ]
+    },
+    {
+        "query": "Finlandiya'daki GSM operatörü/operatörleri şudur/şunlardır:",
+        "answer": " Elisa, DNA Oyj, Telia Finland",
+        "sub": "Finlandiya",
+        "count": 3,
+        "list": [
+            " Elisa",
+            " DNA Oyj",
+            " Telia Finland"
+        ]
+    },
+    {
+        "query": "Fransa'daki GSM operatörü/operatörleri şudur/şunlardır:",
+        "answer": " Orange France, SFR, Bouygues Telecom, Free Mobile",
+        "sub": "Fransa",
+        "count": 4,
+        "list": [
+            " Orange France",
+            " SFR",
+            " Bouygues Telecom",
+            " Free Mobile"
+        ]
+    },
+    {
+        "query": "Gürcistan'daki GSM operatörü/operatörleri şudur/şunlardır:",
+        "answer": " MagtiCom, Silknet, Beeline Georgia",
+        "sub": "Gürcistan",
+        "count": 3,
+        "list": [
+            " MagtiCom",
+            " Silknet",
+            " Beeline Georgia"
+        ]
+    },
+    {
+        "query": "Almanya'daki GSM operatörü/operatörleri şudur/şunlardır:",
+        "answer": " Telekom Deutschland, Vodafone Germany, O2 Telefónica, 1&1",
+        "sub": "Almanya",
+        "count": 4,
+        "list": [
+            " Telekom Deutschland",
+            " Vodafone Germany",
+            " O2 Telefónica",
+            " 1&1"
+        ]
+    },
+    {
+        "query": "Macaristan'daki GSM operatörü/operatörleri şudur/şunlardır:",
+        "answer": " Magyar Telekom (Telekom HU), Yettel Hungary, Vodafone Hungary, DIGI",
+        "sub": "Macaristan",
+        "count": 4,
+        "list": [
+            " Magyar Telekom (Telekom HU)",
+            " Yettel Hungary",
+            " Vodafone Hungary",
+            " DIGI"
+        ]
+    },
+    {
+        "query": "İtalya'daki GSM operatörü/operatörleri şudur/şunlardır:",
+        "answer": " TIM, Vodafone Italy, Wind Tre, Iliad",
+        "sub": "İtalya",
+        "count": 4,
+        "list": [
+            " TIM",
+            " Vodafone Italy",
+            " Wind Tre",
+            " Iliad"
+        ]
+    },
+    {
+        "query": "Kosova'daki GSM operatörü/operatörleri şudur/şunlardır:",
+        "answer": " Vala, IPKO",
+        "sub": "Kosova",
+        "count": 2,
+        "list": [
+            " Vala",
+            " IPKO"
+        ]
+    },
+    {
+        "query": "Moldova'daki GSM operatörü/operatörleri şudur/şunlardır:",
+        "answer": " Orange Moldova, Moldcell, Unite",
+        "sub": "Moldova",
+        "count": 3,
+        "list": [
+            " Orange Moldova",
+            " Moldcell",
+            " Unite"
+        ]
+    },
+    {
+        "query": "Portekiz'deki GSM operatörü/operatörleri şudur/şunlardır:",
+        "answer": " MEO, NOS, Vodafone Portugal",
+        "sub": "Portekiz",
+        "count": 3,
+        "list": [
+            " MEO",
+            " NOS",
+            " Vodafone Portugal"
+        ]
+    },
+    {
+        "query": "Rusya'daki GSM operatörü/operatörleri şudur/şunlardır:",
+        "answer": " MTS, MegaFon, Beeline, Tele2 Russia",
+        "sub": "Rusya",
+        "count": 4,
+        "list": [
+            " MTS",
+            " MegaFon",
+            " Beeline",
+            " Tele2 Russia"
+        ]
+    },
+    {
+        "query": "Sırbistan'daki GSM operatörü/operatörleri şudur/şunlardır:",
+        "answer": " mts, Yettel Serbia, A1 Serbia",
+        "sub": "Sırbistan",
+        "count": 3,
+        "list": [
+            " mts",
+            " Yettel Serbia",
+            " A1 Serbia"
+        ]
+    },
+    {
+        "query": "Slovenya'daki GSM operatörü/operatörleri şudur/şunlardır:",
+        "answer": " Telekom Slovenije, A1 Slovenia, Telemach Slovenia",
+        "sub": "Slovenya",
+        "count": 3,
+        "list": [
+            " Telekom Slovenije",
+            " A1 Slovenia",
+            " Telemach Slovenia"
+        ]
+    },
+    {
+        "query": "İsveç'teki GSM operatörü/operatörleri şudur/şunlardır:",
+        "answer": " Telia Sweden, Tele2 Sweden, Telenor Sweden, 3 (Tre)",
+        "sub": "İsveç",
+        "count": 4,
+        "list": [
+            " Telia Sweden",
+            " Tele2 Sweden",
+            " Telenor Sweden",
+            " 3 (Tre)"
+        ]
+    },
+    {
+        "query": "İsviçre'deki GSM operatörü/operatörleri şudur/şunlardır:",
+        "answer": " Swisscom, Sunrise, Salt",
+        "sub": "İsviçre",
+        "count": 3,
+        "list": [
+            " Swisscom",
+            " Sunrise",
+            " Salt"
+        ]
+    },
+    {
+        "query": "Türkiye'deki GSM operatörü/operatörleri şudur/şunlardır:",
+        "answer": " Turkcell, Vodafone Turkey, Türk Telekom",
+        "sub": "Türkiye",
+        "count": 3,
+        "list": [
+            " Turkcell",
+            " Vodafone Turkey",
+            " Türk Telekom"
+        ]
+    },
+    {
+        "query": "Ukrayna'daki GSM operatörü/operatörleri şudur/şunlardır:",
+        "answer": " Kyivstar, Vodafone Ukraine, lifecell",
+        "sub": "Ukrayna",
+        "count": 3,
+        "list": [
+            " Kyivstar",
+            " Vodafone Ukraine",
+            " lifecell"
+        ]
+    }
+]

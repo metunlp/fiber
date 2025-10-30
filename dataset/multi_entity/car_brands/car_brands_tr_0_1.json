@@ -1,0 +1,716 @@
+[
+    {
+        "query": "Cezayir'in otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " SNVI",
+        "sub": "Cezayir",
+        "count": 1,
+        "list": [
+            " SNVI"
+        ]
+    },
+    {
+        "query": "Arjantin'in otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " ASA Aluminium Body, Zanella, Sero Electric",
+        "sub": "Arjantin",
+        "count": 3,
+        "list": [
+            " ASA Aluminium Body",
+            " Zanella",
+            " Sero Electric"
+        ]
+    },
+    {
+        "query": "Avusturya'nın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " KTM, Magna Steyr, Rosenbauer, Tushek & Spigel",
+        "sub": "Avusturya",
+        "count": 4,
+        "list": [
+            " KTM",
+            " Magna Steyr",
+            " Rosenbauer",
+            " Tushek & Spigel"
+        ]
+    },
+    {
+        "query": "Azerbaycan'ın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " AzSamand, Ganja Auto Plant, Nakhchivan Automobile Plant",
+        "sub": "Azerbaycan",
+        "count": 3,
+        "list": [
+            " AzSamand",
+            " Ganja Auto Plant",
+            " Nakhchivan Automobile Plant"
+        ]
+    },
+    {
+        "query": "Bulgaristan'ın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Litex, SIN",
+        "sub": "Bulgaristan",
+        "count": 2,
+        "list": [
+            " Litex",
+            " SIN"
+        ]
+    },
+    {
+        "query": "Kanada'nın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Bombardier, Campagna, Felino Corporation, Intermeccanica, INKAS, Lion Electric Company, Magnum Cars, New Flyer, Nova Bus, Prevost, Terradyne, Vicinity Motor Corp.",
+        "sub": "Kanada",
+        "count": 12,
+        "list": [
+            " Bombardier",
+            " Campagna",
+            " Felino Corporation",
+            " Intermeccanica",
+            " INKAS",
+            " Lion Electric Company",
+            " Magnum Cars",
+            " New Flyer",
+            " Nova Bus",
+            " Prevost",
+            " Terradyne",
+            " Vicinity Motor Corp."
+        ]
+    },
+    {
+        "query": "Çin'in otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Arcfox, Aion, Apex Motors, Ankai, BAIC, Bonluck, Baojun, BAW, Bestune, Brilliance, BYD, Changan, Changhe, Chery, Dongfeng, Denza, Englon, Exeed, EuAuto, Everus, FAW, Hongqi, Foton, Firefly, Fangchengbao, GAC, Geely, Great Wall, Gyon, Henrey Automobile, Hafei, Haima, Hanteng, Hawtai, Haval, Heibao, HiPhi, Higer, Hozon Auto, Jetour, Jiangling, JMEV, Jinbei, Jonway, JAC, Jetta, JuneYao Auto, Karry, Kandi, King Long, ORA, Landwind, Leahead, Li Auto, Leapmotor, Lynk&Co, Maextro, Mudan Auto, Maxus, Nio, Qoros, Roewe, Ranz, SAIC, Sehol, Soueast, Spotlight Automotive, Stelato, Sunlong Bus, Skyworth Auto, Trumpchi, Wuling, Voyah, Xpeng, Xiaomi Auto, Yudo Auto, Yutong, Zhongtong Bus, Zinoro, Zotye, Zeekr, WEY, Xiamen Golden Dragon Bus, Yangwang, ZX Auto",
+        "sub": "Çin",
+        "count": 85,
+        "list": [
+            " Arcfox",
+            " Aion",
+            " Apex Motors",
+            " Ankai",
+            " BAIC",
+            " Bonluck",
+            " Baojun",
+            " BAW",
+            " Bestune",
+            " Brilliance",
+            " BYD",
+            " Changan",
+            " Changhe",
+            " Chery",
+            " Dongfeng",
+            " Denza",
+            " Englon",
+            " Exeed",
+            " EuAuto",
+            " Everus",
+            " FAW",
+            " Hongqi",
+            " Foton",
+            " Firefly",
+            " Fangchengbao",
+            " GAC",
+            " Geely",
+            " Great Wall",
+            " Gyon",
+            " Henrey Automobile",
+            " Hafei",
+            " Haima",
+            " Hanteng",
+            " Hawtai",
+            " Haval",
+            " Heibao",
+            " HiPhi",
+            " Higer",
+            " Hozon Auto",
+            " Jetour",
+            " Jiangling",
+            " JMEV",
+            " Jinbei",
+            " Jonway",
+            " JAC",
+            " Jetta",
+            " JuneYao Auto",
+            " Karry",
+            " Kandi",
+            " King Long",
+            " ORA",
+            " Landwind",
+            " Leahead",
+            " Li Auto",
+            " Leapmotor",
+            " Lynk&Co",
+            " Maextro",
+            " Mudan Auto",
+            " Maxus",
+            " Nio",
+            " Qoros",
+            " Roewe",
+            " Ranz",
+            " SAIC",
+            " Sehol",
+            " Soueast",
+            " Spotlight Automotive",
+            " Stelato",
+            " Sunlong Bus",
+            " Skyworth Auto",
+            " Trumpchi",
+            " Wuling",
+            " Voyah",
+            " Xpeng",
+            " Xiaomi Auto",
+            " Yudo Auto",
+            " Yutong",
+            " Zhongtong Bus",
+            " Zinoro",
+            " Zotye",
+            " Zeekr",
+            " WEY",
+            " Xiamen Golden Dragon Bus",
+            " Yangwang",
+            " ZX Auto"
+        ]
+    },
+    {
+        "query": "Kolombiya'nın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Busscar de Colombia, Sofasa",
+        "sub": "Kolombiya",
+        "count": 2,
+        "list": [
+            " Busscar de Colombia",
+            " Sofasa"
+        ]
+    },
+    {
+        "query": "Hırvatistan'ın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " DOK-ING, Rimac",
+        "sub": "Hırvatistan",
+        "count": 2,
+        "list": [
+            " DOK-ING",
+            " Rimac"
+        ]
+    },
+    {
+        "query": "Çek Cumhuriyeti'nin otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Škoda, Tatra, Avia, Kaipan, MTX, Praga",
+        "sub": "Çek Cumhuriyeti",
+        "count": 6,
+        "list": [
+            " Škoda",
+            " Tatra",
+            " Avia",
+            " Kaipan",
+            " MTX",
+            " Praga"
+        ]
+    },
+    {
+        "query": "Mısır'ın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " MCV Bus & Coach",
+        "sub": "Mısır",
+        "count": 1,
+        "list": [
+            " MCV Bus & Coach"
+        ]
+    },
+    {
+        "query": "Gürcistan'ın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " KAZ",
+        "sub": "Gürcistan",
+        "count": 1,
+        "list": [
+            " KAZ"
+        ]
+    },
+    {
+        "query": "Macaristan'ın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Ikarus, Rába",
+        "sub": "Macaristan",
+        "count": 2,
+        "list": [
+            " Ikarus",
+            " Rába"
+        ]
+    },
+    {
+        "query": "İzlanda'nın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Arctic Trucks",
+        "sub": "İzlanda",
+        "count": 1,
+        "list": [
+            " Arctic Trucks"
+        ]
+    },
+    {
+        "query": "Hindistan'ın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Ajanta Group, Ashok Leyland, Asia MotorWorks, Atul Auto, Bajaj, Eicher, Force, Hindustan, ICML motors, KAL, Mahindra, Maruti, Ola Electric, Omega Seiki Mobility, Tara International, Tata",
+        "sub": "Hindistan",
+        "count": 16,
+        "list": [
+            " Ajanta Group",
+            " Ashok Leyland",
+            " Asia MotorWorks",
+            " Atul Auto",
+            " Bajaj",
+            " Eicher",
+            " Force",
+            " Hindustan",
+            " ICML motors",
+            " KAL",
+            " Mahindra",
+            " Maruti",
+            " Ola Electric",
+            " Omega Seiki Mobility",
+            " Tara International",
+            " Tata"
+        ]
+    },
+    {
+        "query": "İsrail'in otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " City Transformer, Ha'argaz, Merkavim, REE Automotive, Tomcar, Zibar",
+        "sub": "İsrail",
+        "count": 6,
+        "list": [
+            " City Transformer",
+            " Ha'argaz",
+            " Merkavim",
+            " REE Automotive",
+            " Tomcar",
+            " Zibar"
+        ]
+    },
+    {
+        "query": "İtalya'nın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Abarth, Alkè, Astra, Alfa Romeo, Automobili Estrema, Bremach, Casalini, Covini, CTS, DR Motor, Dallara, Fiat, Ferrari, Iso, Italdesign, Iveco, Lancia, Lamborghini, Maserati, M.A.T, Mazzanti, Minardi, Pagani, Piaggio, Pininfarina, SCV Srl, XEV, Zagato",
+        "sub": "İtalya",
+        "count": 28,
+        "list": [
+            " Abarth",
+            " Alkè",
+            " Astra",
+            " Alfa Romeo",
+            " Automobili Estrema",
+            " Bremach",
+            " Casalini",
+            " Covini",
+            " CTS",
+            " DR Motor",
+            " Dallara",
+            " Fiat",
+            " Ferrari",
+            " Iso",
+            " Italdesign",
+            " Iveco",
+            " Lancia",
+            " Lamborghini",
+            " Maserati",
+            " M.A.T",
+            " Mazzanti",
+            " Minardi",
+            " Pagani",
+            " Piaggio",
+            " Pininfarina",
+            " SCV Srl",
+            " XEV",
+            " Zagato"
+        ]
+    },
+    {
+        "query": "Japonya'nın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Acura, Daihatsu, Hino, Honda, Infiniti, Isuzu, Lexus, Mazda, Mitsubishi, Mitsubishi Fuso, Nissan, Subaru, Suzuki, Toyota, UD Trucks, Aspark, Dome, GLM, J-Bus, Mitsuoka, NMKV, Tommykaira",
+        "sub": "Japonya",
+        "count": 22,
+        "list": [
+            " Acura",
+            " Daihatsu",
+            " Hino",
+            " Honda",
+            " Infiniti",
+            " Isuzu",
+            " Lexus",
+            " Mazda",
+            " Mitsubishi",
+            " Mitsubishi Fuso",
+            " Nissan",
+            " Subaru",
+            " Suzuki",
+            " Toyota",
+            " UD Trucks",
+            " Aspark",
+            " Dome",
+            " GLM",
+            " J-Bus",
+            " Mitsuoka",
+            " NMKV",
+            " Tommykaira"
+        ]
+    },
+    {
+        "query": "Letonya'nın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Dartz, Drive eO",
+        "sub": "Letonya",
+        "count": 2,
+        "list": [
+            " Dartz",
+            " Drive eO"
+        ]
+    },
+    {
+        "query": "Lübnan'ın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " EV Electra, W Motors",
+        "sub": "Lübnan",
+        "count": 2,
+        "list": [
+            " EV Electra",
+            " W Motors"
+        ]
+    },
+    {
+        "query": "Malezya'nın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Bufori, DefTech, Inokom, Naza, Perodua, Proton",
+        "sub": "Malezya",
+        "count": 6,
+        "list": [
+            " Bufori",
+            " DefTech",
+            " Inokom",
+            " Naza",
+            " Perodua",
+            " Proton"
+        ]
+    },
+    {
+        "query": "Meksika'nın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " DINA, Mastretta, VUHL, Zacua",
+        "sub": "Meksika",
+        "count": 4,
+        "list": [
+            " DINA",
+            " Mastretta",
+            " VUHL",
+            " Zacua"
+        ]
+    },
+    {
+        "query": "Myanmar'ın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Shan Star",
+        "sub": "Myanmar",
+        "count": 1,
+        "list": [
+            " Shan Star"
+        ]
+    },
+    {
+        "query": "Hollanda'nın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Burton, Carver, DAF, Dakar, Donkervoort, Spijkstaal, Spyker",
+        "sub": "Hollanda",
+        "count": 7,
+        "list": [
+            " Burton",
+            " Carver",
+            " DAF",
+            " Dakar",
+            " Donkervoort",
+            " Spijkstaal",
+            " Spyker"
+        ]
+    },
+    {
+        "query": "Stellantis'in otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Vandenbrink, VDL Bus & Coach, Vencer",
+        "sub": "Stellantis",
+        "count": 3,
+        "list": [
+            " Vandenbrink",
+            " VDL Bus & Coach",
+            " Vencer"
+        ]
+    },
+    {
+        "query": "Yeni Zelanda'nın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Almac, Anziel, Kiwi Bus Builders, Saker Cars, Trekka",
+        "sub": "Yeni Zelanda",
+        "count": 5,
+        "list": [
+            " Almac",
+            " Anziel",
+            " Kiwi Bus Builders",
+            " Saker Cars",
+            " Trekka"
+        ]
+    },
+    {
+        "query": "Kuzey Makedonya'nın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " FAS Sanos",
+        "sub": "Kuzey Makedonya",
+        "count": 1,
+        "list": [
+            " FAS Sanos"
+        ]
+    },
+    {
+        "query": "Rusya'nın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Aurus, Avtotor, AvtoVAZ, GAZ, KAvZ, LiAZ, PAZ, KAMAZ, NefAZ, Kombat Armouring, Moskvich, Sollers, UAZ, TREKOL, UralAZ, Volgabus",
+        "sub": "Rusya",
+        "count": 16,
+        "list": [
+            " Aurus",
+            " Avtotor",
+            " AvtoVAZ",
+            " GAZ",
+            " KAvZ",
+            " LiAZ",
+            " PAZ",
+            " KAMAZ",
+            " NefAZ",
+            " Kombat Armouring",
+            " Moskvich",
+            " Sollers",
+            " UAZ",
+            " TREKOL",
+            " UralAZ",
+            " Volgabus"
+        ]
+    },
+    {
+        "query": "Sudan'ın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Giad Auto",
+        "sub": "Sudan",
+        "count": 1,
+        "list": [
+            " Giad Auto"
+        ]
+    },
+    {
+        "query": "İsveç'in otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Caresto, Koenigsegg, Polestar, Scania, Volvo",
+        "sub": "İsveç",
+        "count": 5,
+        "list": [
+            " Caresto",
+            " Koenigsegg",
+            " Polestar",
+            " Scania",
+            " Volvo"
+        ]
+    },
+    {
+        "query": "Tunus'un otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Wallyscar",
+        "sub": "Tunus",
+        "count": 1,
+        "list": [
+            " Wallyscar"
+        ]
+    },
+    {
+        "query": "Türkiye'nin otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " BMC, Erkunt, Etox, Guleryuz, Karsan, Katmerciler, Otokar, Ozaltin, Temsa, Tofas, Togg",
+        "sub": "Türkiye",
+        "count": 11,
+        "list": [
+            " BMC",
+            " Erkunt",
+            " Etox",
+            " Guleryuz",
+            " Karsan",
+            " Katmerciler",
+            " Otokar",
+            " Ozaltin",
+            " Temsa",
+            " Tofas",
+            " Togg"
+        ]
+    },
+    {
+        "query": "Ukrayna'nın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Bogdan, Etalon, Eurocar, KrAZ, Sherp, ZAZ",
+        "sub": "Ukrayna",
+        "count": 6,
+        "list": [
+            " Bogdan",
+            " Etalon",
+            " Eurocar",
+            " KrAZ",
+            " Sherp",
+            " ZAZ"
+        ]
+    },
+    {
+        "query": "Birleşik Arap Emirlikleri'nin otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " NIMR, STREIT Group, W Motors",
+        "sub": "Birleşik Arap Emirlikleri",
+        "count": 3,
+        "list": [
+            " NIMR",
+            " STREIT Group",
+            " W Motors"
+        ]
+    },
+    {
+        "query": "Birleşik Krallık'ın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " AC, Alexander Dennis, Apex, Ariel, Aston Martin, Atalanta, BAC, Bentley, Bowler, Caterham, David Brown, Elemental Cars, Ginetta, Gordon Murray Automotive, GKD Sports, Grinnall, Ineos, Jaguar, Lagonda, London EV Company, Land Rover, Lister, Lotus, Munro Vehicles, McLaren, Mcmutry Automotive, MG, Mini, Morgan, Noble, Radical Sportscars, Rolls-Royce, Ronart, Switch Mobility, TVR, Ultima Sports, Vauxhall",
+        "sub": "Birleşik Krallık",
+        "count": 37,
+        "list": [
+            " AC",
+            " Alexander Dennis",
+            " Apex",
+            " Ariel",
+            " Aston Martin",
+            " Atalanta",
+            " BAC",
+            " Bentley",
+            " Bowler",
+            " Caterham",
+            " David Brown",
+            " Elemental Cars",
+            " Ginetta",
+            " Gordon Murray Automotive",
+            " GKD Sports",
+            " Grinnall",
+            " Ineos",
+            " Jaguar",
+            " Lagonda",
+            " London EV Company",
+            " Land Rover",
+            " Lister",
+            " Lotus",
+            " Munro Vehicles",
+            " McLaren",
+            " Mcmutry Automotive",
+            " MG",
+            " Mini",
+            " Morgan",
+            " Noble",
+            " Radical Sportscars",
+            " Rolls-Royce",
+            " Ronart",
+            " Switch Mobility",
+            " TVR",
+            " Ultima Sports",
+            " Vauxhall"
+        ]
+    },
+    {
+        "query": "Amerika Birleşik Devletleri'nin otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Buick, Cadillac, Chevrolet, GMC, Chrysler, Dodge, Jeep, Ram, Ford, Lincoln, All American Racers, AM General, Anteros Coachworks, Aptera, Arcimoto, Autocar, Alpha, Bremach, Bollinger, Callaway, Canoo, Czinger, DDR Motorsport, DeLorean, Drako, Detroit Electric, E-Z-GO, Equus, EdisonFuture, Falcon Motorsports, Factory Five Racing, Faraday, Fisker, Freightliner, Gillig, Google, GEM, Hennessey, Harley Davidson, International Harvester, IC Bus, Karma, Kenworth, Lingenfelter Performance Engineering, Lordstown, Lucid, Mullen, Mack, Myers, MCI, Navistar, Nikola, Oshkosh, Panoz, Phoenix Motorcars, Peterbilt, Pierce, Polaris, Proterra, RAESR, Rezvani, Rivian, Ronn Motor Group, Rossion, Saleen, SCG, Shelby, Slate Auto, SRT, SSC, Thomas Built Buses, Tesla, Telo Trucks, Trion Supercars, VLF, Vanderhall Motor Works, Western Star, Workhorse, Xos, Inc.",
+        "sub": "Amerika Birleşik Devletleri",
+        "count": 79,
+        "list": [
+            " Buick",
+            " Cadillac",
+            " Chevrolet",
+            " GMC",
+            " Chrysler",
+            " Dodge",
+            " Jeep",
+            " Ram",
+            " Ford",
+            " Lincoln",
+            " All American Racers",
+            " AM General",
+            " Anteros Coachworks",
+            " Aptera",
+            " Arcimoto",
+            " Autocar",
+            " Alpha",
+            " Bremach",
+            " Bollinger",
+            " Callaway",
+            " Canoo",
+            " Czinger",
+            " DDR Motorsport",
+            " DeLorean",
+            " Drako",
+            " Detroit Electric",
+            " E-Z-GO",
+            " Equus",
+            " EdisonFuture",
+            " Falcon Motorsports",
+            " Factory Five Racing",
+            " Faraday",
+            " Fisker",
+            " Freightliner",
+            " Gillig",
+            " Google",
+            " GEM",
+            " Hennessey",
+            " Harley Davidson",
+            " International Harvester",
+            " IC Bus",
+            " Karma",
+            " Kenworth",
+            " Lingenfelter Performance Engineering",
+            " Lordstown",
+            " Lucid",
+            " Mullen",
+            " Mack",
+            " Myers",
+            " MCI",
+            " Navistar",
+            " Nikola",
+            " Oshkosh",
+            " Panoz",
+            " Phoenix Motorcars",
+            " Peterbilt",
+            " Pierce",
+            " Polaris",
+            " Proterra",
+            " RAESR",
+            " Rezvani",
+            " Rivian",
+            " Ronn Motor Group",
+            " Rossion",
+            " Saleen",
+            " SCG",
+            " Shelby",
+            " Slate Auto",
+            " SRT",
+            " SSC",
+            " Thomas Built Buses",
+            " Tesla",
+            " Telo Trucks",
+            " Trion Supercars",
+            " VLF",
+            " Vanderhall Motor Works",
+            " Western Star",
+            " Workhorse",
+            " Xos, Inc."
+        ]
+    },
+    {
+        "query": "Uruguay'ın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Effa",
+        "sub": "Uruguay",
+        "count": 1,
+        "list": [
+            " Effa"
+        ]
+    },
+    {
+        "query": "Venezuela'nın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Venirauto",
+        "sub": "Venezuela",
+        "count": 1,
+        "list": [
+            " Venirauto"
+        ]
+    },
+    {
+        "query": "Vietnam'ın otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Mekong, SAMCO, THACO, VinFast",
+        "sub": "Vietnam",
+        "count": 4,
+        "list": [
+            " Mekong",
+            " SAMCO",
+            " THACO",
+            " VinFast"
+        ]
+    },
+    {
+        "query": "Zimbabve'nin otomobil üreticisi/üreticileri şudur/şunlardır:",
+        "answer": " Willowvale Motor Industries",
+        "sub": "Zimbabve",
+        "count": 1,
+        "list": [
+            " Willowvale Motor Industries"
+        ]
+    }
+]

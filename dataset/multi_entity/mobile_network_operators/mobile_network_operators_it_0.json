@@ -1,0 +1,294 @@
+[
+    {
+        "query": "L’/Gli operatore/i di rete mobile in Albania è/sono",
+        "answer": " Vodafone Albania, One Telecommunications, ALBtelecom",
+        "sub": "Albania",
+        "count": 3,
+        "list": [
+            " Vodafone Albania",
+            " One Telecommunications",
+            " ALBtelecom"
+        ],
+        "en_sub": "Albania"
+    },
+    {
+        "query": "L’/Gli operatore/i di rete mobile in Andorra è/sono",
+        "answer": " Andorra Telecom",
+        "sub": "Andorra",
+        "count": 1,
+        "list": [
+            " Andorra Telecom"
+        ],
+        "en_sub": "Andorra"
+    },
+    {
+        "query": "L’/Gli operatore/i di rete mobile in Armenia è/sono",
+        "answer": " Viva-MTS, Ucom, Telecom Armenia (Beeline)",
+        "sub": "Armenia",
+        "count": 3,
+        "list": [
+            " Viva-MTS",
+            " Ucom",
+            " Telecom Armenia (Beeline)"
+        ],
+        "en_sub": "Armenia"
+    },
+    {
+        "query": "L’/Gli operatore/i di rete mobile in Bielorussia è/sono",
+        "answer": " A1 Belarus, MTS Belarus, life:) Belarus",
+        "sub": "Bielorussia",
+        "count": 3,
+        "list": [
+            " A1 Belarus",
+            " MTS Belarus",
+            " life:) Belarus"
+        ],
+        "en_sub": "Belarus"
+    },
+    {
+        "query": "L’/Gli operatore/i di rete mobile in Belgio è/sono",
+        "answer": " Proximus, Orange Belgium, Telenet/Base, DIGI Belgium",
+        "sub": "Belgio",
+        "count": 4,
+        "list": [
+            " Proximus",
+            " Orange Belgium",
+            " Telenet/Base",
+            " DIGI Belgium"
+        ],
+        "en_sub": "Belgium"
+    },
+    {
+        "query": "L’/Gli operatore/i di rete mobile in Bosnia ed Erzegovina è/sono",
+        "answer": " BH Telecom, HT Eronet, Mtel",
+        "sub": "Bosnia ed Erzegovina",
+        "count": 3,
+        "list": [
+            " BH Telecom",
+            " HT Eronet",
+            " Mtel"
+        ],
+        "en_sub": "Bosnia and Herzegovina"
+    },
+    {
+        "query": "L’/Gli operatore/i di rete mobile in Bulgaria è/sono",
+        "answer": " A1 Bulgaria, Yettel Bulgaria, Vivacom",
+        "sub": "Bulgaria",
+        "count": 3,
+        "list": [
+            " A1 Bulgaria",
+            " Yettel Bulgaria",
+            " Vivacom"
+        ],
+        "en_sub": "Bulgaria"
+    },
+    {
+        "query": "L’/Gli operatore/i di rete mobile in Estonia è/sono",
+        "answer": " Telia Eesti, Elisa Eesti, Tele2 Eesti",
+        "sub": "Estonia",
+        "count": 3,
+        "list": [
+            " Telia Eesti",
+            " Elisa Eesti",
+            " Tele2 Eesti"
+        ],
+        "en_sub": "Estonia"
+    },
+    {
+        "query": "L’/Gli operatore/i di rete mobile in Finlandia è/sono",
+        "answer": " Elisa, DNA Oyj, Telia Finland",
+        "sub": "Finlandia",
+        "count": 3,
+        "list": [
+            " Elisa",
+            " DNA Oyj",
+            " Telia Finland"
+        ],
+        "en_sub": "Finland"
+    },
+    {
+        "query": "L’/Gli operatore/i di rete mobile in Francia è/sono",
+        "answer": " Orange France, SFR, Bouygues Telecom, Free Mobile",
+        "sub": "Francia",
+        "count": 4,
+        "list": [
+            " Orange France",
+            " SFR",
+            " Bouygues Telecom",
+            " Free Mobile"
+        ],
+        "en_sub": "France"
+    },
+    {
+        "query": "L’/Gli operatore/i di rete mobile in Georgia è/sono",
+        "answer": " MagtiCom, Silknet, Beeline Georgia",
+        "sub": "Georgia",
+        "count": 3,
+        "list": [
+            " MagtiCom",
+            " Silknet",
+            " Beeline Georgia"
+        ],
+        "en_sub": "Georgia"
+    },
+    {
+        "query": "L’/Gli operatore/i di rete mobile in Germania è/sono",
+        "answer": " Telekom Deutschland, Vodafone Germany, O2 Telefónica, 1&1",
+        "sub": "Germania",
+        "count": 4,
+        "list": [
+            " Telekom Deutschland",
+            " Vodafone Germany",
+            " O2 Telefónica",
+            " 1&1"
+        ],
+        "en_sub": "Germany"
+    },
+    {
+        "query": "L’/Gli operatore/i di rete mobile in Ungheria è/sono",
+        "answer": " Magyar Telekom (Telekom HU), Yettel Hungary, Vodafone Hungary, DIGI",
+        "sub": "Ungheria",
+        "count": 4,
+        "list": [
+            " Magyar Telekom (Telekom HU)",
+            " Yettel Hungary",
+            " Vodafone Hungary",
+            " DIGI"
+        ],
+        "en_sub": "Hungary"
+    },
+    {
+        "query": "L’/Gli operatore/i di rete mobile in Italia è/sono",
+        "answer": " TIM, Vodafone Italy, Wind Tre, Iliad",
+        "sub": "Italia",
+        "count": 4,
+        "list": [
+            " TIM",
+            " Vodafone Italy",
+            " Wind Tre",
+            " Iliad"
+        ],
+        "en_sub": "Italy"
+    },
+    {
+        "query": "L’/Gli operatore/i di rete mobile in Kosovo è/sono",
+        "answer": " Vala, IPKO",
+        "sub": "Kosovo",
+        "count": 2,
+        "list": [
+            " Vala",
+            " IPKO"
+        ],
+        "en_sub": "Kosovo"
+    },
+    {
+        "query": "L’/Gli operatore/i di rete mobile in Moldova è/sono",
+        "answer": " Orange Moldova, Moldcell, Unite",
+        "sub": "Moldova",
+        "count": 3,
+        "list": [
+            " Orange Moldova",
+            " Moldcell",
+            " Unite"
+        ],
+        "en_sub": "Moldova"
+    },
+    {
+        "query": "L’/Gli operatore/i di rete mobile in Portogallo è/sono",
+        "answer": " MEO, NOS, Vodafone Portugal",
+        "sub": "Portogallo",
+        "count": 3,
+        "list": [
+            " MEO",
+            " NOS",
+            " Vodafone Portugal"
+        ],
+        "en_sub": "Portugal"
+    },
+    {
+        "query": "L’/Gli operatore/i di rete mobile in Russia è/sono",
+        "answer": " MTS, MegaFon, Beeline, Tele2 Russia",
+        "sub": "Russia",
+        "count": 4,
+        "list": [
+            " MTS",
+            " MegaFon",
+            " Beeline",
+            " Tele2 Russia"
+        ],
+        "en_sub": "Russia"
+    },
+    {
+        "query": "L’/Gli operatore/i di rete mobile in Serbia è/sono",
+        "answer": " mts, Yettel Serbia, A1 Serbia",
+        "sub": "Serbia",
+        "count": 3,
+        "list": [
+            " mts",
+            " Yettel Serbia",
+            " A1 Serbia"
+        ],
+        "en_sub": "Serbia"
+    },
+    {
+        "query": "L’/Gli operatore/i di rete mobile in Slovenia è/sono",
+        "answer": " Telekom Slovenije, A1 Slovenia, Telemach Slovenia",
+        "sub": "Slovenia",
+        "count": 3,
+        "list": [
+            " Telekom Slovenije",
+            " A1 Slovenia",
+            " Telemach Slovenia"
+        ],
+        "en_sub": "Slovenia"
+    },
+    {
+        "query": "L’/Gli operatore/i di rete mobile in Svezia è/sono",
+        "answer": " Telia Sweden, Tele2 Sweden, Telenor Sweden, 3 (Tre)",
+        "sub": "Svezia",
+        "count": 4,
+        "list": [
+            " Telia Sweden",
+            " Tele2 Sweden",
+            " Telenor Sweden",
+            " 3 (Tre)"
+        ],
+        "en_sub": "Sweden"
+    },
+    {
+        "query": "L’/Gli operatore/i di rete mobile in Svizzera è/sono",
+        "answer": " Swisscom, Sunrise, Salt",
+        "sub": "Svizzera",
+        "count": 3,
+        "list": [
+            " Swisscom",
+            " Sunrise",
+            " Salt"
+        ],
+        "en_sub": "Switzerland"
+    },
+    {
+        "query": "L’/Gli operatore/i di rete mobile in Turchia è/sono",
+        "answer": " Turkcell, Vodafone Turkey, Türk Telekom",
+        "sub": "Turchia",
+        "count": 3,
+        "list": [
+            " Turkcell",
+            " Vodafone Turkey",
+            " Türk Telekom"
+        ],
+        "en_sub": "Turkey"
+    },
+    {
+        "query": "L’/Gli operatore/i di rete mobile in Ucraina è/sono",
+        "answer": " Kyivstar, Vodafone Ukraine, lifecell",
+        "sub": "Ucraina",
+        "count": 3,
+        "list": [
+            " Kyivstar",
+            " Vodafone Ukraine",
+            " lifecell"
+        ],
+        "en_sub": "Ukraine"
+    }
+]

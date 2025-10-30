@@ -1,0 +1,350 @@
+[
+    {
+        "query": "Qual è la capitale della Turchia?",
+        "answer": " Ankara",
+        "sub": "Turchia",
+        "en_sub": "Turkey"
+    },
+    {
+        "query": "Qual è la capitale dei Paesi Bassi?",
+        "answer": " Amsterdam",
+        "sub": "Paesi Bassi",
+        "en_sub": "Netherlands"
+    },
+    {
+        "query": "Qual è la capitale della Baviera?",
+        "answer": " Monaco di Baviera",
+        "sub": "Baviera",
+        "en_sub": "Bavaria"
+    },
+    {
+        "query": "Qual è la capitale della Toscana?",
+        "answer": " Firenze",
+        "sub": "Toscana",
+        "en_sub": "Tuscany"
+    },
+    {
+        "query": "Qual è la capitale dell'Italia?",
+        "answer": " Roma",
+        "sub": "Italia",
+        "en_sub": "Italy"
+    },
+    {
+        "query": "Qual è la capitale della Provincia di Anversa?",
+        "answer": " Anversa",
+        "sub": "Provincia di Anversa",
+        "en_sub": "Province of Antwerp"
+    },
+    {
+        "query": "Qual è la capitale della Creta?",
+        "answer": " Candia",
+        "sub": "Creta",
+        "en_sub": "Crete"
+    },
+    {
+        "query": "Qual è la capitale della Francia?",
+        "answer": " Parigi",
+        "sub": "Francia",
+        "en_sub": "France"
+    },
+    {
+        "query": "Qual è la capitale della Maharashtra?",
+        "answer": " Mumbai",
+        "sub": "Maharashtra",
+        "en_sub": "Maharashtra"
+    },
+    {
+        "query": "Qual è la capitale della Norvegia?",
+        "answer": " Oslo",
+        "sub": "Norvegia",
+        "en_sub": "Norway"
+    },
+    {
+        "query": "Qual è la capitale della Giuda?",
+        "answer": " Gerusalemme",
+        "sub": "Giuda",
+        "en_sub": "Judah"
+    },
+    {
+        "query": "Qual è la capitale del Kirghizistan?",
+        "answer": " Bishkek",
+        "sub": "Kirghizistan",
+        "en_sub": "Kyrgyzstan"
+    },
+    {
+        "query": "Qual è la capitale della Romania?",
+        "answer": " Melbourne",
+        "sub": "Romania",
+        "en_sub": "Victoria"
+    },
+    {
+        "query": "Qual è la capitale dell'Irlanda?",
+        "answer": " Dublino",
+        "sub": "Irlanda",
+        "en_sub": "Ireland"
+    },
+    {
+        "query": "Qual è la capitale dell'Inghilterra?",
+        "answer": " Londra",
+        "sub": "Inghilterra",
+        "en_sub": "England"
+    },
+    {
+        "query": "Qual è la capitale della Lettonia?",
+        "answer": " Riga",
+        "sub": "Lettonia",
+        "en_sub": "Latvia"
+    },
+    {
+        "query": "Qual è la capitale della Tanzania?",
+        "answer": " Dar es Salaam",
+        "sub": "Tanzania",
+        "en_sub": "Tanzania"
+    },
+    {
+        "query": "Qual è la capitale dello Spagna?",
+        "answer": " Madrid",
+        "sub": "Spagna",
+        "en_sub": "Spain"
+    },
+    {
+        "query": "Qual è la capitale della Guatemala?",
+        "answer": " Città del Guatemala",
+        "sub": "Guatemala",
+        "en_sub": "Guatemala"
+    },
+    {
+        "query": "Qual è la capitale della Sassonia?",
+        "answer": " Dresda",
+        "sub": "Sassonia",
+        "en_sub": "Saxony"
+    },
+    {
+        "query": "Qual è la capitale del Haiti?",
+        "answer": " Port-au-Prince",
+        "sub": "Haiti",
+        "en_sub": "Haiti"
+    },
+    {
+        "query": "Qual è la capitale della Grecia?",
+        "answer": " Atene",
+        "sub": "Grecia",
+        "en_sub": "Greece"
+    },
+    {
+        "query": "Qual è la capitale della Tasmania?",
+        "answer": " Hobart",
+        "sub": "Tasmania",
+        "en_sub": "Tasmania"
+    },
+    {
+        "query": "Qual è la capitale dell'Estonia?",
+        "answer": " Tallinn",
+        "sub": "Estonia",
+        "en_sub": "Estonia"
+    },
+    {
+        "query": "Qual è la capitale del Giappone?",
+        "answer": " Tokyo",
+        "sub": "Giappone",
+        "en_sub": "Japan"
+    },
+    {
+        "query": "Qual è la capitale dell'Austria?",
+        "answer": " Vienna",
+        "sub": "Austria",
+        "en_sub": "Austria"
+    },
+    {
+        "query": "Qual è la capitale dell'Indonesia?",
+        "answer": " Jakarta",
+        "sub": "Indonesia",
+        "en_sub": "Indonesia"
+    },
+    {
+        "query": "Qual è la capitale del Piemonte?",
+        "answer": " Kathmandu",
+        "sub": "Piemonte",
+        "en_sub": "Nepal"
+    },
+    {
+        "query": "Qual è la capitale del Nepal?",
+        "answer": " Khartoum",
+        "sub": "Nepal",
+        "en_sub": "Sudan"
+    },
+    {
+        "query": "Qual è la capitale del Sudan?",
+        "answer": " Vilnius",
+        "sub": "Sudan",
+        "en_sub": "Lithuania"
+    },
+    {
+        "query": "Qual è la capitale della Lituania?",
+        "answer": " Beirut",
+        "sub": "Lituania",
+        "en_sub": "Lebanon"
+    },
+    {
+        "query": "Qual è la capitale del Libano?",
+        "answer": " Lisbona",
+        "sub": "Libano",
+        "en_sub": "Portugal"
+    },
+    {
+        "query": "Qual è la capitale del Portogallo?",
+        "answer": " Winnipeg",
+        "sub": "Portogallo",
+        "en_sub": "Manitoba"
+    },
+    {
+        "query": "Qual è la capitale della Manitoba?",
+        "answer": " Montevideo",
+        "sub": "Manitoba",
+        "en_sub": "Uruguay"
+    },
+    {
+        "query": "Qual è la capitale del Malawi?",
+        "answer": " Budapest",
+        "sub": "Malawi",
+        "en_sub": "Hungary"
+    },
+    {
+        "query": "Qual è la capitale dell'Uruguay?",
+        "answer": " Podgorica",
+        "sub": "Uruguay",
+        "en_sub": "Montenegro"
+    },
+    {
+        "query": "Qual è la capitale della Karnataka?",
+        "answer": " Toronto",
+        "sub": "Karnataka",
+        "en_sub": "Ontario"
+    },
+    {
+        "query": "Qual è la capitale dell'Ungheria?",
+        "answer": " Città di Panama",
+        "sub": "Ungheria",
+        "en_sub": "Panama"
+    },
+    {
+        "query": "Qual è la capitale dell'Ontario?",
+        "answer": " Bangkok",
+        "sub": "Ontario",
+        "en_sub": "Thailand"
+    },
+    {
+        "query": "Qual è la capitale della Panama?",
+        "answer": " Santiago",
+        "sub": "Panama",
+        "en_sub": "Chile"
+    },
+    {
+        "query": "Qual è la capitale della Nigeria?",
+        "answer": " New Delhi",
+        "sub": "Nigeria",
+        "en_sub": "India"
+    },
+    {
+        "query": "Qual è la capitale della Thailandia?",
+        "answer": " Belgrado",
+        "sub": "Thailandia",
+        "en_sub": "Serbia"
+    },
+    {
+        "query": "Qual è la capitale del Cile?",
+        "answer": " Cagliari",
+        "sub": "Cile",
+        "en_sub": "Sardinia"
+    },
+    {
+        "query": "Qual è la capitale dell'India?",
+        "answer": " Caracas",
+        "sub": "India",
+        "en_sub": "Venezuela"
+    },
+    {
+        "query": "Qual è la capitale della Serbia?",
+        "answer": " Nicosia",
+        "sub": "Serbia",
+        "en_sub": "Cyprus"
+    },
+    {
+        "query": "Qual è la capitale della Venezuela?",
+        "answer": " Sofia",
+        "sub": "Venezuela",
+        "en_sub": "Bulgaria"
+    },
+    {
+        "query": "Qual è la capitale del Cipro?",
+        "answer": " Salt Lake City",
+        "sub": "Cipro",
+        "en_sub": "Utah"
+    },
+    {
+        "query": "Qual è la capitale dell'Utah?",
+        "answer": " Dhaka",
+        "sub": "Utah",
+        "en_sub": "Bangladesh"
+    },
+    {
+        "query": "Qual è la capitale dello Svizzera?",
+        "answer": " Dushanbe",
+        "sub": "Svizzera",
+        "en_sub": "Tajikistan"
+    },
+    {
+        "query": "Qual è la capitale della Regno d'Inghilterra?",
+        "answer": " Chengdu",
+        "sub": "Regno d'Inghilterra",
+        "en_sub": "Sichuan"
+    },
+    {
+        "query": "Qual è la capitale dell'Albania?",
+        "answer": " Lusaka",
+        "sub": "Albania",
+        "en_sub": "Zambia"
+    },
+    {
+        "query": "Qual è la capitale dello Zambia?",
+        "answer": " Port Louis",
+        "sub": "Zambia",
+        "en_sub": "Mauritius"
+    },
+    {
+        "query": "Qual è la capitale del Mauritius?",
+        "answer": " Des Moines",
+        "sub": "Mauritius",
+        "en_sub": "Iowa"
+    },
+    {
+        "query": "Qual è la capitale della Bielorussia?",
+        "answer": " Nur-Sultan",
+        "sub": "Bielorussia",
+        "en_sub": "Kazakhstan"
+    },
+    {
+        "query": "Qual è la capitale dell'Alaska?",
+        "answer": " Winchester",
+        "sub": "Alaska",
+        "en_sub": "Kingdom of England"
+    },
+    {
+        "query": "Qual è la capitale della Minnesota?",
+        "answer": " Austin",
+        "sub": "Minnesota",
+        "en_sub": "Texas"
+    },
+    {
+        "query": "Qual è la capitale della Florida?",
+        "answer": " San Paolo",
+        "sub": "Florida",
+        "en_sub": "Minnesota"
+    },
+    {
+        "query": "Qual è la capitale della Macedonia?",
+        "answer": " Bafoussam",
+        "sub": "Macedonia",
+        "en_sub": "West Region"
+    }
+]

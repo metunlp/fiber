@@ -1,0 +1,716 @@
+[
+    {
+        "query": "Cezayir'in kaç tane otomobil üreticisi vardır?",
+        "answer": " 1",
+        "sub": "Cezayir",
+        "count": 1,
+        "list": [
+            " SNVI"
+        ]
+    },
+    {
+        "query": "Arjantin'in kaç tane otomobil üreticisi vardır?",
+        "answer": " 3",
+        "sub": "Arjantin",
+        "count": 3,
+        "list": [
+            " ASA Aluminium Body",
+            " Zanella",
+            " Sero Electric"
+        ]
+    },
+    {
+        "query": "Avusturya'nın kaç tane otomobil üreticisi vardır?",
+        "answer": " 4",
+        "sub": "Avusturya",
+        "count": 4,
+        "list": [
+            " KTM",
+            " Magna Steyr",
+            " Rosenbauer",
+            " Tushek & Spigel"
+        ]
+    },
+    {
+        "query": "Azerbaycan'ın kaç tane otomobil üreticisi vardır?",
+        "answer": " 3",
+        "sub": "Azerbaycan",
+        "count": 3,
+        "list": [
+            " AzSamand",
+            " Ganja Auto Plant",
+            " Nakhchivan Automobile Plant"
+        ]
+    },
+    {
+        "query": "Bulgaristan'ın kaç tane otomobil üreticisi vardır?",
+        "answer": " 2",
+        "sub": "Bulgaristan",
+        "count": 2,
+        "list": [
+            " Litex",
+            " SIN"
+        ]
+    },
+    {
+        "query": "Kanada'nın kaç tane otomobil üreticisi vardır?",
+        "answer": " 12",
+        "sub": "Kanada",
+        "count": 12,
+        "list": [
+            " Bombardier",
+            " Campagna",
+            " Felino Corporation",
+            " Intermeccanica",
+            " INKAS",
+            " Lion Electric Company",
+            " Magnum Cars",
+            " New Flyer",
+            " Nova Bus",
+            " Prevost",
+            " Terradyne",
+            " Vicinity Motor Corp."
+        ]
+    },
+    {
+        "query": "Çin'in kaç tane otomobil üreticisi vardır?",
+        "answer": " 85",
+        "sub": "Çin",
+        "count": 85,
+        "list": [
+            " Arcfox",
+            " Aion",
+            " Apex Motors",
+            " Ankai",
+            " BAIC",
+            " Bonluck",
+            " Baojun",
+            " BAW",
+            " Bestune",
+            " Brilliance",
+            " BYD",
+            " Changan",
+            " Changhe",
+            " Chery",
+            " Dongfeng",
+            " Denza",
+            " Englon",
+            " Exeed",
+            " EuAuto",
+            " Everus",
+            " FAW",
+            " Hongqi",
+            " Foton",
+            " Firefly",
+            " Fangchengbao",
+            " GAC",
+            " Geely",
+            " Great Wall",
+            " Gyon",
+            " Henrey Automobile",
+            " Hafei",
+            " Haima",
+            " Hanteng",
+            " Hawtai",
+            " Haval",
+            " Heibao",
+            " HiPhi",
+            " Higer",
+            " Hozon Auto",
+            " Jetour",
+            " Jiangling",
+            " JMEV",
+            " Jinbei",
+            " Jonway",
+            " JAC",
+            " Jetta",
+            " JuneYao Auto",
+            " Karry",
+            " Kandi",
+            " King Long",
+            " ORA",
+            " Landwind",
+            " Leahead",
+            " Li Auto",
+            " Leapmotor",
+            " Lynk&Co",
+            " Maextro",
+            " Mudan Auto",
+            " Maxus",
+            " Nio",
+            " Qoros",
+            " Roewe",
+            " Ranz",
+            " SAIC",
+            " Sehol",
+            " Soueast",
+            " Spotlight Automotive",
+            " Stelato",
+            " Sunlong Bus",
+            " Skyworth Auto",
+            " Trumpchi",
+            " Wuling",
+            " Voyah",
+            " Xpeng",
+            " Xiaomi Auto",
+            " Yudo Auto",
+            " Yutong",
+            " Zhongtong Bus",
+            " Zinoro",
+            " Zotye",
+            " Zeekr",
+            " WEY",
+            " Xiamen Golden Dragon Bus",
+            " Yangwang",
+            " ZX Auto"
+        ]
+    },
+    {
+        "query": "Kolombiya'nın kaç tane otomobil üreticisi vardır?",
+        "answer": " 2",
+        "sub": "Kolombiya",
+        "count": 2,
+        "list": [
+            " Busscar de Colombia",
+            " Sofasa"
+        ]
+    },
+    {
+        "query": "Hırvatistan'ın kaç tane otomobil üreticisi vardır?",
+        "answer": " 2",
+        "sub": "Hırvatistan",
+        "count": 2,
+        "list": [
+            " DOK-ING",
+            " Rimac"
+        ]
+    },
+    {
+        "query": "Çek Cumhuriyeti'nin kaç tane otomobil üreticisi vardır?",
+        "answer": " 6",
+        "sub": "Çek Cumhuriyeti",
+        "count": 6,
+        "list": [
+            " Škoda",
+            " Tatra",
+            " Avia",
+            " Kaipan",
+            " MTX",
+            " Praga"
+        ]
+    },
+    {
+        "query": "Mısır'ın kaç tane otomobil üreticisi vardır?",
+        "answer": " 1",
+        "sub": "Mısır",
+        "count": 1,
+        "list": [
+            " MCV Bus & Coach"
+        ]
+    },
+    {
+        "query": "Gürcistan'ın kaç tane otomobil üreticisi vardır?",
+        "answer": " 1",
+        "sub": "Gürcistan",
+        "count": 1,
+        "list": [
+            " KAZ"
+        ]
+    },
+    {
+        "query": "Macaristan'ın kaç tane otomobil üreticisi vardır?",
+        "answer": " 2",
+        "sub": "Macaristan",
+        "count": 2,
+        "list": [
+            " Ikarus",
+            " Rába"
+        ]
+    },
+    {
+        "query": "İzlanda'nın kaç tane otomobil üreticisi vardır?",
+        "answer": " 1",
+        "sub": "İzlanda",
+        "count": 1,
+        "list": [
+            " Arctic Trucks"
+        ]
+    },
+    {
+        "query": "Hindistan'ın kaç tane otomobil üreticisi vardır?",
+        "answer": " 16",
+        "sub": "Hindistan",
+        "count": 16,
+        "list": [
+            " Ajanta Group",
+            " Ashok Leyland",
+            " Asia MotorWorks",
+            " Atul Auto",
+            " Bajaj",
+            " Eicher",
+            " Force",
+            " Hindustan",
+            " ICML motors",
+            " KAL",
+            " Mahindra",
+            " Maruti",
+            " Ola Electric",
+            " Omega Seiki Mobility",
+            " Tara International",
+            " Tata"
+        ]
+    },
+    {
+        "query": "İsrail'in kaç tane otomobil üreticisi vardır?",
+        "answer": " 6",
+        "sub": "İsrail",
+        "count": 6,
+        "list": [
+            " City Transformer",
+            " Ha'argaz",
+            " Merkavim",
+            " REE Automotive",
+            " Tomcar",
+            " Zibar"
+        ]
+    },
+    {
+        "query": "İtalya'nın kaç tane otomobil üreticisi vardır?",
+        "answer": " 28",
+        "sub": "İtalya",
+        "count": 28,
+        "list": [
+            " Abarth",
+            " Alkè",
+            " Astra",
+            " Alfa Romeo",
+            " Automobili Estrema",
+            " Bremach",
+            " Casalini",
+            " Covini",
+            " CTS",
+            " DR Motor",
+            " Dallara",
+            " Fiat",
+            " Ferrari",
+            " Iso",
+            " Italdesign",
+            " Iveco",
+            " Lancia",
+            " Lamborghini",
+            " Maserati",
+            " M.A.T",
+            " Mazzanti",
+            " Minardi",
+            " Pagani",
+            " Piaggio",
+            " Pininfarina",
+            " SCV Srl",
+            " XEV",
+            " Zagato"
+        ]
+    },
+    {
+        "query": "Japonya'nın kaç tane otomobil üreticisi vardır?",
+        "answer": " 22",
+        "sub": "Japonya",
+        "count": 22,
+        "list": [
+            " Acura",
+            " Daihatsu",
+            " Hino",
+            " Honda",
+            " Infiniti",
+            " Isuzu",
+            " Lexus",
+            " Mazda",
+            " Mitsubishi",
+            " Mitsubishi Fuso",
+            " Nissan",
+            " Subaru",
+            " Suzuki",
+            " Toyota",
+            " UD Trucks",
+            " Aspark",
+            " Dome",
+            " GLM",
+            " J-Bus",
+            " Mitsuoka",
+            " NMKV",
+            " Tommykaira"
+        ]
+    },
+    {
+        "query": "Letonya'nın kaç tane otomobil üreticisi vardır?",
+        "answer": " 2",
+        "sub": "Letonya",
+        "count": 2,
+        "list": [
+            " Dartz",
+            " Drive eO"
+        ]
+    },
+    {
+        "query": "Lübnan'ın kaç tane otomobil üreticisi vardır?",
+        "answer": " 2",
+        "sub": "Lübnan",
+        "count": 2,
+        "list": [
+            " EV Electra",
+            " W Motors"
+        ]
+    },
+    {
+        "query": "Malezya'nın kaç tane otomobil üreticisi vardır?",
+        "answer": " 6",
+        "sub": "Malezya",
+        "count": 6,
+        "list": [
+            " Bufori",
+            " DefTech",
+            " Inokom",
+            " Naza",
+            " Perodua",
+            " Proton"
+        ]
+    },
+    {
+        "query": "Meksika'nın kaç tane otomobil üreticisi vardır?",
+        "answer": " 4",
+        "sub": "Meksika",
+        "count": 4,
+        "list": [
+            " DINA",
+            " Mastretta",
+            " VUHL",
+            " Zacua"
+        ]
+    },
+    {
+        "query": "Myanmar'ın kaç tane otomobil üreticisi vardır?",
+        "answer": " 1",
+        "sub": "Myanmar",
+        "count": 1,
+        "list": [
+            " Shan Star"
+        ]
+    },
+    {
+        "query": "Hollanda'nın kaç tane otomobil üreticisi vardır?",
+        "answer": " 7",
+        "sub": "Hollanda",
+        "count": 7,
+        "list": [
+            " Burton",
+            " Carver",
+            " DAF",
+            " Dakar",
+            " Donkervoort",
+            " Spijkstaal",
+            " Spyker"
+        ]
+    },
+    {
+        "query": "Stellantis'in kaç tane otomobil üreticisi vardır?",
+        "answer": " 3",
+        "sub": "Stellantis",
+        "count": 3,
+        "list": [
+            " Vandenbrink",
+            " VDL Bus & Coach",
+            " Vencer"
+        ]
+    },
+    {
+        "query": "Yeni Zelanda'nın kaç tane otomobil üreticisi vardır?",
+        "answer": " 5",
+        "sub": "Yeni Zelanda",
+        "count": 5,
+        "list": [
+            " Almac",
+            " Anziel",
+            " Kiwi Bus Builders",
+            " Saker Cars",
+            " Trekka"
+        ]
+    },
+    {
+        "query": "Kuzey Makedonya'nın kaç tane otomobil üreticisi vardır?",
+        "answer": " 1",
+        "sub": "Kuzey Makedonya",
+        "count": 1,
+        "list": [
+            " FAS Sanos"
+        ]
+    },
+    {
+        "query": "Rusya'nın kaç tane otomobil üreticisi vardır?",
+        "answer": " 16",
+        "sub": "Rusya",
+        "count": 16,
+        "list": [
+            " Aurus",
+            " Avtotor",
+            " AvtoVAZ",
+            " GAZ",
+            " KAvZ",
+            " LiAZ",
+            " PAZ",
+            " KAMAZ",
+            " NefAZ",
+            " Kombat Armouring",
+            " Moskvich",
+            " Sollers",
+            " UAZ",
+            " TREKOL",
+            " UralAZ",
+            " Volgabus"
+        ]
+    },
+    {
+        "query": "Sudan'ın kaç tane otomobil üreticisi vardır?",
+        "answer": " 1",
+        "sub": "Sudan",
+        "count": 1,
+        "list": [
+            " Giad Auto"
+        ]
+    },
+    {
+        "query": "İsveç'in kaç tane otomobil üreticisi vardır?",
+        "answer": " 5",
+        "sub": "İsveç",
+        "count": 5,
+        "list": [
+            " Caresto",
+            " Koenigsegg",
+            " Polestar",
+            " Scania",
+            " Volvo"
+        ]
+    },
+    {
+        "query": "Tunus'un kaç tane otomobil üreticisi vardır?",
+        "answer": " 1",
+        "sub": "Tunus",
+        "count": 1,
+        "list": [
+            " Wallyscar"
+        ]
+    },
+    {
+        "query": "Türkiye'nin kaç tane otomobil üreticisi vardır?",
+        "answer": " 11",
+        "sub": "Türkiye",
+        "count": 11,
+        "list": [
+            " BMC",
+            " Erkunt",
+            " Etox",
+            " Guleryuz",
+            " Karsan",
+            " Katmerciler",
+            " Otokar",
+            " Ozaltin",
+            " Temsa",
+            " Tofas",
+            " Togg"
+        ]
+    },
+    {
+        "query": "Ukrayna'nın kaç tane otomobil üreticisi vardır?",
+        "answer": " 6",
+        "sub": "Ukrayna",
+        "count": 6,
+        "list": [
+            " Bogdan",
+            " Etalon",
+            " Eurocar",
+            " KrAZ",
+            " Sherp",
+            " ZAZ"
+        ]
+    },
+    {
+        "query": "Birleşik Arap Emirlikleri'nin kaç tane otomobil üreticisi vardır?",
+        "answer": " 3",
+        "sub": "Birleşik Arap Emirlikleri",
+        "count": 3,
+        "list": [
+            " NIMR",
+            " STREIT Group",
+            " W Motors"
+        ]
+    },
+    {
+        "query": "Birleşik Krallık'ın kaç tane otomobil üreticisi vardır?",
+        "answer": " 37",
+        "sub": "Birleşik Krallık",
+        "count": 37,
+        "list": [
+            " AC",
+            " Alexander Dennis",
+            " Apex",
+            " Ariel",
+            " Aston Martin",
+            " Atalanta",
+            " BAC",
+            " Bentley",
+            " Bowler",
+            " Caterham",
+            " David Brown",
+            " Elemental Cars",
+            " Ginetta",
+            " Gordon Murray Automotive",
+            " GKD Sports",
+            " Grinnall",
+            " Ineos",
+            " Jaguar",
+            " Lagonda",
+            " London EV Company",
+            " Land Rover",
+            " Lister",
+            " Lotus",
+            " Munro Vehicles",
+            " McLaren",
+            " Mcmutry Automotive",
+            " MG",
+            " Mini",
+            " Morgan",
+            " Noble",
+            " Radical Sportscars",
+            " Rolls-Royce",
+            " Ronart",
+            " Switch Mobility",
+            " TVR",
+            " Ultima Sports",
+            " Vauxhall"
+        ]
+    },
+    {
+        "query": "Amerika Birleşik Devletleri'nin kaç tane otomobil üreticisi vardır?",
+        "answer": " 79",
+        "sub": "Amerika Birleşik Devletleri",
+        "count": 79,
+        "list": [
+            " Buick",
+            " Cadillac",
+            " Chevrolet",
+            " GMC",
+            " Chrysler",
+            " Dodge",
+            " Jeep",
+            " Ram",
+            " Ford",
+            " Lincoln",
+            " All American Racers",
+            " AM General",
+            " Anteros Coachworks",
+            " Aptera",
+            " Arcimoto",
+            " Autocar",
+            " Alpha",
+            " Bremach",
+            " Bollinger",
+            " Callaway",
+            " Canoo",
+            " Czinger",
+            " DDR Motorsport",
+            " DeLorean",
+            " Drako",
+            " Detroit Electric",
+            " E-Z-GO",
+            " Equus",
+            " EdisonFuture",
+            " Falcon Motorsports",
+            " Factory Five Racing",
+            " Faraday",
+            " Fisker",
+            " Freightliner",
+            " Gillig",
+            " Google",
+            " GEM",
+            " Hennessey",
+            " Harley Davidson",
+            " International Harvester",
+            " IC Bus",
+            " Karma",
+            " Kenworth",
+            " Lingenfelter Performance Engineering",
+            " Lordstown",
+            " Lucid",
+            " Mullen",
+            " Mack",
+            " Myers",
+            " MCI",
+            " Navistar",
+            " Nikola",
+            " Oshkosh",
+            " Panoz",
+            " Phoenix Motorcars",
+            " Peterbilt",
+            " Pierce",
+            " Polaris",
+            " Proterra",
+            " RAESR",
+            " Rezvani",
+            " Rivian",
+            " Ronn Motor Group",
+            " Rossion",
+            " Saleen",
+            " SCG",
+            " Shelby",
+            " Slate Auto",
+            " SRT",
+            " SSC",
+            " Thomas Built Buses",
+            " Tesla",
+            " Telo Trucks",
+            " Trion Supercars",
+            " VLF",
+            " Vanderhall Motor Works",
+            " Western Star",
+            " Workhorse",
+            " Xos, Inc."
+        ]
+    },
+    {
+        "query": "Uruguay'ın kaç tane otomobil üreticisi vardır?",
+        "answer": " 1",
+        "sub": "Uruguay",
+        "count": 1,
+        "list": [
+            " Effa"
+        ]
+    },
+    {
+        "query": "Venezuela'nın kaç tane otomobil üreticisi vardır?",
+        "answer": " 1",
+        "sub": "Venezuela",
+        "count": 1,
+        "list": [
+            " Venirauto"
+        ]
+    },
+    {
+        "query": "Vietnam'ın kaç tane otomobil üreticisi vardır?",
+        "answer": " 4",
+        "sub": "Vietnam",
+        "count": 4,
+        "list": [
+            " Mekong",
+            " SAMCO",
+            " THACO",
+            " VinFast"
+        ]
+    },
+    {
+        "query": "Zimbabve'nin kaç tane otomobil üreticisi vardır?",
+        "answer": " 1",
+        "sub": "Zimbabve",
+        "count": 1,
+        "list": [
+            " Willowvale Motor Industries"
+        ]
+    }
+]

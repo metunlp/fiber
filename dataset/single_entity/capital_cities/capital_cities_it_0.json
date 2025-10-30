@@ -1,0 +1,350 @@
+﻿[
+  {
+    "query": "La capitale della Turchia è",
+    "answer": " Ankara",
+    "sub": "Turchia",
+    "en_sub": "Turkey"
+  },
+  {
+    "query": "La capitale dei Paesi Bassi è",
+    "answer": " Amsterdam",
+    "sub": "Paesi Bassi",
+    "en_sub": "Netherlands"
+  },
+  {
+    "query": "La capitale della Baviera è",
+    "answer": " Monaco di Baviera",
+    "sub": "Baviera",
+    "en_sub": "Bavaria"
+  },
+  {
+    "query": "La capitale della Toscana è",
+    "answer": " Firenze",
+    "sub": "Toscana",
+    "en_sub": "Tuscany"
+  },
+  {
+    "query": "La capitale dell'Italia è",
+    "answer": " Roma",
+    "sub": "Italia",
+    "en_sub": "Italy"
+  },
+  {
+    "query": "La capitale della Provincia di Anversa è",
+    "answer": " Anversa",
+    "sub": "Provincia di Anversa",
+    "en_sub": "Province of Antwerp"
+  },
+  {
+    "query": "La capitale della Creta è",
+    "answer": " Candia",
+    "sub": "Creta",
+    "en_sub": "Crete"
+  },
+  {
+    "query": "La capitale della Francia è",
+    "answer": " Parigi",
+    "sub": "Francia",
+    "en_sub": "France"
+  },
+  {
+    "query": "La capitale della Maharashtra è",
+    "answer": " Mumbai",
+    "sub": "Maharashtra",
+    "en_sub": "Maharashtra"
+  },
+  {
+    "query": "La capitale della Norvegia è",
+    "answer": " Oslo",
+    "sub": "Norvegia",
+    "en_sub": "Norway"
+  },
+  {
+    "query": "La capitale della Giuda è",
+    "answer": " Gerusalemme",
+    "sub": "Giuda",
+    "en_sub": "Judah"
+  },
+  {
+    "query": "La capitale del Kirghizistan è",
+    "answer": " Bishkek",
+    "sub": "Kirghizistan",
+    "en_sub": "Kyrgyzstan"
+  },
+  {
+    "query": "La capitale della Romania è",
+    "answer": " Melbourne",
+    "sub": "Romania",
+    "en_sub": "Victoria"
+  },
+  {
+    "query": "La capitale dell'Irlanda è",
+    "answer": " Dublino",
+    "sub": "Irlanda",
+    "en_sub": "Ireland"
+  },
+  {
+    "query": "La capitale dell'Inghilterra è",
+    "answer": " Londra",
+    "sub": "Inghilterra",
+    "en_sub": "England"
+  },
+  {
+    "query": "La capitale della Lettonia è",
+    "answer": " Riga",
+    "sub": "Lettonia",
+    "en_sub": "Latvia"
+  },
+  {
+    "query": "La capitale della Tanzania è",
+    "answer": " Dar es Salaam",
+    "sub": "Tanzania",
+    "en_sub": "Tanzania"
+  },
+  {
+    "query": "La capitale dello Spagna è",
+    "answer": " Madrid",
+    "sub": "Spagna",
+    "en_sub": "Spain"
+  },
+  {
+    "query": "La capitale della Guatemala è",
+    "answer": " Città del Guatemala",
+    "sub": "Guatemala",
+    "en_sub": "Guatemala"
+  },
+  {
+    "query": "La capitale della Sassonia è",
+    "answer": " Dresda",
+    "sub": "Sassonia",
+    "en_sub": "Saxony"
+  },
+  {
+    "query": "La capitale del Haiti è",
+    "answer": " Port-au-Prince",
+    "sub": "Haiti",
+    "en_sub": "Haiti"
+  },
+  {
+    "query": "La capitale della Grecia è",
+    "answer": " Atene",
+    "sub": "Grecia",
+    "en_sub": "Greece"
+  },
+  {
+    "query": "La capitale della Tasmania è",
+    "answer": " Hobart",
+    "sub": "Tasmania",
+    "en_sub": "Tasmania"
+  },
+  {
+    "query": "La capitale dell'Estonia è",
+    "answer": " Tallinn",
+    "sub": "Estonia",
+    "en_sub": "Estonia"
+  },
+  {
+    "query": "La capitale del Giappone è",
+    "answer": " Tokyo",
+    "sub": "Giappone",
+    "en_sub": "Japan"
+  },
+  {
+    "query": "La capitale dell'Austria è",
+    "answer": " Vienna",
+    "sub": "Austria",
+    "en_sub": "Austria"
+  },
+  {
+    "query": "La capitale dell'Indonesia è",
+    "answer": " Jakarta",
+    "sub": "Indonesia",
+    "en_sub": "Indonesia"
+  },
+  {
+    "query": "La capitale del Piemonte è",
+    "answer": " Kathmandu",
+    "sub": "Piemonte",
+    "en_sub": "Nepal"
+  },
+  {
+    "query": "La capitale del Nepal è",
+    "answer": " Khartoum",
+    "sub": "Nepal",
+    "en_sub": "Sudan"
+  },
+  {
+    "query": "La capitale del Sudan è",
+    "answer": " Vilnius",
+    "sub": "Sudan",
+    "en_sub": "Lithuania"
+  },
+  {
+    "query": "La capitale della Lituania è",
+    "answer": " Beirut",
+    "sub": "Lituania",
+    "en_sub": "Lebanon"
+  },
+  {
+    "query": "La capitale del Libano è",
+    "answer": " Lisbona",
+    "sub": "Libano",
+    "en_sub": "Portugal"
+  },
+  {
+    "query": "La capitale del Portogallo è",
+    "answer": " Winnipeg",
+    "sub": "Portogallo",
+    "en_sub": "Manitoba"
+  },
+  {
+    "query": "La capitale della Manitoba è",
+    "answer": " Montevideo",
+    "sub": "Manitoba",
+    "en_sub": "Uruguay"
+  },
+  {
+    "query": "La capitale del Malawi è",
+    "answer": " Budapest",
+    "sub": "Malawi",
+    "en_sub": "Hungary"
+  },
+  {
+    "query": "La capitale dell'Uruguay è",
+    "answer": " Podgorica",
+    "sub": "Uruguay",
+    "en_sub": "Montenegro"
+  },
+  {
+    "query": "La capitale della Karnataka è",
+    "answer": " Toronto",
+    "sub": "Karnataka",
+    "en_sub": "Ontario"
+  },
+  {
+    "query": "La capitale dell'Ungheria è",
+    "answer": " Città di Panama",
+    "sub": "Ungheria",
+    "en_sub": "Panama"
+  },
+  {
+    "query": "La capitale dell'Ontario è",
+    "answer": " Bangkok",
+    "sub": "Ontario",
+    "en_sub": "Thailand"
+  },
+  {
+    "query": "La capitale della Panama è",
+    "answer": " Santiago",
+    "sub": "Panama",
+    "en_sub": "Chile"
+  },
+  {
+    "query": "La capitale della Nigeria è",
+    "answer": " New Delhi",
+    "sub": "Nigeria",
+    "en_sub": "India"
+  },
+  {
+    "query": "La capitale della Thailandia è",
+    "answer": " Belgrado",
+    "sub": "Thailandia",
+    "en_sub": "Serbia"
+  },
+  {
+    "query": "La capitale del Cile è",
+    "answer": " Cagliari",
+    "sub": "Cile",
+    "en_sub": "Sardinia"
+  },
+  {
+    "query": "La capitale dell'India è",
+    "answer": " Caracas",
+    "sub": "India",
+    "en_sub": "Venezuela"
+  },
+  {
+    "query": "La capitale della Serbia è",
+    "answer": " Nicosia",
+    "sub": "Serbia",
+    "en_sub": "Cyprus"
+  },
+  {
+    "query": "La capitale della Venezuela è",
+    "answer": " Sofia",
+    "sub": "Venezuela",
+    "en_sub": "Bulgaria"
+  },
+  {
+    "query": "La capitale del Cipro è",
+    "answer": " Salt Lake City",
+    "sub": "Cipro",
+    "en_sub": "Utah"
+  },
+  {
+    "query": "La capitale dell'Utah è",
+    "answer": " Dhaka",
+    "sub": "Utah",
+    "en_sub": "Bangladesh"
+  },
+  {
+    "query": "La capitale dello Svizzera è",
+    "answer": " Dushanbe",
+    "sub": "Svizzera",
+    "en_sub": "Tajikistan"
+  },
+  {
+    "query": "La capitale della Regno d'Inghilterra è",
+    "answer": " Chengdu",
+    "sub": "Regno d'Inghilterra",
+    "en_sub": "Sichuan"
+  },
+  {
+    "query": "La capitale dell'Albania è",
+    "answer": " Lusaka",
+    "sub": "Albania",
+    "en_sub": "Zambia"
+  },
+  {
+    "query": "La capitale dello Zambia è",
+    "answer": " Port Louis",
+    "sub": "Zambia",
+    "en_sub": "Mauritius"
+  },
+  {
+    "query": "La capitale del Mauritius è",
+    "answer": " Des Moines",
+    "sub": "Mauritius",
+    "en_sub": "Iowa"
+  },
+  {
+    "query": "La capitale della Bielorussia è",
+    "answer": " Nur-Sultan",
+    "sub": "Bielorussia",
+    "en_sub": "Kazakhstan"
+  },
+  {
+    "query": "La capitale dell'Alaska è",
+    "answer": " Winchester",
+    "sub": "Alaska",
+    "en_sub": "Kingdom of England"
+  },
+  {
+    "query": "La capitale della Minnesota è",
+    "answer": " Austin",
+    "sub": "Minnesota",
+    "en_sub": "Texas"
+  },
+  {
+    "query": "La capitale della Florida è",
+    "answer": " San Paolo",
+    "sub": "Florida",
+    "en_sub": "Minnesota"
+  },
+  {
+    "query": "La capitale della Macedonia è",
+    "answer": " Bafoussam",
+    "sub": "Macedonia",
+    "en_sub": "West Region"
+  }
+]

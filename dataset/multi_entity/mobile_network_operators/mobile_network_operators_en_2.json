@@ -1,0 +1,270 @@
+[
+    {
+        "query": "The number of mobile network operator(s) in Albania is",
+        "answer": " 3",
+        "sub": "Albania",
+        "count": 3,
+        "list": [
+            " Vodafone Albania",
+            " One Telecommunications",
+            " ALBtelecom"
+        ]
+    },
+    {
+        "query": "The number of mobile network operator(s) in Andorra is",
+        "answer": " 1",
+        "sub": "Andorra",
+        "count": 1,
+        "list": [
+            " Andorra Telecom"
+        ]
+    },
+    {
+        "query": "The number of mobile network operator(s) in Armenia is",
+        "answer": " 3",
+        "sub": "Armenia",
+        "count": 3,
+        "list": [
+            " Viva-MTS",
+            " Ucom",
+            " Telecom Armenia (Beeline)"
+        ]
+    },
+    {
+        "query": "The number of mobile network operator(s) in Belarus is",
+        "answer": " 3",
+        "sub": "Belarus",
+        "count": 3,
+        "list": [
+            " A1 Belarus",
+            " MTS Belarus",
+            " life:) Belarus"
+        ]
+    },
+    {
+        "query": "The number of mobile network operator(s) in Belgium is",
+        "answer": " 4",
+        "sub": "Belgium",
+        "count": 4,
+        "list": [
+            " Proximus",
+            " Orange Belgium",
+            " Telenet/Base",
+            " DIGI Belgium"
+        ]
+    },
+    {
+        "query": "The number of mobile network operator(s) in Bosnia and Herzegovina is",
+        "answer": " 3",
+        "sub": "Bosnia and Herzegovina",
+        "count": 3,
+        "list": [
+            " BH Telecom",
+            " HT Eronet",
+            " Mtel"
+        ]
+    },
+    {
+        "query": "The number of mobile network operator(s) in Bulgaria is",
+        "answer": " 3",
+        "sub": "Bulgaria",
+        "count": 3,
+        "list": [
+            " A1 Bulgaria",
+            " Yettel Bulgaria",
+            " Vivacom"
+        ]
+    },
+    {
+        "query": "The number of mobile network operator(s) in Estonia is",
+        "answer": " 3",
+        "sub": "Estonia",
+        "count": 3,
+        "list": [
+            " Telia Eesti",
+            " Elisa Eesti",
+            " Tele2 Eesti"
+        ]
+    },
+    {
+        "query": "The number of mobile network operator(s) in Finland is",
+        "answer": " 3",
+        "sub": "Finland",
+        "count": 3,
+        "list": [
+            " Elisa",
+            " DNA Oyj",
+            " Telia Finland"
+        ]
+    },
+    {
+        "query": "The number of mobile network operator(s) in France is",
+        "answer": " 4",
+        "sub": "France",
+        "count": 4,
+        "list": [
+            " Orange France",
+            " SFR",
+            " Bouygues Telecom",
+            " Free Mobile"
+        ]
+    },
+    {
+        "query": "The number of mobile network operator(s) in Georgia is",
+        "answer": " 3",
+        "sub": "Georgia",
+        "count": 3,
+        "list": [
+            " MagtiCom",
+            " Silknet",
+            " Beeline Georgia"
+        ]
+    },
+    {
+        "query": "The number of mobile network operator(s) in Germany is",
+        "answer": " 4",
+        "sub": "Germany",
+        "count": 4,
+        "list": [
+            " Telekom Deutschland",
+            " Vodafone Germany",
+            " O2 Telefónica",
+            " 1&1"
+        ]
+    },
+    {
+        "query": "The number of mobile network operator(s) in Hungary is",
+        "answer": " 4",
+        "sub": "Hungary",
+        "count": 4,
+        "list": [
+            " Magyar Telekom (Telekom HU)",
+            " Yettel Hungary",
+            " Vodafone Hungary",
+            " DIGI"
+        ]
+    },
+    {
+        "query": "The number of mobile network operator(s) in Italy is",
+        "answer": " 4",
+        "sub": "Italy",
+        "count": 4,
+        "list": [
+            " TIM",
+            " Vodafone Italy",
+            " Wind Tre",
+            " Iliad"
+        ]
+    },
+    {
+        "query": "The number of mobile network operator(s) in Kosovo is",
+        "answer": " 2",
+        "sub": "Kosovo",
+        "count": 2,
+        "list": [
+            " Vala",
+            " IPKO"
+        ]
+    },
+    {
+        "query": "The number of mobile network operator(s) in Moldova is",
+        "answer": " 3",
+        "sub": "Moldova",
+        "count": 3,
+        "list": [
+            " Orange Moldova",
+            " Moldcell",
+            " Unite"
+        ]
+    },
+    {
+        "query": "The number of mobile network operator(s) in Portugal is",
+        "answer": " 3",
+        "sub": "Portugal",
+        "count": 3,
+        "list": [
+            " MEO",
+            " NOS",
+            " Vodafone Portugal"
+        ]
+    },
+    {
+        "query": "The number of mobile network operator(s) in Russia is",
+        "answer": " 4",
+        "sub": "Russia",
+        "count": 4,
+        "list": [
+            " MTS",
+            " MegaFon",
+            " Beeline",
+            " Tele2 Russia"
+        ]
+    },
+    {
+        "query": "The number of mobile network operator(s) in Serbia is",
+        "answer": " 3",
+        "sub": "Serbia",
+        "count": 3,
+        "list": [
+            " mts",
+            " Yettel Serbia",
+            " A1 Serbia"
+        ]
+    },
+    {
+        "query": "The number of mobile network operator(s) in Slovenia is",
+        "answer": " 3",
+        "sub": "Slovenia",
+        "count": 3,
+        "list": [
+            " Telekom Slovenije",
+            " A1 Slovenia",
+            " Telemach Slovenia"
+        ]
+    },
+    {
+        "query": "The number of mobile network operator(s) in Sweden is",
+        "answer": " 4",
+        "sub": "Sweden",
+        "count": 4,
+        "list": [
+            " Telia Sweden",
+            " Tele2 Sweden",
+            " Telenor Sweden",
+            " 3 (Tre)"
+        ]
+    },
+    {
+        "query": "The number of mobile network operator(s) in Switzerland is",
+        "answer": " 3",
+        "sub": "Switzerland",
+        "count": 3,
+        "list": [
+            " Swisscom",
+            " Sunrise",
+            " Salt"
+        ]
+    },
+    {
+        "query": "The number of mobile network operator(s) in Turkey is",
+        "answer": " 3",
+        "sub": "Turkey",
+        "count": 3,
+        "list": [
+            " Turkcell",
+            " Vodafone Turkey",
+            " Türk Telekom"
+        ]
+    },
+    {
+        "query": "The number of mobile network operator(s) in Ukraine is",
+        "answer": " 3",
+        "sub": "Ukraine",
+        "count": 3,
+        "list": [
+            " Kyivstar",
+            " Vodafone Ukraine",
+            " lifecell"
+        ]
+    }
+]

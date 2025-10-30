@@ -1,0 +1,182 @@
+﻿[
+  {
+    "query": "Il numero atomico dell'Idrogeno è",
+    "answer": " 1",
+    "sub": "Idrogeno",
+    "en_sub": "Hydrogen"
+  },
+  {
+    "query": "Il numero atomico del Berillio è",
+    "answer": " 4",
+    "sub": "Berillio",
+    "en_sub": "Beryllium"
+  },
+  {
+    "query": "Il numero atomico del Boro è",
+    "answer": " 5",
+    "sub": "Boro",
+    "en_sub": "Boron"
+  },
+  {
+    "query": "Il numero atomico del Carbonio è",
+    "answer": " 6",
+    "sub": "Carbonio",
+    "en_sub": "Carbon"
+  },
+  {
+    "query": "Il numero atomico del Sodio è",
+    "answer": " 11",
+    "sub": "Sodio",
+    "en_sub": "Sodium"
+  },
+  {
+    "query": "Il numero atomico del Magnesio è",
+    "answer": " 12",
+    "sub": "Magnesio",
+    "en_sub": "Magnesium"
+  },
+  {
+    "query": "Il numero atomico dell'Alluminio è",
+    "answer": " 13",
+    "sub": "Alluminio",
+    "en_sub": "Aluminium"
+  },
+  {
+    "query": "Il numero atomico del Silicio è",
+    "answer": " 14",
+    "sub": "Silicio",
+    "en_sub": "Silicon"
+  },
+  {
+    "query": "Il numero atomico del Fosforo è",
+    "answer": " 15",
+    "sub": "Fosforo",
+    "en_sub": "Phosphorus"
+  },
+  {
+    "query": "Il numero atomico dello Zolfo è",
+    "answer": " 16",
+    "sub": "Zolfo",
+    "en_sub": "Sulfur"
+  },
+  {
+    "query": "Il numero atomico dell'Argon è",
+    "answer": " 18",
+    "sub": "Argon",
+    "en_sub": "Argon"
+  },
+  {
+    "query": "Il numero atomico del Calcio è",
+    "answer": " 20",
+    "sub": "Calcio",
+    "en_sub": "Calcium"
+  },
+  {
+    "query": "Il numero atomico dello Scandio è",
+    "answer": " 21",
+    "sub": "Scandio",
+    "en_sub": "Scandium"
+  },
+  {
+    "query": "Il numero atomico del Ferro è",
+    "answer": " 26",
+    "sub": "Ferro",
+    "en_sub": "Iron"
+  },
+  {
+    "query": "Il numero atomico del Nichel è",
+    "answer": " 28",
+    "sub": "Nichel",
+    "en_sub": "Nickel"
+  },
+  {
+    "query": "Il numero atomico del Rame è",
+    "answer": " 29",
+    "sub": "Rame",
+    "en_sub": "Copper"
+  },
+  {
+    "query": "Il numero atomico dello Zinco è",
+    "answer": " 30",
+    "sub": "Zinco",
+    "en_sub": "Zinc"
+  },
+  {
+    "query": "Il numero atomico del Germanio è",
+    "answer": " 32",
+    "sub": "Germanio",
+    "en_sub": "Germanium"
+  },
+  {
+    "query": "Il numero atomico del Selenio è",
+    "answer": " 34",
+    "sub": "Selenio",
+    "en_sub": "Selenium"
+  },
+  {
+    "query": "Il numero atomico del Krypton è",
+    "answer": " 36",
+    "sub": "Krypton",
+    "en_sub": "Krypton"
+  },
+  {
+    "query": "Il numero atomico dello Stronzio è",
+    "answer": " 38",
+    "sub": "Stronzio",
+    "en_sub": "Strontium"
+  },
+  {
+    "query": "Il numero atomico dello Zirconio è",
+    "answer": " 40",
+    "sub": "Zirconio",
+    "en_sub": "Zirconium"
+  },
+  {
+    "query": "Il numero atomico del Niobio è",
+    "answer": " 41",
+    "sub": "Niobio",
+    "en_sub": "Niobium"
+  },
+  {
+    "query": "Il numero atomico del Rutenio è",
+    "answer": " 44",
+    "sub": "Rutenio",
+    "en_sub": "Ruthenium"
+  },
+  {
+    "query": "Il numero atomico del Rodio è",
+    "answer": " 45",
+    "sub": "Rodio",
+    "en_sub": "Rhodium"
+  },
+  {
+    "query": "Il numero atomico del Palladio è",
+    "answer": " 46",
+    "sub": "Palladio",
+    "en_sub": "Palladium"
+  },
+  {
+    "query": "Il numero atomico dell'Indio è",
+    "answer": " 49",
+    "sub": "Indio",
+    "en_sub": "Indium"
+  },
+  {
+    "query": "Il numero atomico dello Xeno è",
+    "answer": " 54",
+    "sub": "Xeno",
+    "en_sub": "Xenon"
+  },
+  {
+    "query": "Il numero atomico del Cesio è",
+    "answer": " 55",
+    "sub": "Cesio",
+    "en_sub": "Cesium"
+  },
+  {
+    "query": "Il numero atomico del Lantanio è",
+    "answer": " 57",
+    "sub": "Lantanio",
+    "en_sub": "Lanthanum"
+  }
+]

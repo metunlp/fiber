@@ -1,0 +1,829 @@
+[
+    {
+        "query": "The number of languages that Pope John Paul II can speak is",
+        "answer": " 8",
+        "sub": "Pope John Paul II",
+        "count": "8",
+        "list": [
+            " Polish",
+            " Italian",
+            " Latin",
+            " French",
+            " English",
+            " German",
+            " Spanish",
+            " Portuguese"
+        ]
+    },
+    {
+        "query": "The number of languages that António Guterres can speak is",
+        "answer": " 4",
+        "sub": "António Guterres",
+        "count": "4",
+        "list": [
+            " Portuguese",
+            " English",
+            " French",
+            " Spanish"
+        ]
+    },
+    {
+        "query": "The number of languages that Boutros Boutros-Ghali can speak is",
+        "answer": " 3",
+        "sub": "Boutros Boutros-Ghali",
+        "count": "3",
+        "list": [
+            " Arabic",
+            " French",
+            " English"
+        ]
+    },
+    {
+        "query": "The number of languages that Ban Ki-moon can speak is",
+        "answer": " 3",
+        "sub": "Ban Ki-moon",
+        "count": "3",
+        "list": [
+            " Korean",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The number of languages that Dag Hammarskjöld can speak is",
+        "answer": " 4",
+        "sub": "Dag Hammarskjöld",
+        "count": "4",
+        "list": [
+            " Swedish",
+            " English",
+            " French",
+            " German"
+        ]
+    },
+    {
+        "query": "The number of languages that U Thant can speak is",
+        "answer": " 3",
+        "sub": "U Thant",
+        "count": "3",
+        "list": [
+            " Burmese",
+            " English",
+            " Hindi"
+        ]
+    },
+    {
+        "query": "The number of languages that Trygve Lie can speak is",
+        "answer": " 3",
+        "sub": "Trygve Lie",
+        "count": "3",
+        "list": [
+            " Norwegian",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The number of languages that Joseph Conrad can speak is",
+        "answer": " 3",
+        "sub": "Joseph Conrad",
+        "count": "3",
+        "list": [
+            " Polish",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The number of languages that Vladimir Nabokov can speak is",
+        "answer": " 3",
+        "sub": "Vladimir Nabokov",
+        "count": "3",
+        "list": [
+            " Russian",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The number of languages that Jorge Luis Borges can speak is",
+        "answer": " 4",
+        "sub": "Jorge Luis Borges",
+        "count": "4",
+        "list": [
+            " Spanish",
+            " English",
+            " French",
+            " German"
+        ]
+    },
+    {
+        "query": "The number of languages that Chinua Achebe can speak is",
+        "answer": " 3",
+        "sub": "Chinua Achebe",
+        "count": "3",
+        "list": [
+            " Igbo",
+            " English",
+            " Yoruba"
+        ]
+    },
+    {
+        "query": "The number of languages that Ismail Kadare can speak is",
+        "answer": " 3",
+        "sub": "Ismail Kadare",
+        "count": "3",
+        "list": [
+            " Albanian",
+            " French",
+            " Italian"
+        ]
+    },
+    {
+        "query": "The number of languages that Isaac Bashevis Singer can speak is",
+        "answer": " 3",
+        "sub": "Isaac Bashevis Singer",
+        "count": "3",
+        "list": [
+            " Yiddish",
+            " Polish",
+            " English"
+        ]
+    },
+    {
+        "query": "The number of languages that Hannah Arendt can speak is",
+        "answer": " 3",
+        "sub": "Hannah Arendt",
+        "count": "3",
+        "list": [
+            " German",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The number of languages that Susan Sontag can speak is",
+        "answer": " 3",
+        "sub": "Susan Sontag",
+        "count": "3",
+        "list": [
+            " English",
+            " French",
+            " German"
+        ]
+    },
+    {
+        "query": "The number of languages that Goethe can speak is",
+        "answer": " 6",
+        "sub": "Goethe",
+        "count": "6",
+        "list": [
+            " German",
+            " French",
+            " Italian",
+            " English",
+            " Latin",
+            " Greek"
+        ]
+    },
+    {
+        "query": "The number of languages that René Descartes can speak is",
+        "answer": " 3",
+        "sub": "René Descartes",
+        "count": "3",
+        "list": [
+            " French",
+            " Latin",
+            " Dutch"
+        ]
+    },
+    {
+        "query": "The number of languages that Baruch Spinoza can speak is",
+        "answer": " 5",
+        "sub": "Baruch Spinoza",
+        "count": "5",
+        "list": [
+            " Portuguese",
+            " Dutch",
+            " Spanish",
+            " Hebrew",
+            " Latin"
+        ]
+    },
+    {
+        "query": "The number of languages that Gottfried Wilhelm Leibniz can speak is",
+        "answer": " 3",
+        "sub": "Gottfried Wilhelm Leibniz",
+        "count": "3",
+        "list": [
+            " German",
+            " Latin",
+            " French"
+        ]
+    },
+    {
+        "query": "The number of languages that Voltaire can speak is",
+        "answer": " 3",
+        "sub": "Voltaire",
+        "count": "3",
+        "list": [
+            " French",
+            " English",
+            " Italian"
+        ]
+    },
+    {
+        "query": "The number of languages that Amin Maalouf can speak is",
+        "answer": " 3",
+        "sub": "Amin Maalouf",
+        "count": "3",
+        "list": [
+            " Arabic",
+            " French",
+            " English"
+        ]
+    },
+    {
+        "query": "The number of languages that Nikola Tesla can speak is",
+        "answer": " 8",
+        "sub": "Nikola Tesla",
+        "count": "8",
+        "list": [
+            " Serbian",
+            " English",
+            " German",
+            " French",
+            " Italian",
+            " Czech",
+            " Hungarian",
+            " Latin"
+        ]
+    },
+    {
+        "query": "The number of languages that Leonardo da Vinci can speak is",
+        "answer": " 3",
+        "sub": "Leonardo da Vinci",
+        "count": "3",
+        "list": [
+            " Italian",
+            " Latin",
+            " French"
+        ]
+    },
+    {
+        "query": "The number of languages that Mustafa Kemal Atatürk can speak is",
+        "answer": " 3",
+        "sub": "Mustafa Kemal Atatürk",
+        "count": "3",
+        "list": [
+            " Turkish",
+            " French",
+            " German"
+        ]
+    },
+    {
+        "query": "The number of languages that Charles de Gaulle can speak is",
+        "answer": " 3",
+        "sub": "Charles de Gaulle",
+        "count": "3",
+        "list": [
+            " French",
+            " English",
+            " German"
+        ]
+    },
+    {
+        "query": "The number of languages that Winston Churchill can speak is",
+        "answer": " 3",
+        "sub": "Winston Churchill",
+        "count": "3",
+        "list": [
+            " English",
+            " French",
+            " Latin"
+        ]
+    },
+    {
+        "query": "The number of languages that Jawaharlal Nehru can speak is",
+        "answer": " 3",
+        "sub": "Jawaharlal Nehru",
+        "count": "3",
+        "list": [
+            " Hindi",
+            " English",
+            " Urdu"
+        ]
+    },
+    {
+        "query": "The number of languages that Shimon Peres can speak is",
+        "answer": " 4",
+        "sub": "Shimon Peres",
+        "count": "4",
+        "list": [
+            " Hebrew",
+            " English",
+            " Polish",
+            " Russian"
+        ]
+    },
+    {
+        "query": "The number of languages that Olaf Scholz can speak is",
+        "answer": " 3",
+        "sub": "Olaf Scholz",
+        "count": "3",
+        "list": [
+            " German",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The number of languages that Ursula von der Leyen can speak is",
+        "answer": " 3",
+        "sub": "Ursula von der Leyen",
+        "count": "3",
+        "list": [
+            " German",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The number of languages that Queen Silvia of Sweden can speak is",
+        "answer": " 6",
+        "sub": "Queen Silvia of Sweden",
+        "count": "6",
+        "list": [
+            " German",
+            " Portuguese",
+            " Spanish",
+            " English",
+            " Swedish",
+            " French"
+        ]
+    },
+    {
+        "query": "The number of languages that Queen Rania of Jordan can speak is",
+        "answer": " 3",
+        "sub": "Queen Rania of Jordan",
+        "count": "3",
+        "list": [
+            " Arabic",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The number of languages that King Felipe VI of Spain can speak is",
+        "answer": " 4",
+        "sub": "King Felipe VI of Spain",
+        "count": "4",
+        "list": [
+            " Spanish",
+            " Catalan",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The number of languages that Queen Letizia of Spain can speak is",
+        "answer": " 3",
+        "sub": "Queen Letizia of Spain",
+        "count": "3",
+        "list": [
+            " Spanish",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The number of languages that Guy Verhofstadt can speak is",
+        "answer": " 3",
+        "sub": "Guy Verhofstadt",
+        "count": "3",
+        "list": [
+            " Dutch",
+            " French",
+            " English"
+        ]
+    },
+    {
+        "query": "The number of languages that Zeinab Badawi can speak is",
+        "answer": " 3",
+        "sub": "Zeinab Badawi",
+        "count": "3",
+        "list": [
+            " Arabic",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The number of languages that Audrey Hepburn can speak is",
+        "answer": " 5",
+        "sub": "Audrey Hepburn",
+        "count": "5",
+        "list": [
+            " English",
+            " Dutch",
+            " French",
+            " Italian",
+            " Spanish"
+        ]
+    },
+    {
+        "query": "The number of languages that Trevor Noah can speak is",
+        "answer": " 6",
+        "sub": "Trevor Noah",
+        "count": "6",
+        "list": [
+            " English",
+            " Zulu",
+            " Xhosa",
+            " Tswana",
+            " Tsonga",
+            " Afrikaans"
+        ]
+    },
+    {
+        "query": "The number of languages that Jackie Chan can speak is",
+        "answer": " 3",
+        "sub": "Jackie Chan",
+        "count": "3",
+        "list": [
+            " Cantonese",
+            " Mandarin",
+            " English"
+        ]
+    },
+    {
+        "query": "The number of languages that Viggo Mortensen can speak is",
+        "answer": " 3",
+        "sub": "Viggo Mortensen",
+        "count": "3",
+        "list": [
+            " English",
+            " Danish",
+            " Spanish"
+        ]
+    },
+    {
+        "query": "The number of languages that Shakira can speak is",
+        "answer": " 5",
+        "sub": "Shakira",
+        "count": "5",
+        "list": [
+            " Spanish",
+            " English",
+            " Portuguese",
+            " Italian",
+            " Arabic"
+        ]
+    },
+    {
+        "query": "The number of languages that Gael García Bernal can speak is",
+        "answer": " 4",
+        "sub": "Gael García Bernal",
+        "count": "4",
+        "list": [
+            " Spanish",
+            " English",
+            " Portuguese",
+            " French"
+        ]
+    },
+    {
+        "query": "The number of languages that Natalie Portman can speak is",
+        "answer": " 3",
+        "sub": "Natalie Portman",
+        "count": "3",
+        "list": [
+            " English",
+            " Hebrew",
+            " French"
+        ]
+    },
+    {
+        "query": "The number of languages that Salma Hayek can speak is",
+        "answer": " 3",
+        "sub": "Salma Hayek",
+        "count": "3",
+        "list": [
+            " Spanish",
+            " English",
+            " Portuguese"
+        ]
+    },
+    {
+        "query": "The number of languages that Monica Bellucci can speak is",
+        "answer": " 3",
+        "sub": "Monica Bellucci",
+        "count": "3",
+        "list": [
+            " Italian",
+            " French",
+            " English"
+        ]
+    },
+    {
+        "query": "The number of languages that Gong Li can speak is",
+        "answer": " 3",
+        "sub": "Gong Li",
+        "count": "3",
+        "list": [
+            " Mandarin",
+            " English",
+            " Cantonese"
+        ]
+    },
+    {
+        "query": "The number of languages that Bradley Cooper can speak is",
+        "answer": " 3",
+        "sub": "Bradley Cooper",
+        "count": "3",
+        "list": [
+            " English",
+            " French",
+            " Italian"
+        ]
+    },
+    {
+        "query": "The number of languages that Daniel Brühl can speak is",
+        "answer": " 5",
+        "sub": "Daniel Brühl",
+        "count": "5",
+        "list": [
+            " German",
+            " Spanish",
+            " English",
+            " French",
+            " Catalan"
+        ]
+    },
+    {
+        "query": "The number of languages that Mads Mikkelsen can speak is",
+        "answer": " 4",
+        "sub": "Mads Mikkelsen",
+        "count": "4",
+        "list": [
+            " Danish",
+            " English",
+            " Swedish",
+            " German"
+        ]
+    },
+    {
+        "query": "The number of languages that Aishwarya Rai Bachchan can speak is",
+        "answer": " 3",
+        "sub": "Aishwarya Rai Bachchan",
+        "count": "3",
+        "list": [
+            " Hindi",
+            " English",
+            " Tamil"
+        ]
+    },
+    {
+        "query": "The number of languages that Irrfan Khan can speak is",
+        "answer": " 3",
+        "sub": "Irrfan Khan",
+        "count": "3",
+        "list": [
+            " Hindi",
+            " English",
+            " Urdu"
+        ]
+    },
+    {
+        "query": "The number of languages that Priyanka Chopra Jonas can speak is",
+        "answer": " 3",
+        "sub": "Priyanka Chopra Jonas",
+        "count": "3",
+        "list": [
+            " Hindi",
+            " English",
+            " Punjabi"
+        ]
+    },
+    {
+        "query": "The number of languages that Andrea Bocelli can speak is",
+        "answer": " 4",
+        "sub": "Andrea Bocelli",
+        "count": "4",
+        "list": [
+            " Italian",
+            " English",
+            " Spanish",
+            " French"
+        ]
+    },
+    {
+        "query": "The number of languages that Lara Fabian can speak is",
+        "answer": " 4",
+        "sub": "Lara Fabian",
+        "count": "4",
+        "list": [
+            " French",
+            " Italian",
+            " English",
+            " Spanish"
+        ]
+    },
+    {
+        "query": "The number of languages that Sönke Wortmann can speak is",
+        "answer": " 3",
+        "sub": "Sönke Wortmann",
+        "count": "3",
+        "list": [
+            " German",
+            " English",
+            " French"
+        ]
+    },
+    {
+        "query": "The number of languages that Pep Guardiola can speak is",
+        "answer": " 4",
+        "sub": "Pep Guardiola",
+        "count": "4",
+        "list": [
+            " Catalan",
+            " Spanish",
+            " English",
+            " German"
+        ]
+    },
+    {
+        "query": "The number of languages that Zlatan Ibrahimović can speak is",
+        "answer": " 5",
+        "sub": "Zlatan Ibrahimović",
+        "count": "5",
+        "list": [
+            " Swedish",
+            " Bosnian/Serbian",
+            " English",
+            " Italian",
+            " Spanish"
+        ]
+    },
+    {
+        "query": "The number of languages that Mesut Özil can speak is",
+        "answer": " 4",
+        "sub": "Mesut Özil",
+        "count": "4",
+        "list": [
+            " German",
+            " Turkish",
+            " English",
+            " Spanish"
+        ]
+    },
+    {
+        "query": "The number of languages that Luka Modrić can speak is",
+        "answer": " 3",
+        "sub": "Luka Modrić",
+        "count": "3",
+        "list": [
+            " Croatian",
+            " English",
+            " Spanish"
+        ]
+    },
+    {
+        "query": "The number of languages that Thierry Henry can speak is",
+        "answer": " 3",
+        "sub": "Thierry Henry",
+        "count": "3",
+        "list": [
+            " French",
+            " English",
+            " Spanish"
+        ]
+    },
+    {
+        "query": "The number of languages that Yao Ming can speak is",
+        "answer": " 3",
+        "sub": "Yao Ming",
+        "count": "3",
+        "list": [
+            " Mandarin",
+            " English",
+            " Shanghainese"
+        ]
+    },
+    {
+        "query": "The number of languages that Pau Gasol can speak is",
+        "answer": " 3",
+        "sub": "Pau Gasol",
+        "count": "3",
+        "list": [
+            " Spanish",
+            " Catalan",
+            " English"
+        ]
+    },
+    {
+        "query": "The number of languages that Sundar Pichai can speak is",
+        "answer": " 3",
+        "sub": "Sundar Pichai",
+        "count": "3",
+        "list": [
+            " Tamil",
+            " Hindi",
+            " English"
+        ]
+    },
+    {
+        "query": "The number of languages that Satya Nadella can speak is",
+        "answer": " 3",
+        "sub": "Satya Nadella",
+        "count": "3",
+        "list": [
+            " Telugu",
+            " Hindi",
+            " English"
+        ]
+    },
+    {
+        "query": "The number of languages that Malala Yousafzai can speak is",
+        "answer": " 3",
+        "sub": "Malala Yousafzai",
+        "count": "3",
+        "list": [
+            " Pashto",
+            " Urdu",
+            " English"
+        ]
+    },
+    {
+        "query": "The number of languages that Al-Farabi can speak is",
+        "answer": " 3",
+        "sub": "Al-Farabi",
+        "count": "3",
+        "list": [
+            " Arabic",
+            " Persian",
+            " Turkic"
+        ]
+    },
+    {
+        "query": "The number of languages that Erasmus can speak is",
+        "answer": " 5",
+        "sub": "Erasmus",
+        "count": "5",
+        "list": [
+            " Latin",
+            " Dutch",
+            " French",
+            " English",
+            " Greek"
+        ]
+    },
+    {
+        "query": "The number of languages that Thomas More can speak is",
+        "answer": " 3",
+        "sub": "Thomas More",
+        "count": "3",
+        "list": [
+            " English",
+            " Latin",
+            " French"
+        ]
+    },
+    {
+        "query": "The number of languages that Ignatius of Loyola can speak is",
+        "answer": " 4",
+        "sub": "Ignatius of Loyola",
+        "count": "4",
+        "list": [
+            " Basque",
+            " Spanish",
+            " Latin",
+            " Italian"
+        ]
+    },
+    {
+        "query": "The number of languages that Francis Xavier can speak is",
+        "answer": " 5",
+        "sub": "Francis Xavier",
+        "count": "5",
+        "list": [
+            " Basque",
+            " Spanish",
+            " Portuguese",
+            " Latin",
+            " Japanese"
+        ]
+    },
+    {
+        "query": "The number of languages that Matteo Ricci can speak is",
+        "answer": " 4",
+        "sub": "Matteo Ricci",
+        "count": "4",
+        "list": [
+            " Italian",
+            " Latin",
+            " Portuguese",
+            " Chinese"
+        ]
+    }
+]

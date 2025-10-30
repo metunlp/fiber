@@ -1,0 +1,1157 @@
+[
+    {
+        "query": "How many time zones does Albania have?",
+        "answer": " 1",
+        "sub": "Albania",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Antarctica have?",
+        "answer": " 8",
+        "sub": "Antarctica",
+        "count": "8",
+        "list": [
+            " UTC+02:00",
+            " UTC+03:00",
+            " UTC-03:00",
+            " UTC+05:00",
+            " UTC+07:00",
+            " UTC+08:00",
+            " UTC+10:00",
+            " UTC+12:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Antigua & Barbuda have?",
+        "answer": " 1",
+        "sub": "Antigua & Barbuda",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Argentina have?",
+        "answer": " 1",
+        "sub": "Argentina",
+        "count": "1",
+        "list": [
+            " UTC-03:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Australia have?",
+        "answer": " 7",
+        "sub": "Australia",
+        "count": "7",
+        "list": [
+            " UTC+08:00",
+            " UTC+09:30",
+            " UTC+09:30",
+            " UTC+10:00",
+            " UTC+10:00",
+            " UTC+10:30",
+            " UTC+11:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Bahamas have?",
+        "answer": " 1",
+        "sub": "Bahamas",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Bangladesh have?",
+        "answer": " 1",
+        "sub": "Bangladesh",
+        "count": "1",
+        "list": [
+            " UTC+06:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Barbados have?",
+        "answer": " 1",
+        "sub": "Barbados",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Belarus have?",
+        "answer": " 1",
+        "sub": "Belarus",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Belize have?",
+        "answer": " 1",
+        "sub": "Belize",
+        "count": "1",
+        "list": [
+            " UTC-06:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Bermuda have?",
+        "answer": " 1",
+        "sub": "Bermuda",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Bhutan have?",
+        "answer": " 1",
+        "sub": "Bhutan",
+        "count": "1",
+        "list": [
+            " UTC+06:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Bolivia have?",
+        "answer": " 1",
+        "sub": "Bolivia",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Bosnia & Herzegovina have?",
+        "answer": " 1",
+        "sub": "Bosnia & Herzegovina",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Botswana have?",
+        "answer": " 1",
+        "sub": "Botswana",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Brazil have?",
+        "answer": " 6",
+        "sub": "Brazil",
+        "count": "6",
+        "list": [
+            " UTC-02:00",
+            " UTC-03:00",
+            " UTC:-03:00",
+            " UTC-04:00",
+            " UTC-04:00",
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Brunei have?",
+        "answer": " 1",
+        "sub": "Brunei",
+        "count": "1",
+        "list": [
+            " UTC+08:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Cambodia have?",
+        "answer": " 1",
+        "sub": "Cambodia",
+        "count": "1",
+        "list": [
+            " UTC+07:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Cameroon have?",
+        "answer": " 1",
+        "sub": "Cameroon",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Caribbean NL have?",
+        "answer": " 1",
+        "sub": "Caribbean NL",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Cayman Islands have?",
+        "answer": " 1",
+        "sub": "Cayman Islands",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Central African Rep. have?",
+        "answer": " 1",
+        "sub": "Central African Rep.",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Chile have?",
+        "answer": " 3",
+        "sub": "Chile",
+        "count": "3",
+        "list": [
+            " UTC-03:00",
+            " UTC-04:00",
+            " UTC-06:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Congo (Dem. Rep.) have?",
+        "answer": " 2",
+        "sub": "Congo (Dem. Rep.)",
+        "count": "2",
+        "list": [
+            " UTC+01:00",
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Congo (Rep.) have?",
+        "answer": " 1",
+        "sub": "Congo (Rep.)",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Cook Islands have?",
+        "answer": " 1",
+        "sub": "Cook Islands",
+        "count": "1",
+        "list": [
+            " UTC-10:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Croatia have?",
+        "answer": " 1",
+        "sub": "Croatia",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Cuba have?",
+        "answer": " 1",
+        "sub": "Cuba",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Curaçao have?",
+        "answer": " 1",
+        "sub": "Curaçao",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Cyprus have?",
+        "answer": " 1",
+        "sub": "Cyprus",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Czech Republic have?",
+        "answer": " 1",
+        "sub": "Czech Republic",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Côte d'Ivoire have?",
+        "answer": " 1",
+        "sub": "Côte d'Ivoire",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Denmark have?",
+        "answer": " 1",
+        "sub": "Denmark",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Dominican Republic have?",
+        "answer": " 1",
+        "sub": "Dominican Republic",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "How many time zones does East Timor have?",
+        "answer": " 1",
+        "sub": "East Timor",
+        "count": "1",
+        "list": [
+            " UTC+09:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Equatorial Guinea have?",
+        "answer": " 1",
+        "sub": "Equatorial Guinea",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Eritrea have?",
+        "answer": " 1",
+        "sub": "Eritrea",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Estonia have?",
+        "answer": " 1",
+        "sub": "Estonia",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Eswatini (Swaziland) have?",
+        "answer": " 1",
+        "sub": "Eswatini (Swaziland)",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Ethiopia have?",
+        "answer": " 1",
+        "sub": "Ethiopia",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Fiji have?",
+        "answer": " 1",
+        "sub": "Fiji",
+        "count": "1",
+        "list": [
+            " UTC+12:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Finland have?",
+        "answer": " 1",
+        "sub": "Finland",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Gabon have?",
+        "answer": " 1",
+        "sub": "Gabon",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Germany have?",
+        "answer": " 1",
+        "sub": "Germany",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Greece have?",
+        "answer": " 1",
+        "sub": "Greece",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Greenland have?",
+        "answer": " 4",
+        "sub": "Greenland",
+        "count": "4",
+        "list": [
+            " UTC+00:00",
+            " UTC-01:00",
+            " UTC-04:00",
+            " UTC-03:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Grenada have?",
+        "answer": " 1",
+        "sub": "Grenada",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Guam have?",
+        "answer": " 1",
+        "sub": "Guam",
+        "count": "1",
+        "list": [
+            " UTC+10:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Guatemala have?",
+        "answer": " 1",
+        "sub": "Guatemala",
+        "count": "1",
+        "list": [
+            " UTC-06:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Guernsey have?",
+        "answer": " 1",
+        "sub": "Guernsey",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Guinea have?",
+        "answer": " 1",
+        "sub": "Guinea",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Guinea-Bissau have?",
+        "answer": " 1",
+        "sub": "Guinea-Bissau",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Haiti have?",
+        "answer": " 1",
+        "sub": "Haiti",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Heard Island & McDonald Islands have?",
+        "answer": " 1",
+        "sub": "Heard Island & McDonald Islands",
+        "count": "1",
+        "list": [
+            " UTC+04:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Iceland have?",
+        "answer": " 1",
+        "sub": "Iceland",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "How many time zones does India have?",
+        "answer": " 1",
+        "sub": "India",
+        "count": "1",
+        "list": [
+            " UTC+05:30"
+        ]
+    },
+    {
+        "query": "How many time zones does Isle of Man have?",
+        "answer": " 1",
+        "sub": "Isle of Man",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Israel have?",
+        "answer": " 1",
+        "sub": "Israel",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Italy have?",
+        "answer": " 1",
+        "sub": "Italy",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Jamaica have?",
+        "answer": " 1",
+        "sub": "Jamaica",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Kenya have?",
+        "answer": " 1",
+        "sub": "Kenya",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Korea (North) have?",
+        "answer": " 1",
+        "sub": "Korea (North)",
+        "count": "1",
+        "list": [
+            " UTC+09:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Korea (South) have?",
+        "answer": " 1",
+        "sub": "Korea (South)",
+        "count": "1",
+        "list": [
+            " UTC+09:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Kuwait have?",
+        "answer": " 1",
+        "sub": "Kuwait",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Lithuania have?",
+        "answer": " 1",
+        "sub": "Lithuania",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Macau have?",
+        "answer": " 1",
+        "sub": "Macau",
+        "count": "1",
+        "list": [
+            " UTC+08:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Malawi have?",
+        "answer": " 1",
+        "sub": "Malawi",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Marshall Islands have?",
+        "answer": " 1",
+        "sub": "Marshall Islands",
+        "count": "1",
+        "list": [
+            " UTC+12:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Martinique have?",
+        "answer": " 1",
+        "sub": "Martinique",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Mauritania have?",
+        "answer": " 1",
+        "sub": "Mauritania",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Mauritius have?",
+        "answer": " 1",
+        "sub": "Mauritius",
+        "count": "1",
+        "list": [
+            " UTC+04:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Mexico have?",
+        "answer": " 5",
+        "sub": "Mexico",
+        "count": "5",
+        "list": [
+            " UTC-05:00",
+            " UTC-05:00",
+            " UTC-07:00",
+            " UTC-07:00",
+            " UTC-08:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Micronesia have?",
+        "answer": " 2",
+        "sub": "Micronesia",
+        "count": "2",
+        "list": [
+            " UTC+10:00",
+            " UTC+11:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Moldova have?",
+        "answer": " 1",
+        "sub": "Moldova",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Montserrat have?",
+        "answer": " 1",
+        "sub": "Montserrat",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Morocco have?",
+        "answer": " 1",
+        "sub": "Morocco",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Myanmar (Burma) have?",
+        "answer": " 1",
+        "sub": "Myanmar (Burma)",
+        "count": "1",
+        "list": [
+            " UTC+06:30"
+        ]
+    },
+    {
+        "query": "How many time zones does Namibia have?",
+        "answer": " 1",
+        "sub": "Namibia",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Netherlands have?",
+        "answer": " 1",
+        "sub": "Netherlands",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "How many time zones does New Caledonia have?",
+        "answer": " 1",
+        "sub": "New Caledonia",
+        "count": "1",
+        "list": [
+            " UTC+11:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Niger have?",
+        "answer": " 1",
+        "sub": "Niger",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Niue have?",
+        "answer": " 1",
+        "sub": "Niue",
+        "count": "1",
+        "list": [
+            " UTC-11:00"
+        ]
+    },
+    {
+        "query": "How many time zones does North Macedonia have?",
+        "answer": " 1",
+        "sub": "North Macedonia",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Northern Mariana Islands have?",
+        "answer": " 1",
+        "sub": "Northern Mariana Islands",
+        "count": "1",
+        "list": [
+            " UTC+10:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Norway have?",
+        "answer": " 1",
+        "sub": "Norway",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Pakistan have?",
+        "answer": " 1",
+        "sub": "Pakistan",
+        "count": "1",
+        "list": [
+            " UTC+05:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Palau have?",
+        "answer": " 1",
+        "sub": "Palau",
+        "count": "1",
+        "list": [
+            " UTC+09:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Panama have?",
+        "answer": " 1",
+        "sub": "Panama",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Paraguay have?",
+        "answer": " 1",
+        "sub": "Paraguay",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Peru have?",
+        "answer": " 1",
+        "sub": "Peru",
+        "count": "1",
+        "list": [
+            " UTC-05:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Philippines have?",
+        "answer": " 1",
+        "sub": "Philippines",
+        "count": "1",
+        "list": [
+            " UTC+08:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Qatar have?",
+        "answer": " 1",
+        "sub": "Qatar",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Romania have?",
+        "answer": " 1",
+        "sub": "Romania",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Samoa (American) have?",
+        "answer": " 1",
+        "sub": "Samoa (American)",
+        "count": "1",
+        "list": [
+            " UTC-11:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Sao Tome & Principe have?",
+        "answer": " 1",
+        "sub": "Sao Tome & Principe",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Saudi Arabia have?",
+        "answer": " 1",
+        "sub": "Saudi Arabia",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Senegal have?",
+        "answer": " 1",
+        "sub": "Senegal",
+        "count": "1",
+        "list": [
+            " UTC+00:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Serbia have?",
+        "answer": " 1",
+        "sub": "Serbia",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Seychelles have?",
+        "answer": " 1",
+        "sub": "Seychelles",
+        "count": "1",
+        "list": [
+            " UTC+04:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Slovenia have?",
+        "answer": " 1",
+        "sub": "Slovenia",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Solomon Islands have?",
+        "answer": " 1",
+        "sub": "Solomon Islands",
+        "count": "1",
+        "list": [
+            " UTC+11:00"
+        ]
+    },
+    {
+        "query": "How many time zones does South Sudan have?",
+        "answer": " 1",
+        "sub": "South Sudan",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "How many time zones does St Barthelemy have?",
+        "answer": " 1",
+        "sub": "St Barthelemy",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "How many time zones does St Maarten (Dutch) have?",
+        "answer": " 1",
+        "sub": "St Maarten (Dutch)",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "How many time zones does St Martin (French) have?",
+        "answer": " 1",
+        "sub": "St Martin (French)",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Suriname have?",
+        "answer": " 1",
+        "sub": "Suriname",
+        "count": "1",
+        "list": [
+            " UTC-03:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Sweden have?",
+        "answer": " 1",
+        "sub": "Sweden",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Switzerland have?",
+        "answer": " 1",
+        "sub": "Switzerland",
+        "count": "1",
+        "list": [
+            " UTC+01:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Tajikistan have?",
+        "answer": " 1",
+        "sub": "Tajikistan",
+        "count": "1",
+        "list": [
+            " UTC+05:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Thailand have?",
+        "answer": " 1",
+        "sub": "Thailand",
+        "count": "1",
+        "list": [
+            " UTC+07:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Trinidad & Tobago have?",
+        "answer": " 1",
+        "sub": "Trinidad & Tobago",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Turkey have?",
+        "answer": " 1",
+        "sub": "Turkey",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Turkmenistan have?",
+        "answer": " 1",
+        "sub": "Turkmenistan",
+        "count": "1",
+        "list": [
+            " UTC+05:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Turks & Caicos Is have?",
+        "answer": " 1",
+        "sub": "Turks & Caicos Is",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Tuvalu have?",
+        "answer": " 1",
+        "sub": "Tuvalu",
+        "count": "1",
+        "list": [
+            " UTC+12:00"
+        ]
+    },
+    {
+        "query": "How many time zones does US minor outlying islands have?",
+        "answer": " 2",
+        "sub": "US minor outlying islands",
+        "count": "2",
+        "list": [
+            " UTC-11:00",
+            " UTC+12:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Uganda have?",
+        "answer": " 1",
+        "sub": "Uganda",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Ukraine have?",
+        "answer": " 1",
+        "sub": "Ukraine",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Uruguay have?",
+        "answer": " 1",
+        "sub": "Uruguay",
+        "count": "1",
+        "list": [
+            " UTC-03:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Vanuatu have?",
+        "answer": " 1",
+        "sub": "Vanuatu",
+        "count": "1",
+        "list": [
+            " UTC+11:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Venezuela have?",
+        "answer": " 1",
+        "sub": "Venezuela",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Virgin Islands (UK) have?",
+        "answer": " 1",
+        "sub": "Virgin Islands (UK)",
+        "count": "1",
+        "list": [
+            " UTC-04:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Wallis & Futuna have?",
+        "answer": " 1",
+        "sub": "Wallis & Futuna",
+        "count": "1",
+        "list": [
+            " UTC+12:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Yemen have?",
+        "answer": " 1",
+        "sub": "Yemen",
+        "count": "1",
+        "list": [
+            " UTC+03:00"
+        ]
+    },
+    {
+        "query": "How many time zones does Zambia have?",
+        "answer": " 1",
+        "sub": "Zambia",
+        "count": "1",
+        "list": [
+            " UTC+02:00"
+        ]
+    }
+]

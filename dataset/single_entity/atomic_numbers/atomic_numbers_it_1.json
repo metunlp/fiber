@@ -1,0 +1,182 @@
+[
+    {
+        "query": "Qual è il numero atomico dell'Idrogeno?",
+        "answer": " 1",
+        "sub": "Idrogeno",
+        "en_sub": "Hydrogen"
+    },
+    {
+        "query": "Qual è il numero atomico del Berillio?",
+        "answer": " 4",
+        "sub": "Berillio",
+        "en_sub": "Beryllium"
+    },
+    {
+        "query": "Qual è il numero atomico del Boro?",
+        "answer": " 5",
+        "sub": "Boro",
+        "en_sub": "Boron"
+    },
+    {
+        "query": "Qual è il numero atomico del Carbonio?",
+        "answer": " 6",
+        "sub": "Carbonio",
+        "en_sub": "Carbon"
+    },
+    {
+        "query": "Qual è il numero atomico del Sodio?",
+        "answer": " 11",
+        "sub": "Sodio",
+        "en_sub": "Sodium"
+    },
+    {
+        "query": "Qual è il numero atomico del Magnesio?",
+        "answer": " 12",
+        "sub": "Magnesio",
+        "en_sub": "Magnesium"
+    },
+    {
+        "query": "Qual è il numero atomico dell'Alluminio?",
+        "answer": " 13",
+        "sub": "Alluminio",
+        "en_sub": "Aluminium"
+    },
+    {
+        "query": "Qual è il numero atomico del Silicio?",
+        "answer": " 14",
+        "sub": "Silicio",
+        "en_sub": "Silicon"
+    },
+    {
+        "query": "Qual è il numero atomico del Fosforo?",
+        "answer": " 15",
+        "sub": "Fosforo",
+        "en_sub": "Phosphorus"
+    },
+    {
+        "query": "Qual è il numero atomico dello Zolfo?",
+        "answer": " 16",
+        "sub": "Zolfo",
+        "en_sub": "Sulfur"
+    },
+    {
+        "query": "Qual è il numero atomico dell'Argon?",
+        "answer": " 18",
+        "sub": "Argon",
+        "en_sub": "Argon"
+    },
+    {
+        "query": "Qual è il numero atomico del Calcio?",
+        "answer": " 20",
+        "sub": "Calcio",
+        "en_sub": "Calcium"
+    },
+    {
+        "query": "Qual è il numero atomico dello Scandio?",
+        "answer": " 21",
+        "sub": "Scandio",
+        "en_sub": "Scandium"
+    },
+    {
+        "query": "Qual è il numero atomico del Ferro?",
+        "answer": " 26",
+        "sub": "Ferro",
+        "en_sub": "Iron"
+    },
+    {
+        "query": "Qual è il numero atomico del Nichel?",
+        "answer": " 28",
+        "sub": "Nichel",
+        "en_sub": "Nickel"
+    },
+    {
+        "query": "Qual è il numero atomico del Rame?",
+        "answer": " 29",
+        "sub": "Rame",
+        "en_sub": "Copper"
+    },
+    {
+        "query": "Qual è il numero atomico dello Zinco?",
+        "answer": " 30",
+        "sub": "Zinco",
+        "en_sub": "Zinc"
+    },
+    {
+        "query": "Qual è il numero atomico del Germanio?",
+        "answer": " 32",
+        "sub": "Germanio",
+        "en_sub": "Germanium"
+    },
+    {
+        "query": "Qual è il numero atomico del Selenio?",
+        "answer": " 34",
+        "sub": "Selenio",
+        "en_sub": "Selenium"
+    },
+    {
+        "query": "Qual è il numero atomico del Krypton?",
+        "answer": " 36",
+        "sub": "Krypton",
+        "en_sub": "Krypton"
+    },
+    {
+        "query": "Qual è il numero atomico dello Stronzio?",
+        "answer": " 38",
+        "sub": "Stronzio",
+        "en_sub": "Strontium"
+    },
+    {
+        "query": "Qual è il numero atomico dello Zirconio?",
+        "answer": " 40",
+        "sub": "Zirconio",
+        "en_sub": "Zirconium"
+    },
+    {
+        "query": "Qual è il numero atomico del Niobio?",
+        "answer": " 41",
+        "sub": "Niobio",
+        "en_sub": "Niobium"
+    },
+    {
+        "query": "Qual è il numero atomico del Rutenio?",
+        "answer": " 44",
+        "sub": "Rutenio",
+        "en_sub": "Ruthenium"
+    },
+    {
+        "query": "Qual è il numero atomico del Rodio?",
+        "answer": " 45",
+        "sub": "Rodio",
+        "en_sub": "Rhodium"
+    },
+    {
+        "query": "Qual è il numero atomico del Palladio?",
+        "answer": " 46",
+        "sub": "Palladio",
+        "en_sub": "Palladium"
+    },
+    {
+        "query": "Qual è il numero atomico dell'Indio?",
+        "answer": " 49",
+        "sub": "Indio",
+        "en_sub": "Indium"
+    },
+    {
+        "query": "Qual è il numero atomico dello Xeno?",
+        "answer": " 54",
+        "sub": "Xeno",
+        "en_sub": "Xenon"
+    },
+    {
+        "query": "Qual è il numero atomico del Cesio?",
+        "answer": " 55",
+        "sub": "Cesio",
+        "en_sub": "Cesium"
+    },
+    {
+        "query": "Qual è il numero atomico del Lantanio?",
+        "answer": " 57",
+        "sub": "Lantanio",
+        "en_sub": "Lanthanum"
+    }
+]

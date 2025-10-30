@@ -1,0 +1,927 @@
+[
+    {
+        "query": "Arnavutluk'un komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Yunanistan, Kosova, Kuzey Makedonya, Karadağ'dır",
+        "sub": "Arnavutluk",
+        "count": 4,
+        "list": [
+            " Yunanistan",
+            " Kosova",
+            " Kuzey Makedonya",
+            " Karadağ"
+        ]
+    },
+    {
+        "query": "Arjantin'in komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Bolivya, Brezilya, Şili, Paraguay, Uruguay'dır",
+        "sub": "Arjantin",
+        "count": 5,
+        "list": [
+            " Bolivya",
+            " Brezilya",
+            " Şili",
+            " Paraguay",
+            " Uruguay"
+        ]
+    },
+    {
+        "query": "Ermenistan'ın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Azerbaycan, Gürcistan, İran, Türkiye'dir",
+        "sub": "Ermenistan",
+        "count": 4,
+        "list": [
+            " Azerbaycan",
+            " Gürcistan",
+            " İran",
+            " Türkiye"
+        ]
+    },
+    {
+        "query": "Avusturya'nın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Çekya, Almanya, Macaristan, İtalya, Lihtenştayn, Slovakya, Slovenya, İsviçre'dir",
+        "sub": "Avusturya",
+        "count": 8,
+        "list": [
+            " Çekya",
+            " Almanya",
+            " Macaristan",
+            " İtalya",
+            " Lihtenştayn",
+            " Slovakya",
+            " Slovenya",
+            " İsviçre"
+        ]
+    },
+    {
+        "query": "Azerbaycan'ın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Ermenistan, Gürcistan, İran, Rusya, Türkiye'dir",
+        "sub": "Azerbaycan",
+        "count": 5,
+        "list": [
+            " Ermenistan",
+            " Gürcistan",
+            " İran",
+            " Rusya",
+            " Türkiye"
+        ]
+    },
+    {
+        "query": "Bangladeş'in komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Hindistan, Myanmar'dır",
+        "sub": "Bangladeş",
+        "count": 2,
+        "list": [
+            " Hindistan",
+            " Myanmar"
+        ]
+    },
+    {
+        "query": "Belarus'un komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Letonya, Litvanya, Polonya, Rusya, Ukrayna'dır",
+        "sub": "Belarus",
+        "count": 5,
+        "list": [
+            " Letonya",
+            " Litvanya",
+            " Polonya",
+            " Rusya",
+            " Ukrayna"
+        ]
+    },
+    {
+        "query": "Belçika'nın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Fransa, Almanya, Lüksemburg, Hollanda'dır",
+        "sub": "Belçika",
+        "count": 4,
+        "list": [
+            " Fransa",
+            " Almanya",
+            " Lüksemburg",
+            " Hollanda"
+        ]
+    },
+    {
+        "query": "Belize'nin komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Guatemala, Meksika'dır",
+        "sub": "Belize",
+        "count": 2,
+        "list": [
+            " Guatemala",
+            " Meksika"
+        ]
+    },
+    {
+        "query": "Benin'in komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Burkina Faso, Nijer, Nijerya, Togo'dur",
+        "sub": "Benin",
+        "count": 4,
+        "list": [
+            " Burkina Faso",
+            " Nijer",
+            " Nijerya",
+            " Togo"
+        ]
+    },
+    {
+        "query": "Bolivya'nın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Arjantin, Brezilya, Şili, Paraguay, Peru'dur",
+        "sub": "Bolivya",
+        "count": 5,
+        "list": [
+            " Arjantin",
+            " Brezilya",
+            " Şili",
+            " Paraguay",
+            " Peru"
+        ]
+    },
+    {
+        "query": "Brunei'nin komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Malezya'dır",
+        "sub": "Brunei",
+        "count": 1,
+        "list": [
+            " Malezya"
+        ]
+    },
+    {
+        "query": "Bulgaristan'ın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Yunanistan, Kuzey Makedonya, Romanya, Sırbistan, Türkiye'dir",
+        "sub": "Bulgaristan",
+        "count": 5,
+        "list": [
+            " Yunanistan",
+            " Kuzey Makedonya",
+            " Romanya",
+            " Sırbistan",
+            " Türkiye"
+        ]
+    },
+    {
+        "query": "Burundi'nin komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Demokratik Kongo Cumhuriyeti, Ruanda, Tanzanya'dır",
+        "sub": "Burundi",
+        "count": 3,
+        "list": [
+            " Demokratik Kongo Cumhuriyeti",
+            " Ruanda",
+            " Tanzanya"
+        ]
+    },
+    {
+        "query": "Kamboçya'nın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Laos, Tayland, Vietnam'dır",
+        "sub": "Kamboçya",
+        "count": 3,
+        "list": [
+            " Laos",
+            " Tayland",
+            " Vietnam"
+        ]
+    },
+    {
+        "query": "Kamerun'un komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Orta Afrika Cumhuriyeti, Çad, Kongo Cumhuriyeti, Ekvator Ginesi, Gabon, Nijerya'dır",
+        "sub": "Kamerun",
+        "count": 6,
+        "list": [
+            " Orta Afrika Cumhuriyeti",
+            " Çad",
+            " Kongo Cumhuriyeti",
+            " Ekvator Ginesi",
+            " Gabon",
+            " Nijerya"
+        ]
+    },
+    {
+        "query": "Orta Afrika Cumhuriyeti'nin komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Kamerun, Çad, Kongo Cumhuriyeti, Demokratik Kongo Cumhuriyeti, Güney Sudan, Sudan'dır",
+        "sub": "Orta Afrika Cumhuriyeti",
+        "count": 6,
+        "list": [
+            " Kamerun",
+            " Çad",
+            " Kongo Cumhuriyeti",
+            " Demokratik Kongo Cumhuriyeti",
+            " Güney Sudan",
+            " Sudan"
+        ]
+    },
+    {
+        "query": "Çad'ın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Kamerun, Orta Afrika Cumhuriyeti, Libya, Nijer, Nijerya, Sudan'dır",
+        "sub": "Çad",
+        "count": 6,
+        "list": [
+            " Kamerun",
+            " Orta Afrika Cumhuriyeti",
+            " Libya",
+            " Nijer",
+            " Nijerya",
+            " Sudan"
+        ]
+    },
+    {
+        "query": "Şili'nin komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Arjantin, Bolivya, Peru'dur",
+        "sub": "Şili",
+        "count": 3,
+        "list": [
+            " Arjantin",
+            " Bolivya",
+            " Peru"
+        ]
+    },
+    {
+        "query": "Çin'in komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Afganistan, Bhutan, Hindistan, Kazakistan, Kırgızistan, Laos, Moğolistan, Myanmar, Nepal, Kuzey Kore, Pakistan, Rusya, Tacikistan, Vietnam'dır",
+        "sub": "Çin",
+        "count": 14,
+        "list": [
+            " Afganistan",
+            " Bhutan",
+            " Hindistan",
+            " Kazakistan",
+            " Kırgızistan",
+            " Laos",
+            " Moğolistan",
+            " Myanmar",
+            " Nepal",
+            " Kuzey Kore",
+            " Pakistan",
+            " Rusya",
+            " Tacikistan",
+            " Vietnam"
+        ]
+    },
+    {
+        "query": "Kosta Rika'nın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Nikaragua, Panama'dır",
+        "sub": "Kosta Rika",
+        "count": 2,
+        "list": [
+            " Nikaragua",
+            " Panama"
+        ]
+    },
+    {
+        "query": "Hırvatistan'ın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Bosna Hersek, Macaristan, Karadağ, Sırbistan, Slovenya'dır",
+        "sub": "Hırvatistan",
+        "count": 5,
+        "list": [
+            " Bosna Hersek",
+            " Macaristan",
+            " Karadağ",
+            " Sırbistan",
+            " Slovenya"
+        ]
+    },
+    {
+        "query": "Çekya'nın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Avusturya, Almanya, Polonya, Slovakya'dır",
+        "sub": "Çekya",
+        "count": 4,
+        "list": [
+            " Avusturya",
+            " Almanya",
+            " Polonya",
+            " Slovakya"
+        ]
+    },
+    {
+        "query": "Cibuti'nin komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Eritre, Etiyopya, Somali'dir",
+        "sub": "Cibuti",
+        "count": 3,
+        "list": [
+            " Eritre",
+            " Etiyopya",
+            " Somali"
+        ]
+    },
+    {
+        "query": "Ekvador'un komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Kolombiya, Peru'dur",
+        "sub": "Ekvador",
+        "count": 2,
+        "list": [
+            " Kolombiya",
+            " Peru"
+        ]
+    },
+    {
+        "query": "Ekvator Ginesi'nin komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Kamerun, Gabon'dur",
+        "sub": "Ekvator Ginesi",
+        "count": 2,
+        "list": [
+            " Kamerun",
+            " Gabon"
+        ]
+    },
+    {
+        "query": "Eritre'nin komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Cibuti, Etiyopya, Sudan'dır",
+        "sub": "Eritre",
+        "count": 3,
+        "list": [
+            " Cibuti",
+            " Etiyopya",
+            " Sudan"
+        ]
+    },
+    {
+        "query": "Estonya'nın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Letonya, Rusya'dır",
+        "sub": "Estonya",
+        "count": 2,
+        "list": [
+            " Letonya",
+            " Rusya"
+        ]
+    },
+    {
+        "query": "Esvatini'nin komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Mozambik, Güney Afrika'dır",
+        "sub": "Esvatini",
+        "count": 2,
+        "list": [
+            " Mozambik",
+            " Güney Afrika"
+        ]
+    },
+    {
+        "query": "Etiyopya'nın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Cibuti, Eritre, Kenya, Somali, Güney Sudan, Sudan'dır",
+        "sub": "Etiyopya",
+        "count": 6,
+        "list": [
+            " Cibuti",
+            " Eritre",
+            " Kenya",
+            " Somali",
+            " Güney Sudan",
+            " Sudan"
+        ]
+    },
+    {
+        "query": "Finlandiya'nın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Norveç, Rusya, İsveç'tir",
+        "sub": "Finlandiya",
+        "count": 3,
+        "list": [
+            " Norveç",
+            " Rusya",
+            " İsveç"
+        ]
+    },
+    {
+        "query": "Gabon'un komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Kamerun, Kongo Cumhuriyeti, Ekvator Ginesi'dir",
+        "sub": "Gabon",
+        "count": 3,
+        "list": [
+            " Kamerun",
+            " Kongo Cumhuriyeti",
+            " Ekvator Ginesi"
+        ]
+    },
+    {
+        "query": "Yunanistan'ın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Arnavutluk, Bulgaristan, Kuzey Makedonya, Türkiye'dir",
+        "sub": "Yunanistan",
+        "count": 4,
+        "list": [
+            " Arnavutluk",
+            " Bulgaristan",
+            " Kuzey Makedonya",
+            " Türkiye"
+        ]
+    },
+    {
+        "query": "Guatemala'nın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Belize, El Salvador, Honduras, Meksika'dır",
+        "sub": "Guatemala",
+        "count": 4,
+        "list": [
+            " Belize",
+            " El Salvador",
+            " Honduras",
+            " Meksika"
+        ]
+    },
+    {
+        "query": "Gine'nin komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Fildişi Sahili, Gine-Bissau, Liberya, Mali, Senegal, Sierra Leone'dir",
+        "sub": "Gine",
+        "count": 6,
+        "list": [
+            " Fildişi Sahili",
+            " Gine-Bissau",
+            " Liberya",
+            " Mali",
+            " Senegal",
+            " Sierra Leone"
+        ]
+    },
+    {
+        "query": "Gine-Bissau'nun komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Gine, Senegal'dır",
+        "sub": "Gine-Bissau",
+        "count": 2,
+        "list": [
+            " Gine",
+            " Senegal"
+        ]
+    },
+    {
+        "query": "Guyana'nın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Brezilya, Surinam, Venezuela'dır",
+        "sub": "Guyana",
+        "count": 3,
+        "list": [
+            " Brezilya",
+            " Surinam",
+            " Venezuela"
+        ]
+    },
+    {
+        "query": "Macaristan'ın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Avusturya, Hırvatistan, Romanya, Sırbistan, Slovakya, Slovenya, Ukrayna'dır",
+        "sub": "Macaristan",
+        "count": 7,
+        "list": [
+            " Avusturya",
+            " Hırvatistan",
+            " Romanya",
+            " Sırbistan",
+            " Slovakya",
+            " Slovenya",
+            " Ukrayna"
+        ]
+    },
+    {
+        "query": "İsrail'in komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Mısır, Ürdün, Lübnan, Suriye, Filistin (Batı Şeria), Filistin (Gazze Şeridi)'dir",
+        "sub": "İsrail",
+        "count": 6,
+        "list": [
+            " Mısır",
+            " Ürdün",
+            " Lübnan",
+            " Suriye",
+            " Filistin (Batı Şeria)",
+            " Filistin (Gazze Şeridi)"
+        ]
+    },
+    {
+        "query": "İtalya'nın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Avusturya, Fransa, San Marino, Slovenya, İsviçre, Vatikan Şehri'dir",
+        "sub": "İtalya",
+        "count": 6,
+        "list": [
+            " Avusturya",
+            " Fransa",
+            " San Marino",
+            " Slovenya",
+            " İsviçre",
+            " Vatikan Şehri"
+        ]
+    },
+    {
+        "query": "Kazakistan'ın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Çin, Kırgızistan, Rusya, Türkmenistan, Özbekistan'dır",
+        "sub": "Kazakistan",
+        "count": 5,
+        "list": [
+            " Çin",
+            " Kırgızistan",
+            " Rusya",
+            " Türkmenistan",
+            " Özbekistan"
+        ]
+    },
+    {
+        "query": "Kenya'nın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Etiyopya, Somali, Güney Sudan, Tanzanya, Uganda'dır",
+        "sub": "Kenya",
+        "count": 5,
+        "list": [
+            " Etiyopya",
+            " Somali",
+            " Güney Sudan",
+            " Tanzanya",
+            " Uganda"
+        ]
+    },
+    {
+        "query": "Kuveyt'in komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Irak, Suudi Arabistan'dır",
+        "sub": "Kuveyt",
+        "count": 2,
+        "list": [
+            " Irak",
+            " Suudi Arabistan"
+        ]
+    },
+    {
+        "query": "Lübnan'ın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " İsrail, Suriye'dir",
+        "sub": "Lübnan",
+        "count": 2,
+        "list": [
+            " İsrail",
+            " Suriye"
+        ]
+    },
+    {
+        "query": "Liberya'nın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Gine, Fildişi Sahili, Sierra Leone'dir",
+        "sub": "Liberya",
+        "count": 3,
+        "list": [
+            " Gine",
+            " Fildişi Sahili",
+            " Sierra Leone"
+        ]
+    },
+    {
+        "query": "Libya'nın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Cezayir, Çad, Mısır, Nijer, Sudan, Tunus'tur",
+        "sub": "Libya",
+        "count": 6,
+        "list": [
+            " Cezayir",
+            " Çad",
+            " Mısır",
+            " Nijer",
+            " Sudan",
+            " Tunus"
+        ]
+    },
+    {
+        "query": "Lihtenştayn'ın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Avusturya, İsviçre'dir",
+        "sub": "Lihtenştayn",
+        "count": 2,
+        "list": [
+            " Avusturya",
+            " İsviçre"
+        ]
+    },
+    {
+        "query": "Malavi'nin komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Mozambik, Tanzanya, Zambiya'dır",
+        "sub": "Malavi",
+        "count": 3,
+        "list": [
+            " Mozambik",
+            " Tanzanya",
+            " Zambiya"
+        ]
+    },
+    {
+        "query": "Moritanya'nın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Cezayir, Mali, Senegal, Batı Sahra'dır",
+        "sub": "Moritanya",
+        "count": 4,
+        "list": [
+            " Cezayir",
+            " Mali",
+            " Senegal",
+            " Batı Sahra"
+        ]
+    },
+    {
+        "query": "Monako'nun komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Fransa'dır",
+        "sub": "Monako",
+        "count": 1,
+        "list": [
+            " Fransa"
+        ]
+    },
+    {
+        "query": "Fas'ın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Cezayir, Batı Sahra'dır",
+        "sub": "Fas",
+        "count": 2,
+        "list": [
+            " Cezayir",
+            " Batı Sahra"
+        ]
+    },
+    {
+        "query": "Nepal'ın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Çin, Hindistan'dır",
+        "sub": "Nepal",
+        "count": 2,
+        "list": [
+            " Çin",
+            " Hindistan"
+        ]
+    },
+    {
+        "query": "Nijer'in komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Cezayir, Benin, Burkina Faso, Çad, Libya, Mali, Nijerya'dır",
+        "sub": "Nijer",
+        "count": 7,
+        "list": [
+            " Cezayir",
+            " Benin",
+            " Burkina Faso",
+            " Çad",
+            " Libya",
+            " Mali",
+            " Nijerya"
+        ]
+    },
+    {
+        "query": "Kuzey Makedonya'nın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Arnavutluk, Bulgaristan, Yunanistan, Kosova, Sırbistan'dır",
+        "sub": "Kuzey Makedonya",
+        "count": 5,
+        "list": [
+            " Arnavutluk",
+            " Bulgaristan",
+            " Yunanistan",
+            " Kosova",
+            " Sırbistan"
+        ]
+    },
+    {
+        "query": "Umman'ın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Suudi Arabistan, Birleşik Arap Emirlikleri, Yemen'dir",
+        "sub": "Umman",
+        "count": 3,
+        "list": [
+            " Suudi Arabistan",
+            " Birleşik Arap Emirlikleri",
+            " Yemen"
+        ]
+    },
+    {
+        "query": "Pakistan'ın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Afganistan, Çin, Hindistan, İran'dır",
+        "sub": "Pakistan",
+        "count": 4,
+        "list": [
+            " Afganistan",
+            " Çin",
+            " Hindistan",
+            " İran"
+        ]
+    },
+    {
+        "query": "Filistin'in komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Mısır, İsrail, Ürdün'dür",
+        "sub": "Filistin",
+        "count": 3,
+        "list": [
+            " Mısır",
+            " İsrail",
+            " Ürdün"
+        ]
+    },
+    {
+        "query": "Panama'nın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Kolombiya, Kosta Rika'dır",
+        "sub": "Panama",
+        "count": 2,
+        "list": [
+            " Kolombiya",
+            " Kosta Rika"
+        ]
+    },
+    {
+        "query": "Papua Yeni Gine'nin komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Endonezya'dır",
+        "sub": "Papua Yeni Gine",
+        "count": 1,
+        "list": [
+            " Endonezya"
+        ]
+    },
+    {
+        "query": "Paraguay'ın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Arjantin, Bolivya, Brezilya'dır",
+        "sub": "Paraguay",
+        "count": 3,
+        "list": [
+            " Arjantin",
+            " Bolivya",
+            " Brezilya"
+        ]
+    },
+    {
+        "query": "Peru'nun komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Bolivya, Brezilya, Şili, Kolombiya, Ekvador'dur",
+        "sub": "Peru",
+        "count": 5,
+        "list": [
+            " Bolivya",
+            " Brezilya",
+            " Şili",
+            " Kolombiya",
+            " Ekvador"
+        ]
+    },
+    {
+        "query": "Polonya'nın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Belarus, Çekya, Almanya, Litvanya, Rusya, Slovakya, Ukrayna'dır",
+        "sub": "Polonya",
+        "count": 7,
+        "list": [
+            " Belarus",
+            " Çekya",
+            " Almanya",
+            " Litvanya",
+            " Rusya",
+            " Slovakya",
+            " Ukrayna"
+        ]
+    },
+    {
+        "query": "Katar'ın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Suudi Arabistan'dır",
+        "sub": "Katar",
+        "count": 1,
+        "list": [
+            " Suudi Arabistan"
+        ]
+    },
+    {
+        "query": "Ruanda'nın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Burundi, Demokratik Kongo Cumhuriyeti, Tanzanya, Uganda'dır",
+        "sub": "Ruanda",
+        "count": 4,
+        "list": [
+            " Burundi",
+            " Demokratik Kongo Cumhuriyeti",
+            " Tanzanya",
+            " Uganda"
+        ]
+    },
+    {
+        "query": "San Marino'nun komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " İtalya'dır",
+        "sub": "San Marino",
+        "count": 1,
+        "list": [
+            " İtalya"
+        ]
+    },
+    {
+        "query": "Suudi Arabistan'ın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Irak, Ürdün, Kuveyt, Umman, Katar, Birleşik Arap Emirlikleri, Yemen'dir",
+        "sub": "Suudi Arabistan",
+        "count": 7,
+        "list": [
+            " Irak",
+            " Ürdün",
+            " Kuveyt",
+            " Umman",
+            " Katar",
+            " Birleşik Arap Emirlikleri",
+            " Yemen"
+        ]
+    },
+    {
+        "query": "Sierra Leone'nin komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Gine, Liberya'dır",
+        "sub": "Sierra Leone",
+        "count": 2,
+        "list": [
+            " Gine",
+            " Liberya"
+        ]
+    },
+    {
+        "query": "İspanya'nın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Andorra, Fransa, Cebelitarık, Portekiz, Fas'tır",
+        "sub": "İspanya",
+        "count": 5,
+        "list": [
+            " Andorra",
+            " Fransa",
+            " Cebelitarık",
+            " Portekiz",
+            " Fas"
+        ]
+    },
+    {
+        "query": "İsveç'in komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Finlandiya, Norveç'tir",
+        "sub": "İsveç",
+        "count": 2,
+        "list": [
+            " Finlandiya",
+            " Norveç"
+        ]
+    },
+    {
+        "query": "Togo'nun komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Benin, Burkina Faso, Gana'dır",
+        "sub": "Togo",
+        "count": 3,
+        "list": [
+            " Benin",
+            " Burkina Faso",
+            " Gana"
+        ]
+    },
+    {
+        "query": "Tunus'un komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Cezayir, Libya'dır",
+        "sub": "Tunus",
+        "count": 2,
+        "list": [
+            " Cezayir",
+            " Libya"
+        ]
+    },
+    {
+        "query": "Türkiye'nin komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Ermenistan, Azerbaycan, Bulgaristan, Gürcistan, Yunanistan, İran, Irak, Suriye'dir",
+        "sub": "Türkiye",
+        "count": 8,
+        "list": [
+            " Ermenistan",
+            " Azerbaycan",
+            " Bulgaristan",
+            " Gürcistan",
+            " Yunanistan",
+            " İran",
+            " Irak",
+            " Suriye"
+        ]
+    },
+    {
+        "query": "Birleşik Arap Emirlikleri'nin komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Umman, Suudi Arabistan'dır",
+        "sub": "Birleşik Arap Emirlikleri",
+        "count": 2,
+        "list": [
+            " Umman",
+            " Suudi Arabistan"
+        ]
+    },
+    {
+        "query": "Birleşik Krallık'ın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " İrlanda'dır",
+        "sub": "Birleşik Krallık",
+        "count": 1,
+        "list": [
+            " İrlanda"
+        ]
+    },
+    {
+        "query": "Özbekistan'ın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Afganistan, Kazakistan, Kırgızistan, Tacikistan, Türkmenistan'dır",
+        "sub": "Özbekistan",
+        "count": 5,
+        "list": [
+            " Afganistan",
+            " Kazakistan",
+            " Kırgızistan",
+            " Tacikistan",
+            " Türkmenistan"
+        ]
+    },
+    {
+        "query": "Vatikan Şehri'nin komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " İtalya'dır",
+        "sub": "Vatikan Şehri",
+        "count": 1,
+        "list": [
+            " İtalya"
+        ]
+    },
+    {
+        "query": "Yemen'in komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Umman, Suudi Arabistan'dır",
+        "sub": "Yemen",
+        "count": 2,
+        "list": [
+            " Umman",
+            " Suudi Arabistan"
+        ]
+    },
+    {
+        "query": "Zambiya'nın komşu ülkesi/ülkeleri hangisidir/hangileridir?",
+        "answer": " Angola, Botsvana, Demokratik Kongo Cumhuriyeti, Malavi, Mozambik, Namibya, Tanzanya, Zimbabve'dir",
+        "sub": "Zambiya",
+        "count": 8,
+        "list": [
+            " Angola",
+            " Botsvana",
+            " Demokratik Kongo Cumhuriyeti",
+            " Malavi",
+            " Mozambik",
+            " Namibya",
+            " Tanzanya",
+            " Zimbabve"
+        ]
+    }
+]
