@@ -1,6 +1,6 @@
 # FIBER
 
-## Dataset Name
+## Dataset
 **Dataset Name:** `FIBER - Factual Inference Bias Evaluation Resource`
 
 **FIBER** is a high-quality dataset designed to evaluate **language-model factual inference bias** across three languages — **English (en)**, **Italian (it)**, and **Turkish (tr)**.
@@ -155,7 +155,7 @@ The dataset is divided into two major parts:
 │       ├── top_500_universities_tr_1.json
 │       ├── top_500_universities_tr_2.json
 │       └── top_500_universities_tr_3.json
-└── **single_entity** # Queries with a single correct answer.
+└── single_entity # Queries with a single correct answer.
     ├── atomic_numbers
     │   ├── atomic_numbers_en_0.json
     │   ├── atomic_numbers_en_1.json
