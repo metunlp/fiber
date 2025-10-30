@@ -49,7 +49,7 @@ Turkish (`_tr_`) topics include subsets (`_0_0`, `_0_1`) for grammar purposes.
 
 ## Dataset Structure
 
-The dataset is divided into two major parts:
+The file structure, i.e. tree, of the dataset is as follows.
 ```
 .
 ├── multi_entity # Queries with multiple correct answers.
