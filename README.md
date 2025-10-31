@@ -1,11 +1,14 @@
 # FIBER
 
 ## Overview
-**Dataset Name:** `FIBER - Factual Inference Bias Evaluation Resource`
+`FIBER: Factual Inference Bias Evaluation Resource`
 
 **FIBER** is a high-quality dataset designed to evaluate **language-model factual inference bias** across three languages — **English (en)**, **Italian (it)**, and **Turkish (tr)**.
 
 It contains both *single-entity* and *multi-entity* question–answer sets derived from structured world knowledge domains (e.g., capitals, car brands, time zones, official languages).
+
+## Methodology
+For each prompt, all possible candidate answers are divided into a gold set (true answers) and a surface set (all possible answers). For each candidate in the surface set, the model's token-level log probabilities are computed sequentially--the model predicts each token's probability given the previously generated ones, and these probabilities are summed to produce an overall score for that candidate. After scoring all candidates, they are ranked by their total scores, and Average Precision (AP) is calculates based on this ranking. This procedure is repeated for every subject, topic, query type, and query target in the dataset.
 
 ## Instructions on Running Scripts
 
