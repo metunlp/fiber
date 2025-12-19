@@ -1,5 +1,8 @@
 # FIBER
 
+Paper: [FIBER (arXiv:2512.11110)](https://arxiv.org/abs/2512.11110)
+
+
 ## Overview
 `FIBER: Factual Inference Bias Evaluation Resource`
 
