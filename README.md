@@ -234,3 +234,17 @@ The file structure, i.e. tree, of the dataset is as follows.
         ├── product_maker_tr_0_1.json
         └── product_maker_tr_1.json
 ```
+## Citation
+
+If you use **FIBER** in your research, please cite:
+
+```bibtex
+@misc{munis2025fibermultilingualevaluationresource,
+  title        = {FIBER: A Multilingual Evaluation Resource for Factual Inference Bias},
+  author       = {Evren Ayberk Munis and Deniz Yılmaz and Arianna Muti and Çağrı Toraman},
+  year         = {2025},
+  eprint       = {2512.11110},
+  archivePrefix= {arXiv},
+  primaryClass = {cs.CL},
+  url          = {https://arxiv.org/abs/2512.11110},
+}
