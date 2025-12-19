@@ -98,18 +98,18 @@ def test_one_set(data, result_file, folder_name, file_name, main_folder_name, mo
     for i in data:
         start_1 = time.perf_counter()
         if main_folder_name == "single_entity":
-            prec, rec, ap, top_5 = avg_prec_full(i['query'], model, [i['answer']], list(set(all)), tokenizer)
+            prec, rec, ap, sorted_probs = avg_prec_full(i['query'], model, [i['answer']], list(set(all)), tokenizer)
         if main_folder_name == "multi_entity":
             if file_name.endswith(("en_2.json", "en_3.json", "tr_2.json", "tr_3.json", "it_3.json", "it_2.json")):
-                prec, rec, ap, top_5 = avg_prec_full(i['query'], model, [i['answer']], list(set(all)), tokenizer)
+                prec, rec, ap, sorted_probs = avg_prec_full(i['query'], model, [i['answer']], list(set(all)), tokenizer)
             else:
-                prec, rec, ap, top_5 = avg_prec_full(i['query'], model, i['list'], list(set(all)), tokenizer)
+                prec, rec, ap, sorted_probs = avg_prec_full(i['query'], model, i['list'], list(set(all)), tokenizer)
         end_1 = time.perf_counter()
         results["Subject"] = i['sub']
         results["Precision"] = prec
         results["Recall"] = rec
         results["Average precision"] = ap
-        results["Top_5"] = top_5
+        results["Sorted Probs"] = sorted_probs
         append_to_json_file(results, f"{result_file}/{folder_name}/{file_name}_results.json")
         print(f"Subject: {i['sub']}, Precision: {prec}, Recall: {rec}, Average precision: {ap}")
         print(f"{i['sub']} {end_1 - start_1}")
