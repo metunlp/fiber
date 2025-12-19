@@ -1,6 +1,6 @@
 # FIBER
 
-Paper: [FIBER (arXiv:2512.11110)](https://arxiv.org/abs/2512.11110)
+Paper: [FIBER: A Multilingual Evaluation Resource for Factual Inference Bias](https://arxiv.org/abs/2512.11110)
 
 
 ## Overview
